@@ -41,6 +41,10 @@ events.listen('item.registry', function (e) {
     e.create('tungsten_dust')          .displayName('Tungsten Dust')
     e.create('mythril_dust')           .displayName('Mythril Dust')
     e.create('adamantium_dust')        .displayName('Adamantium Dust')
+
+    e.create('chromium_dust')          .displayName('Chromium Dust')
+    e.create('thorium_dust')           .displayName('Thorium Dust')
+    e.create('carbon_dust')            .displayName('Carbon Dust')
     
     // New Plates
     e.create('silver_sheet')             .displayName('Silver Sheet')          

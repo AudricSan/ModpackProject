@@ -384,6 +384,48 @@ events.listen('item.tags', function (e) {
 		e.add('forge:plates/lead'				, 'kubejs:lead_sheet')
 		e.add('forge:plates/craunium'			, 'kubejs:craunium_sheet')
 
+	//sheet
+		e.remove('forge:sheets/titaniumaluminide'	, 'advancedrocketry:sheettitaniumaluminide')
+		e.remove('forge:sheets/titaniumiridium'		, 'advancedrocketry:sheettitaniumiridium')
+		e.remove('forge:sheets/titanium'			, 'libvulpes:sheettitanium')
+
+		e.add('forge:sheet', [
+			'kubejs:silver_sheet',
+			'kubejs:titanium_iridium_sheet',
+			'kubejs:tin_sheet',
+			'kubejs:nickel_sheet',
+			'kubejs:electrum_sheet',
+			'kubejs:uranium_sheet',
+			'kubejs:silicon_sheet',
+			'kubejs:titanium_sheet',
+			'kubejs:iridium_sheet',
+			'kubejs:constantan_sheet',
+			'kubejs:aluminum_sheet',
+			'kubejs:titanium_aluminide_sheet',
+			'kubejs:lead_sheet',
+			'kubejs:craunium_sheet',
+			'kubejs:titanium_aluminide_sheet',
+			'kubejs:titanium_iridium_sheet',
+			'kubejs:titanium_sheet'
+		])
+
+		e.add('forge:sheets/titaniumaluminide'	, 'kubejs:titanium_aluminide_sheet')
+		e.add('forge:sheets/titaniumiridium'	, 'kubejs:titanium_iridium_sheet')
+		e.add('forge:sheets/titanium'			, 'kubejs:titanium_sheet')
+		e.add('forge:sheets/silver'				, 'kubejs:silver_sheet')
+		e.add('forge:sheets/titaniumiridium'	, 'kubejs:titanium_iridium_sheet')
+		e.add('forge:sheets/tin'				, 'kubejs:tin_sheet')
+		e.add('forge:sheets/nickel'				, 'kubejs:nickel_sheet')
+		e.add('forge:sheets/electrum'			, 'kubejs:electrum_sheet')
+		e.add('forge:sheets/uranium'			, 'kubejs:uranium_sheet')
+		e.add('forge:sheets/silicon'			, 'kubejs:silicon_sheet')
+		e.add('forge:sheets/titanium'			, 'kubejs:titanium_sheet')
+		e.add('forge:sheets/iridium'			, 'kubejs:iridium_sheet')
+		e.add('forge:sheets/constantan'			, 'kubejs:constantan_sheet')
+		e.add('forge:sheets/aluminum'			, 'kubejs:aluminum_sheet')
+		e.add('forge:sheets/titaniumaluminide'	, 'kubejs:titanium_aluminide_sheet')
+		e.add('forge:sheets/lead'				, 'kubejs:lead_sheet')
+		e.add('forge:sheets/craunium'			, 'kubejs:craunium_sheet')
 	//Nuggets
 		e.remove('forge:nuggets',[
 			'tconstruct:copper_nugget',
