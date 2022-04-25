@@ -1,0 +1,9 @@
+#556 minecraft:beach
+#008 minecraft:desert
+#19B minecraft:desert_hills
+#4DB byg:oasis
+#4F1 minecraft:ocean
+#7E1 byg:polluted_lake
+#5FF minecraft:river
+#67B minecraft:savanna
+#12E byg:shrublands

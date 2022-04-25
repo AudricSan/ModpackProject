@@ -1,0 +1,13 @@
+#6C5 byg:aspen_forest
+#29C byg:coral_mangroves
+#4F9 minecraft:dark_forest
+#58B byg:flowering_meadow
+#678 byg:fresh_water_lake
+#66B byg:mangrove_marshes
+#5F3 byg:meadow
+#3DC minecraft:plains
+#5FF minecraft:river
+#6BC byg:tropical_rainforest
+#30F byg:tropical_rainforest_hills
+#6FE byg:twilight_valley
+#1D1 byg:twilight_valley_hills

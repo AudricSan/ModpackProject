@@ -1,0 +1,16 @@
+#3AD byg:autumnal_valley
+#507 byg:cherry_blossom_clearing
+#72F byg:cherry_blossom_forest
+#653 byg:cika_mountains
+#4B3 byg:cika_woods
+#4F9 minecraft:dark_forest
+#010 minecraft:forest
+#678 byg:fresh_water_lake
+#5A3 byg:grove
+#379 minecraft:mountains
+#3DC minecraft:plains
+#5FF minecraft:river
+#23E byg:seasonal_forest
+#774 minecraft:sunflower_plains
+#47B byg:the_black_forest
+#452 minecraft:wooded_hills

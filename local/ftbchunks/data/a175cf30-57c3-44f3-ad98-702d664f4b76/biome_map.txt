@@ -1,0 +1,8 @@
+#556 minecraft:beach
+#3D6 minecraft:cold_ocean
+#008 minecraft:desert
+#19B minecraft:desert_hills
+#07C byg:mojave_desert
+#3DC minecraft:plains
+#5FF minecraft:river
+#67B minecraft:savanna

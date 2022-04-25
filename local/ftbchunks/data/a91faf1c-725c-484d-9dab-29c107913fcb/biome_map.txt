@@ -1,0 +1,10 @@
+#34C byg:baobab_savanna
+#008 minecraft:desert
+#19B minecraft:desert_hills
+#010 minecraft:forest
+#3DC minecraft:plains
+#7E1 byg:polluted_lake
+#5FF minecraft:river
+#67B minecraft:savanna
+#706 minecraft:savanna_plateau
+#12E byg:shrublands

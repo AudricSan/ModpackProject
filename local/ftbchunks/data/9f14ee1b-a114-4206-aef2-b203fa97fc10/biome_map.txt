@@ -1,0 +1,16 @@
+#368 byg:allium_fields
+#6C5 byg:aspen_forest
+#556 minecraft:beach
+#3DE minecraft:deep_ocean
+#360 byg:ebony_hills
+#074 byg:ebony_woods
+#678 byg:fresh_water_lake
+#5A3 byg:grove
+#04B byg:guiana_clearing
+#6BF byg:guiana_shield
+#790 byg:guiana_springs
+#379 minecraft:mountains
+#4F1 minecraft:ocean
+#634 byg:prairie
+#5FF minecraft:river
+#4D3 minecraft:swamp

@@ -1,0 +1,14 @@
+#6EA byg:amaranth_fields
+#6F6 minecraft:badlands
+#008 minecraft:desert
+#010 minecraft:forest
+#678 byg:fresh_water_lake
+#73C byg:grassland_plateau
+#09D byg:jacaranda_clearing
+#045 byg:jacaranda_forest
+#379 minecraft:mountains
+#3DC minecraft:plains
+#5FF minecraft:river
+#454 minecraft:wooded_badlands_plateau
+#1C9 byg:wooded_grassland_plateau
+#452 minecraft:wooded_hills

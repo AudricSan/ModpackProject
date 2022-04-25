@@ -1,0 +1,15 @@
+#3AD byg:autumnal_valley
+#127 byg:blue_giant_taiga
+#461 byg:blue_taiga
+#4B0 byg:bluff_peaks
+#2E8 byg:bluff_steeps
+#06B byg:coniferous_forest
+#010 minecraft:forest
+#678 byg:fresh_water_lake
+#5FF minecraft:river
+#755 byg:seasonal_taiga
+#4E8 byg:seasonal_taiga_hills
+#3B2 byg:skyris_highlands
+#1A0 byg:skyris_peaks
+#3F8 byg:skyris_steeps
+#452 minecraft:wooded_hills

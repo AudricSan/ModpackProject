@@ -1,0 +1,145 @@
+---- Minecraft Crash Report ----
+// Surprise! Haha. Well, this is awkward.
+
+Time: 4/20/22 10:32 PM
+Description: mouseClicked event handler
+
+java.lang.IllegalArgumentException: URI is not absolute
+	at java.net.URI.toURL(URI.java:1088) ~[?:1.8.0_51] {}
+	at net.minecraft.util.Util$OS.func_195642_a(Util.java:587) ~[?:?] {re:classloading}
+	at shadows.menu.buttons.ButtonAction.lambda$static$10(ButtonAction.java:42) ~[?:2.5.0] {re:classloading}
+	at shadows.menu.buttons.ButtonAction$$Lambda$3961/535361000.accept(Unknown Source) ~[?:?] {}
+	at shadows.menu.buttons.ButtonAction.onPress(ButtonAction.java:70) ~[?:2.5.0] {re:classloading}
+	at shadows.menu.buttons.ActionInstance.onPress(ActionInstance.java:21) ~[?:2.5.0] {re:classloading}
+	at net.minecraft.client.gui.widget.button.Button.func_230930_b_(SourceFile:33) ~[?:?] {re:classloading}
+	at net.minecraft.client.gui.widget.button.AbstractButton.func_230982_a_(SourceFile:16) ~[?:?] {re:classloading}
+	at net.minecraft.client.gui.widget.Widget.func_231044_a_(Widget.java:136) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.INestedGuiEventHandler.func_231044_a_(SourceFile:27) ~[?:?] {re:classloading}
+	at net.minecraft.client.gui.screen.MainMenuScreen.func_231044_a_(MainMenuScreen.java:288) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper.func_198033_b(MouseHelper.java:87) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper$$Lambda$4105/246383655.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.client.gui.screen.Screen.func_231153_a_(Screen.java:427) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper.func_198023_a(MouseHelper.java:85) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper.func_228030_c_(MouseHelper.java:181) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper$$Lambda$4104/1662140450.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.execute(SourceFile:94) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.client.MouseHelper.func_228028_b_(MouseHelper.java:180) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper$$Lambda$3648/686721068.invoke(Unknown Source) ~[?:?] {}
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36) ~[lwjgl-glfw-3.2.2.jar:build 10] {}
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.2.2.jar:build 10] {}
+	at org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3101) ~[lwjgl-glfw-3.2.2.jar:build 10] {}
+	at com.mojang.blaze3d.systems.RenderSystem.flipFrame(SourceFile:109) ~[?:?] {re:classloading}
+	at net.minecraft.client.MainWindow.func_227802_e_(MainWindow.java:306) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.func_195542_b(Minecraft.java:997) [?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:607) [?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:184) [?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51] {}
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51] {}
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51] {}
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51] {}
+	at net.minecraftforge.fml.loading.FMLClientLaunchProvider.lambda$launchService$0(FMLClientLaunchProvider.java:51) [forge-1.16.5-36.2.34.jar:36.2] {}
+	at net.minecraftforge.fml.loading.FMLClientLaunchProvider$$Lambda$467/2075899560.call(Unknown Source) [forge-1.16.5-36.2.34.jar:36.2] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at java.net.URI.toURL(URI.java:1088) ~[?:1.8.0_51] {}
+	at net.minecraft.util.Util$OS.func_195642_a(Util.java:587) ~[?:?] {re:classloading}
+	at shadows.menu.buttons.ButtonAction.lambda$static$10(ButtonAction.java:42) ~[?:2.5.0] {re:classloading}
+	at shadows.menu.buttons.ButtonAction$$Lambda$3961/535361000.accept(Unknown Source) ~[?:?] {}
+	at shadows.menu.buttons.ButtonAction.onPress(ButtonAction.java:70) ~[?:2.5.0] {re:classloading}
+	at shadows.menu.buttons.ActionInstance.onPress(ActionInstance.java:21) ~[?:2.5.0] {re:classloading}
+	at net.minecraft.client.gui.widget.button.Button.func_230930_b_(SourceFile:33) ~[?:?] {re:classloading}
+	at net.minecraft.client.gui.widget.button.AbstractButton.func_230982_a_(SourceFile:16) ~[?:?] {re:classloading}
+	at net.minecraft.client.gui.widget.Widget.func_231044_a_(Widget.java:136) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.gui.INestedGuiEventHandler.func_231044_a_(SourceFile:27) ~[?:?] {re:classloading}
+	at net.minecraft.client.gui.screen.MainMenuScreen.func_231044_a_(MainMenuScreen.java:288) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper.func_198033_b(MouseHelper.java:87) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper$$Lambda$4105/246383655.run(Unknown Source) ~[?:?] {}
+-- Affected screen --
+Details:
+	Screen name: shadows.menu.ExtendedMenuScreen
+Stacktrace:
+	at net.minecraft.client.gui.screen.Screen.func_231153_a_(Screen.java:427) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper.func_198023_a(MouseHelper.java:85) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper.func_228030_c_(MouseHelper.java:181) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper$$Lambda$4104/1662140450.run(Unknown Source) ~[?:?] {}
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.execute(SourceFile:94) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.client.MouseHelper.func_228028_b_(MouseHelper.java:180) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.MouseHelper$$Lambda$3648/686721068.invoke(Unknown Source) ~[?:?] {}
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36) ~[lwjgl-glfw-3.2.2.jar:build 10] {}
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.2.2.jar:build 10] {}
+	at org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3101) ~[lwjgl-glfw-3.2.2.jar:build 10] {}
+	at com.mojang.blaze3d.systems.RenderSystem.flipFrame(SourceFile:109) ~[?:?] {re:classloading}
+	at net.minecraft.client.MainWindow.func_227802_e_(MainWindow.java:306) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.func_195542_b(Minecraft.java:997) [?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:607) [?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(Main.java:184) [?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51] {}
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51] {}
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51] {}
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51] {}
+	at net.minecraftforge.fml.loading.FMLClientLaunchProvider.lambda$launchService$0(FMLClientLaunchProvider.java:51) [forge-1.16.5-36.2.34.jar:36.2] {}
+	at net.minecraftforge.fml.loading.FMLClientLaunchProvider$$Lambda$467/2075899560.call(Unknown Source) [forge-1.16.5-36.2.34.jar:36.2] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 3310989384 bytes (3157 MB) / 3699376128 bytes (3528 MB) up to 9514778624 bytes (9074 MB)
+	CPUs: 16
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Xmx10208m -Xms256m
+	ModLauncher: 8.1.3+8.1.3+main-8.1.x.c94d18ec
+	ModLauncher launch target: fmlclient
+	ModLauncher naming: srg
+	ModLauncher services: 
+		/mixin-0.8.4.jar mixin PLUGINSERVICE 
+		/eventbus-4.0.0.jar eventbus PLUGINSERVICE 
+		/forge-1.16.5-36.2.34.jar object_holder_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.2.34.jar runtime_enum_extender PLUGINSERVICE 
+		/accesstransformers-3.0.1.jar accesstransformer PLUGINSERVICE 
+		/forge-1.16.5-36.2.34.jar capability_inject_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.2.34.jar runtimedistcleaner PLUGINSERVICE 
+		/mixin-0.8.4.jar mixin TRANSFORMATIONSERVICE 
+		/forge-1.16.5-36.2.34.jar fml TRANSFORMATIONSERVICE 
+	FML: 36.2
+	Forge: net.minecraftforge:36.2.34
+	FML Language Providers: 
+		javafml@36.2
+		minecraft@1
+	Mod List: 
+		forge-1.16.5-36.2.34-client.jar                   |Minecraft                     |minecraft                     |1.16.5              |DONE      |Manifest: NOSIGNATURE
+		panorama-1.2.0.jar                                |Panorama                      |panorama                      |1.2.0               |DONE      |Manifest: NOSIGNATURE
+		forge-1.16.5-36.2.34-universal.jar                |Forge                         |forge                         |36.2.34             |DONE      |Manifest: 22:af:21:d8:19:82:7f:93:94:fe:2b:ac:b7:e4:41:57:68:39:87:b1:a7:5c:c6:44:f9:25:74:21:14:f5:0d:90
+		Placebo-1.16.5-4.7.0.jar                          |Placebo                       |placebo                       |4.7.0               |DONE      |Manifest: NOSIGNATURE
+		PackMenu-1.16.5-2.5.0.jar                         |PackMenu                      |packmenu                      |2.5.0               |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: f743d3f1-6868-4a9a-a7aa-f52c08b7d62e
+	Launched Version: forge-36.2.34
+	Backend library: LWJGL version 3.2.2 build 10
+	Backend API: NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2 GL version 4.6.0 NVIDIA 512.15, NVIDIA Corporation
+	GL Caps: Using framebuffer using OpenGL 3.0
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'forge'
+	Type: Client (map_client.txt)
+	Graphics mode: fancy
+	Resource Packs: 
+	Current Language: English (US)
+	CPU: 16x Intel(R) Core(TM) i7-10870H CPU @ 2.20GHz

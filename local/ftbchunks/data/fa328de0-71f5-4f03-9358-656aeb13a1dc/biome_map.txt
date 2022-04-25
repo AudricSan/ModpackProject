@@ -1,0 +1,15 @@
+#6C5 byg:aspen_forest
+#58B byg:flowering_meadow
+#010 minecraft:forest
+#678 byg:fresh_water_lake
+#5A3 byg:grove
+#045 byg:jacaranda_forest
+#66B byg:mangrove_marshes
+#5F3 byg:meadow
+#6DB byg:orchard
+#3DC minecraft:plains
+#5FF minecraft:river
+#71E byg:tropical_fungal_forest
+#705 byg:tropical_fungal_rainforest_hills
+#6BC byg:tropical_rainforest
+#30F byg:tropical_rainforest_hills
