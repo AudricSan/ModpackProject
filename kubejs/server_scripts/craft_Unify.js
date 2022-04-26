@@ -2,8 +2,8 @@ onEvent('recipes', e => {
 	// REMOVER //
 	e.remove({ mod: 'advancedrocketry' })
 
-	e.remove({ id: 'immersiveengineering:crafting/stick_steel'})
-	e.remove({ id: 'immersiveengineering:crafting/stick_aluminum'})
+	e.remove({ id: 'immersiveengineering:crafting/stick_steel' })
+	e.remove({ id: 'immersiveengineering:crafting/stick_aluminum' })
 
 	//Hamme Crushing
 	e.remove({ id: 'immersiveengineering:crafting/hammercrushing_gold' })
@@ -44,6 +44,7 @@ onEvent('recipes', e => {
 	e.remove({ id: 'immersiveengineering:arcfurnace/alloy_manyullyn' })
 	e.remove({ id: 'immersiveengineering:arcfurnace/alloy_brass' })
 	e.remove({ id: 'immersivepetroleum:arcfurnace/steel' })
+	e.remove({ id: 'immersivepetroleum:arcfurnace/dust_steel' })
 
 	//Engineers Hammer
 	e.remove({ id: 'immersiveengineering:crafting/plate_uranium_hammering' })
@@ -76,51 +77,51 @@ onEvent('recipes', e => {
 	e.remove({ id: 'immersiveengineering:blastfurnace/steel' })
 
 	//Metal press
-	e.remove({ id: 'immersiveengineering:metalpress/rod_steel'})
-	e.remove({ id: 'immersiveengineering:metalpress/wire_steel'})
-	e.remove({ id: 'immersiveengineering:metalpress/gear_steel'})
-	e.remove({ id: 'immersiveengineering:metalpress/wire_electrum'})
-	e.remove({ id: 'immersiveengineering:metalpress/wire_gold'})
-	e.remove({ id: 'immersiveengineering:metalpress/rod_gold'})
-	e.remove({ id: 'immersiveengineering:metalpress/plate_tin'})
-	e.remove({ id: 'immersiveengineering:metalpress/rod_copper'})
-	e.remove({ id: 'immersiveengineering:metalpress/wire_copper'})
-	e.remove({ id: 'immersiveengineering:metalpress/bullet_casing'})
-	e.remove({ id: 'immersiveengineering:metalpress/plate_contantan'})
-	e.remove({ id: 'immersiveengineering:metalpress/rod_brass'})
-	e.remove({ id: 'immersiveengineering:metalpress/electrode'})
-	e.remove({ id: 'immersiveengineering:metalpress/wire_aluminum'})
-	e.remove({ id: 'immersiveengineering:metalpress/rod_aluminum'})
-	e.remove({ id: 'immersiveengineering:metalpress/plate_iron'})
-	e.remove({ id: 'immersiveengineering:metalpress/rod_iron'})
-	e.remove({ id: 'immersiveengineering:metalpress/wire_iron'})
-	e.remove({ id: 'immersiveengineering:metalpress/wire_lead'})
-	
+	e.remove({ id: 'immersiveengineering:metalpress/rod_steel' })
+	e.remove({ id: 'immersiveengineering:metalpress/wire_steel' })
+	e.remove({ id: 'immersiveengineering:metalpress/gear_steel' })
+	e.remove({ id: 'immersiveengineering:metalpress/wire_electrum' })
+	e.remove({ id: 'immersiveengineering:metalpress/wire_gold' })
+	e.remove({ id: 'immersiveengineering:metalpress/rod_gold' })
+	e.remove({ id: 'immersiveengineering:metalpress/plate_tin' })
+	e.remove({ id: 'immersiveengineering:metalpress/rod_copper' })
+	e.remove({ id: 'immersiveengineering:metalpress/wire_copper' })
+	e.remove({ id: 'immersiveengineering:metalpress/bullet_casing' })
+	e.remove({ id: 'immersiveengineering:metalpress/plate_contantan' })
+	e.remove({ id: 'immersiveengineering:metalpress/rod_brass' })
+	e.remove({ id: 'immersiveengineering:metalpress/electrode' })
+	e.remove({ id: 'immersiveengineering:metalpress/wire_aluminum' })
+	e.remove({ id: 'immersiveengineering:metalpress/rod_aluminum' })
+	e.remove({ id: 'immersiveengineering:metalpress/plate_iron' })
+	e.remove({ id: 'immersiveengineering:metalpress/rod_iron' })
+	e.remove({ id: 'immersiveengineering:metalpress/wire_iron' })
+	e.remove({ id: 'immersiveengineering:metalpress/wire_lead' })
+
 
 	//engineer workbench
-	e.remove({ id: 'immersiveengineering:blueprint/electrode'})
+	e.remove({ id: 'immersiveengineering:blueprint/electrode' })
 
 	//create press
-	e.remove({ id: 'minecraft:pressing/zinc_sheet'})
+	e.remove({ id: 'minecraft:pressing/zinc_sheet' })
 
 	//Crusher
-	e.remove({ id: 'immersiveengineering:crusher/ingot_gold'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_silver'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_iron'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_cobalt'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_nickel'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_osmium'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_uranium'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_tungsten'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_aluminum'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_copper'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_zinc'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_lead'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_tin'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_platinum'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_steel'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_eletrum'})
-	e.remove({ id: 'immersiveengineering:crusher/ingot_constantan'})
+	e.remove({ id: 'immersiveengineering:crusher/ingot_gold' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_silver' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_iron' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_cobalt' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_nickel' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_osmium' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_uranium' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_tungsten' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_aluminum' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_copper' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_zinc' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_lead' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_tin' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_platinum' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_steel' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_eletrum' })
+	e.remove({ id: 'immersiveengineering:crusher/ingot_constantan' })
 
 
 	//Smelting and Blasting
@@ -150,7 +151,7 @@ onEvent('recipes', e => {
 
 	e.remove({ id: 'create:smelting/iron_ingot_from_crushed' })
 	e.remove({ id: 'create:blasting/iron_ingot_from_crushed' })
-	
+
 	e.remove({ id: 'biggerreactor:smelting/graphite_dust' })
 
 	e.remove({ id: 'immersiveengineering:sqeezer/graphite_dust' })
@@ -173,36 +174,38 @@ onEvent('recipes', e => {
 	e.remove({ id: 'immersiveengineering:metalpress/plate_copper' })
 
 	// Remove cutting wire
-	e.remove({ id: 'immersiveengineering:crafting/wire_aluminum'})
-	e.remove({ id: 'immersiveengineering:crafting/wire_copper'})
-	e.remove({ id: 'immersiveengineering:crafting/wire_steel'})
-	e.remove({ id: 'immersiveengineering:crafting/wire_electrum'})
-	e.remove({ id: 'immersiveengineering:crafting/wire_lead'})
+	e.remove({ id: 'immersiveengineering:crafting/wire_aluminum' })
+	e.remove({ id: 'immersiveengineering:crafting/wire_copper' })
+	e.remove({ id: 'immersiveengineering:crafting/wire_steel' })
+	e.remove({ id: 'immersiveengineering:crafting/wire_electrum' })
+	e.remove({ id: 'immersiveengineering:crafting/wire_lead' })
 
 	//Remove Smeltery
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/copper/wire_gold_cast'})
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/copper/wire_sand_cast'})
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/copper/wire_gold_cast' })
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/copper/wire_sand_cast' })
 
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/eletrum/wire_sand_cast'})
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/iron/wire_sand_cast'})
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/aluminum/wire_sand_cast'})
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/steel/wire_sand_cast'})
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/gold/wire_sand_cast'})
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/lead/wire_sand_cast'})
-	
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/eletrum/rod_sand_cast'})
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/iron/rod_sand_cast'})
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/aluminum/rod_sand_cast'})
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/steel/rod_sand_cast'})
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/gold/rod_sand_cast'})
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/lead/rod_sand_cast'})
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/copper/rod_sand_cast'})
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/brass/rod_sand_cast'})
-	e.remove({ id: 'tconstruct:smeltery/casting/metal/blaze/rod_sand_cast'})
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/eletrum/wire_sand_cast' })
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/iron/wire_sand_cast' })
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/aluminum/wire_sand_cast' })
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/steel/wire_sand_cast' })
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/gold/wire_sand_cast' })
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/lead/wire_sand_cast' })
 
-	e.remove({ id: 'createaddition:compat/tconstruct/tinkers_bronze'})
-	e.remove({ id: 'alloyed:mixing/bronze_ingot'})
-	e.remove({ id: 'alloyed:mixing/bronze_ingot_x3'})
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/eletrum/rod_sand_cast' })
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/iron/rod_sand_cast' })
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/aluminum/rod_sand_cast' })
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/steel/rod_sand_cast' })
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/gold/rod_sand_cast' })
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/lead/rod_sand_cast' })
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/copper/rod_sand_cast' })
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/brass/rod_sand_cast' })
+	e.remove({ id: 'tconstruct:smeltery/casting/metal/blaze/rod_sand_cast' })
+
+	e.remove({ id: 'createaddition:compat/tconstruct/tinkers_bronze' })
+	e.remove({ id: 'alloyed:mixing/bronze_ingot' })
+	e.remove({ id: 'alloyed:mixing/bronze_ingot_x3' })
+
+	e.remove({ id: 'create:crushing/obsidian' })
 
 	//Create missing Crushing for crushed
 	createCrushing('kubejs:craunium_raw', 'kubejs:craunium_crushed', 1, 2, 'minecraft:cobblestone')
@@ -254,9 +257,9 @@ onEvent('recipes', e => {
 	createCrushing('libvulpes:ingotsilicon', 'kubejs:silicon_dust', 1, 2, 'kubejs:iron_dust')
 	createCrushing('alloyed:steel_ingot', 'kubejs:steel_dust', 1, 2, 'kubejs:iron_dust')
 
-	createCrushing('oreclumps:thorium_ingot', 		'kubejs:thorium_dust',  1, 2, 'kubejs:iron_dust')
-	createCrushing('oreclumps:chromium_ingot', 		'kubejs:chromium_dust', 1, 2, 'kubejs:iron_dust')
-	createCrushing('advancedrocketry:carbon_brick', 'kubejs:carbon_dust',   1, 2, 'kubejs:iron_dust')
+	createCrushing('oreclumps:thorium_ingot', 'kubejs:thorium_dust', 1, 2, 'kubejs:iron_dust')
+	createCrushing('oreclumps:chromium_ingot', 'kubejs:chromium_dust', 1, 2, 'kubejs:iron_dust')
+	createCrushing('advancedrocketry:carbon_brick', 'kubejs:carbon_dust', 1, 2, 'kubejs:iron_dust')
 
 	// 'kubejs:dilithium_dust'
 	// 'kubejs:sulfur_dust'
@@ -298,7 +301,7 @@ onEvent('recipes', e => {
 	createMilling('libvulpes:ingotiridium', 'kubejs:iridium_dust', 1, 2, false)
 	createMilling('libvulpes:ingotsilicon', 'kubejs:silicon_dust', 1, 2, false)
 	createMilling('alloyed:steel_ingot', 'kubejs:steel_dust', 1, 2, false)
-	
+
 	//Create missing Milling Ingots for dust
 	createMilling('kubejs:craunium_ingot', 'kubejs:craunium_dust', 1, 0, false)
 	createMilling('create:zinc_ingot', 'kubejs:zinc_dust', 1, 1, false)
@@ -337,9 +340,9 @@ onEvent('recipes', e => {
 	createMilling('libvulpes:ingotsilicon', 'kubejs:silicon_dust', 1, 1, false)
 	createMilling('alloyed:steel_ingot', 'kubejs:steel_dust', 1, 1, false)
 
-	createMilling('oreclumps:thorium_ingot', 	   'kubejs:thorium_dust',  1, 2, false)
-	createMilling('oreclumps:chromium_ingot', 	   'kubejs:chromium_dust', 1, 2, false)
-	createMilling('advancedrocketry:carbon_brick', 'kubejs:carbon_dust',   1, 2, false)
+	createMilling('oreclumps:thorium_ingot', 'kubejs:thorium_dust', 1, 2, false)
+	createMilling('oreclumps:chromium_ingot', 'kubejs:chromium_dust', 1, 2, false)
+	createMilling('advancedrocketry:carbon_brick', 'kubejs:carbon_dust', 1, 2, false)
 
 	//Create missing BulkWashing
 	// createBulkWashingCrushed('create:crushed_platinum_ore',				'NO NUGGETS', 10, 5)
@@ -373,6 +376,8 @@ onEvent('recipes', e => {
 	createPress('advancedrocketry:ingottitaniumiridium', 'kubejs:titanium_iridium_sheet')
 	createPress('oreclumps:tin_ingot', 'kubejs:tin_sheet')
 	createPress('oreclumps:nickel_ingot', 'kubejs:nickel_sheet')
+	createPress('immersiveengineering:ingot_hop_graphite', 'kubejs:hop_graphite_sheet')
+	createPress('9x biggerreactors:graphite_ingot', 'kubejs:graphite_sheet')
 
 	//OreChunk => Ore Raw
 	replaceIO('exnihilosequentia:chunk_nickel', 'oreclumps:raw_nickel')
@@ -386,36 +391,36 @@ onEvent('recipes', e => {
 	replaceIO('exnihilosequentia:chunk_aluminum', 'oreclumps:raw_aluminum')
 	replaceIO('exnihilosequentia:chunk_cobalt', 'oreclumps:raw_cobalt')
 
-	replaceIO('immersiveengineering:ingot_lead','oreclumps:lead_ingot')
-	replaceIO('exnihilosequentia:ingot_lead','oreclumps:lead_ingot')
+	replaceIO('immersiveengineering:ingot_lead', 'oreclumps:lead_ingot')
+	replaceIO('exnihilosequentia:ingot_lead', 'oreclumps:lead_ingot')
 
-	replaceIO('immersiveengineering:ingot_aluminum','oreclumps:aluminum_ingot')
-	replaceIO('exnihilosequentia:ingot_aluminum','oreclumps:aluminum_ingot')
-	replaceIO('libvulpes:ingotaluminum','oreclumps:aluminum_ingot')
+	replaceIO('immersiveengineering:ingot_aluminum', 'oreclumps:aluminum_ingot')
+	replaceIO('exnihilosequentia:ingot_aluminum', 'oreclumps:aluminum_ingot')
+	replaceIO('libvulpes:ingotaluminum', 'oreclumps:aluminum_ingot')
 
-	replaceIO('libvulpes:ingottitanium','oreclumps:titanium_ingot')
+	replaceIO('libvulpes:ingottitanium', 'oreclumps:titanium_ingot')
 
-	replaceIO('libvulpes:ingotsteel','alloyed:steel_ingot')
-	replaceIO('immersiveengineering:ingot_steel','alloyed:steel_ingot')
+	replaceIO('libvulpes:ingotsteel', 'alloyed:steel_ingot')
+	replaceIO('immersiveengineering:ingot_steel', 'alloyed:steel_ingot')
 
-	replaceIO('tconstruct:copper_ingot','create:copper_ingot')
-	replaceIO('libvulpes:ingotcopper','create:copper_ingot')
-	replaceIO('oreclumps:copper_ingot','create:copper_ingot')
-	replaceIO('immersiveengineering:ingot_copper','create:copper_ingot')
-	replaceIO('exnihilosequentia:ingot_copper','create:copper_ingot')
+	replaceIO('tconstruct:copper_ingot', 'create:copper_ingot')
+	replaceIO('libvulpes:ingotcopper', 'create:copper_ingot')
+	replaceIO('oreclumps:copper_ingot', 'create:copper_ingot')
+	replaceIO('immersiveengineering:ingot_copper', 'create:copper_ingot')
+	replaceIO('exnihilosequentia:ingot_copper', 'create:copper_ingot')
 
-	replaceIO('tconstruct:cobalt_ingot','oreclumps:cobalt_ingot')
+	replaceIO('tconstruct:cobalt_ingot', 'oreclumps:cobalt_ingot')
 
-	replaceIO('oreclumps:uranium_ingot','biggerreactors:yellorium_ingot')
-	replaceIO('immersiveengineering:ingot_uranium','biggerreactors:yellorium_ingot')
-	replaceIO('exnihilosequentia:ingot_uranium','biggerreactors:yellorium_ingot')
+	replaceIO('oreclumps:uranium_ingot', 'biggerreactors:yellorium_ingot')
+	replaceIO('immersiveengineering:ingot_uranium', 'biggerreactors:yellorium_ingot')
+	replaceIO('exnihilosequentia:ingot_uranium', 'biggerreactors:yellorium_ingot')
 
-	replaceIO('oreclumps:zinc_ingot','create:zinc_ingot')
-	replaceIO('exnihilosequentia:ingot_zinc','create:zinc_ingot')
+	replaceIO('oreclumps:zinc_ingot', 'create:zinc_ingot')
+	replaceIO('exnihilosequentia:ingot_zinc', 'create:zinc_ingot')
 
 	replaceIO('tconstruct:tinkers_bronze_ingot', 'alloyed:bronze_ingot')
 
-	replaceIO('libvulpes:ingottin','oreclumps:tin_ingot')
+	replaceIO('libvulpes:ingottin', 'oreclumps:tin_ingot')
 
 	replaceIO('exnihilosequentia:ingot_nickel', 'oreclumps:nickel_ingot')
 	replaceIO('immersiveengineering:ingot_nickel', 'oreclumps:nickel_ingot')
@@ -425,10 +430,17 @@ onEvent('recipes', e => {
 
 	replaceIO('immersiveengineering:dust_hop_graphite', 'kubejs:hop_graphite_dust')
 
-	replaceIO('advancedrocketry:sheettitaniumaluminide'	, 'kubejs:titanium_aluminide_sheet')
-	replaceIO('advancedrocketry:sheettitaniumiridium'	, 'kubejs:titanium_iridium_sheet')
-	replaceIO('libvulpes:sheettitanium'					, 'kubejs:titanium_sheet')
+	replaceIO('advancedrocketry:sheettitaniumaluminide', 'kubejs:titanium_aluminide_sheet')
+	replaceIO('advancedrocketry:sheettitaniumiridium', 'kubejs:titanium_iridium_sheet')
+	replaceIO('libvulpes:sheettitanium', 'kubejs:titanium_sheet')
 
+	replaceIO('create:powdered_obsidian', 'kubejs:obsidian_dust')
+
+	replaceIO('libvulpes:sheetiron'			,'create:iron_sheet')
+	replaceIO('libvulpes:sheetcopper'		,'create:copper_sheet')
+	replaceIO('libvulpes:sheetsteel'		,'alloyed:steel_sheet')
+	replaceIO('libvulpes:sheettitanium'		,'kubejs:titanium_sheet')
+	replaceIO('libvulpes:sheetaluminum'		,'kubejs:aluminum_sheet')
 
 	//Create Wire and Rod Cutting Sheet
 	createCutting('kubejs:craunium_ingot', 'kubejs:craunium_crystal', 5, 5, 'kubejs:silver_dust')
@@ -443,17 +455,19 @@ onEvent('recipes', e => {
 
 	createCutting('create:iron_sheet', 'createaddition:iron_rod', 4, 2, 'createaddition:iron_wire')
 	createCutting('createaddition:iron_rod', 'createaddition:iron_wire', 4, 0, false)
-	
+
 	createCutting('create:copper_sheet', 'createaddition:copper_rod', 4, 2, 'createaddition:copper_wire')
 	createCutting('createaddition:copper_rod', 'createaddition:copper_wire', 4, 0, false)
-	
+
 	createCutting('create:golden_sheet', 'createaddition:gold_rod', 4, 2, 'createaddition:gold_wire')
 	createCutting('createaddition:gold_rod', 'createaddition:gold_wire', 4, 0, false)
-	
+
 	createCutting('kubejs:lead_sheet', 'immersiveengineering:wire_lead', 4, 0, false)
-	
+
 	createCutting('kubejs:electrum_sheet', 'immersiveengineering:wire_electrum', 4, 0, false)
-	
+
+	createCutting('kubejs:graphite_sheet', 'immersiveengineering:graphite_electrode', 4, 2, 'kubejs:hop_graphite_dust')
+
 	// Create missing Smeltery Casting
 	tinkerCasting('tconstruct:molten_copper', 8, 'createaddition:copper_wire', 'tconstruct:casts/multi_use/wire', false, 25)
 
@@ -474,17 +488,17 @@ onEvent('recipes', e => {
 
 	tinkerCasting('tconstruct:molten_copper', 8, 'createaddition:copper_wire', 'tconstruct:casts/multi_use/wire', false, 25)
 
-	createMixingItem('biggerreactors:graphite_ingot',  ['createaddition:copper_wire', 'create:powdered_obsidian'], [10, 50, 1], false)
+	createMixingItem('biggerreactors:graphite_ingot', ['createaddition:copper_wire', 'create:powdered_obsidian'], [10, 50, 1], false)
 
-	createMixingFluid('kubejs:blazin_lava',  ['tconstruct:blazing_blood', 'minecraft:lava'], [1000, 1000, 500], false)
-	createMixingFluid('kubejs:blazin_lava',  ['tconstruct:blazing_blood', 'minecraft:lava'], [1200, 1200, 800], 'heated')
-	createMixingFluid('kubejs:blazin_lava',  ['tconstruct:blazing_blood', 'minecraft:lava'], [500, 500, 1000], 	'superheated')
+	createMixingFluid('kubejs:blazin_lava', ['tconstruct:blazing_blood', 'minecraft:lava'], [1000, 1000, 500], false)
+	createMixingFluid('kubejs:blazin_lava', ['tconstruct:blazing_blood', 'minecraft:lava'], [1200, 1200, 800], 'heated')
+	createMixingFluid('kubejs:blazin_lava', ['tconstruct:blazing_blood', 'minecraft:lava'], [500, 500, 1000], 'superheated')
 
-	createMixingItem('alloyed:bronze_ingot',  ['create:copper_ingot', 'create:zinc_nugget'], [1, 3, 1], 'heated')
+	createMixingItem('alloyed:bronze_ingot', ['create:copper_ingot', 'create:zinc_nugget'], [1, 3, 1], 'heated')
 
-	createMixingItem('advancedrocketry:ingottitaniumaluminide',  ['oreclumps:titanium_ingot', 'oreclumps:aluminum_ingot'], [1, 3, 1], 'superheated')
-	createMixingItem('advancedrocketry:ingottitaniumiridium', 	 ['oreclumps:titanium_ingot', 'libvulpes:ingotiridium'],   [1, 3, 1], 'superheated')
-	
+	createMixingItem('advancedrocketry:ingottitaniumaluminide', ['oreclumps:titanium_ingot', 'oreclumps:aluminum_ingot'], [1, 3, 1], 'superheated')
+	createMixingItem('advancedrocketry:ingottitaniumiridium', ['oreclumps:titanium_ingot', 'libvulpes:ingotiridium'], [1, 3, 1], 'superheated')
+
 	// SMELTERY INGOTS
 	// tinkerCasting('kubejs:molten_cyanite'	, 144, 'biggerreactors:cyanite_ingot', 				'tconstruct:cast/multi_use/ingot', false, 100)
 	// tinkerCasting('kubejs:molten_blutonium'	, 144, 'biggerreactors:blutonium_ingot', 			'tconstruct:cast/multi_use/ingot', false, 100)
@@ -514,6 +528,16 @@ onEvent('recipes', e => {
 	// tinkerCasting('kubejs:molten_titanium'	, 1296, 'oreclumps:titanium_block', 				194)
 	// tinkerCasting('kubejs:molten_graphite'	, 1296, 'biggerreactors:graphite_block', 			194)
 	// tinkerCasting('kubejs:molten_iridium'	, 1296, 'libvulpes:blockiridium', 					194)
+
+
+	e.recipes.createDeploying('advancedrocketry:geartitaniumaluminide', ['kubejs:titanium_aluminide_sheet', 'creategears:gear'])
+	e.recipes.createDeploying('advancedrocketry:geartitaniumiridium', 	['kubejs:titanium_iridium_sheet', 'creategears:gear'])
+	e.recipes.createDeploying('libvulpes:geartitanium', 				['kubejs:titanium_sheet', 'creategears:gear'])
+	e.recipes.createDeploying('libvulpes:gearsteel', 					['alloyed:steel_sheet', 'creategears:gear'])
+
+	createMixingItem('alloyed:steel_ingot', ['minecraft:iron_ingot', 'immersivepetroleum:petcoke'], 	[5, 5, 2], 	'heated')
+	createMixingItem('alloyed:steel_ingot', ['minecraft:iron_ingot', 'immersiveengineering:coal_coke'], [10, 5, 8], 'heated')
+	createMixingItem('alloyed:steel_ingot', ['minecraft:iron_ingot', 'biggerreactors:graphite_dust'], 	[15, 5, 20],'heated')
 
 	// FUNCTION //
 	function replaceIO(input, output) {
@@ -600,36 +624,36 @@ onEvent('recipes', e => {
 		})
 	}
 
-	function createCutting(input, output, qte, qte2, secoutput){
-			if (secoutput === false) {
-				e.custom({
-					"type": "create:cutting",
-	
-					"ingredients": [
-						{ "item": input }],
-	
-					"results": [
-						{ "item": output, "count": qte }],
-	
-					"processingTime": 300,
-				})
-	
-			} else {
-	
-				e.custom({
-					"type": "create:cutting",
-	
-					"ingredients": [
-						{ "item": input }],
-	
-					"results": [
-						{ "item": output, "count": qte },
-						{ "item": secoutput, "count": qte2, "chance": 0.125 }
-					],
-	
-					"processingTime": 600,
-				})
-			}
+	function createCutting(input, output, qte, qte2, secoutput) {
+		if (secoutput === false) {
+			e.custom({
+				"type": "create:cutting",
+
+				"ingredients": [
+					{ "item": input }],
+
+				"results": [
+					{ "item": output, "count": qte }],
+
+				"processingTime": 300,
+			})
+
+		} else {
+
+			e.custom({
+				"type": "create:cutting",
+
+				"ingredients": [
+					{ "item": input }],
+
+				"results": [
+					{ "item": output, "count": qte },
+					{ "item": secoutput, "count": qte2, "chance": 0.125 }
+				],
+
+				"processingTime": 600,
+			})
+		}
 	}
 
 	//Create Mixing
@@ -643,14 +667,14 @@ onEvent('recipes', e => {
 			],
 
 			"results": [
-				{ "item": output, 'count': qte[2]}
+				{ "item": output, 'count': qte[2] }
 			],
 
 			"processingTime": 400,
 			"heatRequirement": heated
 		})
 	}
-	
+
 	function createMixingItem3(output, input, qte, heated) {
 		e.custom({
 			"type": "create:mixing",
@@ -662,14 +686,14 @@ onEvent('recipes', e => {
 			],
 
 			"results": [
-				{ "item": output, 'count': qte[3]}
+				{ "item": output, 'count': qte[3] }
 			],
 
 			"processingTime": 400,
 			"heatRequirement": heated
 		})
 	}
-	
+
 	function createMixingItem4(output, input, qte, heated) {
 		e.custom({
 			"type": "create:mixing",
@@ -682,14 +706,14 @@ onEvent('recipes', e => {
 			],
 
 			"results": [
-				{ "item": output, 'count': qte[4]}
+				{ "item": output, 'count': qte[4] }
 			],
 
 			"processingTime": 400,
 			"heatRequirement": heated
 		})
 	}
-	
+
 	function createMixingItem5(output, input, qte, heated) {
 		e.custom({
 			"type": "create:mixing",
@@ -703,14 +727,14 @@ onEvent('recipes', e => {
 			],
 
 			"results": [
-				{ "item": output, 'count': qte[5]}
+				{ "item": output, 'count': qte[5] }
 			],
 
 			"processingTime": 400,
 			"heatRequirement": heated
 		})
 	}
-	
+
 	function createMixingItem6(output, input, qte, heated) {
 		e.custom({
 			"type": "create:mixing",
@@ -725,7 +749,7 @@ onEvent('recipes', e => {
 			],
 
 			"results": [
-				{ "item": output, 'count': qte[6]}
+				{ "item": output, 'count': qte[6] }
 			],
 
 			"processingTime": 400,
@@ -736,64 +760,64 @@ onEvent('recipes', e => {
 	function createMixingFluid(output, input, qte, heated) {
 		e.custom({
 			'type': 'create:mixing',
-	
+
 			'ingredients': [
-				{'fluid': input[0],'amount': qte[0]},
-				{'fluid': input[1],'amount': qte[1]}
+				{ 'fluid': input[0], 'amount': qte[0] },
+				{ 'fluid': input[1], 'amount': qte[1] }
 			],
-	
+
 			'results': [
-				{ 'fluid': output, 'amount': qte[2]  }
+				{ 'fluid': output, 'amount': qte[2] }
 			],
-	
+
 			'processingTime': 400,
 			'heatRequirement': heated
 		})
 	}
-	
+
 	function createMixingFluid3(output, input, qte, heated) {
 		e.custom({
 			'type': 'create:mixing',
-	
+
 			'ingredients': [
 				{ 'fluid': input[0], 'amount': qte[0] },
 				{ 'fluid': input[1], 'amount': qte[1] },
 				{ 'fluid': input[2], 'amount': qte[2] }
 			],
-	
+
 			'results': [
 				{ 'fluid': output, 'amount': qte[3] }
 			],
-	
+
 			'processingTime': 400,
 			'heatRequirement': heated
 		})
 	}
-	
+
 	function createMixingFluid4(output, input, qte, heated) {
 		e.custom({
 			'type': 'create:mixing',
-	
+
 			'ingredients': [
 				{ 'fluid': input[0], 'amount': qte[0] },
 				{ 'fluid': input[1], 'amount': qte[1] },
 				{ 'fluid': input[2], 'amount': qte[2] },
 				{ 'fluid': input[3], 'amount': qte[3] }
 			],
-	
+
 			'results': [
 				{ 'fluid': output, 'amount': qte[4] }
 			],
-	
+
 			'processingTime': 400,
 			'heatRequirement': heated
 		})
 	}
-	
+
 	function createMixingFluid5(output, input, qte, heated) {
 		e.custom({
 			'type': 'create:mixing',
-	
+
 			'ingredients': [
 				{ 'fluid': input[0], 'amount': qte[0] },
 				{ 'fluid': input[1], 'amount': qte[1] },
@@ -801,20 +825,20 @@ onEvent('recipes', e => {
 				{ 'fluid': input[3], 'amount': qte[3] },
 				{ 'fluid': input[4], 'amount': qte[4] }
 			],
-	
+
 			'results': [
 				{ 'fluid': output, 'amount': qte[5] }
 			],
-	
+
 			'processingTime': 400,
 			'heatRequirement': heated
 		})
 	}
-	
+
 	function createMixingFluid6(output, input, qte, heated) {
 		e.custom({
 			'type': 'create:mixing',
-	
+
 			'ingredients': [
 				{ 'fluid': input[0], 'amount': qte[0] },
 				{ 'fluid': input[1], 'amount': qte[1] },
@@ -823,11 +847,11 @@ onEvent('recipes', e => {
 				{ 'fluid': input[4], 'amount': qte[4] },
 				{ 'fluid': input[5], 'amount': qte[5] },
 			],
-	
+
 			'results': [
 				{ 'fluid': output, 'amount': qte[6] }
 			],
-	
+
 			'processingTime': 400,
 			'heatRequirement': heated
 		})

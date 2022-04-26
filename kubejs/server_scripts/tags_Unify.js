@@ -327,7 +327,15 @@ events.listen('item.tags', function (e) {
 			'libvulpes:platetitanium',
 			'libvulpes:plateiridium',
 			'libvulpes:platesilicon',
-			'libvulpes:platetin'
+			'libvulpes:platetin',
+
+			'libvulpes:sheetiron',
+			'libvulpes:sheetcopper',
+			'libvulpes:sheetsteel',
+			'libvulpes:sheettitanium',
+			'libvulpes:sheetaluminum',
+			'advancedrocketry:sheettitaniumaluminide',
+			'advancedrocketry:sheettitaniumiridium'
 		])
 
 		e.remove('fogre:plates/iron'	 		 , ['immersiveengineering:plate_iron', 'libvulpes:plateiron'])
@@ -384,12 +392,30 @@ events.listen('item.tags', function (e) {
 		e.add('forge:plates/lead'				, 'kubejs:lead_sheet')
 		e.add('forge:plates/craunium'			, 'kubejs:craunium_sheet')
 
+
 	//sheet
+		e.remove('forge:sheets', [
+			'advancedrocketry:sheettitaniumaluminide',
+			'advancedrocketry:sheettitaniumiridium',
+			'libvulpes:sheetiron',
+			'libvulpes:sheetcopper',
+			'libvulpes:sheetsteel',
+			'libvulpes:sheettitanium',
+			'libvulpes:sheetaluminum'
+		])
+
 		e.remove('forge:sheets/titaniumaluminide'	, 'advancedrocketry:sheettitaniumaluminide')
 		e.remove('forge:sheets/titaniumiridium'		, 'advancedrocketry:sheettitaniumiridium')
 		e.remove('forge:sheets/titanium'			, 'libvulpes:sheettitanium')
 
-		e.add('forge:sheet', [
+		e.remove('forge:sheets/iron'				,'libvulpes:sheetiron')
+		e.remove('forge:sheets/copper'				,'libvulpes:sheetcopper')
+		e.remove('forge:sheets/steel'				,'libvulpes:sheetsteel')
+		e.remove('forge:sheets/titanium'			,'libvulpes:sheettitanium')
+		e.remove('forge:sheets/aluminum'			,'libvulpes:sheetaluminum')
+		
+
+		e.add('forge:sheets', [
 			'kubejs:silver_sheet',
 			'kubejs:titanium_iridium_sheet',
 			'kubejs:tin_sheet',
