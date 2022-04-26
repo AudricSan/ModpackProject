@@ -1,0 +1,12 @@
+#6D8 byg:bamboo_forest
+#507 byg:cherry_blossom_clearing
+#72F byg:cherry_blossom_forest
+#042 minecraft:giant_tree_taiga
+#655 minecraft:giant_tree_taiga_hills
+#5A3 byg:grove
+#5C1 byg:red_oak_forest
+#5FF minecraft:river
+#169 minecraft:taiga
+#63C minecraft:taiga_hills
+#6BC byg:tropical_rainforest
+#30F byg:tropical_rainforest_hills

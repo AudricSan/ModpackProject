@@ -1,0 +1,23 @@
+{
+	version: 1
+	uuid: "3529a25226cb4c45a7a0558f4fd68946"
+	name: "Audric__San"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: {
+		772A3E3AA31E1680: 1
+	}
+	started: {
+		7712ECFF0A903A7B: 1650983599910L
+		0000000000000001: 1650983599910L
+		126ACAE113ADC877: 1650983599910L
+		772A3E3AA31E1680: 1650983599910L
+	}
+	completed: {
+		126ACAE113ADC877: 1650983599910L
+		772A3E3AA31E1680: 1650983599910L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
