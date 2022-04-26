@@ -207,6 +207,44 @@ onEvent('recipes', e => {
 
 	e.remove({ id: 'create:crushing/obsidian' })
 
+	//Cobblegen
+	e.remove({ id: 'cobblefordays:tier_3' })
+	e.remove({ id: 'cobblefordays:tier_4' })
+	e.remove({ id: 'cobblefordays:tier_5' })
+
+	e.shaped('cobblefordays:tier_3', [
+		'AAA',
+		'CBD',
+		'AAA'
+	], {
+		A: '#forge:ingots/iron',
+		B: 'cobblefordays:tier_2',
+		C: 'minecraft:lava_bucket',
+		D: 'minecraft:water_bucket'
+	})
+
+	e.shaped('cobblefordays:tier_4', [
+		'AAA',
+		'CBD',
+		'AAA'
+	], {
+		A: '#forge:ingots/gold',
+		B: 'cobblefordays:tier_3',
+		C: 'minecraft:lava_bucket',
+		D: 'minecraft:water_bucket'
+	})
+
+	e.shaped('cobblefordays:tier_5', [
+		'AAA',
+		'CBD',
+		'AAA'
+	], {
+		A: '#forge:gems/diamond',
+		B: 'cobblefordays:tier_4',
+		C: 'minecraft:lava_bucket',
+		D: 'minecraft:water_bucket'
+	})
+
 	//Create missing Crushing for crushed
 	createCrushing('kubejs:craunium_raw', 'kubejs:craunium_crushed', 1, 2, 'minecraft:cobblestone')
 	createCrushing('oreclumps:raw_adamantium', 'morecreatestuffs:crushed_adamantium_ore', 1, 2, 'minecraft:cobblestone')
@@ -436,11 +474,11 @@ onEvent('recipes', e => {
 
 	replaceIO('create:powdered_obsidian', 'kubejs:obsidian_dust')
 
-	replaceIO('libvulpes:sheetiron'			,'create:iron_sheet')
-	replaceIO('libvulpes:sheetcopper'		,'create:copper_sheet')
-	replaceIO('libvulpes:sheetsteel'		,'alloyed:steel_sheet')
-	replaceIO('libvulpes:sheettitanium'		,'kubejs:titanium_sheet')
-	replaceIO('libvulpes:sheetaluminum'		,'kubejs:aluminum_sheet')
+	replaceIO('libvulpes:sheetiron', 'create:iron_sheet')
+	replaceIO('libvulpes:sheetcopper', 'create:copper_sheet')
+	replaceIO('libvulpes:sheetsteel', 'alloyed:steel_sheet')
+	replaceIO('libvulpes:sheettitanium', 'kubejs:titanium_sheet')
+	replaceIO('libvulpes:sheetaluminum', 'kubejs:aluminum_sheet')
 
 	//Create Wire and Rod Cutting Sheet
 	createCutting('kubejs:craunium_ingot', 'kubejs:craunium_crystal', 5, 5, 'kubejs:silver_dust')
@@ -531,13 +569,13 @@ onEvent('recipes', e => {
 
 
 	e.recipes.createDeploying('advancedrocketry:geartitaniumaluminide', ['kubejs:titanium_aluminide_sheet', 'creategears:gear'])
-	e.recipes.createDeploying('advancedrocketry:geartitaniumiridium', 	['kubejs:titanium_iridium_sheet', 'creategears:gear'])
-	e.recipes.createDeploying('libvulpes:geartitanium', 				['kubejs:titanium_sheet', 'creategears:gear'])
-	e.recipes.createDeploying('libvulpes:gearsteel', 					['alloyed:steel_sheet', 'creategears:gear'])
+	e.recipes.createDeploying('advancedrocketry:geartitaniumiridium', ['kubejs:titanium_iridium_sheet', 'creategears:gear'])
+	e.recipes.createDeploying('libvulpes:geartitanium', ['kubejs:titanium_sheet', 'creategears:gear'])
+	e.recipes.createDeploying('libvulpes:gearsteel', ['alloyed:steel_sheet', 'creategears:gear'])
 
-	createMixingItem('alloyed:steel_ingot', ['minecraft:iron_ingot', 'immersivepetroleum:petcoke'], 	[5, 5, 2], 	'heated')
+	createMixingItem('alloyed:steel_ingot', ['minecraft:iron_ingot', 'immersivepetroleum:petcoke'], [5, 5, 2], 'heated')
 	createMixingItem('alloyed:steel_ingot', ['minecraft:iron_ingot', 'immersiveengineering:coal_coke'], [10, 5, 8], 'heated')
-	createMixingItem('alloyed:steel_ingot', ['minecraft:iron_ingot', 'biggerreactors:graphite_dust'], 	[15, 5, 20],'heated')
+	createMixingItem('alloyed:steel_ingot', ['minecraft:iron_ingot', 'biggerreactors:graphite_dust'], [15, 5, 20], 'heated')
 
 	// FUNCTION //
 	function replaceIO(input, output) {
