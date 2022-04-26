@@ -60,11 +60,11 @@ events.listen('item.registry', function (e) {
     e.create('aluminum_sheet')           .displayName('Aluminum Sheet')         
     e.create('titanium_aluminide_sheet') .displayName('Titanium Aluminide Sheet')
 	e.create('lead_sheet')               .displayName('Lead Sheet')     
-	e.create('hop_graphite_sheet')           .displayName('HOP Graphite Sheet')     
+	e.create('hop_graphite_sheet')       .displayName('HOP Graphite Sheet')     
 	e.create('graphite_sheet')           .displayName('Graphite Sheet')     
 	
 	//Incomplete for Squencial Assembler
-	e.create('kubejs:incomplete_taluminide_gear') .displayName('Incomplete Titanium Aluminide Gear')
-	e.create('kubejs:incomplete_tiridium_gear') .displayName('Incomplete Titanium Iridium Gear')
-	e.create('kubejs:incomplete_titanium_gear') .displayName('Incomplete Titanium Gear')
+	e.create('kubejs:incomplete_taluminide_gear') 	.displayName('Incomplete Titanium Aluminide Gear')
+	e.create('kubejs:incomplete_tiridium_gear') 	.displayName('Incomplete Titanium Iridium Gear')
+	e.create('kubejs:incomplete_titanium_gear') 	.displayName('Incomplete Titanium Gear')
 })
