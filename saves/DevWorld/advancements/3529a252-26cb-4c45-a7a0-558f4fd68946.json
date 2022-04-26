@@ -641,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2022-04-26 08:55:13 +0200"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_tank": {
     "criteria": {
       "has_iron_plate": "2022-04-22 16:48:55 +0200"
@@ -888,6 +894,12 @@
     },
     "done": true
   },
+  "create:press": {
+    "criteria": {
+      "0": "2022-04-26 09:53:24 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_head": {
     "criteria": {
       "has_steel_plate": "2022-04-22 16:03:20 +0200"
@@ -903,6 +915,18 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2022-04-22 22:35:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2022-04-26 08:55:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-04-26 08:55:12 +0200"
     },
     "done": true
   },
@@ -1482,6 +1506,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/oak_window": {
+    "criteria": {
+      "has_ingredient": "2022-04-26 08:55:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2022-04-23 19:11:01 +0200"
@@ -1671,6 +1701,12 @@
   "creategearaddon:recipes/large_umbran_cogwheel": {
     "criteria": {
       "has_item": "2022-04-22 17:39:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-04-26 08:55:13 +0200"
     },
     "done": true
   },
@@ -1905,6 +1941,12 @@
     },
     "done": true
   },
+  "create:goggles": {
+    "criteria": {
+      "0": "2022-04-26 08:10:43 +0200"
+    },
+    "done": true
+  },
   "oreclumps:recipes/misc/thorium_ingot_from_blasting_raw_thorium": {
     "criteria": {
       "has_raw_ore": "2022-04-22 16:57:38 +0200"
@@ -2004,6 +2046,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/nugget_nickel_to_ingot_nickel": {
     "criteria": {
       "has_nugget_nickel": "2022-04-23 01:31:25 +0200"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2022-04-26 08:13:56 +0200"
     },
     "done": true
   },
@@ -2267,6 +2315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-04-26 08:55:13 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
     "criteria": {
       "has_item": "2022-04-22 14:13:20 +0200"
@@ -2477,6 +2531,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/oak_trim": {
+    "criteria": {
+      "has_planks": "2022-04-26 08:55:13 +0200"
+    },
+    "done": true
+  },
   "oreclumps:recipes/building_blocks/raw_titanium_block": {
     "criteria": {
       "has_raw_ore": "2022-04-22 16:57:39 +0200"
@@ -2504,6 +2564,12 @@
   "tconstruct:recipes/tconstruct/general/tools/modifiers/silky_cloth": {
     "criteria": {
       "has_item": "2022-04-22 22:35:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2022-04-26 08:55:13 +0200"
     },
     "done": true
   },
@@ -2723,6 +2789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2022-04-26 08:55:13 +0200"
+    },
+    "done": true
+  },
   "alloyed:recipes/main_group/crafting/steel_door": {
     "criteria": {
       "has_ingredient": "2022-04-22 16:03:07 +0200"
@@ -2756,6 +2828,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2022-04-22 22:35:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2022-04-26 08:55:13 +0200"
     },
     "done": true
   },
@@ -3083,6 +3161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2022-04-26 08:55:13 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_lv": {
     "criteria": {
       "has_wirecoil_copper": "2022-04-22 16:23:16 +0200"
@@ -3248,6 +3332,12 @@
   "oreclumps:recipes/misc/zinc_ingot_from_blasting_raw_zinc": {
     "criteria": {
       "has_raw_ore": "2022-04-22 16:57:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2022-04-26 08:55:13 +0200"
     },
     "done": true
   },
@@ -3494,6 +3584,12 @@
   "oreclumps:recipes/misc/platinum_ingot_from_smelting_raw_platinum": {
     "criteria": {
       "has_raw_ore": "2022-04-22 16:57:38 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_sieve": {
+    "criteria": {
+      "has_plank": "2022-04-26 08:55:13 +0200"
     },
     "done": true
   },
@@ -3776,6 +3872,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/jerrycan": {
     "criteria": {
       "has_bucket": "2022-04-24 23:35:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2022-04-26 08:55:12 +0200"
     },
     "done": true
   },
@@ -4692,6 +4794,12 @@
     },
     "done": true
   },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_barrel_wood": {
+    "criteria": {
+      "has_walls": "2022-04-26 08:55:13 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/ingot_uranium_compat_mekanism": {
     "criteria": {
       "has_item": "2022-04-22 16:57:22 +0200"
@@ -5190,6 +5298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2022-04-26 08:55:13 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2022-04-24 15:39:06 +0200"
@@ -5469,6 +5583,12 @@
   "creategearaddon:recipes/half_shaft_oak_cogwheel": {
     "criteria": {
       "has_cogwheels": "2022-04-24 15:12:26 +0200"
+    },
+    "done": true
+  },
+  "creategears:recipes/create.base/gear_to_cogwheel": {
+    "criteria": {
+      "has_gear": "2022-04-26 09:08:03 +0200"
     },
     "done": true
   },

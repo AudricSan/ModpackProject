@@ -1,3 +1,4 @@
+#0E3FF1 create:adjustable_crate
 #F3FE1D byg:allium_flower_bush
 #FF933C byg:ametrine_ore
 #6380D5 minecraft:ancient_debris
@@ -38,10 +39,12 @@
 #BD11B5 immersiveengineering:connector_mv_relay
 #6BB940 create:copper_ore
 #1EE5A3 kubejs:craunium_ore
+#E7F5B7 create:creative_crate
 #BF5353 create:creative_fluid_tank
 #73CA69 create:creative_motor
 #75C57E byg:cryptic_redstone_ore
 #B2A2E1 minecraft:dandelion
+#5E5E58 create:deployer
 #CB716A minecraft:diamond_ore
 #A68B91 rftoolsbase:dimensionalshard_end
 #1A5DF2 rftoolsbase:dimensionalshard_nether
@@ -61,6 +64,7 @@
 #DDC0C3 create:fluid_tank
 #C3AD5F create:fluid_valve
 #9698DB create:gabbro
+#008D47 creategears:gear
 #D60460 create:gearbox
 #1E33BF minecraft:gilded_blackstone
 #AE162A create:glass_fluid_pipe
@@ -70,6 +74,8 @@
 #C23901 minecraft:grass_path
 #88BAFA minecraft:gravel
 #9CC9B2 byg:green_mushroom_block
+#1F7B78 creategears:half_shaft_gear
+#04EF85 create:haunted_bell
 #F67E21 minecraft:hay_block
 #D5F5A3 create:hose_pulley
 #D7EADE minecraft:iron_ore
@@ -85,6 +91,7 @@
 #DE9468 minecraft:magma_block
 #0B908B byg:mahogany_leaves
 #E638FD create:mechanical_mixer
+#145137 create:mechanical_press
 #65707C create:mechanical_pump
 #4F44DD create:mechanical_saw
 #B11E3F kubejs:molten_adamantium
@@ -125,12 +132,14 @@
 #F6678E minecraft:oxeye_daisy
 #47E559 byg:palm_leaves
 #66ABC7 byg:palm_log
+#215D71 create:peculiar_bell
 #9B2B7F byg:pendorite_ore
 #AB1C58 minecraft:peony
 #55BEA3 phosphophyllite:phosphophyllite_ore
 #18F386 byg:pink_allium_flower_bush
 #BB7F65 minecraft:podzol
 #AFAC0D minecraft:poppy
+#E030A4 create:portable_fluid_interface
 #E6B35B minecraft:pumpkin
 #3262A5 byg:rainbow_eucalyptus_leaves
 #430A40 byg:red_oak_leaves
