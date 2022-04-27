@@ -1,4 +1,5 @@
 #0E3FF1 create:adjustable_crate
+#49F0F1 advancedrocketry:advrocketmotor
 #F3FE1D byg:allium_flower_bush
 #FF933C byg:ametrine_ore
 #6380D5 minecraft:ancient_debris
@@ -10,6 +11,8 @@
 #E152BD create:basin
 #7F50F6 minecraft:bell
 #7C938F create:belt
+#DF90CF advancedrocketry:bipropellantfueltank
+#AA5038 advancedrocketry:bipropellantrocketmotor
 #3DE8FE minecraft:birch_leaves
 #08FEB0 byg:black_puff_mushroom_block
 #63D15D create:blaze_burner
@@ -33,6 +36,7 @@
 #058353 minecraft:cobblestone
 #3D8BFC minecraft:cobblestone_stairs
 #B76D44 create:cogwheel
+#63C050 advancedrocketry:compaccesshatch
 #E2D601 minecraft:composter
 #2C7BC8 immersiveengineering:connector_hv
 #57315A immersiveengineering:connector_hv_relay
@@ -40,6 +44,7 @@
 #6BB940 create:copper_ore
 #1EE5A3 kubejs:craunium_ore
 #E7F5B7 create:creative_crate
+#95EC20 createaddition:creative_energy
 #BF5353 create:creative_fluid_tank
 #73CA69 create:creative_motor
 #75C57E byg:cryptic_redstone_ore
@@ -63,6 +68,8 @@
 #109C68 immersiveengineering:fluid_sorter
 #DDC0C3 create:fluid_tank
 #C3AD5F create:fluid_valve
+#CDCEAB advancedrocketry:fuelingstation
+#623D03 advancedrocketry:fueltank
 #9698DB create:gabbro
 #008D47 creategears:gear
 #D60460 create:gearbox
@@ -74,6 +81,7 @@
 #C23901 minecraft:grass_path
 #88BAFA minecraft:gravel
 #9CC9B2 byg:green_mushroom_block
+#5243D6 advancedrocketry:guidancecomputer
 #1F7B78 creategears:half_shaft_gear
 #04EF85 create:haunted_bell
 #F67E21 minecraft:hay_block
@@ -81,7 +89,9 @@
 #D7EADE minecraft:iron_ore
 #9AD9C3 immersiveengineering:item_batcher
 #79904E pipez:item_pipe
+#F55C7F advancedrocketry:landingpad
 #EA439B minecraft:lapis_ore
+#B2BD63 advancedrocketry:launchpad
 #83CED3 minecraft:lava
 #72D77D minecraft:lever
 #2FB929 byg:lignite_ore
@@ -144,6 +154,7 @@
 #3262A5 byg:rainbow_eucalyptus_leaves
 #430A40 byg:red_oak_leaves
 #62B28A minecraft:redstone_ore
+#4655EF advancedrocketry:rocketassembler
 #EC112A byg:rocky_stone
 #9C3ECB minecraft:rose_bush
 #86FC77 minecraft:sand
@@ -172,6 +183,7 @@
 #DC3458 minecraft:stone
 #AB5BC7 minecraft:stone_slab
 #A88E8E minecraft:stripped_oak_wood
+#5ADAD9 advancedrocketry:structuretower
 #5CF3F1 minecraft:sugar_cane
 #9BAA62 byg:tall_allium
 #FC10E7 byg:tall_pink_allium

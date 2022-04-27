@@ -894,6 +894,12 @@
     },
     "done": true
   },
+  "advancedrocketry:normal/spindoctor": {
+    "criteria": {
+      "warp": "2022-04-27 10:30:01 +0200"
+    },
+    "done": true
+  },
   "create:press": {
     "criteria": {
       "0": "2022-04-26 09:53:24 +0200"
@@ -957,6 +963,12 @@
   "exnihilosequentia:recipes/exnihilosequentia/ens_ingot_aluminum_blast": {
     "criteria": {
       "has_chunk": "2022-04-22 16:57:54 +0200"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/rollin": {
+    "criteria": {
+      "warp": "2022-04-27 10:30:08 +0200"
     },
     "done": true
   },
@@ -2906,6 +2918,12 @@
   "immersiveengineering:main/make_steel": {
     "criteria": {
       "steel": "2022-04-22 22:35:38 +0200"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/crystalline": {
+    "criteria": {
+      "warp": "2022-04-27 10:30:01 +0200"
     },
     "done": true
   },
@@ -4947,6 +4965,12 @@
   "creategearaddon:recipes/half_shaft_willow_cogwheel": {
     "criteria": {
       "has_cogwheels": "2022-04-24 15:12:26 +0200"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/electrifying": {
+    "criteria": {
+      "warp": "2022-04-27 10:30:09 +0200"
     },
     "done": true
   },
