@@ -8,6 +8,7 @@
 #07C byg:mojave_desert
 #6E1 boss_tools:orbit
 #3DC minecraft:plains
+#293 byg:red_desert
 #5FF minecraft:river
 #67B minecraft:savanna
 #174 minecraft:shattered_savanna

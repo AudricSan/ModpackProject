@@ -2,6 +2,7 @@
 #52B53D minecraft:air
 #FA75A8 minecraft:andesite
 #0F359D minecraft:azure_bluet
+#18D108 minecraft:basalt
 #3DE8FE minecraft:birch_leaves
 #08FEB0 byg:black_puff_mushroom_block
 #C9CBB9 minecraft:blackstone
@@ -20,6 +21,7 @@
 #95EC20 createaddition:creative_energy
 #BF5353 create:creative_fluid_tank
 #73CA69 create:creative_motor
+#E9A8F5 minecraft:crying_obsidian
 #3C3897 minecraft:cut_sandstone
 #B2A2E1 minecraft:dandelion
 #E3DF1E minecraft:dark_oak_leaves
@@ -33,6 +35,7 @@
 #2C104D boss_tools:fuel
 #216474 boss_tools:fuel_refinery
 #9698DB create:gabbro
+#1E33BF minecraft:gilded_blackstone
 #482EEB minecraft:glowstone
 #B76A76 minecraft:gold_ore
 #060B35 minecraft:granite
@@ -61,7 +64,9 @@
 #FAF012 byg:palo_verde_leaves
 #8143AE byg:palo_verde_log
 #AB1C58 minecraft:peony
+#5CDCB7 minecraft:polished_basalt
 #AFAC0D minecraft:poppy
+#81AF65 minecraft:red_sand
 #6BD712 byg:ripe_joshua_leaves
 #1322E9 boss_tools:rocket_launch_pad
 #EC112A byg:rocky_stone
@@ -79,6 +84,9 @@
 #046DFC minecraft:smooth_sandstone_slab
 #12E6C4 minecraft:snow_block
 #74E2CA byg:soapstone
+#BBEC9D boss_tools:solar_panel
+#A67F43 minecraft:soul_sand
+#A6B33E minecraft:soul_soil
 #DC3458 minecraft:stone
 #B21185 minecraft:stone_brick_slab
 #AB5BC7 minecraft:stone_slab
@@ -86,6 +94,7 @@
 #5CF3F1 minecraft:sugar_cane
 #4BB909 rftoolsbuilder:support_block
 #9209D8 minecraft:terracotta
+#8B4889 refinedpipes:ultimate_energy_pipe
 #C7A814 byg:weeping_milkcap_mushroom_block
 #A5A77C byg:wood_blewit_mushroom_block
 #B3C7A9 biggerreactors:yellorite_ore
