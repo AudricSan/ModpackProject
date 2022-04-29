@@ -23,7 +23,6 @@ events.listen('item.tags', function (e) {
 			'immersiveengineering:dust_electrum',
 			'immersiveengineering:dust_constantan',
 			'libvulpes:dusttitanium',
-			// 'advancedrocketry:dusttitaniumiridium',
 			'immersiveengineering:dust_gold',
 			'immersiveengineering:dust_uranium',
 			'immersiveengineering:dust_steel',
@@ -41,7 +40,6 @@ events.listen('item.tags', function (e) {
 			'libvulpes:dustaluminum',
 			'libvulpes:duststeel',
 			'immersiveengineering:dust_copper',
-			// 'advancedrocketry:dusttitaniumaluminide',
 			'libvulpes:dustgold',
 			'immersiveengineering:dust_silver',
 			'libvulpes:dustsilicon',
@@ -53,7 +51,6 @@ events.listen('item.tags', function (e) {
 		e.remove('forge:dusts/electrum', 'immersiveengineering:dust_electrum')
 		e.remove('forge:dusts/constantan', 'immersiveengineering:dust_constantan')
 		e.remove('forge:dusts/titanium', 'libvulpes:dusttitanium')
-		// e.remove('forge:dusts/titaniumiridium', 'advancedrocketry:dusttitaniumiridium')
 		e.remove('forge:dusts/gold', ['immersiveengineering:dust_gold', 'libvulpes:dustgold'])
 		e.remove('forge:dusts/uranium', 'immersiveengineering:dust_uranium')
 		e.remove('forge:dusts/steel', ['immersiveengineering:dust_steel', 'libvulpes:duststeel'])
@@ -68,7 +65,6 @@ events.listen('item.tags', function (e) {
 		e.remove('forge:dusts/wood', 'immersiveengineering:dust_wood')
 		e.remove('forge:dusts/diamond', 'createaddition:diamond_grit')
 		e.remove('forge:dusts/copper', ['libvulpes:dustcopper', 'immersiveengineering:dust_copper'])
-		// e.remove('forge:dusts/titaniumaluminide', 'advancedrocketry:dusttitaniumaluminide')
 		e.remove('forge:dusts/silver', 'immersiveengineering:dust_silver')
 		e.remove('forge:dusts/silicon', 'libvulpes:dustsilicon')
 		e.remove('forge:dusts/tin', 'libvulpes:dusttin')
@@ -245,10 +241,6 @@ events.listen('item.tags', function (e) {
 		e.add('forge:ingots/craunium', 'kubejs:craunium_ingot')
 
 		e.add('forge:beconpayment', [
-			// 'advancedrocketry:ingottitaniumaluminide',
-			// 'advancedrocketry:carbon_brick',
-			// 'advancedrocketry:ingottitaniumiridium',
-
 			'alloyed:bronze_ingot',
 			'alloyed:steel_ingot',
 
@@ -323,8 +315,6 @@ events.listen('item.tags', function (e) {
 			'immersiveengineering:plate_aluminum',
 			'immersiveengineering:plate_lead',
 			
-			// 'advancedrocketry:platetitaniumaluminide',
-			// 'advancedrocketry:platetitaniumiridium',
 			'libvulpes:platetitanium',
 			'libvulpes:plateiridium',
 			'libvulpes:platesilicon',
@@ -335,8 +325,6 @@ events.listen('item.tags', function (e) {
 			'libvulpes:sheetsteel',
 			'libvulpes:sheettitanium',
 			'libvulpes:sheetaluminum',
-			// 'advancedrocketry:sheettitaniumaluminide',
-			// 'advancedrocketry:sheettitaniumiridium',
 
 			'boss_tools:iron_plate',
 		])
@@ -346,8 +334,7 @@ events.listen('item.tags', function (e) {
 		e.remove('forge:plates/gold'	 		 , ['libvulpes:plategold', 'immersiveengineering:plate_gold'])
 		e.remove('forge:plates/copper'	 		 , ['libvulpes:platecopper', 'immersiveengineering:plate_copper'])
 		e.remove('forge:plates/zinc'	 		 , ['createdeco:zinc_sheet'])
-		e.remove('forge:plates/aluminum' 		 , ['libvulpes:platealuminum']) 
-
+		e.remove('forge:plates/aluminum' 		 , ['libvulpes:platealuminum'])
 		e.remove('forge:plates/uranium'			 , 'immersiveengineering:plate_uranium')
 		e.remove('forge:plates/electrum'		 , 'immersiveengineering:plate_electrum')
 		e.remove('forge:plates/nickel'			 , 'immersiveengineering:plate_nickel')
@@ -355,9 +342,6 @@ events.listen('item.tags', function (e) {
 		e.remove('forge:plates/silver'			 , 'immersiveengineering:plate_silver')
 		e.remove('forge:plates/aluminum'		 , 'immersiveengineering:plate_aluminum')
 		e.remove('forge:plates/lead'			 , 'immersiveengineering:plate_lead')
-	 
-		// e.remove('forge:plates/titaniumaliminide', 'advancedrocketry:platetitaniumaluminide')
-		// e.remove('forge:plates/titaniumiridium'	 , 'advancedrocketry:platetitaniumiridium') 
 		e.remove('forge:plates/titanium'		 , 'libvulpes:platetitanium')
 		e.remove('forge:plates/iridium'			 , 'libvulpes:plateiridium')
 		e.remove('forge:plates/silicon'			 , 'libvulpes:platesilicon')
@@ -398,17 +382,12 @@ events.listen('item.tags', function (e) {
 
 	//sheet
 		e.remove('forge:sheets', [
-			// 'advancedrocketry:sheettitaniumaluminide',
-			// 'advancedrocketry:sheettitaniumiridium',
 			'libvulpes:sheetiron',
 			'libvulpes:sheetcopper',
 			'libvulpes:sheetsteel',
 			'libvulpes:sheettitanium',
 			'libvulpes:sheetaluminum'
 		])
-
-		// e.remove('forge:sheets/titaniumaluminide'	, 'advancedrocketry:sheettitaniumaluminide')
-		// e.remove('forge:sheets/titaniumiridium'		, 'advancedrocketry:sheettitaniumiridium')
 		e.remove('forge:sheets/titanium'			, 'libvulpes:sheettitanium')
 
 		e.remove('forge:sheets/iron'				,'libvulpes:sheetiron')

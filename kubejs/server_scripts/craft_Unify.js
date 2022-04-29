@@ -1,7 +1,5 @@
 onEvent('recipes', e => {
 	// REMOVER //
-	// e.remove({ mod: 'advancedrocketry' })
-
 	e.remove({ id: 'immersiveengineering:crafting/stick_steel' })
 	e.remove({ id: 'immersiveengineering:crafting/stick_aluminum' })
 
@@ -313,25 +311,18 @@ onEvent('recipes', e => {
 	createCrushing('immersiveengineering:ingot_hop_graphite', 'kubejs:hop_graphite_dust', 1, 2, 'kubejs:iron_dust')
 	createCrushing('immersiveengineering:ingot_electrum', 'kubejs:electrum_dust', 1, 2, 'kubejs:iron_dust')
 	createCrushing('immersivepetroleum:petcoke', 'immersivepetroleum:petcoke_dust', 1, 2, 'kubejs:iron_dust')
-	// createCrushing('advancedrocketry:ingottitaniumaluminide', 'kubejs:titanium_aluminide_dust', 1, 2, 'kubejs:iron_dust')
 	createCrushing('minecraft:diamond', 'kubejs:diamond_dust', 1, 2, 'kubejs:iron_dust')
 	createCrushing('biggerreactors:blutonium_ingot', 'biggerreactors:blutonium_dust', 1, 2, 'kubejs:iron_dust')
 	createCrushing('minecraft:crying_obsidian', 'kubejs:obsidian_dust', 1, 2, 'kubejs:diamond_dust')
 	createCrushing('immersiveengineering:coal_coke', 'immersiveengineering:dust_coke', 1, 2, 'kubejs:iron_dust')
 	createCrushing('minecraft:obsidian', 'kubejs:obsidian_dust', 1, 2, 'kubejs:diamond_dust')
 	createCrushing('biggerreactors:ludicrite_ingot', 'biggerreactors:ludicrite_dust', 1, 2, 'kubejs:iron_dust')
-	// createCrushing('advancedrocketry:ingottitaniumiridium', 'kubejs:titanium_iridium_dust', 1, 2, 'kubejs:iron_dust')
 	createCrushing('biggerreactors:cyanite_ingot', 'biggerreactors:cyanite_dust', 1, 2, 'kubejs:iron_dust')
 	createCrushing('libvulpes:ingotiridium', 'kubejs:iridium_dust', 1, 2, 'kubejs:iron_dust')
 	createCrushing('libvulpes:ingotsilicon', 'kubejs:silicon_dust', 1, 2, 'kubejs:iron_dust')
 	createCrushing('alloyed:steel_ingot', 'kubejs:steel_dust', 1, 2, 'kubejs:iron_dust')
-
 	createCrushing('oreclumps:thorium_ingot', 'kubejs:thorium_dust', 1, 2, 'kubejs:iron_dust')
 	createCrushing('oreclumps:chromium_ingot', 'kubejs:chromium_dust', 1, 2, 'kubejs:iron_dust')
-	// createCrushing('advancedrocketry:carbon_brick', 'kubejs:carbon_dust', 1, 2, 'kubejs:iron_dust')
-
-	// 'kubejs:dilithium_dust'
-	// 'kubejs:sulfur_dust'
 
 	//Create missing Milling Ores for dust
 	createMilling('kubejs:craunium_crushed', 'kubejs:craunium_dust', 1, 0, false)
@@ -358,14 +349,12 @@ onEvent('recipes', e => {
 	createMilling('immersiveengineering:ingot_hop_graphite', 'kubejs:hop_graphite_dust', 1, 2, false)
 	createMilling('immersiveengineering:ingot_electrum', 'kubejs:electrum_dust', 1, 2, false)
 	createMilling('immersivepetroleum:petcoke', 'immersivepetroleum:petcoke_dust', 1, 2, false)
-	// createMilling('advancedrocketry:ingottitaniumaluminide', 'kubejs:titanium_aluminide_dust', 1, 2, false)
 	createMilling('minecraft:diamond', 'kubejs:diamond_dust', 1, 2, false)
 	createMilling('biggerreactors:blutonium_ingot', 'biggerreactors:blutonium_dust', 1, 2, false)
 	createMilling('minecraft:crying_obsidian', 'kubejs:obsidian_dust', 1, 2, false)
 	createMilling('immersiveengineering:coal_coke', 'immersiveengineering:dust_coke', 1, 2, false)
 	createMilling('minecraft:obsidian', 'kubejs:obsidian_dust', 1, 2, false)
 	createMilling('biggerreactors:ludicrite_ingot', 'biggerreactors:ludicrite_dust', 1, 2, false)
-	// createMilling('advancedrocketry:ingottitaniumiridium', 'kubejs:titanium_iridium_dust', 1, 2, false)
 	createMilling('biggerreactors:cyanite_ingot', 'biggerreactors:cyanite_dust', 1, 2, false)
 	createMilling('libvulpes:ingotiridium', 'kubejs:iridium_dust', 1, 2, false)
 	createMilling('libvulpes:ingotsilicon', 'kubejs:silicon_dust', 1, 2, false)
@@ -396,14 +385,12 @@ onEvent('recipes', e => {
 	createMilling('immersiveengineering:ingot_hop_graphite', 'kubejs:hop_graphite_dust', 1, 1, false)
 	createMilling('immersiveengineering:ingot_electrum', 'kubejs:electrum_dust', 1, 1, false)
 	createMilling('immersivepetroleum:petcoke', 'immersivepetroleum:petcoke_dust', 1, 1, false)
-	// createMilling('advancedrocketry:ingottitaniumaluminide', 'kubejs:titanium_aluminide_dust', 1, 1, false)
 	createMilling('minecraft:diamond', 'kubejs:diamond_dust', 1, 1, false)
 	createMilling('biggerreactors:blutonium_ingot', 'biggerreactors:blutonium_dust', 1, 1, false)
 	createMilling('minecraft:crying_obsidian', 'kubejs:obsidian_dust', 1, 1, false)
 	createMilling('immersiveengineering:coal_coke', 'immersiveengineering:dust_coke', 1, 1, false)
 	createMilling('minecraft:obsidian', 'kubejs:obsidian_dust', 1, 1, false)
 	createMilling('biggerreactors:ludicrite_ingot', 'biggerreactors:ludicrite_dust', 1, 1, false)
-	// createMilling('advancedrocketry:ingottitaniumiridium', 'kubejs:titanium_iridium_dust', 1, 1, false)
 	createMilling('biggerreactors:cyanite_ingot', 'biggerreactors:cyanite_dust', 1, 1, false)
 	createMilling('libvulpes:ingotiridium', 'kubejs:iridium_dust', 1, 1, false)
 	createMilling('libvulpes:ingotsilicon', 'kubejs:silicon_dust', 1, 1, false)
@@ -411,14 +398,8 @@ onEvent('recipes', e => {
 
 	createMilling('oreclumps:thorium_ingot', 'kubejs:thorium_dust', 1, 2, false)
 	createMilling('oreclumps:chromium_ingot', 'kubejs:chromium_dust', 1, 2, false)
-	// createMilling('advancedrocketry:carbon_brick', 'kubejs:carbon_dust', 1, 2, false)
 
-	//Create missing BulkWashing
-	// createBulkWashingCrushed('create:crushed_platinum_ore',				'NO NUGGETS', 10, 5)
-	// createBulkWashingCrushed('morecreatestuffs:crushed_mythril_ore', 	'NO NUGGETS', 10, 5)		
-	// createBulkWashingCrushed('create:crushed_osmium_ore',				'NO NUGGETS', 10, 5)
-	// createBulkWashingCrushed('morecreatestuffs:crushed_adamantium_ore',  'NO NUGGETS', 10, 5)			
-	// createBulkWashingCrushed('morecreatestuffs:crushed_tungsten_ore',    'NO NUGGETS', 10, 5)			
+	//Create missing BulkWashing		
 	createBulkWashingCrushed('kubejs:craunium_crushed', 'kubejs:craunium_nugget', 10, 5)
 	createBulkWashingCrushed('create:crushed_tin_ore', 'libvulpes:nuggettin', 10, 5)
 
@@ -439,10 +420,8 @@ onEvent('recipes', e => {
 	createPress('libvulpes:ingotiridium', 'kubejs:iridium_sheet')
 	createPress('immersiveengineering:ingot_electrum', 'kubejs:electrum_sheet')
 	createPress('oreclumps:aluminum_ingot', 'kubejs:aluminum_sheet')
-	// createPress('advancedrocketry:ingottitaniumaluminide', 'kubejs:titanium_aluminide_sheet')
 	createPress('libvulpes:ingotsilicon', 'kubejs:silicon_sheet')
 	createPress('kubejs:craunium_ingot', 'kubejs:craunium_sheet')
-	// createPress('advancedrocketry:ingottitaniumiridium', 'kubejs:titanium_iridium_sheet')
 	createPress('oreclumps:tin_ingot', 'kubejs:tin_sheet')
 	createPress('oreclumps:nickel_ingot', 'kubejs:nickel_sheet')
 	createPress('immersiveengineering:ingot_hop_graphite', 'kubejs:hop_graphite_sheet')
@@ -503,9 +482,6 @@ onEvent('recipes', e => {
 	replaceIO('exnihilosequentia:ingot_silver', 'oreclumps:silver_ingot')
 
 	replaceIO('immersiveengineering:dust_hop_graphite', 'kubejs:hop_graphite_dust')
-
-	// replaceIO('advancedrocketry:sheettitaniumaluminide', 'kubejs:titanium_aluminide_sheet')
-	// replaceIO('advancedrocketry:sheettitaniumiridium', 'kubejs:titanium_iridium_sheet')
 	replaceIO('libvulpes:sheettitanium', 'kubejs:titanium_sheet')
 
 	replaceIO('create:powdered_obsidian', 'kubejs:obsidian_dust')
@@ -553,20 +529,6 @@ onEvent('recipes', e => {
 	tinkerCasting('tconstruct:molten_copper', 8, 'createaddition:copper_wire', 'tconstruct:casts/multi_use/wire', false, 25)
 
 	//Create missing Smeltery Melting
-	// tinkerMelt('biggerreactors:cyanite_ingot', 				'kubejs:molten_cyanite', 			144, 1500, 25)
-	// tinkerMelt('biggerreactors:blutonium_ingot', 			'kubejs:molten_blutonium', 			144, 1500, 25)
-	// tinkerMelt('advancedrocketry:ingottitaniumiridium', 	'kubejs:molten_tiridium', 			144, 1500, 25)
-	// tinkerMelt('kubejs:craunium_ingot', 					'kubejs:molten_craunium', 			144, 1000, 25)
-	// tinkerMelt('oreclumps:mythril_ingot', 					'kubejs:molten_mythril', 			144, 1000, 25)
-	// tinkerMelt('oreclumps:chromium_ingot', 					'kubejs:molten_chomium', 			144, 1000, 25)
-	// tinkerMelt('oreclumps:thorium_ingot', 					'kubejs:molten_thorium', 			144, 1000, 25)
-	// tinkerMelt('oreclumps:adamantium_ingot', 				'kubejs:molten_adamantium', 		144, 1500, 25)
-	// tinkerMelt('advancedrocketry:ingottitaniumaluminide', 	'kubejs:molten_taluminide', 		144, 1500, 25)
-	// tinkerMelt('advancedrocketry:carbon_brick', 			'kubejs:molten_carbon', 			144, 1500, 25)
-	// tinkerMelt('oreclumps:titanium_ingot', 					'kubejs:molten_titanium', 			144, 1500, 25)
-	// tinkerMelt('biggerreactors:graphite_ingot', 			'kubejs:molten_graphite', 			144, 1500, 25)
-	// tinkerMelt('libvulpes:ingotiridium', 					'kubejs:molten_iridium', 			144, 1000, 25)
-
 	tinkerCasting('tconstruct:molten_copper', 8, 'createaddition:copper_wire', 'tconstruct:casts/multi_use/wire', false, 25)
 
 	createMixingItem('biggerreactors:graphite_ingot', ['createaddition:copper_wire', 'create:powdered_obsidian'], [10, 50, 1], false)
@@ -577,42 +539,6 @@ onEvent('recipes', e => {
 
 	createMixingItem('alloyed:bronze_ingot', ['create:copper_ingot', 'create:zinc_nugget'], [1, 3, 1], 'heated')
 
-	// createMixingItem('advancedrocketry:ingottitaniumaluminide', ['oreclumps:titanium_ingot', 'oreclumps:aluminum_ingot'], [1, 3, 1], 'superheated')
-	// createMixingItem('advancedrocketry:ingottitaniumiridium', ['oreclumps:titanium_ingot', 'libvulpes:ingotiridium'], [1, 3, 1], 'superheated')
-
-	// SMELTERY INGOTS
-	// tinkerCasting('kubejs:molten_cyanite'	, 144, 'biggerreactors:cyanite_ingot', 				'tconstruct:cast/multi_use/ingot', false, 100)
-	// tinkerCasting('kubejs:molten_blutonium'	, 144, 'biggerreactors:blutonium_ingot', 			'tconstruct:cast/multi_use/ingot', false, 100)
-	// tinkerCasting('kubejs:molten_tiridium'	, 144, 'advancedrocketry:ingottitaniumiridium', 	'tconstruct:cast/multi_use/ingot', false, 100)
-	// tinkerCasting('kubejs:molten_craunium'	, 144, 'kubejs:craunium_ingot', 					'tconstruct:cast/multi_use/ingot', false, 100)
-	// tinkerCasting('kubejs:molten_mythril'	, 144, 'oreclumps:mythril_ingot', 					'tconstruct:cast/multi_use/ingot', false, 100)
-	// tinkerCasting('kubejs:molten_chomium'	, 144, 'oreclumps:chromium_ingot', 					'tconstruct:cast/multi_use/ingot', false, 100)
-	// tinkerCasting('kubejs:molten_thorium'	, 144, 'oreclumps:thorium_ingot', 					'tconstruct:cast/multi_use/ingot', false, 100)
-	// tinkerCasting('kubejs:molten_adamantium', 144, 'oreclumps:adamantium_ingot', 				'tconstruct:cast/multi_use/ingot', false, 100)
-	// tinkerCasting('kubejs:molten_taluminide', 144, 'advancedrocketry:ingottitaniumaluminide', 	'tconstruct:cast/multi_use/ingot', false, 100)
-	// tinkerCasting('kubejs:molten_carbon'	, 144, 'advancedrocketry:carbon_brick', 			'tconstruct:cast/multi_use/ingot', false, 100)
-	// tinkerCasting('kubejs:molten_titanium'	, 144, 'oreclumps:titanium_ingot', 					'tconstruct:cast/multi_use/ingot', false, 100)
-	// tinkerCasting('kubejs:molten_graphite'	, 144, 'biggerreactors:graphite_ingot', 			'tconstruct:cast/multi_use/ingot', false, 100)
-	// tinkerCasting('kubejs:molten_iridium'	, 144, 'libvulpes:ingotiridium', 					'tconstruct:cast/multi_use/ingot', false, 100)
-
-	// SMELTERY BLOCK
-	// tinkerCasting('kubejs:molten_cyanite'	, 1296, 'biggerreactors:cyanite_block', 			194)
-	// tinkerCasting('kubejs:molten_blutonium'	, 1296, 'biggerreactors:blutonium_block', 			194)
-	// tinkerCasting('kubejs:molten_tiridium'	, 1296, 'advancedrocketry:blocktitaniumiridium', 	194)
-	// tinkerCasting('kubejs:molten_craunium'	, 1296, 'kubejs:craunium_block', 					194)
-	// tinkerCasting('kubejs:molten_mythril'	, 1296, 'oreclumps:mythril_block', 					194)
-	// tinkerCasting('kubejs:molten_chomium'	, 1296, 'oreclumps:chromium_block', 				194)
-	// tinkerCasting('kubejs:molten_thorium'	, 1296, 'oreclumps:thorium_block', 					194)
-	// tinkerCasting('kubejs:molten_adamantium', 1296, 'oreclumps:adamantium_block', 				194)
-	// tinkerCasting('kubejs:molten_taluminide', 1296, 'advancedrocketry:blocktitaniumaluminide', 	194)
-	// tinkerCasting('kubejs:molten_carbon'	, 1296, 'advancedrocketry:carbon_block', 			194)
-	// tinkerCasting('kubejs:molten_titanium'	, 1296, 'oreclumps:titanium_block', 				194)
-	// tinkerCasting('kubejs:molten_graphite'	, 1296, 'biggerreactors:graphite_block', 			194)
-	// tinkerCasting('kubejs:molten_iridium'	, 1296, 'libvulpes:blockiridium', 					194)
-
-
-	// e.recipes.createDeploying('advancedrocketry:geartitaniumaluminide', ['kubejs:titanium_aluminide_sheet', 'creategears:gear'])
-	// e.recipes.createDeploying('advancedrocketry:geartitaniumiridium', ['kubejs:titanium_iridium_sheet', 'creategears:gear'])
 	e.recipes.createDeploying('libvulpes:geartitanium', ['kubejs:titanium_sheet', 'creategears:gear'])
 	e.recipes.createDeploying('libvulpes:gearsteel', ['alloyed:steel_sheet', 'creategears:gear'])
 
