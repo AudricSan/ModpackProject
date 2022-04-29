@@ -3,7 +3,10 @@
 #30B byg:flowering_grove
 #678 byg:fresh_water_lake
 #5A3 byg:grove
+#56C boss_tools:mars
+#6FF boss_tools:mars_ice_spike
 #07C byg:mojave_desert
+#6E1 boss_tools:orbit
 #3DC minecraft:plains
 #5FF minecraft:river
 #67B minecraft:savanna

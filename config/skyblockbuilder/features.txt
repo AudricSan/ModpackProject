@@ -50,6 +50,12 @@ minecraft:random_selector
 minecraft:simple_random_selector
 minecraft:random_boolean_selector
 minecraft:decorated
+boss_tools:moon_ore
+boss_tools:mars_ore
+boss_tools:mercury_ore
+boss_tools:venus_ore
+boss_tools:mars_ice_spike
+boss_tools:venus_deltas
 rftoolsdim:rftfeature
 zerocore:mod_ores
 zerocore:mod_ores_regen
