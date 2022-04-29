@@ -212,6 +212,13 @@ onEvent('recipes', e => {
 	e.remove({ id: 'cobblefordays:tier_4' })
 	e.remove({ id: 'cobblefordays:tier_5' })
 
+	//Boss-Space
+	e.remove({ id: 'boss_tools:compressing/compressed_desh'})
+	e.remove({ id: 'boss_tools:desh_plate'})
+
+	e.remove({ id: 'boss_tools:compressor'})
+	e.remove({ id: 'boss_tools:blast_furnace'})
+
 	e.shaped('cobblefordays:tier_3', [
 		'AAA',
 		'CBD',
@@ -244,6 +251,30 @@ onEvent('recipes', e => {
 		C: 'minecraft:lava_bucket',
 		D: 'minecraft:water_bucket'
 	})
+	
+	e.shaped('boss_tools:oxygen_loader', [
+		'ABA',
+		'DED',
+		'ACA'
+	], {
+		A: '#forge:ingots/steel',
+		B: '#forge:ingots/iron',
+		C: '#forge:dusts/redstone',
+		D: 'boss_tools:engine_fan',
+		E: 'rftoolsbase:machine_frame'
+	})
+	
+	e.shaped('boss_tools:solar_panel', [
+		'ABA',
+		'AEA',
+		'ACA'
+	], {
+		A: '#forge:ingots/steel',
+		B: 'minecraft:daylight_detector',
+		C: '#forge:dusts/redstone',
+		E: 'rftoolsbase:machine_frame'
+	})
+
 
 	//Create missing Crushing for crushed
 	createCrushing('kubejs:craunium_raw', 'kubejs:craunium_crushed', 1, 2, 'minecraft:cobblestone')
@@ -417,6 +448,11 @@ onEvent('recipes', e => {
 	createPress('immersiveengineering:ingot_hop_graphite', 'kubejs:hop_graphite_sheet')
 	createPress('9x biggerreactors:graphite_ingot', 'kubejs:graphite_sheet')
 
+	createPress('3x alloyed:steel_sheet', 	'boss_tools:compressed_steel'	)
+	createPress('3x kubejs:silicon_sheet', 	'boss_tools:compressed_silicon'	)
+	createPress('3x boss_tools:desh_plate', 'boss_tools:compressed_desh'	)	
+	createPress('3x boss_tools:desh_ingot', 'boss_tools:desh_plate'	)	
+
 	//OreChunk => Ore Raw
 	replaceIO('exnihilosequentia:chunk_nickel', 'oreclumps:raw_nickel')
 	replaceIO('exnihilosequentia:chunk_lead', 'oreclumps:raw_lead')
@@ -479,6 +515,13 @@ onEvent('recipes', e => {
 	replaceIO('libvulpes:sheetsteel', 'alloyed:steel_sheet')
 	replaceIO('libvulpes:sheettitanium', 'kubejs:titanium_sheet')
 	replaceIO('libvulpes:sheetaluminum', 'kubejs:aluminum_sheet')
+
+	replaceIO('boss_tools:steel_ingot', 'alloyed:steel_ingot')
+	replaceIO('boss_tools:silicon_ingot', 'libvulpes:ingotsilicon')
+	replaceIO('boss_tools:iron_plate', 'create:iron_plate')
+	replaceIO('boss_tools:iron_plate', 'create:iron_plate')
+	replaceIO('boss_tools:steel_nugget', 'libvulpes:nuggetsteel')
+	replaceIO('boss_tools:silicon_nugget', 'libvulpes:nuggetsilicon')
 
 	//Create Wire and Rod Cutting Sheet
 	createCutting('kubejs:craunium_ingot', 'kubejs:craunium_crystal', 5, 5, 'kubejs:silver_dust')

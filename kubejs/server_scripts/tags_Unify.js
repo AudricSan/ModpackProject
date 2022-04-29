@@ -215,7 +215,8 @@ events.listen('item.tags', function (e) {
 			'immersiveengineering:ingot_lead',
 			'exnihilosequentia:ingot_lead',
 
-
+			'boss_tools:steel_ingot',
+			'boss_tools:silicon_ingot',
 			
 		])
 
@@ -335,7 +336,9 @@ events.listen('item.tags', function (e) {
 			'libvulpes:sheettitanium',
 			'libvulpes:sheetaluminum',
 			// 'advancedrocketry:sheettitaniumaluminide',
-			// 'advancedrocketry:sheettitaniumiridium'
+			// 'advancedrocketry:sheettitaniumiridium',
+
+			'boss_tools:iron_plate',
 		])
 
 		e.remove('fogre:plates/iron'	 		 , ['immersiveengineering:plate_iron', 'libvulpes:plateiron'])
@@ -458,7 +461,9 @@ events.listen('item.tags', function (e) {
 			'immersiveengineering:nugget_copper',
 			'libvulpes:nuggetcopper',
 			'immersiveengineering:nugget_steel',
-			'libvulpes:nuggetaluminum'
+			'libvulpes:nuggetaluminum',
+			'boss_tools:steel_nugget',
+			'boss_tools:silicon_nugget'
 		])
 
 		e.remove('forge:nuggets/copper'		, ['tconstruct:copper_nugget', 'immersiveengineering:nugget_copper', 'libvulpes:nuggetcopper'])
