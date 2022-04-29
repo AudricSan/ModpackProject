@@ -546,6 +546,19 @@ onEvent('recipes', e => {
 	createMixingItem('alloyed:steel_ingot', ['minecraft:iron_ingot', 'immersiveengineering:coal_coke'], [10, 5, 8], 'heated')
 	createMixingItem('alloyed:steel_ingot', ['minecraft:iron_ingot', 'biggerreactors:graphite_dust'], [15, 5, 20], 'heated')
 
+
+	e.shaped('8x creategears:gear', [
+		'SSS',
+		'S S',
+		'SSS'
+	  ], {
+		S: '#minecraft:buttons',
+	  })
+
+
+
+
+
 	// FUNCTION //
 	function replaceIO(input, output) {
 		e.replaceInput({}, input, output);
