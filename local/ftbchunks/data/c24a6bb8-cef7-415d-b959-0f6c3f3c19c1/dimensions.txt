@@ -1,1 +1,3 @@
 minecraft:overworld
+boss_tools:mars_orbit
+boss_tools:mars
