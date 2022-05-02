@@ -9,8 +9,11 @@
 #7FDE54 minecraft:clay
 #DE242D minecraft:coal_ore
 #058353 minecraft:cobblestone
+#6BB940 create:copper_ore
 #306005 minecraft:cracked_stone_bricks
+#B2A2E1 minecraft:dandelion
 #19C8D3 minecraft:dark_oak_planks
+#FF48B8 create:depot
 #4D2B74 rftoolsbase:dimensionalshard_overworld
 #BED665 minecraft:diorite
 #80497A minecraft:dirt
@@ -26,6 +29,7 @@
 #060B35 minecraft:granite
 #3F84B7 minecraft:grass_block
 #88BAFA minecraft:gravel
+#87B5C3 create:hand_crank
 #D7EADE minecraft:iron_ore
 #F7CC06 minecraft:jungle_planks
 #EA439B minecraft:lapis_ore
@@ -34,9 +38,11 @@
 #DE9468 minecraft:magma_block
 #0B908B byg:mahogany_leaves
 #5C1DD5 byg:mahogany_log
+#145137 create:mechanical_press
 #A4FC4B minecraft:mossy_cobblestone
 #483B67 minecraft:mossy_stone_bricks
 #3B27E5 create:natural_scoria
+#454322 minecraft:netherrack
 #E3886A minecraft:oak_planks
 #4A5E4E minecraft:obsidian
 #FD9C69 boss_tools:oil
