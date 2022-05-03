@@ -1,0 +1,10 @@
+#52B53D minecraft:air
+#7C938F create:belt
+#F522F4 minecraft:chest
+#058353 minecraft:cobblestone
+#73CA69 create:creative_motor
+#D60460 create:gearbox
+#145137 create:mechanical_press
+#D3CCFE create:shaft
+#DC3458 minecraft:stone
+#2E9337 minecraft:stonecutter

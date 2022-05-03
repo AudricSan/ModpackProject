@@ -1,5 +1,5 @@
 events.listen('item.registry', function (e) {
-    //my elements
+    // My elements
     e.create('craunium_ingot')  .displayName('Craunium Ingot')
     e.create('craunium_nugget') .displayName('Craunium Nugget')
     e.create('craunium_sheet')  .displayName('Craunium Sheet')
@@ -7,9 +7,22 @@ events.listen('item.registry', function (e) {
     e.create('craunium_raw')    .displayName('Raw Craunium')
     e.create('craunium_crystal').displayName('Craunium Crystal')
     e.create('craunium_dust')   .displayName('Craunium Dust')
+    e.create('craunium_gear')   .displayName('Craunium Gear')
 
-    //new Raw
+    // New Raw
     e.create('iridium_raw').displayName('Raw Iridium')
+
+	// Gear
+    e.create('steel_gear').displayName('Steel Gear')
+
+	// New Nugget
+    e.create('steel_nugget').displayName('Steel Nugget')
+
+	// New Fan
+    e.create('steel_fan').displayName('Steel Fan')
+
+	// New Crushed
+    e.create('steel_crushed')			.displayName('Crushed Steel')
 
     // New Dust
     e.create('gold_dust')              .displayName('Gold Dust')
@@ -41,7 +54,6 @@ events.listen('item.registry', function (e) {
     e.create('tungsten_dust')          .displayName('Tungsten Dust')
     e.create('mythril_dust')           .displayName('Mythril Dust')
     e.create('adamantium_dust')        .displayName('Adamantium Dust')
-
     e.create('chromium_dust')          .displayName('Chromium Dust')
     e.create('thorium_dust')           .displayName('Thorium Dust')
     e.create('carbon_dust')            .displayName('Carbon Dust')
@@ -63,8 +75,9 @@ events.listen('item.registry', function (e) {
 	e.create('hop_graphite_sheet')       .displayName('HOP Graphite Sheet')     
 	e.create('graphite_sheet')           .displayName('Graphite Sheet')     
 	
-	//Incomplete for Squencial Assembler
-	e.create('kubejs:incomplete_taluminide_gear') 	.displayName('Incomplete Titanium Aluminide Gear')
-	e.create('kubejs:incomplete_tiridium_gear') 	.displayName('Incomplete Titanium Iridium Gear')
-	e.create('kubejs:incomplete_titanium_gear') 	.displayName('Incomplete Titanium Gear')
+	// Incomplete for Squencial Assembler
+	e.create('steel_sequenced_compressed_plate').type('create:sequenced_assembly').displayName('Steel Sequenced Compressed Plate')
+	// e.create('kubejs:incomplete_taluminide_gear') 	.displayName('Incomplete Titanium Aluminide Gear')
+	// e.create('kubejs:incomplete_tiridium_gear') 	.displayName('Incomplete Titanium Iridium Gear')
+	// e.create('kubejs:incomplete_titanium_gear') 	.displayName('Incomplete Titanium Gear')
 })
