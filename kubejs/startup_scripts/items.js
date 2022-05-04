@@ -77,6 +77,9 @@ events.listen('item.registry', function (e) {
 	
 	// Incomplete for Squencial Assembler
 	e.create('steel_sequenced_compressed_plate').type('create:sequenced_assembly').displayName('Steel Sequenced Compressed Plate')
+	e.create('steel_sequenced_stick_steel').type('create:sequenced_assembly').displayName('Steel Sequenced Stick Steel')
+	e.create('steel_sequenced_fan_steel').type('create:sequenced_assembly').displayName('Steel Sequenced Fan Steel')
+	e.create('steel_sequenced_gear_steel').type('create:sequenced_assembly').displayName('Steel Sequenced Gear Steel')
 	// e.create('kubejs:incomplete_taluminide_gear') 	.displayName('Incomplete Titanium Aluminide Gear')
 	// e.create('kubejs:incomplete_tiridium_gear') 	.displayName('Incomplete Titanium Iridium Gear')
 	// e.create('kubejs:incomplete_titanium_gear') 	.displayName('Incomplete Titanium Gear')

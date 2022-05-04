@@ -593,6 +593,12 @@
     },
     "done": true
   },
+  "create:mechanical_saw": {
+    "criteria": {
+      "0": "2022-05-04 19:17:54 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/axe_steel": {
     "criteria": {
       "has_steel_ingot": "2022-05-02 12:34:56 +0200"
@@ -1178,6 +1184,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_steel": {
     "criteria": {
       "has_plate_steel": "2022-05-02 12:38:12 +0200"
+    },
+    "done": true
+  },
+  "create:belt_funnel": {
+    "criteria": {
+      "0": "2022-05-04 19:18:39 +0200"
     },
     "done": true
   },

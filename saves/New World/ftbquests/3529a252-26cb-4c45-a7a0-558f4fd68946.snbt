@@ -5,9 +5,19 @@
 	can_edit: false
 	lock: false
 	auto_pin: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		05E5C93DDA12E3A4: 1
+	}
+	started: {
+		234612F78EFE056E: 1651684697630L
+		0000000000000001: 1651684697630L
+		05E5C93DDA12E3A4: 1651684697630L
+		71F713EB878AFD8E: 1651684697630L
+	}
+	completed: {
+		234612F78EFE056E: 1651684697630L
+		05E5C93DDA12E3A4: 1651684697630L
+	}
 	claimed_rewards: { }
 	pinned_quests: [ ]
 }
