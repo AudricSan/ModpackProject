@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_copper_to_nugget_copper": {
+    "criteria": {
+      "has_ingot_copper": "2022-05-05 13:13:46 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_lv": {
     "criteria": {
       "has_copper_ingot": "2022-05-02 12:34:47 +0200"
@@ -371,6 +377,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/furnace_heater": {
+    "criteria": {
+      "has_coil_lv": "2022-05-05 12:13:29 +0200"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/zinc_door": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
@@ -380,6 +392,18 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2022-05-02 12:34:43 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_copper_from_slab": {
+    "criteria": {
+      "has_storage_copper": "2022-05-05 12:13:28 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2022-05-05 13:13:51 +0200"
     },
     "done": true
   },
@@ -404,6 +428,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sword_steel": {
     "criteria": {
       "has_steel_ingot": "2022-05-02 12:34:56 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/copper_sheet_metal_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2022-05-05 12:13:28 +0200"
     },
     "done": true
   },
@@ -467,6 +497,12 @@
     },
     "done": true
   },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_ingot_copper": {
+    "criteria": {
+      "has_chunk": "2022-05-05 13:31:35 +0200"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/brass_door": {
     "criteria": {
       "has_item": "2022-05-02 12:34:48 +0200"
@@ -503,6 +539,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/dynamo": {
+    "criteria": {
+      "has_coil_lv": "2022-05-05 12:13:29 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/hoe_steel": {
     "criteria": {
       "has_steel_ingot": "2022-05-02 12:34:56 +0200"
@@ -518,6 +560,12 @@
   "alloyed:recipes/main_group/stonecutting/steel_sheet_slab_from_steel_sheet_metal": {
     "criteria": {
       "has_ingredient": "2022-05-02 12:38:03 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_ingot_from_nuggets": {
+    "criteria": {
+      "has_item": "2022-05-05 13:13:46 +0200"
     },
     "done": true
   },
@@ -566,6 +614,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/charging_station": {
+    "criteria": {
+      "has_coil_lv": "2022-05-05 12:13:29 +0200"
     },
     "done": true
   },
@@ -653,6 +707,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/copper_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2022-05-05 12:13:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
@@ -692,6 +752,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_ingot_copper_blast": {
+    "criteria": {
+      "has_chunk": "2022-05-05 13:31:35 +0200"
     },
     "done": true
   },
@@ -785,6 +851,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/palettes/copper_shingles": {
+    "criteria": {
+      "has_item": "2022-05-05 13:13:51 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_silver_hammering": {
     "criteria": {
       "has_silver_ingot": "2022-05-02 12:35:14 +0200"
@@ -806,6 +878,12 @@
   "alloyed:recipes/main_group/crafting/steel_sheet_stairs": {
     "criteria": {
       "has_ingredient": "2022-05-02 12:38:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/blasting/copper_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2022-05-05 13:31:35 +0200"
     },
     "done": true
   },
@@ -857,6 +935,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/palettes/copper_tiles": {
+    "criteria": {
+      "has_item": "2022-05-05 13:13:51 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_yellow": {
     "criteria": {
       "has_sheetmetal": "2022-05-02 12:38:13 +0200"
@@ -872,6 +956,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_electrum_hammering": {
     "criteria": {
       "has_electrum_ingot": "2022-05-02 12:35:10 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/thermoelectric_generator": {
+    "criteria": {
+      "has_coil_lv": "2022-05-05 12:13:29 +0200"
     },
     "done": true
   },
@@ -944,6 +1034,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_constantan_to_storage_constantan": {
     "criteria": {
       "has_ingot_constantan": "2022-05-02 12:34:48 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_ingot_from_block": {
+    "criteria": {
+      "has_item": "2022-05-05 12:13:30 +0200"
     },
     "done": true
   },
@@ -1115,6 +1211,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/copper_mesh_fence": {
+    "criteria": {
+      "has_item": "2022-05-05 13:13:51 +0200"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/gold_bars": {
     "criteria": {
       "has_item": "2022-05-02 12:34:43 +0200"
@@ -1265,6 +1367,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/palettes/copper_shingles_from_tiles": {
+    "criteria": {
+      "has_item": "2022-05-05 13:13:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-05-02 12:34:44 +0200"
@@ -1328,6 +1436,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_standard": {
     "criteria": {
       "has_alu_ingot": "2022-05-02 12:35:16 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2022-05-05 13:20:22 +0200"
     },
     "done": true
   },
@@ -1463,6 +1577,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2022-05-05 13:20:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2022-05-02 12:33:03 +0200"
@@ -1577,6 +1697,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/copper_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2022-05-05 13:13:45 +0200"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/machineinformation_module": {
     "criteria": {
       "ingot": "2022-05-02 12:34:40 +0200"
@@ -1634,6 +1760,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_magenta": {
     "criteria": {
       "has_sheetmetal": "2022-05-02 12:38:13 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_copper": {
+    "criteria": {
+      "has_plate_copper": "2022-05-05 13:13:52 +0200"
     },
     "done": true
   },
@@ -1823,6 +1955,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/turntable": {
+    "criteria": {
+      "has_coil_lv": "2022-05-05 12:13:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2022-05-02 12:34:45 +0200"
@@ -1931,6 +2069,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_copper_to_ingot_copper": {
+    "criteria": {
+      "has_nugget_copper": "2022-05-05 13:13:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2022-05-02 12:33:03 +0200"
@@ -1952,6 +2096,12 @@
   "create:recipes/create.base/crafting/materials/copper_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/smelting/copper_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2022-05-05 13:31:35 +0200"
     },
     "done": true
   },
@@ -2024,6 +2174,18 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_green": {
     "criteria": {
       "has_sheetmetal": "2022-05-02 12:38:13 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_copper_to_slab": {
+    "criteria": {
+      "has_storage_copper": "2022-05-05 12:13:28 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/copper_catwalk": {
+    "criteria": {
+      "has_item": "2022-05-05 13:13:51 +0200"
     },
     "done": true
   },
