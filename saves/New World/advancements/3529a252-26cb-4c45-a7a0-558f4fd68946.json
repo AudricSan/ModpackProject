@@ -767,6 +767,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_to_slab": {
+    "criteria": {
+      "has_storage_aluminum": "2022-05-06 08:23:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2022-05-02 12:34:43 +0200"
@@ -944,6 +950,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_lead_to_ingot_lead": {
     "criteria": {
       "has_storage_lead": "2022-05-02 12:34:50 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_to_nugget_aluminum": {
+    "criteria": {
+      "has_ingot_aluminum": "2022-05-06 08:23:49 +0200"
     },
     "done": true
   },
@@ -1151,6 +1163,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_legs": {
+    "criteria": {
+      "has_alu_plate": "2022-05-06 08:23:47 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/copper_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
@@ -1328,6 +1346,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_steel_hammering": {
     "criteria": {
       "has_steel_ingot": "2022-05-02 12:34:56 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_head": {
+    "criteria": {
+      "has_alu_plate": "2022-05-06 08:23:47 +0200"
     },
     "done": true
   },
@@ -1529,6 +1553,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_aluminum": {
+    "criteria": {
+      "has_plate": "2022-05-06 08:23:47 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_mv": {
     "criteria": {
       "has_electrum_ingot": "2022-05-02 12:35:10 +0200"
@@ -1538,6 +1568,12 @@
   "oreclumps:recipes/building_blocks/raw_lead_block": {
     "criteria": {
       "has_raw_ore": "2022-05-05 18:18:28 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_feet": {
+    "criteria": {
+      "has_alu_plate": "2022-05-06 08:23:47 +0200"
     },
     "done": true
   },
@@ -1658,6 +1694,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2022-05-02 12:34:43 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_from_dust": {
+    "criteria": {
+      "has_dust_aluminum": "2022-05-06 08:23:48 +0200"
     },
     "done": true
   },
@@ -1817,6 +1859,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_aluminum_to_ingot_aluminum": {
+    "criteria": {
+      "has_nugget_aluminum": "2022-05-06 08:23:49 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_electrum": {
     "criteria": {
       "has_electrum_ingot": "2022-05-02 12:35:10 +0200"
@@ -1952,6 +2000,18 @@
   "oreclumps:recipes/misc/lead_ingot_from_blasting_raw_lead": {
     "criteria": {
       "has_raw_ore": "2022-05-05 18:18:28 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_aluminum": "2022-05-06 08:23:48 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_from_slab": {
+    "criteria": {
+      "has_storage_aluminum": "2022-05-06 08:23:50 +0200"
     },
     "done": true
   },
@@ -2138,6 +2198,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2022-05-02 12:34:44 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_aluminum": {
+    "criteria": {
+      "has_plate_aluminum": "2022-05-06 08:23:47 +0200"
     },
     "done": true
   },
@@ -2408,6 +2474,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_steel_to_nugget_steel": {
     "criteria": {
       "has_ingot_steel": "2022-05-02 12:38:14 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_chest": {
+    "criteria": {
+      "has_alu_plate": "2022-05-06 08:23:47 +0200"
     },
     "done": true
   },
