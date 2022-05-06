@@ -1,5 +1,12 @@
 // REMOVE
 onEvent('recipes', e => {
+    //GLOBLS
+    e.remove({type: 'immersiveengineering:arcfurnace'})
+    e.remove({type: 'immersiveengineering:crusher'})
+    e.remove({type: 'immersiveengineering:recycling'})
+    e.remove({type: 'immersiveengineering:metalpress'})
+    e.remove({type: 'immersiveengineering:alloysmelter'})
+
     //Steel
     e.remove({ id: 'immersiveengineering:crafting/ingot_steel_to_storage_steel' })
     e.remove({ id: 'immersiveengineering:crafting/ingot_steel_to_nugget_steel' })
@@ -252,10 +259,51 @@ onEvent('recipes', e => {
     createCrushing('morecreatestuffs:crushed_cobalt_ore', 'kubejs:cobalt_dust', 3, 2, false)
     createCrushing('oreclumps:silver_ingot', 'kubejs:cobalt_dust', 2, 2, 'kubejs:lead_dust')
 
+    //Nickel
+    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_nickel'})
+
+    e.remove({ id: 'immersiveengineering:crusher/ingot_nickel'})
+    e.remove({ id: 'immersiveengineering:crusher/ore_nickel'})
+    e.remove({ id: 'immersiveengineering:crusher/ore_iron'})
+
+    e.remove({ id: 'immersiveengineering:arcfurnace/dust_nickel'})
+
+    replaceIO('immersiveengineering:plate_nickel'   , 'kubejs:nickel_sheet')
+    replaceIO('immersiveengineering:dust_nickel'    ,'kubejs:nickel_dust')
+    replaceIO('exnihilosequentia:ingot_nickel'      ,'oreclumps:nickel_ingot')    
+    replaceIO('immersiveengineering:ingot_nickel'   ,'oreclumps:nickel_ingot')     
+    
+    createMixingItem(['kubejs:nickel_dust', 'kubejs:nickel_dust'], 'oreclumps:nickel_ingot', [6, 3], 'heated')
+    createMixingItem(['kubejs:nickel_dust', 'kubejs:nickel_dust'], 'oreclumps:nickel_ingot', [3, 3], 'superheated')
+    
+    createCrushing('oreclumps:nickel_ingot', 'kubejs:nickel_dust', 2, 2, 'kubejs:iron_dust')
+
+    //iron
+    createCrushing('minecraft:iron_ingot', 'kubejs:iron_dust', 2, 2, 'kubejs:nickel_dust')
+
+    //Zinc
+    e.remove({ id: 'createaddition:pressing/zinc_ingot'})
+    e.remove({ id: 'immersiveengineering:arcfurnace/alloy_brass'})
+    e.remove({ id: 'immersiveengineering:arcfurnace/dust_zinc'})
+    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_zinc'})
+    
+    replaceIO('createaddition:zinc_sheet', 'createdeco:zinc_sheet')
+    replaceIO('oreclumps:zinc_ingot', 'create:zinc_ingot')
+    replaceIO('exnihilosequentia:ingot_zinc', 'create:zinc_ingot')
+
+    createCrushing('create:zinc_ingot', 'kubejs:zinc_dust', 2, 1, 'kubejs:iron_dust')
+    createCrushing('create:crushed_zinc_ore', 'kubejs:zinc_dust', 4, 2, 'kubejs:zinc_dust')
+    
+    createMixingItem(['kubejs:zinc_dust', 'kubejs:zinc_dust'], 'oreclumps:zinc_ingot', [6, 3], 'heated')
+    createMixingItem(['kubejs:zinc_dust', 'kubejs:zinc_dust'], 'oreclumps:zinc_ingot', [3, 3], 'superheated')
+    
+    //
+    
 
 
-
-
+    
+    
+    
 
 
 
