@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_silver": {
+    "criteria": {
+      "has_plate_silver": "2022-05-06 09:08:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
@@ -500,6 +506,12 @@
   "create:recipes/create.base/crafting/palettes/copper_tiles": {
     "criteria": {
       "has_item": "2022-05-05 13:13:51 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/silver_ingot_compat_silents_mechanisms": {
+    "criteria": {
+      "has_item": "2022-05-06 09:08:45 +0200"
     },
     "done": true
   },
@@ -767,6 +779,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_silver": "2022-05-06 09:08:53 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_to_slab": {
     "criteria": {
       "has_storage_aluminum": "2022-05-06 08:23:50 +0200"
@@ -977,6 +995,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_from_dust": {
+    "criteria": {
+      "has_dust_silver": "2022-05-06 09:08:53 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/diving_helmet": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
@@ -986,6 +1010,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2022-05-02 12:33:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/silver_ingot_compat_iceandfire": {
+    "criteria": {
+      "has_item": "2022-05-06 09:08:45 +0200"
     },
     "done": true
   },
@@ -1073,9 +1103,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/blasting/silver_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2022-05-06 09:08:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2022-05-02 12:34:45 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_ingot_from_nuggets": {
+    "criteria": {
+      "has_item": "2022-05-06 09:21:28 +0200"
     },
     "done": true
   },
@@ -1088,6 +1130,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-05-02 12:34:44 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/ingot_silver_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2022-05-06 09:08:45 +0200"
     },
     "done": true
   },
@@ -1601,6 +1649,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_to_nugget_silver": {
+    "criteria": {
+      "has_ingot_silver": "2022-05-06 09:08:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
@@ -1805,6 +1859,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/blasting/silver_ingot_compat_mysticalworld": {
+    "criteria": {
+      "has_item": "2022-05-06 09:08:45 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/ingot_silver_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2022-05-06 09:08:45 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_yellow": {
     "criteria": {
       "has_sheetmetal": "2022-05-02 12:38:13 +0200"
@@ -1826,6 +1892,12 @@
   "create:root": {
     "criteria": {
       "0": "2022-05-02 12:32:57 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_silver_to_ingot_silver": {
+    "criteria": {
+      "has_nugget_silver": "2022-05-06 09:08:53 +0200"
     },
     "done": true
   },
@@ -1979,6 +2051,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/silver_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2022-05-06 09:08:45 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/lead_ingot_compat_mysticalworld": {
     "criteria": {
       "has_item": "2022-05-05 18:18:23 +0200"
@@ -2066,6 +2144,12 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-05-02 12:34:44 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/silver_ingot_compat_mysticalworld": {
+    "criteria": {
+      "has_item": "2022-05-06 09:08:45 +0200"
     },
     "done": true
   },
@@ -2291,6 +2375,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/silver_ingot_compat_silents_mechanisms": {
+    "criteria": {
+      "has_item": "2022-05-06 09:08:45 +0200"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
     "criteria": {
       "ingot": "2022-05-02 12:34:40 +0200"
@@ -2336,6 +2426,12 @@
   "simplemagnets:recipes/search/basic_demagnetization_coil": {
     "criteria": {
       "iron": "2022-05-02 12:34:40 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/blasting/silver_ingot_compat_iceandfire": {
+    "criteria": {
+      "has_item": "2022-05-06 09:08:45 +0200"
     },
     "done": true
   },
