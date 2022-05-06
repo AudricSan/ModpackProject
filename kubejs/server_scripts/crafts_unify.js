@@ -212,7 +212,21 @@ onEvent('recipes', e => {
     
     createPress('oreclumps:aluminum_ingot', 'kubejs:aluminum_sheet')
 
+    //Silver
+    replaceIO('immersiveengineering:ingot_silver'   , 'oreclumps:silver_ingot')
+    replaceIO('exnihilosequentia:ingot_silver'      , 'oreclumps:silver_ingot')
+    replaceIO('immersiveengineering:dust_silver'  , 'kubejs:silver_dust')
+    replaceIO('immersiveengineering:plate_silver' , 'kubejs:silver_sheet')
+
+    e.remove({ id: 'immersiveengineering:recycling/silver_sheet'})
+    e.remove({ id: 'immersiveengineering:crafting/plate_silver_hammering'})
+    e.remove({ id: 'immersiveengineering:metalpress/plate_silver'})
+
+    createMixingItem(['kubejs:silver_dust', 'kubejs:silver_dust'], 'oreclumps:silver_ingot', [6, 3], 'heated')
+    createMixingItem(['kubejs:silver_dust', 'kubejs:silver_dust'], 'oreclumps:silver_ingot', [3, 3], 'superheated')
     
+    createPress('oreclumps:silver_ingot', 'kubejs:silver_sheet')
+    createCrushing('immersiveengineering:storage_silver', 'create:crushed_silver_ore', 5, 1, false)
 
 
 

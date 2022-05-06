@@ -2,9 +2,9 @@ events.listen('item.tags', function (e) {
     //GLOBALS
     // e.remove('forge:sticks'                  , [''])
     // e.remove('forge:rods'                    , [''])
-    e.remove('forge:ingots'                  , ['immersiveengineering:ingot_lead', 'exnihilosequentia:ingot_lead', 'immersiveengineering:plate_uranium', 'boss_tools:steel_ingot', 'immersiveengineering:ingot_steel', 'immersiveengineering:ingot_copper', 'oreclumps:copper_ingot', 'tconstruct:copper_ingot', 'exnihilosequentia:ingot_copper', 'immersiveengineering:ingot_uranium', 'exnihilosequentia:ingot_uranium', 'oreclumps:uranium_ingot'])  
-    e.remove('forge:dusts'                   , ['immersiveengineering:dust_aluminum', 'immersiveengineering:dust_lead', 'immersiveengineering:dust_uranium', 'immersiveengineering:dust_steel'])                                                     
-    e.remove('forge:plates'                  , ['immersiveengineering:plate_aluminum', 'immersiveengineering:plate_uranium', 'immersiveengineering:plate_steel', 'immersiveengineering:plate_copper'])                                                 
+    e.remove('forge:ingots'                  , ['immersiveengineering:ingot_silver', 'exnihilosequentia:ingot_silver', 'immersiveengineering:ingot_lead', 'exnihilosequentia:ingot_lead', 'immersiveengineering:plate_uranium', 'boss_tools:steel_ingot', 'immersiveengineering:ingot_steel', 'immersiveengineering:ingot_copper', 'oreclumps:copper_ingot', 'tconstruct:copper_ingot', 'exnihilosequentia:ingot_copper', 'immersiveengineering:ingot_uranium', 'exnihilosequentia:ingot_uranium', 'oreclumps:uranium_ingot'])  
+    e.remove('forge:dusts'                   , ['immersiveengineering:dust_silver', 'immersiveengineering:dust_aluminum', 'immersiveengineering:dust_lead', 'immersiveengineering:dust_uranium', 'immersiveengineering:dust_steel'])                                                     
+    e.remove('forge:plates'                  , ['immersiveengineering:plate_silver', 'immersiveengineering:plate_aluminum', 'immersiveengineering:plate_uranium', 'immersiveengineering:plate_steel', 'immersiveengineering:plate_copper'])                                                 
     e.remove('minecraft:beacon_payment_items', ['boss_tools:steel_ingot', 'immersiveengineering:ingot_steel', 'immersiveengineering:ingot_copper', 'oreclumps:copper_ingot', 'tconstruct:copper_ingot', 'exnihilosequentia:ingot_copper'])                  
     e.remove('forge:beconpayment'            , ['boss_tools:steel_ingot', 'immersiveengineering:ingot_steel', 'immersiveengineering:ingot_copper', 'oreclumps:copper_ingot', 'tconstruct:copper_ingot', 'exnihilosequentia:ingot_copper'])      
     e.remove('forge:nuggets'                 , ['immersiveengineering:nugget_steel','boss_tools:steel_nugget', 'immersiveengineering:nugget_copper', 'tconstruct:copper_nugget', 'immersiveengineering:nugget_uranium'])
@@ -17,8 +17,8 @@ events.listen('item.tags', function (e) {
     e.add('forge:beconpayment'            , ['create:copper_ingot'])      
     e.add('minecraft:beacon_payment_items', ['create:copper_ingot'])                  
     e.add('forge:ingots'                  , ['kubejs:lead_dust'])  
-    // e.add('forge:dusts'                   , [])                                                     
-    e.add('forge:plates'                  , ['kubejs:uranium_sheet', 'kubejs:aluminum_sheet'])                                                 
+    e.add('forge:dusts'                   , ['kubejs:silver_dust'])                                                     
+    e.add('forge:plates'                  , ['kubejs:silver_sheet', 'kubejs:uranium_sheet', 'kubejs:aluminum_sheet'])                                                 
 
     //Steel
     e.remove('forge:ingots/steel'            , ['boss_tools:steel_ingot', 'immersiveengineering:ingot_steel'])
@@ -61,4 +61,12 @@ events.listen('item.tags', function (e) {
 
     e.add('forge:/aluminum', 'kubejs:aluminum_dust')
     e.add('forge:plates/aluminum', 'kubejs:aluminum_sheet')
+
+    //Silver
+    e.remove('forge:plates/silver', 'immersiveengineering:plate_silver')
+    e.remove('forge:dusts/silver', 'immersiveengineering:dust_silver')
+    e.remove('forge:ingots/silver', ['immersiveengineering:ingot_silver', 'exnihilosequentia:ingot_silver'])
+
+    e.add('forge:plates/silver',    'kubejs:silver_sheet')
+    e.add('forge:dusts/silver',     'kubejs:silver_dust')
 })
