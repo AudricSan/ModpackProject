@@ -1,507 +1,516 @@
-[08:06:21] [INFO ] SourceFile:18: Loaded script server_scripts:crafts_unify.js in 0.004 s
-[08:06:21] [INFO ] SourceFile:18: Loaded script server_scripts:script.js in 0.001 s
-[08:06:21] [INFO ] SourceFile:18: Loaded script server_scripts:tags_unify.js in 0.001 s
-[08:06:21] [INFO ] SourceFile:18: Loaded 3/3 KubeJS server scripts in 0.014 s
-[08:06:21] [INFO ] Scripts loaded
-[08:06:21] [INFO ] Scanning recipes...
-[08:06:23] [INFO ] [blocks] Found 495 tags, added 0 objects, removed 0 objects
-[08:06:23] [INFO ] [blocks] Found 495 tags, added 0 objects, removed 0 objects
-[08:06:23] [INFO ] [items] Found 762 tags, added 18 objects, removed 37 objects
-[08:06:23] [INFO ] [items] Found 762 tags, added 0 objects, removed 0 objects
-[08:06:23] [INFO ] [fluids] Found 126 tags, added 0 objects, removed 0 objects
-[08:06:23] [INFO ] [fluids] Found 126 tags, added 0 objects, removed 0 objects
-[08:06:23] [INFO ] [entity_types] Found 15 tags, added 0 objects, removed 0 objects
-[08:06:23] [INFO ] [entity_types] Found 15 tags, added 0 objects, removed 0 objects
-[08:06:23] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
-[08:06:23] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
-[08:06:23] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[08:06:23] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[08:06:23] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[08:06:23] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[08:06:23] [INFO ] [tile_entity_types] Found 3 tags, added 0 objects, removed 0 objects
-[08:06:23] [INFO ] [tile_entity_types] Found 3 tags, added 0 objects, removed 0 objects
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/lemon_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/lemon'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/lemon_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/lemon'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/mango_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/mango'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/mango_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/mango'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/aloe_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'atmospheric:aloe_leaves'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/aloe_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'atmospheric:aloe_leaves'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/peach_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/peach'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/peach_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/peach'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/apricot_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/apricot'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/apricot_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/apricot'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/gooseberry_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/gooseberry'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/gooseberry_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/gooseberry'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:compat/altar/blood_orange2[bloodmagic:altar]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: bloodmagic:altar
-[08:06:23] [WARN ] Failed to parse recipe createcafe:compat/altar/blood_orange2[bloodmagic:altar]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bloodmagic:altar'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'create_addon:helmet_brass[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_addon:brass_armor_helmet'
-[08:06:23] [WARN ] Failed to parse recipe create_addon:helmet_brass[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create_addon:brass_armor_helmet'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/lavender_tea_mixing2[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:lavender'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/lavender_tea_mixing2[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:lavender'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/lavender_tea_mixing3[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'abundance:lavender'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/lavender_tea_mixing3[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'abundance:lavender'
-[08:06:23] [WARN ] Failed to parse recipe 'create_addon:leggings_brass[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_addon:brass_armor_leggings'
-[08:06:23] [WARN ] Failed to parse recipe create_addon:leggings_brass[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create_addon:brass_armor_leggings'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/blackberry_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/blackberry'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/blackberry_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/blackberry'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[08:06:23] [WARN ] Failed to parse recipe 'morecreatestuffs:main/crushing/tagged/adamantium_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
-[08:06:23] [WARN ] Failed to parse recipe morecreatestuffs:main/crushing/tagged/adamantium_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/banana_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/banana'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/banana_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/banana'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/coconut_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crops/coconut'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/coconut_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crops/coconut'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/jackfruit_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/jackfruit'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/jackfruit_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/jackfruit'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/sweetberry_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/sweet_berries'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/sweetberry_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/sweet_berries'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createsupercharged:organics_n_emerald_charge[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'organics:nether_emerald_ore'
-[08:06:23] [WARN ] Failed to parse recipe createsupercharged:organics_n_emerald_charge[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'organics:nether_emerald_ore'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'biggerreactors:compat/mekanism/rotary/superheated_sodium[mekanism:rotary]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: mekanism:rotary
-[08:06:23] [WARN ] Failed to parse recipe biggerreactors:compat/mekanism/rotary/superheated_sodium[mekanism:rotary]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:rotary'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[08:06:23] [WARN ] Failed to parse recipe 'create_addon:boots_brass[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_addon:brass_armor_boots'
-[08:06:23] [WARN ] Failed to parse recipe create_addon:boots_brass[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create_addon:brass_armor_boots'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/lychee_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/lychee'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/lychee_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/lychee'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/strawberry_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/strawberry'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/strawberry_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/strawberry'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/lavender_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:lavender'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/lavender_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:lavender'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/lime_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/lime'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/lime_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/lime'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/cherry_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/cherry'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/cherry_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/cherry'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/raspberry_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/raspberry'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/raspberry_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/raspberry'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/grape_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/grape'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/grape_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/grape'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/pineapple_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/pineapple'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/pineapple_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/pineapple'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createsupercharged:organics_diamond_ore[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'organics:nether_diamond_ore'
-[08:06:23] [WARN ] Failed to parse recipe createsupercharged:organics_diamond_ore[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'organics:nether_diamond_ore'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/passionfruit_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/passionfruit'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/passionfruit_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/passionfruit'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/persimmon_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/persimmon'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/persimmon_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/persimmon'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/kiwi_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/kiwi'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/kiwi_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/kiwi'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/vanilla_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crops/vanillabean'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/vanilla_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crops/vanillabean'
-[08:06:23] [WARN ] Failed to parse recipe 'creategears:simple_gearshift_vertical[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'creategearaddon:cogwheels'
-[08:06:23] [WARN ] Failed to parse recipe creategears:simple_gearshift_vertical[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item tag 'creategearaddon:cogwheels'
-[08:06:23] [WARN ] Failed to parse recipe 'createsupercharged:organics_redstone_ore[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'organics:nether_redstone_ore'
-[08:06:23] [WARN ] Failed to parse recipe createsupercharged:organics_redstone_ore[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'organics:nether_redstone_ore'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/durian_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/durian'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/durian_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/durian'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategears:simple_gearshift_horizontal[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'creategearaddon:cogwheels'
-[08:06:23] [WARN ] Failed to parse recipe creategears:simple_gearshift_horizontal[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item tag 'creategearaddon:cogwheels'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/yucca_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'atmospheric:yucca_fruit'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/yucca_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'atmospheric:yucca_fruit'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/papaya_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/papaya'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/papaya_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/papaya'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/vanilla_tea_mixing2[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'neapolitan:dried_vanilla_pods'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/vanilla_tea_mixing2[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'neapolitan:dried_vanilla_pods'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/blueberry_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/blueberry'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/blueberry_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/blueberry'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/guava_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/guava'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/guava_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/guava'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createsupercharged:ghast_tear_recipe[create:mixing]'! Falling back to vanilla: com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
-[08:06:23] [WARN ] Failed to parse recipe createsupercharged:ghast_tear_recipe[create:mixing]: com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/grapefruit_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/grapefruit'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/grapefruit_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/grapefruit'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:compat/altar/blood_orange[bloodmagic:altar]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: bloodmagic:altar
-[08:06:23] [WARN ] Failed to parse recipe createcafe:compat/altar/blood_orange[bloodmagic:altar]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bloodmagic:altar'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'morecreatestuffs:main/crushing/tagged/mythril_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
-[08:06:23] [WARN ] Failed to parse recipe morecreatestuffs:main/crushing/tagged/mythril_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/plum_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/plum'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/plum_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/plum'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/pomegranate_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/pomegranate'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/pomegranate_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/pomegranate'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/watermelon_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/melon'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/watermelon_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/melon'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/orange_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/orange'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/orange_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/orange'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/starfruit_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/avocado'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/starfruit_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/avocado'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/avocado_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:vegetables/avocado'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/avocado_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:vegetables/avocado'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'createplus:enderite_ingot_recipe[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyondcreate:enderite_scrap'
-[08:06:23] [WARN ] Failed to parse recipe createplus:enderite_ingot_recipe[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'beyondcreate:enderite_scrap'
-[08:06:23] [WARN ] Failed to parse recipe 'exnihilotinkers:tinkers/casting_ichor_slime_dirt[tconstruct:casting_basin]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown fluid 'tconstruct:magma_cream'
-[08:06:23] [WARN ] Failed to parse recipe exnihilotinkers:tinkers/casting_ichor_slime_dirt[tconstruct:casting_basin]: com.google.gson.JsonSyntaxException: Unknown fluid 'tconstruct:magma_cream'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/fig_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/fig'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/fig_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/fig'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:compat/mana_infusion/mana_berries[botania:mana_infusion]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: botania:mana_infusion
-[08:06:23] [WARN ] Failed to parse recipe createcafe:compat/mana_infusion/mana_berries[botania:mana_infusion]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botania:mana_infusion'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/tamarind_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/tamarind'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/tamarind_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/tamarind'
-[08:06:23] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[08:06:23] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
-[08:06:23] [WARN ] Failed to parse recipe 'createcafe:mixing/dragonfruit_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/dragonfruit'
-[08:06:23] [WARN ] Failed to parse recipe createcafe:mixing/dragonfruit_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/dragonfruit'
-[08:06:23] [INFO ] Found 8837 recipes and 0 failed recipes in 177.7 ms
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:4: - immersiveengineering:crafting/ingot_steel_to_storage_steel[minecraft:crafting_shaped]: ['#forge:ingots/steel', 'immersiveengineering:ingot_steel'] -> ['immersiveengineering:storage_steel']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:5: - immersiveengineering:crafting/ingot_steel_to_nugget_steel[minecraft:crafting_shapeless]: ['immersiveengineering:ingot_steel'] -> ['9x immersiveengineering:nugget_steel']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:7: - immersiveengineering:crafting/plate_steel_hammering[minecraft:crafting_shapeless]: ['#forge:ingots/steel', 'immersiveengineering:hammer'] -> ['immersiveengineering:plate_steel']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:9: - immersiveengineering:crafting/ingot_steel_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_steel'] -> ['immersiveengineering:ingot_steel']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:10: - immersiveengineering:crafting/ingot_steel_from_dust[minecraft:smelting]: ['immersiveengineering:dust_steel'] -> ['immersiveengineering:ingot_steel']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:12: - immersiveengineering:crafting/storage_steel_to_ingot_steel[minecraft:crafting_shapeless]: ['immersiveengineering:storage_steel'] -> ['9x immersiveengineering:ingot_steel']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:13: - immersiveengineering:crafting/nugget_steel_to_ingot_steel[minecraft:crafting_shaped]: ['#forge:nuggets/steel', 'immersiveengineering:nugget_steel'] -> ['immersiveengineering:ingot_steel']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:15: - boss_tools:steel_ingot[minecraft:crafting_shaped]: ['boss_tools:steel_block'] -> ['9x boss_tools:steel_ingot']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:16: - boss_tools:steel_ingot_from_nugget[minecraft:crafting_shaped]: ['boss_tools:steel_nugget', '#forge:nuggets/steel'] -> ['boss_tools:steel_ingot']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:17: - boss_tools:blasting/steel_ingot[boss_tools:blasting]: ['#forge:ingots/iron'] -> ['boss_tools:steel_ingot']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:19: - boss_tools:steel_block[minecraft:crafting_shaped]: ['boss_tools:steel_ingot', 'boss_tools:steel_ingot', 'boss_tools:steel_ingot', 'boss_tools:steel_ingot', 'boss_tools:steel_ingot', 'boss_tools:steel_ingot', 'boss_tools:steel_ingot', 'boss_tools:steel_ingot', 'boss_tools:steel_ingot'] -> ['boss_tools:steel_block']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:20: - boss_tools:steel_nugget_from_ingot[minecraft:crafting_shapeless]: ['boss_tools:steel_ingot'] -> ['9x boss_tools:steel_nugget']
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_steel_to_ingot_steel[minecraft:crafting_shaped]: IN 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_pick[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:75: ~ immersiveengineering:crafting/nugget_steel_recycle_steel_chest_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_sword_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_shovel_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_steel_to_nugget_steel[minecraft:crafting_shapeless]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:75: ~ immersiveengineering:crafting/nugget_steel_recycle_shovel[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_steel_feet[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_steel_legs_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_axe_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:75: ~ immersiveengineering:crafting/nugget_steel_recycle_steel_feet_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_sword[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_steel_head[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_steel_head_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_steel_chest[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_pick_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_axe[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_steel_legs[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:26: - immersiveengineering:metalpress/rod_steel[immersiveengineering:metal_press]: ['#forge:ingots/steel', 'immersiveengineering:mold_rod'] -> ['2x immersiveengineering:stick_steel']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:27: - immersiveengineering:metalpress/gear_steel[immersiveengineering:metal_press]: [4x '#forge:ingots/steel', 'immersiveengineering:mold_gear'] -> ['kubejs:steel_gear']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:28: - immersiveengineering:metalpress/plate_steel[immersiveengineering:metal_press]: ['#forge:ingots/steel', 'immersiveengineering:mold_plate'] -> ['alloyed:steel_sheet']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:30: - boss_tools:compressing/compressed_steel[boss_tools:compressing]: ['#forge:ingots/steel'] -> ['boss_tools:compressed_steel']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:32: - tconstruct:smeltery/casting/metal/steel/rod_gold_cast[tconstruct:casting_table]: [] -> []
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:34: - tconstruct:smeltery/casting/metal/steel/rod_sand_cast[tconstruct:casting_table]: [] -> []
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:36: + minecraft:stonecutting: ['alloyed:steel_block'] -> ['boss_tools:steel_block']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:37: + minecraft:stonecutting: ['alloyed:steel_block'] -> ['immersiveengineering:storage_steel']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:39: + minecraft:stonecutting: ['boss_tools:steel_block'] -> ['alloyed:steel_block']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:40: + minecraft:stonecutting: ['immersiveengineering:storage_steel'] -> ['alloyed:steel_block']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:42: + minecraft:stonecutting: ['immersiveengineering:sheetmetal_steel'] -> ['immersiveengineering:slab_sheetmetal_steel']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:43: + minecraft:stonecutting: ['immersiveengineering:sheetmetal_steel'] -> ['immersiveengineering:slab_storage_steel']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:45: + minecraft:stonecutting: ['immersiveengineering:steel_scaffolding_standard'] -> ['immersiveengineering:slab_steel_scaffolding_standard']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:46: + minecraft:stonecutting: ['immersiveengineering:steel_scaffolding_standard'] -> ['immersiveengineering:stairs_steel_scaffolding_standard']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:47: + minecraft:stonecutting: ['immersiveengineering:steel_scaffolding_standard'] -> ['immersiveengineering:steel_slope']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:49: + minecraft:stonecutting: ['immersiveengineering:steel_scaffolding_grate_top'] -> ['immersiveengineering:stairs_steel_scaffolding_grate_top']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:50: + minecraft:stonecutting: ['immersiveengineering:steel_scaffolding_grate_top'] -> ['immersiveengineering:slab_steel_scaffolding_grate_top']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:52: + kubejs:shapeless: ['9x kubejs:steel_nugget'] -> ['alloyed:steel_ingot']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:53: + kubejs:shapeless: ['alloyed:steel_ingot'] -> ['9x kubejs:steel_nugget']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:55: + minecraft:smelting: ['kubejs:steel_crushed'] -> ['alloyed:steel_ingot']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:56: + minecraft:blasting: ['kubejs:steel_crushed'] -> ['alloyed:steel_ingot']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:388: + create:splashing: ['kubejs:steel_crushed'] -> ['10x kubejs:steel_nugget', Item.of('kubejs:steel_nugget', 5).withChance(0.3)]
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:65: + create:pressing: ['kubejs:steel_sequenced_compressed_plate'] -> ['kubejs:steel_sequenced_compressed_plate']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:65: + create:sequenced_assembly: ['alloyed:steel_sheet'] -> [Item.of('boss_tools:compressed_steel').withChance(32.0), Item.of('kubejs:steel_dust').withChance(2.0)]
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:322: + create:crushing: ['kubejs:steel_crushed'] -> ['kubejs:steel_dust', Item.of('kubejs:steel_dust', 3).withChance(0.3)]
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:357: + create:milling: ['kubejs:steel_crushed'] -> ['kubejs:steel_dust']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:337: + create:crushing: ['alloyed:steel_ingot'] -> ['kubejs:steel_crushed', Item.of('kubejs:steel_crushed', 3).withChance(0.3), Item.of('kubejs:steel_dust').withChance(0.125)]
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:357: + create:milling: ['alloyed:steel_ingot'] -> ['kubejs:steel_crushed']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:404: + create:mixing: ['6x kubejs:steel_dust', '3x kubejs:steel_dust'] -> ['alloyed:steel_ingot']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:404: + create:mixing: ['3x kubejs:steel_dust', '3x kubejs:steel_dust'] -> ['alloyed:steel_ingot']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:304: + create:cutting: ['boss_tools:compressed_steel'] -> ['5x kubejs:steel_gear', Item.of('kubejs:steel_dust', 20).withChance(0.125)]
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:275: + create:pressing: ['kubejs:steel_gear'] -> ['2x kubejs:steel_fan']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:304: + create:cutting: ['alloyed:steel_sheet'] -> ['6x immersiveengineering:stick_steel', Item.of('kubejs:steel_dust', 20).withChance(0.125)]
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:304: + create:cutting: ['alloyed:steel_ingot'] -> ['2x immersiveengineering:stick_steel', Item.of('kubejs:steel_dust', 20).withChance(0.125)]
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:94: - immersiveengineering:crafting/ingot_copper_to_nugget_copper[minecraft:crafting_shapeless]: ['immersiveengineering:ingot_copper'] -> ['9x immersiveengineering:nugget_copper']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:95: - tconstruct:common/materials/copper_nugget_from_ingot[minecraft:crafting_shapeless]: ['tconstruct:copper_ingot'] -> ['9x tconstruct:copper_nugget']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:96: - immersiveengineering:crafting/plate_copper_hammering[minecraft:crafting_shapeless]: ['#forge:ingots/copper', 'immersiveengineering:hammer'] -> ['immersiveengineering:plate_copper']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:99: - immersiveengineering:crafting/ingot_copper_to_storage_copper[minecraft:crafting_shaped]: ['#forge:ingots/copper', 'immersiveengineering:ingot_copper'] -> ['immersiveengineering:storage_copper']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:101: - immersiveengineering:crafting/wire_copper[minecraft:crafting_shapeless]: ['#forge:plates/copper', 'immersiveengineering:wirecutter'] -> ['immersiveengineering:wire_copper']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:103: - immersiveengineering:metalpress/wire_copper[immersiveengineering:metal_press]: ['#forge:ingots/copper', 'immersiveengineering:mold_wire'] -> ['2x immersiveengineering:wire_copper']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:104: - immersiveengineering:metalpress/rod_copper[immersiveengineering:metal_press]: ['#forge:ingots/copper', 'immersiveengineering:mold_rod'] -> ['2x createaddition:copper_rod']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:106: - tconstruct:smeltery/casting/metal/copper/wire_gold_cast[tconstruct:casting_table]: [] -> []
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:107: - tconstruct:smeltery/casting/metal/copper/rod_gold_cast[tconstruct:casting_table]: [] -> []
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:109: - tconstruct:smeltery/casting/metal/copper/rod_sand_cast[tconstruct:casting_table]: [] -> []
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:110: - tconstruct:smeltery/casting/metal/copper/wire_sand_cast[tconstruct:casting_table]: [] -> []
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:112: + minecraft:stonecutting: ['create:copper_block'] -> ['immersiveengineering:storage_copper']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:113: + minecraft:stonecutting: ['create:copper_block'] -> ['tconstruct:copper_block']
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_copper_to_storage_copper[minecraft:crafting_shaped]: IN 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_copper_to_nugget_copper[minecraft:crafting_shapeless]: IN 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/storage_copper_to_ingot_copper[minecraft:crafting_shapeless]: OUT 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_copper_from_dust_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_copper_to_ingot_copper[minecraft:crafting_shaped]: OUT 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_copper_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_copper_from_dust[minecraft:smelting]: OUT 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_copper[minecraft:smelting]: OUT 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ oreclumps:copper_ingot_from_blasting_raw_copper[minecraft:blasting]: OUT 'oreclumps:copper_ingot' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ oreclumps:copper_ingot_from_smelting_raw_copper[minecraft:smelting]: OUT 'oreclumps:copper_ingot' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ tconstruct:common/materials/copper_block_from_ingots[minecraft:crafting_shaped]: IN 'tconstruct:copper_ingot' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ tconstruct:common/materials/copper_nugget_from_ingot[minecraft:crafting_shapeless]: IN 'tconstruct:copper_ingot' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ tconstruct:common/materials/copper_ingot_smelting[minecraft:smelting]: OUT 'tconstruct:copper_ingot' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ tconstruct:common/materials/copper_ingot_blasting[minecraft:blasting]: OUT 'tconstruct:copper_ingot' -> 'create:copper_ingot'
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:75: ~ tconstruct:common/materials/copper_ingot_from_nuggets[minecraft:crafting_shaped]: OUT 'tconstruct:copper_ingot' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ tconstruct:common/materials/copper_ingot_from_block[minecraft:crafting_shapeless]: OUT 'tconstruct:copper_ingot' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ exnihilosequentia:ens_ingot_copper[minecraft:smelting]: OUT 'exnihilosequentia:ingot_copper' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ exnihilosequentia:ens_ingot_copper_blast[minecraft:blasting]: OUT 'exnihilosequentia:ingot_copper' -> 'create:copper_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/plate_copper_hammering[minecraft:crafting_shapeless]: OUT 'immersiveengineering:plate_copper' -> 'create:copper_sheet'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_copper_to_ingot_copper[minecraft:crafting_shaped]: IN 'immersiveengineering:nugget_copper' -> 'create:copper_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_copper_to_nugget_copper[minecraft:crafting_shapeless]: OUT 'immersiveengineering:nugget_copper' -> 'create:copper_nugget'
-[08:06:23] [INFO ] ~ tconstruct:common/materials/copper_ingot_from_nuggets[minecraft:crafting_shaped]: IN 'tconstruct:copper_nugget' -> 'create:copper_nugget'
-[08:06:23] [INFO ] ~ tconstruct:common/materials/copper_nugget_from_ingot[minecraft:crafting_shapeless]: OUT 'tconstruct:copper_nugget' -> 'create:copper_nugget'
-[08:06:23] [INFO ] ~ createaddition:crafting/multimeter[minecraft:crafting_shaped]: IN 'immersiveengineering:wire_copper' -> 'createaddition:copper_wire'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/wirecoil_copper[minecraft:crafting_shaped]: IN 'immersiveengineering:wire_copper' -> 'createaddition:copper_wire'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/toolupgrade_revolver_electro[minecraft:crafting_shaped]: IN 'immersiveengineering:wire_copper' -> 'createaddition:copper_wire'
-[08:06:23] [INFO ] ~ createaddition:crafting/copper_spool[minecraft:crafting_shaped]: IN 'immersiveengineering:wire_copper' -> 'createaddition:copper_wire'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/wire_copper[minecraft:crafting_shapeless]: OUT 'immersiveengineering:wire_copper' -> 'createaddition:copper_wire'
-[08:06:23] [INFO ] ~ immersiveengineering:metalpress/wire_copper[immersiveengineering:metal_press]: OUT 'immersiveengineering:wire_copper' -> 'createaddition:copper_wire'
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:304: + create:cutting: ['createaddition:copper_rod'] -> ['6x createaddition:copper_wire', Item.of('kubejs:copper_dust', 20).withChance(0.125)]
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:304: + create:cutting: ['create:copper_ingot'] -> ['3x createaddition:copper_rod', Item.of('kubejs:copper_dust', 20).withChance(0.125)]
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:304: + create:cutting: ['create:copper_sheet'] -> ['4x createaddition:copper_wire', Item.of('kubejs:copper_dust', 10).withChance(0.125)]
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:304: + create:cutting: ['create:copper_sheet'] -> ['4x createaddition:copper_rod', Item.of('kubejs:copper_dust', 10).withChance(0.125)]
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:404: + create:mixing: ['6x kubejs:copper_dust', '3x kubejs:copper_dust'] -> ['create:copper_ingot']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:404: + create:mixing: ['3x kubejs:copper_dust', '3x kubejs:copper_dust'] -> ['create:copper_ingot']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:136: - immersiveengineering:metalpress/plate_uranium[immersiveengineering:metal_press]: ['#forge:ingots/uranium', 'immersiveengineering:mold_plate'] -> ['kubejs:uranium_sheet']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:137: - immersiveengineering:crafting/plate_uranium_hammering[minecraft:crafting_shapeless]: ['#forge:ingots/uranium', 'immersiveengineering:hammer'] -> ['immersiveengineering:plate_uranium']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:140: - immersiveengineering:crafting/hammercrushing_uranium[immersiveengineering:hammer_crushing]: ['#forge:ores/uranium'] -> ['biggerreactors:yellorium_dust']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:142: - immersiveengineering:crusher/ore_uranium[immersiveengineering:crusher]: ['#forge:ores/uranium'] -> ['2x biggerreactors:yellorium_dust', Item.of('kubejs:lead_dust').withChance(0.1)]
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:143: - immersiveengineering:crusher/ingot_uranium[immersiveengineering:crusher]: ['#forge:ingots/uranium'] -> ['biggerreactors:yellorium_dust']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:145: - immersiveengineering:crafting/ingot_uranium_to_storage_uranium[minecraft:crafting_shaped]: ['#forge:ingots/uranium', 'immersiveengineering:ingot_uranium'] -> ['immersiveengineering:storage_uranium']
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_uranium_to_nugget_uranium[minecraft:crafting_shapeless]: IN 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_uranium_to_storage_uranium[minecraft:crafting_shaped]: IN 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_uranium_from_dust[minecraft:smelting]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
-[08:06:23] [INFO ] ~ create:blasting/ingot_uranium_compat_immersiveengineering[minecraft:blasting]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
-[08:06:23] [INFO ] ~ create:smelting/ingot_uranium_compat_immersiveengineering[minecraft:smelting]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_uranium_from_dust_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/storage_uranium_to_ingot_uranium[minecraft:crafting_shapeless]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:75: ~ immersiveengineering:crafting/nugget_uranium_to_ingot_uranium[minecraft:crafting_shaped]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_uranium_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_uranium[minecraft:smelting]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
-[08:06:23] [INFO ] ~ exnihilosequentia:ens_ingot_uranium[minecraft:smelting]: OUT 'exnihilosequentia:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
-[08:06:23] [INFO ] ~ exnihilosequentia:ens_ingot_uranium_blast[minecraft:blasting]: OUT 'exnihilosequentia:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
-[08:06:23] [INFO ] ~ oreclumps:uranium_ingot_from_blasting_raw_uranium[minecraft:blasting]: OUT 'oreclumps:uranium_ingot' -> 'biggerreactors:yellorium_ingot'
-[08:06:23] [INFO ] ~ oreclumps:uranium_ingot_from_smelting_raw_uranium[minecraft:smelting]: OUT 'oreclumps:uranium_ingot' -> 'biggerreactors:yellorium_ingot'
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:74: ~ immersiveengineering:crafting/nugget_uranium_to_ingot_uranium[minecraft:crafting_shaped]: IN 'immersiveengineering:nugget_uranium' -> 'kubejs:uranium_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_uranium_to_nugget_uranium[minecraft:crafting_shapeless]: OUT 'immersiveengineering:nugget_uranium' -> 'kubejs:uranium_nugget'
-[08:06:23] [INFO ] ~ create:splashing/immersiveengineering/crushed_uranium_ore[create:splashing]: OUT 'immersiveengineering:nugget_uranium' -> 'kubejs:uranium_nugget'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/plate_uranium_hammering[minecraft:crafting_shapeless]: OUT 'immersiveengineering:plate_uranium' -> 'kubejs:uranium_sheet'
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:275: + create:pressing: ['biggerreactors:yellorium_ingot'] -> ['kubejs:uranium_sheet']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:322: + create:crushing: ['create:crushed_uranium_ore'] -> ['biggerreactors:yellorium_dust', Item.of('biggerreactors:yellorium_dust', 3).withChance(0.3)]
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:357: + create:milling: ['create:crushed_uranium_ore'] -> ['biggerreactors:yellorium_dust']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:337: + create:crushing: ['biggerreactors:yellorium_ingot'] -> ['create:crushed_uranium_ore', Item.of('create:crushed_uranium_ore', 3).withChance(0.3), Item.of('biggerreactors:yellorium_dust').withChance(0.125)]
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:357: + create:milling: ['biggerreactors:yellorium_ingot'] -> ['create:crushed_uranium_ore']
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:163: + minecraft:stonecutting: ['biggerreactors:yellorium_block'] -> ['immersiveengineering:storage_uranium']
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_lead_to_storage_lead[minecraft:crafting_shaped]: IN 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_lead_to_nugget_lead[minecraft:crafting_shapeless]: IN 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/storage_lead_to_ingot_lead[minecraft:crafting_shapeless]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_lead_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_lead_from_dust[minecraft:smelting]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_lead_from_dust_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_lead[minecraft:smelting]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
-[08:06:23] [INFO ] ~ create:smelting/ingot_lead_compat_immersiveengineering[minecraft:smelting]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/nugget_lead_to_ingot_lead[minecraft:crafting_shaped]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
-[08:06:23] [INFO ] ~ create:blasting/ingot_lead_compat_immersiveengineering[minecraft:blasting]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
-[08:06:23] [INFO ] ~ exnihilosequentia:ens_ingot_lead_blast[minecraft:blasting]: OUT 'exnihilosequentia:ingot_lead' -> 'oreclumps:lead_ingot'
-[08:06:23] [INFO ] ~ exnihilosequentia:ens_ingot_lead[minecraft:smelting]: OUT 'exnihilosequentia:ingot_lead' -> 'oreclumps:lead_ingot'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_lead_from_dust_from_blasting[minecraft:blasting]: IN 'immersiveengineering:dust_lead' -> 'kubejs:lead_dust'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/ingot_lead_from_dust[minecraft:smelting]: IN 'immersiveengineering:dust_lead' -> 'kubejs:lead_dust'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/sheetmetal_lead[minecraft:crafting_shaped]: IN 'immersiveengineering:plate_lead' -> 'kubejs:lead_sheet'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/concrete_leaded[minecraft:crafting_shapeless]: IN 'immersiveengineering:plate_lead' -> 'kubejs:lead_sheet'
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:74: ~ immersiveengineering:crafting/wire_lead[minecraft:crafting_shapeless]: IN 'immersiveengineering:plate_lead' -> 'kubejs:lead_sheet'
-[08:06:23] [INFO ] ~ immersiveengineering:crafting/plate_lead_hammering[minecraft:crafting_shapeless]: OUT 'immersiveengineering:plate_lead' -> 'kubejs:lead_sheet'
-[08:06:23] [INFO ] ~ immersiveengineering:metalpress/plate_lead[immersiveengineering:metal_press]: OUT 'immersiveengineering:plate_lead' -> 'kubejs:lead_sheet'
-[08:06:23] [INFO ] server_scripts:crafts_unify.js:275: + create:pressing: ['biggerreactors:yellorium_ingot'] -> ['kubejs:lead_sheet']
-[08:06:23] [INFO ] Posted recipe events in 61.35 ms
-[08:06:24] [WARN ] Error parsing recipe immersivepetroleum:hydrotreater/sulfur_recovery[immersivepetroleum:hydrotreater]: {"type":"immersivepetroleum:hydrotreater","time":1,"energy":512,"result":{"fluid":"immersivepetroleum:diesel","amount":7},"input":{"tag":"forge:diesel_sulfur","amount":7},"secondary_input":{"tag":"minecraft:water","amount":7},"secondary_result":{"item":"immersiveengineering:dust_sulfur"}}: java.lang.IllegalArgumentException: Unexpected json object.
-[08:06:24] [WARN ] Error parsing recipe immersivepetroleum:distillationtower/oilcracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","byproducts":[{"item":"immersivepetroleum:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel_sulfur","amount":14},{"fluid":"immersivepetroleum:gasoline","amount":39}],"input":{"tag":"forge:crude_oil","amount":75},"time":1,"energy":2048}: java.lang.IllegalArgumentException: Unexpected json object.
-[08:06:24] [INFO ] Modified & removed recipes in 110.9 ms
-[08:06:24] [INFO ] Added recipes in 1.467 ms
-[08:06:24] [INFO ] Added 42 recipes, removed 35 recipes, modified 84 recipes, with 2 failed recipes and 0 fall-backed recipes
-[08:06:25] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
-[08:06:25] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[08:22:31] [INFO ] SourceFile:18: Loaded script server_scripts:crafts_unify.js in 0.003 s
+[08:22:31] [INFO ] SourceFile:18: Loaded script server_scripts:script.js in 0.0 s
+[08:22:31] [INFO ] SourceFile:18: Loaded script server_scripts:tags_unify.js in 0.001 s
+[08:22:31] [INFO ] SourceFile:18: Loaded 3/3 KubeJS server scripts in 0.005 s
+[08:22:31] [INFO ] Scripts loaded
+[08:22:31] [INFO ] Scanning recipes...
+[08:22:33] [INFO ] [blocks] Found 495 tags, added 0 objects, removed 0 objects
+[08:22:33] [INFO ] [blocks] Found 495 tags, added 0 objects, removed 0 objects
+[08:22:33] [INFO ] [items] Found 762 tags, added 18 objects, removed 37 objects
+[08:22:33] [INFO ] [items] Found 762 tags, added 0 objects, removed 0 objects
+[08:22:33] [INFO ] [fluids] Found 126 tags, added 0 objects, removed 0 objects
+[08:22:33] [INFO ] [fluids] Found 126 tags, added 0 objects, removed 0 objects
+[08:22:33] [INFO ] [entity_types] Found 15 tags, added 0 objects, removed 0 objects
+[08:22:33] [INFO ] [entity_types] Found 15 tags, added 0 objects, removed 0 objects
+[08:22:33] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[08:22:33] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[08:22:33] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[08:22:33] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[08:22:33] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[08:22:33] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[08:22:33] [INFO ] [tile_entity_types] Found 3 tags, added 0 objects, removed 0 objects
+[08:22:33] [INFO ] [tile_entity_types] Found 3 tags, added 0 objects, removed 0 objects
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/lemon_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/lemon'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/lemon_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/lemon'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/mango_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/mango'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/mango_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/mango'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/aloe_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'atmospheric:aloe_leaves'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/aloe_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'atmospheric:aloe_leaves'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/peach_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/peach'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/peach_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/peach'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/apricot_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/apricot'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/apricot_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/apricot'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/gooseberry_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/gooseberry'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/gooseberry_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/gooseberry'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:compat/altar/blood_orange2[bloodmagic:altar]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: bloodmagic:altar
+[08:22:33] [WARN ] Failed to parse recipe createcafe:compat/altar/blood_orange2[bloodmagic:altar]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bloodmagic:altar'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'create_addon:helmet_brass[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_addon:brass_armor_helmet'
+[08:22:33] [WARN ] Failed to parse recipe create_addon:helmet_brass[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create_addon:brass_armor_helmet'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/lavender_tea_mixing2[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:lavender'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/lavender_tea_mixing2[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:lavender'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/lavender_tea_mixing3[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'abundance:lavender'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/lavender_tea_mixing3[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'abundance:lavender'
+[08:22:33] [WARN ] Failed to parse recipe 'create_addon:leggings_brass[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_addon:brass_armor_leggings'
+[08:22:33] [WARN ] Failed to parse recipe create_addon:leggings_brass[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create_addon:brass_armor_leggings'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/blackberry_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/blackberry'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/blackberry_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/blackberry'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[08:22:33] [WARN ] Failed to parse recipe 'morecreatestuffs:main/crushing/tagged/adamantium_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
+[08:22:33] [WARN ] Failed to parse recipe morecreatestuffs:main/crushing/tagged/adamantium_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:adamantium_ore'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/banana_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/banana'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/banana_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/banana'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/coconut_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crops/coconut'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/coconut_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crops/coconut'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/jackfruit_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/jackfruit'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/jackfruit_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/jackfruit'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/sweetberry_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/sweet_berries'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/sweetberry_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/sweet_berries'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createsupercharged:organics_n_emerald_charge[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'organics:nether_emerald_ore'
+[08:22:33] [WARN ] Failed to parse recipe createsupercharged:organics_n_emerald_charge[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'organics:nether_emerald_ore'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'biggerreactors:compat/mekanism/rotary/superheated_sodium[mekanism:rotary]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: mekanism:rotary
+[08:22:33] [WARN ] Failed to parse recipe biggerreactors:compat/mekanism/rotary/superheated_sodium[mekanism:rotary]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:rotary'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[08:22:33] [WARN ] Failed to parse recipe 'create_addon:boots_brass[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_addon:brass_armor_boots'
+[08:22:33] [WARN ] Failed to parse recipe create_addon:boots_brass[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create_addon:brass_armor_boots'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/lychee_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/lychee'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/lychee_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/lychee'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/strawberry_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/strawberry'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/strawberry_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/strawberry'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/lavender_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:lavender'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/lavender_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:lavender'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/lime_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/lime'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/lime_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/lime'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/cherry_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/cherry'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/cherry_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/cherry'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/raspberry_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/raspberry'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/raspberry_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/raspberry'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/grape_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/grape'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/grape_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/grape'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/pineapple_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/pineapple'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/pineapple_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/pineapple'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createsupercharged:organics_diamond_ore[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'organics:nether_diamond_ore'
+[08:22:33] [WARN ] Failed to parse recipe createsupercharged:organics_diamond_ore[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'organics:nether_diamond_ore'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_redwood_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_redwood_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/passionfruit_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/passionfruit'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/passionfruit_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/passionfruit'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/persimmon_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/persimmon'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/persimmon_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/persimmon'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/kiwi_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/kiwi'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/kiwi_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/kiwi'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/jacaranda_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/jacaranda_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/vanilla_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crops/vanillabean'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/vanilla_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crops/vanillabean'
+[08:22:33] [WARN ] Failed to parse recipe 'creategears:simple_gearshift_vertical[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'creategearaddon:cogwheels'
+[08:22:33] [WARN ] Failed to parse recipe creategears:simple_gearshift_vertical[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item tag 'creategearaddon:cogwheels'
+[08:22:33] [WARN ] Failed to parse recipe 'createsupercharged:organics_redstone_ore[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'organics:nether_redstone_ore'
+[08:22:33] [WARN ] Failed to parse recipe createsupercharged:organics_redstone_ore[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'organics:nether_redstone_ore'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/durian_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/durian'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/durian_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/durian'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategears:simple_gearshift_horizontal[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'creategearaddon:cogwheels'
+[08:22:33] [WARN ] Failed to parse recipe creategears:simple_gearshift_horizontal[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item tag 'creategearaddon:cogwheels'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_umbran_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_umbran_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/yucca_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'atmospheric:yucca_fruit'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/yucca_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'atmospheric:yucca_fruit'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/papaya_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/papaya'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/papaya_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/papaya'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/vanilla_tea_mixing2[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'neapolitan:dried_vanilla_pods'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/vanilla_tea_mixing2[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'neapolitan:dried_vanilla_pods'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/blueberry_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/blueberry'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/blueberry_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/blueberry'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/guava_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/guava'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/guava_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/guava'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/shaftless_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/shaftless_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createsupercharged:ghast_tear_recipe[create:mixing]'! Falling back to vanilla: com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
+[08:22:33] [WARN ] Failed to parse recipe createsupercharged:ghast_tear_recipe[create:mixing]: com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_palm_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_palm_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/grapefruit_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/grapefruit'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/grapefruit_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/grapefruit'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/dead_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/dead_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_dead_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_dead_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:dead_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:compat/altar/blood_orange[bloodmagic:altar]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: bloodmagic:altar
+[08:22:33] [WARN ] Failed to parse recipe createcafe:compat/altar/blood_orange[bloodmagic:altar]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bloodmagic:altar'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'morecreatestuffs:main/crushing/tagged/mythril_ore[create:crushing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
+[08:22:33] [WARN ] Failed to parse recipe morecreatestuffs:main/crushing/tagged/mythril_ore[create:crushing]: com.google.gson.JsonSyntaxException: Unknown item 'simpleores:mythril_ore'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/cherry_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/cherry_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/plum_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/plum'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/plum_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/plum'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/pomegranate_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/pomegranate'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/pomegranate_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/pomegranate'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/watermelon_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/melon'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/watermelon_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/melon'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_hellbark_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_hellbark_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/orange_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/orange'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/orange_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/orange'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/starfruit_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/avocado'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/starfruit_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/avocado'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/magic_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/magic_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/avocado_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:vegetables/avocado'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/avocado_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:vegetables/avocado'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/half_shaft_willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/half_shaft_willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_palm_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_palm_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:palm_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/redwood_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/redwood_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:redwood_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_hellbark_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:hellbark_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_fir_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_fir_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'createplus:enderite_ingot_recipe[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'beyondcreate:enderite_scrap'
+[08:22:33] [WARN ] Failed to parse recipe createplus:enderite_ingot_recipe[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'beyondcreate:enderite_scrap'
+[08:22:33] [WARN ] Failed to parse recipe 'exnihilotinkers:tinkers/casting_ichor_slime_dirt[tconstruct:casting_basin]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown fluid 'tconstruct:magma_cream'
+[08:22:33] [WARN ] Failed to parse recipe exnihilotinkers:tinkers/casting_ichor_slime_dirt[tconstruct:casting_basin]: com.google.gson.JsonSyntaxException: Unknown fluid 'tconstruct:magma_cream'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/fig_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/fig'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/fig_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/fig'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_fir_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_fir_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:fir_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_magic_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_magic_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:magic_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_half_shaft_mahogany_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_half_shaft_mahogany_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_shaftless_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_umbran_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_umbran_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:umbran_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:sequenced_assembly/large_willow_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:sequenced_assembly/large_willow_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_planks'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_mahogany_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:mahogany_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:compat/mana_infusion/mana_berries[botania:mana_infusion]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: botania:mana_infusion
+[08:22:33] [WARN ] Failed to parse recipe createcafe:compat/mana_infusion/mana_berries[botania:mana_infusion]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botania:mana_infusion'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_willow_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_willow_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:willow_button'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/large_half_shaft_cherry_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/large_half_shaft_cherry_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:cherry_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/tamarind_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/tamarind'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/tamarind_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/tamarind'
+[08:22:33] [WARN ] Failed to parse recipe 'creategearaddon:crafting/kinetics/half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[08:22:33] [WARN ] Failed to parse recipe creategearaddon:crafting/kinetics/half_shaft_jacaranda_cogwheel[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:jacaranda_button'
+[08:22:33] [WARN ] Failed to parse recipe 'createcafe:mixing/dragonfruit_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/dragonfruit'
+[08:22:33] [WARN ] Failed to parse recipe createcafe:mixing/dragonfruit_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:fruits/dragonfruit'
+[08:22:33] [INFO ] Found 8837 recipes and 0 failed recipes in 140.7 ms
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:4: - immersiveengineering:crafting/ingot_steel_to_storage_steel[minecraft:crafting_shaped]: ['#forge:ingots/steel', 'immersiveengineering:ingot_steel'] -> ['immersiveengineering:storage_steel']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:5: - immersiveengineering:crafting/ingot_steel_to_nugget_steel[minecraft:crafting_shapeless]: ['immersiveengineering:ingot_steel'] -> ['9x immersiveengineering:nugget_steel']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:7: - immersiveengineering:crafting/plate_steel_hammering[minecraft:crafting_shapeless]: ['#forge:ingots/steel', 'immersiveengineering:hammer'] -> ['immersiveengineering:plate_steel']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:9: - immersiveengineering:crafting/stick_steel[minecraft:crafting_shaped]: ['#forge:ingots/steel'] -> ['4x immersiveengineering:stick_steel']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:11: - immersiveengineering:crafting/ingot_steel_from_dust_from_blasting[minecraft:blasting]: ['immersiveengineering:dust_steel'] -> ['immersiveengineering:ingot_steel']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:12: - immersiveengineering:crafting/ingot_steel_from_dust[minecraft:smelting]: ['immersiveengineering:dust_steel'] -> ['immersiveengineering:ingot_steel']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:14: - immersiveengineering:crafting/storage_steel_to_ingot_steel[minecraft:crafting_shapeless]: ['immersiveengineering:storage_steel'] -> ['9x immersiveengineering:ingot_steel']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:15: - immersiveengineering:crafting/nugget_steel_to_ingot_steel[minecraft:crafting_shaped]: ['#forge:nuggets/steel', 'immersiveengineering:nugget_steel'] -> ['immersiveengineering:ingot_steel']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:17: - boss_tools:steel_ingot[minecraft:crafting_shaped]: ['boss_tools:steel_block'] -> ['9x boss_tools:steel_ingot']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:18: - boss_tools:steel_ingot_from_nugget[minecraft:crafting_shaped]: ['boss_tools:steel_nugget', '#forge:nuggets/steel'] -> ['boss_tools:steel_ingot']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:19: - boss_tools:blasting/steel_ingot[boss_tools:blasting]: ['#forge:ingots/iron'] -> ['boss_tools:steel_ingot']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:21: - boss_tools:steel_block[minecraft:crafting_shaped]: ['boss_tools:steel_ingot', 'boss_tools:steel_ingot', 'boss_tools:steel_ingot', 'boss_tools:steel_ingot', 'boss_tools:steel_ingot', 'boss_tools:steel_ingot', 'boss_tools:steel_ingot', 'boss_tools:steel_ingot', 'boss_tools:steel_ingot'] -> ['boss_tools:steel_block']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:22: - boss_tools:steel_nugget_from_ingot[minecraft:crafting_shapeless]: ['boss_tools:steel_ingot'] -> ['9x boss_tools:steel_nugget']
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_to_ingot_steel[minecraft:crafting_shaped]: IN 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_pick[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_steel_feet_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:77: ~ immersiveengineering:crafting/nugget_steel_recycle_steel_chest_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_axe[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_pick_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_shovel_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_steel_head_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_shovel[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_sword[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_steel_feet[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_axe_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_steel_head[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_steel_legs_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_sword_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:77: ~ immersiveengineering:crafting/nugget_steel_recycle_steel_legs[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_steel_to_nugget_steel[minecraft:crafting_shapeless]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_steel_recycle_steel_chest[minecraft:smelting]: OUT 'immersiveengineering:nugget_steel' -> 'kubejs:steel_nugget'
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:28: - immersiveengineering:metalpress/rod_steel[immersiveengineering:metal_press]: ['#forge:ingots/steel', 'immersiveengineering:mold_rod'] -> ['2x immersiveengineering:stick_steel']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:29: - immersiveengineering:metalpress/gear_steel[immersiveengineering:metal_press]: [4x '#forge:ingots/steel', 'immersiveengineering:mold_gear'] -> ['kubejs:steel_gear']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:30: - immersiveengineering:metalpress/plate_steel[immersiveengineering:metal_press]: ['#forge:ingots/steel', 'immersiveengineering:mold_plate'] -> ['alloyed:steel_sheet']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:32: - boss_tools:compressing/compressed_steel[boss_tools:compressing]: ['#forge:ingots/steel'] -> ['boss_tools:compressed_steel']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:34: - tconstruct:smeltery/casting/metal/steel/rod_gold_cast[tconstruct:casting_table]: [] -> []
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:36: - tconstruct:smeltery/casting/metal/steel/rod_sand_cast[tconstruct:casting_table]: [] -> []
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:38: + minecraft:stonecutting: ['alloyed:steel_block'] -> ['boss_tools:steel_block']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:39: + minecraft:stonecutting: ['alloyed:steel_block'] -> ['immersiveengineering:storage_steel']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:41: + minecraft:stonecutting: ['boss_tools:steel_block'] -> ['alloyed:steel_block']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:42: + minecraft:stonecutting: ['immersiveengineering:storage_steel'] -> ['alloyed:steel_block']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:44: + minecraft:stonecutting: ['immersiveengineering:sheetmetal_steel'] -> ['immersiveengineering:slab_sheetmetal_steel']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:45: + minecraft:stonecutting: ['immersiveengineering:sheetmetal_steel'] -> ['immersiveengineering:slab_storage_steel']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:47: + minecraft:stonecutting: ['immersiveengineering:steel_scaffolding_standard'] -> ['immersiveengineering:slab_steel_scaffolding_standard']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:48: + minecraft:stonecutting: ['immersiveengineering:steel_scaffolding_standard'] -> ['immersiveengineering:stairs_steel_scaffolding_standard']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:49: + minecraft:stonecutting: ['immersiveengineering:steel_scaffolding_standard'] -> ['immersiveengineering:steel_slope']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:51: + minecraft:stonecutting: ['immersiveengineering:steel_scaffolding_grate_top'] -> ['immersiveengineering:stairs_steel_scaffolding_grate_top']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:52: + minecraft:stonecutting: ['immersiveengineering:steel_scaffolding_grate_top'] -> ['immersiveengineering:slab_steel_scaffolding_grate_top']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:54: + kubejs:shapeless: ['9x kubejs:steel_nugget'] -> ['alloyed:steel_ingot']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:55: + kubejs:shapeless: ['alloyed:steel_ingot'] -> ['9x kubejs:steel_nugget']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:57: + minecraft:smelting: ['kubejs:steel_crushed'] -> ['alloyed:steel_ingot']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:58: + minecraft:blasting: ['kubejs:steel_crushed'] -> ['alloyed:steel_ingot']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:368: + create:splashing: ['kubejs:steel_crushed'] -> ['10x kubejs:steel_nugget', Item.of('kubejs:steel_nugget', 5).withChance(0.3)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:67: + create:pressing: ['kubejs:steel_sequenced_compressed_plate'] -> ['kubejs:steel_sequenced_compressed_plate']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:67: + create:sequenced_assembly: ['alloyed:steel_sheet'] -> [Item.of('boss_tools:compressed_steel').withChance(32.0), Item.of('kubejs:steel_dust').withChance(2.0)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:302: + create:crushing: ['kubejs:steel_crushed'] -> ['kubejs:steel_dust', Item.of('kubejs:steel_dust', 3).withChance(0.3)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:337: + create:milling: ['kubejs:steel_crushed'] -> ['kubejs:steel_dust']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:317: + create:crushing: ['alloyed:steel_ingot'] -> ['kubejs:steel_crushed', Item.of('kubejs:steel_crushed', 3).withChance(0.3), Item.of('kubejs:steel_dust').withChance(0.125)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:337: + create:milling: ['alloyed:steel_ingot'] -> ['kubejs:steel_crushed']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:384: + create:mixing: ['6x kubejs:steel_dust', '3x kubejs:steel_dust'] -> ['alloyed:steel_ingot']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:384: + create:mixing: ['3x kubejs:steel_dust', '3x kubejs:steel_dust'] -> ['alloyed:steel_ingot']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:284: + create:cutting: ['boss_tools:compressed_steel'] -> ['5x kubejs:steel_gear', Item.of('kubejs:steel_dust', 20).withChance(0.125)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:255: + create:pressing: ['kubejs:steel_gear'] -> ['2x kubejs:steel_fan']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:284: + create:cutting: ['alloyed:steel_sheet'] -> ['6x immersiveengineering:stick_steel', Item.of('kubejs:steel_dust', 20).withChance(0.125)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:284: + create:cutting: ['alloyed:steel_ingot'] -> ['2x immersiveengineering:stick_steel', Item.of('kubejs:steel_dust', 20).withChance(0.125)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:96: - immersiveengineering:crafting/ingot_copper_to_nugget_copper[minecraft:crafting_shapeless]: ['immersiveengineering:ingot_copper'] -> ['9x immersiveengineering:nugget_copper']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:97: - tconstruct:common/materials/copper_nugget_from_ingot[minecraft:crafting_shapeless]: ['tconstruct:copper_ingot'] -> ['9x tconstruct:copper_nugget']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:98: - immersiveengineering:crafting/plate_copper_hammering[minecraft:crafting_shapeless]: ['#forge:ingots/copper', 'immersiveengineering:hammer'] -> ['immersiveengineering:plate_copper']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:101: - immersiveengineering:crafting/ingot_copper_to_storage_copper[minecraft:crafting_shaped]: ['#forge:ingots/copper', 'immersiveengineering:ingot_copper'] -> ['immersiveengineering:storage_copper']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:103: - immersiveengineering:crafting/wire_copper[minecraft:crafting_shapeless]: ['#forge:plates/copper', 'immersiveengineering:wirecutter'] -> ['immersiveengineering:wire_copper']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:105: - immersiveengineering:metalpress/wire_copper[immersiveengineering:metal_press]: ['#forge:ingots/copper', 'immersiveengineering:mold_wire'] -> ['2x immersiveengineering:wire_copper']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:106: - immersiveengineering:metalpress/rod_copper[immersiveengineering:metal_press]: ['#forge:ingots/copper', 'immersiveengineering:mold_rod'] -> ['2x createaddition:copper_rod']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:108: - tconstruct:smeltery/casting/metal/copper/wire_gold_cast[tconstruct:casting_table]: [] -> []
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:109: - tconstruct:smeltery/casting/metal/copper/rod_gold_cast[tconstruct:casting_table]: [] -> []
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:111: - tconstruct:smeltery/casting/metal/copper/rod_sand_cast[tconstruct:casting_table]: [] -> []
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:112: - tconstruct:smeltery/casting/metal/copper/wire_sand_cast[tconstruct:casting_table]: [] -> []
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:114: + minecraft:stonecutting: ['create:copper_block'] -> ['immersiveengineering:storage_copper']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:115: + minecraft:stonecutting: ['create:copper_block'] -> ['tconstruct:copper_block']
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_copper_to_storage_copper[minecraft:crafting_shaped]: IN 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_copper_to_nugget_copper[minecraft:crafting_shapeless]: IN 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/storage_copper_to_ingot_copper[minecraft:crafting_shapeless]: OUT 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_copper[minecraft:smelting]: OUT 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_copper_to_ingot_copper[minecraft:crafting_shaped]: OUT 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_copper_from_dust_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_copper_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_copper_from_dust[minecraft:smelting]: OUT 'immersiveengineering:ingot_copper' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ oreclumps:copper_ingot_from_smelting_raw_copper[minecraft:smelting]: OUT 'oreclumps:copper_ingot' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ oreclumps:copper_ingot_from_blasting_raw_copper[minecraft:blasting]: OUT 'oreclumps:copper_ingot' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ tconstruct:common/materials/copper_block_from_ingots[minecraft:crafting_shaped]: IN 'tconstruct:copper_ingot' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ tconstruct:common/materials/copper_nugget_from_ingot[minecraft:crafting_shapeless]: IN 'tconstruct:copper_ingot' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ tconstruct:common/materials/copper_ingot_blasting[minecraft:blasting]: OUT 'tconstruct:copper_ingot' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ tconstruct:common/materials/copper_ingot_smelting[minecraft:smelting]: OUT 'tconstruct:copper_ingot' -> 'create:copper_ingot'
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:77: ~ tconstruct:common/materials/copper_ingot_from_nuggets[minecraft:crafting_shaped]: OUT 'tconstruct:copper_ingot' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ tconstruct:common/materials/copper_ingot_from_block[minecraft:crafting_shapeless]: OUT 'tconstruct:copper_ingot' -> 'create:copper_ingot'
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:77: ~ exnihilosequentia:ens_ingot_copper[minecraft:smelting]: OUT 'exnihilosequentia:ingot_copper' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ exnihilosequentia:ens_ingot_copper_blast[minecraft:blasting]: OUT 'exnihilosequentia:ingot_copper' -> 'create:copper_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/plate_copper_hammering[minecraft:crafting_shapeless]: OUT 'immersiveengineering:plate_copper' -> 'create:copper_sheet'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_copper_to_ingot_copper[minecraft:crafting_shaped]: IN 'immersiveengineering:nugget_copper' -> 'create:copper_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_copper_to_nugget_copper[minecraft:crafting_shapeless]: OUT 'immersiveengineering:nugget_copper' -> 'create:copper_nugget'
+[08:22:33] [INFO ] ~ tconstruct:common/materials/copper_ingot_from_nuggets[minecraft:crafting_shaped]: IN 'tconstruct:copper_nugget' -> 'create:copper_nugget'
+[08:22:33] [INFO ] ~ tconstruct:common/materials/copper_nugget_from_ingot[minecraft:crafting_shapeless]: OUT 'tconstruct:copper_nugget' -> 'create:copper_nugget'
+[08:22:33] [INFO ] ~ createaddition:crafting/multimeter[minecraft:crafting_shaped]: IN 'immersiveengineering:wire_copper' -> 'createaddition:copper_wire'
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:76: ~ immersiveengineering:crafting/wirecoil_copper[minecraft:crafting_shaped]: IN 'immersiveengineering:wire_copper' -> 'createaddition:copper_wire'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/toolupgrade_revolver_electro[minecraft:crafting_shaped]: IN 'immersiveengineering:wire_copper' -> 'createaddition:copper_wire'
+[08:22:33] [INFO ] ~ createaddition:crafting/copper_spool[minecraft:crafting_shaped]: IN 'immersiveengineering:wire_copper' -> 'createaddition:copper_wire'
+[08:22:33] [INFO ] ~ immersiveengineering:metalpress/wire_copper[immersiveengineering:metal_press]: OUT 'immersiveengineering:wire_copper' -> 'createaddition:copper_wire'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/wire_copper[minecraft:crafting_shapeless]: OUT 'immersiveengineering:wire_copper' -> 'createaddition:copper_wire'
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:284: + create:cutting: ['createaddition:copper_rod'] -> ['6x createaddition:copper_wire', Item.of('kubejs:copper_dust', 20).withChance(0.125)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:284: + create:cutting: ['create:copper_ingot'] -> ['3x createaddition:copper_rod', Item.of('kubejs:copper_dust', 20).withChance(0.125)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:284: + create:cutting: ['create:copper_sheet'] -> ['4x createaddition:copper_wire', Item.of('kubejs:copper_dust', 10).withChance(0.125)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:284: + create:cutting: ['create:copper_sheet'] -> ['4x createaddition:copper_rod', Item.of('kubejs:copper_dust', 10).withChance(0.125)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:384: + create:mixing: ['6x kubejs:copper_dust', '3x kubejs:copper_dust'] -> ['create:copper_ingot']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:384: + create:mixing: ['3x kubejs:copper_dust', '3x kubejs:copper_dust'] -> ['create:copper_ingot']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:138: - immersiveengineering:metalpress/plate_uranium[immersiveengineering:metal_press]: ['#forge:ingots/uranium', 'immersiveengineering:mold_plate'] -> ['kubejs:uranium_sheet']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:139: - immersiveengineering:crafting/plate_uranium_hammering[minecraft:crafting_shapeless]: ['#forge:ingots/uranium', 'immersiveengineering:hammer'] -> ['immersiveengineering:plate_uranium']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:142: - immersiveengineering:crafting/hammercrushing_uranium[immersiveengineering:hammer_crushing]: ['#forge:ores/uranium'] -> ['biggerreactors:yellorium_dust']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:144: - immersiveengineering:crusher/ore_uranium[immersiveengineering:crusher]: ['#forge:ores/uranium'] -> ['2x biggerreactors:yellorium_dust', Item.of('kubejs:lead_dust').withChance(0.1)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:145: - immersiveengineering:crusher/ingot_uranium[immersiveengineering:crusher]: ['#forge:ingots/uranium'] -> ['biggerreactors:yellorium_dust']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:147: - immersiveengineering:crafting/ingot_uranium_to_storage_uranium[minecraft:crafting_shaped]: ['#forge:ingots/uranium', 'immersiveengineering:ingot_uranium'] -> ['immersiveengineering:storage_uranium']
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_uranium_to_nugget_uranium[minecraft:crafting_shapeless]: IN 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_uranium_to_storage_uranium[minecraft:crafting_shaped]: IN 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_uranium_to_ingot_uranium[minecraft:crafting_shaped]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
+[08:22:33] [INFO ] ~ create:smelting/ingot_uranium_compat_immersiveengineering[minecraft:smelting]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
+[08:22:33] [INFO ] ~ create:blasting/ingot_uranium_compat_immersiveengineering[minecraft:blasting]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_uranium[minecraft:smelting]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_uranium_from_dust[minecraft:smelting]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_uranium_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/storage_uranium_to_ingot_uranium[minecraft:crafting_shapeless]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_uranium_from_dust_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:77: ~ exnihilosequentia:ens_ingot_uranium[minecraft:smelting]: OUT 'exnihilosequentia:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
+[08:22:33] [INFO ] ~ exnihilosequentia:ens_ingot_uranium_blast[minecraft:blasting]: OUT 'exnihilosequentia:ingot_uranium' -> 'biggerreactors:yellorium_ingot'
+[08:22:33] [INFO ] ~ oreclumps:uranium_ingot_from_blasting_raw_uranium[minecraft:blasting]: OUT 'oreclumps:uranium_ingot' -> 'biggerreactors:yellorium_ingot'
+[08:22:33] [INFO ] ~ oreclumps:uranium_ingot_from_smelting_raw_uranium[minecraft:smelting]: OUT 'oreclumps:uranium_ingot' -> 'biggerreactors:yellorium_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_uranium_to_ingot_uranium[minecraft:crafting_shaped]: IN 'immersiveengineering:nugget_uranium' -> 'kubejs:uranium_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_uranium_to_nugget_uranium[minecraft:crafting_shapeless]: OUT 'immersiveengineering:nugget_uranium' -> 'kubejs:uranium_nugget'
+[08:22:33] [INFO ] ~ create:splashing/immersiveengineering/crushed_uranium_ore[create:splashing]: OUT 'immersiveengineering:nugget_uranium' -> 'kubejs:uranium_nugget'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/plate_uranium_hammering[minecraft:crafting_shapeless]: OUT 'immersiveengineering:plate_uranium' -> 'kubejs:uranium_sheet'
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:255: + create:pressing: ['biggerreactors:yellorium_ingot'] -> ['kubejs:uranium_sheet']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:302: + create:crushing: ['create:crushed_uranium_ore'] -> ['biggerreactors:yellorium_dust', Item.of('biggerreactors:yellorium_dust', 3).withChance(0.3)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:337: + create:milling: ['create:crushed_uranium_ore'] -> ['biggerreactors:yellorium_dust']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:317: + create:crushing: ['biggerreactors:yellorium_ingot'] -> ['create:crushed_uranium_ore', Item.of('create:crushed_uranium_ore', 3).withChance(0.3), Item.of('biggerreactors:yellorium_dust').withChance(0.125)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:337: + create:milling: ['biggerreactors:yellorium_ingot'] -> ['create:crushed_uranium_ore']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:165: + minecraft:stonecutting: ['biggerreactors:yellorium_block'] -> ['immersiveengineering:storage_uranium']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:168: - immersiveengineering:crafting/wire_lead[minecraft:crafting_shapeless]: ['#forge:plates/lead', 'immersiveengineering:wirecutter'] -> ['immersiveengineering:wire_lead']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:169: - immersiveengineering:metalpress/wire_lead[immersiveengineering:metal_press]: ['#forge:ingots/lead', 'immersiveengineering:mold_wire'] -> ['2x immersiveengineering:wire_lead']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:170: - tconstruct:smeltery/casting/metal/lead/wire_gold_cast[tconstruct:casting_table]: [] -> []
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:171: - tconstruct:smeltery/casting/metal/lead/wire_sand_cast[tconstruct:casting_table]: [] -> []
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_lead_to_storage_lead[minecraft:crafting_shaped]: IN 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_lead_to_nugget_lead[minecraft:crafting_shapeless]: IN 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/storage_lead_to_ingot_lead[minecraft:crafting_shapeless]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_lead[minecraft:smelting]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
+[08:22:33] [INFO ] ~ create:blasting/ingot_lead_compat_immersiveengineering[minecraft:blasting]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_lead_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/nugget_lead_to_ingot_lead[minecraft:crafting_shaped]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
+[08:22:33] [INFO ] ~ create:smelting/ingot_lead_compat_immersiveengineering[minecraft:smelting]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_lead_from_dust[minecraft:smelting]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:77: ~ immersiveengineering:crafting/ingot_lead_from_dust_from_blasting[minecraft:blasting]: OUT 'immersiveengineering:ingot_lead' -> 'oreclumps:lead_ingot'
+[08:22:33] [INFO ] ~ exnihilosequentia:ens_ingot_lead_blast[minecraft:blasting]: OUT 'exnihilosequentia:ingot_lead' -> 'oreclumps:lead_ingot'
+[08:22:33] [INFO ] ~ exnihilosequentia:ens_ingot_lead[minecraft:smelting]: OUT 'exnihilosequentia:ingot_lead' -> 'oreclumps:lead_ingot'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_lead_from_dust[minecraft:smelting]: IN 'immersiveengineering:dust_lead' -> 'kubejs:lead_dust'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/ingot_lead_from_dust_from_blasting[minecraft:blasting]: IN 'immersiveengineering:dust_lead' -> 'kubejs:lead_dust'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/sheetmetal_lead[minecraft:crafting_shaped]: IN 'immersiveengineering:plate_lead' -> 'kubejs:lead_sheet'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/wire_lead[minecraft:crafting_shapeless]: IN 'immersiveengineering:plate_lead' -> 'kubejs:lead_sheet'
+[08:22:33] [INFO ] ~ immersiveengineering:crafting/concrete_leaded[minecraft:crafting_shapeless]: IN 'immersiveengineering:plate_lead' -> 'kubejs:lead_sheet'
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:77: ~ immersiveengineering:crafting/plate_lead_hammering[minecraft:crafting_shapeless]: OUT 'immersiveengineering:plate_lead' -> 'kubejs:lead_sheet'
+[08:22:33] [INFO ] ~ immersiveengineering:metalpress/plate_lead[immersiveengineering:metal_press]: OUT 'immersiveengineering:plate_lead' -> 'kubejs:lead_sheet'
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:255: + create:pressing: ['biggerreactors:yellorium_ingot'] -> ['kubejs:lead_sheet']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:284: + create:cutting: ['kubejs:lead_sheet'] -> ['4x immersiveengineering:wire_lead', Item.of('kubejs:lead_dust', 10).withChance(0.125)]
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:384: + create:mixing: ['6x kubejs:lead_dust', '3x kubejs:lead_dust'] -> ['oreclumps:lead_ingot']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:384: + create:mixing: ['3x kubejs:lead_dust', '3x kubejs:lead_dust'] -> ['oreclumps:lead_ingot']
+[08:22:33] [INFO ] server_scripts:crafts_unify.js:302: + create:crushing: ['immersiveengineering:storage_lead'] -> ['5x create:crushed_lead_ore', Item.of('create:crushed_lead_ore').withChance(0.3)]
+[08:22:33] [INFO ] Posted recipe events in 53.98 ms
+[08:22:33] [WARN ] Error parsing recipe immersivepetroleum:hydrotreater/sulfur_recovery[immersivepetroleum:hydrotreater]: {"type":"immersivepetroleum:hydrotreater","time":1,"energy":512,"result":{"fluid":"immersivepetroleum:diesel","amount":7},"input":{"tag":"forge:diesel_sulfur","amount":7},"secondary_input":{"tag":"minecraft:water","amount":7},"secondary_result":{"item":"immersiveengineering:dust_sulfur"}}: java.lang.IllegalArgumentException: Unexpected json object.
+[08:22:33] [WARN ] Error parsing recipe immersivepetroleum:distillationtower/oilcracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","byproducts":[{"item":"immersivepetroleum:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel_sulfur","amount":14},{"fluid":"immersivepetroleum:gasoline","amount":39}],"input":{"tag":"forge:crude_oil","amount":75},"time":1,"energy":2048}: java.lang.IllegalArgumentException: Unexpected json object.
+[08:22:33] [INFO ] Modified & removed recipes in 80.50 ms
+[08:22:33] [INFO ] Added recipes in 640.8 μs
+[08:22:33] [INFO ] Added 46 recipes, removed 40 recipes, modified 84 recipes, with 2 failed recipes and 0 fall-backed recipes
+[08:22:34] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[08:22:34] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects

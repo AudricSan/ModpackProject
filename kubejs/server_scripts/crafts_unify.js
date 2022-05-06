@@ -6,6 +6,8 @@ onEvent('recipes', e => {
 
     e.remove({ id: 'immersiveengineering:crafting/plate_steel_hammering' })
 
+    e.remove({ id: 'immersiveengineering:crafting/stick_steel' })
+
     e.remove({ id: 'immersiveengineering:crafting/ingot_steel_from_dust_from_blasting' })
     e.remove({ id: 'immersiveengineering:crafting/ingot_steel_from_dust' })
 
@@ -163,33 +165,24 @@ onEvent('recipes', e => {
     e.stonecutting('immersiveengineering:storage_uranium', 'biggerreactors:yellorium_block')
 
     //Lead  
+    e.remove({ id: 'immersiveengineering:crafting/wire_lead'})
+    e.remove({ id: 'immersiveengineering:metalpress/wire_lead'})
+    e.remove({ id: 'tconstruct:smeltery/casting/metal/lead/wire_gold_cast' })
+    e.remove({ id: 'tconstruct:smeltery/casting/metal/lead/wire_sand_cast' })
+    
     replaceIO('immersiveengineering:ingot_lead' , 'oreclumps:lead_ingot')
     replaceIO('exnihilosequentia:ingot_lead'    , 'oreclumps:lead_ingot')
     replaceIO('immersiveengineering:dust_lead'  , 'kubejs:lead_dust')
     replaceIO('immersiveengineering:plate_lead' , 'kubejs:lead_sheet')
 
     createPress('biggerreactors:yellorium_ingot', 'kubejs:lead_sheet')
+    
+    createCutting('kubejs:lead_sheet', 'immersiveengineering:wire_lead', 4, 10, 'kubejs:lead_dust')
 
+    createMixingItem(['kubejs:lead_dust', 'kubejs:lead_dust'], 'oreclumps:lead_ingot', [6, 3], 'heated')
+    createMixingItem(['kubejs:lead_dust', 'kubejs:lead_dust'], 'oreclumps:lead_ingot', [3, 3], 'superheated')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    createCrushing('immersiveengineering:storage_lead', 'create:crushed_lead_ore', 5, 1, false)
 
 
 

@@ -833,6 +833,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_lead_from_slab": {
+    "criteria": {
+      "has_storage_lead": "2022-05-06 08:19:00 +0200"
+    },
+    "done": true
+  },
   "alloyed:recipes/main_group/crafting/bronze_block": {
     "criteria": {
       "has_ingredient": "2022-05-02 12:34:48 +0200"
@@ -1532,6 +1538,12 @@
   "oreclumps:recipes/building_blocks/raw_lead_block": {
     "criteria": {
       "has_raw_ore": "2022-05-05 18:18:28 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/storage_lead_to_slab": {
+    "criteria": {
+      "has_storage_lead": "2022-05-06 08:19:00 +0200"
     },
     "done": true
   },
