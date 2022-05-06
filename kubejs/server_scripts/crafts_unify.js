@@ -168,7 +168,10 @@ onEvent('recipes', e => {
     e.remove({ id: 'immersiveengineering:crafting/wire_lead'})
     e.remove({ id: 'immersiveengineering:metalpress/wire_lead'})
     e.remove({ id: 'tconstruct:smeltery/casting/metal/lead/wire_gold_cast' })
+    e.remove({ id: 'immersiveengineering:crusher/ingot_lead'})
     e.remove({ id: 'tconstruct:smeltery/casting/metal/lead/wire_sand_cast' })
+
+    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_lead'})
     
     replaceIO('immersiveengineering:ingot_lead' , 'oreclumps:lead_ingot')
     replaceIO('exnihilosequentia:ingot_lead'    , 'oreclumps:lead_ingot')
@@ -178,6 +181,9 @@ onEvent('recipes', e => {
     createPress('biggerreactors:yellorium_ingot', 'kubejs:lead_sheet')
     
     createCutting('kubejs:lead_sheet', 'immersiveengineering:wire_lead', 4, 10, 'kubejs:lead_dust')
+    
+    createCrushing('create:crushed_lead_ore', 'kubejs:lead_dust', 3, 2, false)
+    createCrushing('oreclumps:lead_ingot', 'kubejs:lead_dust', 2, 2, 'kubejs:silver_dust')
 
     createMixingItem(['kubejs:lead_dust', 'kubejs:lead_dust'], 'oreclumps:lead_ingot', [6, 3], 'heated')
     createMixingItem(['kubejs:lead_dust', 'kubejs:lead_dust'], 'oreclumps:lead_ingot', [3, 3], 'superheated')
@@ -228,13 +234,23 @@ onEvent('recipes', e => {
     createPress('oreclumps:silver_ingot', 'kubejs:silver_sheet')
     createCrushing('immersiveengineering:storage_silver', 'create:crushed_silver_ore', 5, 1, false)
 
+    //Cobalt
+    e.remove({ id: 'tconstruct:smeltery/casting/metal/cobalt/ingot_gold_cast' })
+    e.remove({ id: 'tconstruct:smeltery/casting/metal/cobalt/ingot_sand_cast' })
 
+    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_silver'})
 
+    e.remove({ id: 'immersiveengineering:crusher/ingot_silver'})
+    e.remove({ id: 'immersiveengineering:crusher/ore_lead'})
+    e.remove({ id: 'immersiveengineering:crusher/ore_silver'})
 
+    replaceIO('tconstruct:cobalt_ingot', 'oreclumps:cobalt_ingot')
 
-
-
-
+    createMixingItem(['kubejs:cobalt_dust', 'kubejs:cobalt_dust'], 'oreclumps:cobalt_ingot', [6, 3], 'heated')
+    createMixingItem(['kubejs:cobalt_dust', 'kubejs:cobalt_dust'], 'oreclumps:cobalt_ingot', [3, 3], 'superheated')
+    
+    createCrushing('morecreatestuffs:crushed_cobalt_ore', 'kubejs:cobalt_dust', 3, 2, false)
+    createCrushing('oreclumps:silver_ingot', 'kubejs:cobalt_dust', 2, 2, 'kubejs:lead_dust')
 
 
 

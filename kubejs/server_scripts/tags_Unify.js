@@ -69,4 +69,8 @@ events.listen('item.tags', function (e) {
 
     e.add('forge:plates/silver',    'kubejs:silver_sheet')
     e.add('forge:dusts/silver',     'kubejs:silver_dust')
+
+    //Covalt
+    e.remove('forge:ingots/silver','tconstruct:cobalt_ingot')
+    e.add('forge:dusts/silver', 'kubejs:cobalt_dust')
 })
