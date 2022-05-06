@@ -17,6 +17,7 @@ events.listen('item.registry', function (e) {
 
 	// New Nugget
     e.create('steel_nugget').displayName('Steel Nugget')
+    e.create('uranium_nugget').displayName('Uranium Nugget')
 
 	// New Fan
     e.create('steel_fan').displayName('Steel Fan')

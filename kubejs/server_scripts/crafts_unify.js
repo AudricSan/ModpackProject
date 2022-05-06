@@ -132,12 +132,43 @@ onEvent('recipes', e => {
     createMixingItem(['kubejs:copper_dust', 'kubejs:copper_dust'], 'create:copper_ingot', [6, 3], 'heated')
     createMixingItem(['kubejs:copper_dust', 'kubejs:copper_dust'], 'create:copper_ingot', [3, 3], 'superheated')
 
+    //Uranium
+    e.remove( { id: 'immersiveengineering:metalpress/plate_uranium'})
+    e.remove( { id: 'immersiveengineering:crafting/plate_uranium_hammering'})
+    e.remove( { id: 'immersiveengineering:crafting/plate_uranium_hammering'})
 
+    e.remove( { id: 'immersiveengineering:crafting/hammercrushing_uranium'})
 
+    e.remove( { id: 'immersiveengineering:crusher/ore_uranium'})
+    e.remove( { id: 'immersiveengineering:crusher/ingot_uranium'})
 
+    e.remove( { id: 'immersiveengineering:crafting/ingot_uranium_to_storage_uranium'})
 
+    replaceIO('immersiveengineering:ingot_uranium'  , 'biggerreactors:yellorium_ingot')
+    replaceIO('exnihilosequentia:ingot_uranium'     , 'biggerreactors:yellorium_ingot')
+    replaceIO('oreclumps:uranium_ingot'             , 'biggerreactors:yellorium_ingot')
+    replaceIO('oreclumps:uranium_ingot'             , 'biggerreactors:yellorium_ingot')
 
+    replaceIO('immersiveengineering:nugget_uranium' , 'kubejs:uranium_nugget')
+    replaceIO('immersiveengineering:plate_uranium'  , 'kubejs:uranium_sheet')
 
+    createPress('biggerreactors:yellorium_ingot', 'kubejs:uranium_sheet')
+
+    createCrushing('create:crushed_uranium_ore', 'biggerreactors:yellorium_dust', 1, 3, false)
+    createMilling ('create:crushed_uranium_ore', 'biggerreactors:yellorium_dust', 1, 3, false)
+
+    createCrushing('biggerreactors:yellorium_ingot', 'create:crushed_uranium_ore', 1, 3, 'biggerreactors:yellorium_dust')
+    createMilling ('biggerreactors:yellorium_ingot', 'create:crushed_uranium_ore', 1, 3, false)
+
+    e.stonecutting('immersiveengineering:storage_uranium', 'biggerreactors:yellorium_block')
+
+    //Lead  
+    replaceIO('immersiveengineering:ingot_lead' , 'oreclumps:lead_ingot')
+    replaceIO('exnihilosequentia:ingot_lead'    , 'oreclumps:lead_ingot')
+    replaceIO('immersiveengineering:dust_lead'  , 'kubejs:lead_dust')
+    replaceIO('immersiveengineering:plate_lead' , 'kubejs:lead_sheet')
+
+    createPress('biggerreactors:yellorium_ingot', 'kubejs:lead_sheet')
 
 
 
