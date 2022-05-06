@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_to_nugget_nickel": {
+    "criteria": {
+      "has_ingot_nickel": "2022-05-06 13:54:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_from_dust": {
+    "criteria": {
+      "has_dust_nickel": "2022-05-06 13:55:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
@@ -149,6 +161,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/red_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/projector": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
@@ -164,6 +182,12 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-05-02 12:34:44 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2022-05-06 15:12:10 +0200"
     },
     "done": true
   },
@@ -206,6 +230,18 @@
   "create:recipes/create.base/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2022-05-06 14:50:51 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_nickel": "2022-05-06 13:55:01 +0200"
     },
     "done": true
   },
@@ -269,9 +305,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_nickel": {
+    "criteria": {
+      "has_plate_nickel": "2022-05-06 13:54:59 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_lead_to_nugget_lead": {
     "criteria": {
       "has_ingot_lead": "2022-05-05 18:18:29 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/cyan_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
     },
     "done": true
   },
@@ -323,6 +371,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_dust_iron": "2022-05-06 14:50:55 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_silver": {
     "criteria": {
       "has_plate_silver": "2022-05-06 09:08:53 +0200"
@@ -365,6 +419,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/black_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
       "has_chest": "2022-05-02 12:32:57 +0200"
@@ -392,6 +452,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2022-05-02 12:34:44 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2022-05-06 15:12:10 +0200"
     },
     "done": true
   },
@@ -428,6 +494,12 @@
   "create:recipes/create.base/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
+    },
+    "done": true
+  },
+  "compactmachines:recipes/compactmachines/wall": {
+    "criteria": {
+      "has_recipe": "2022-05-06 14:56:05 +0200"
     },
     "done": true
   },
@@ -611,6 +683,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_tank": {
+    "criteria": {
+      "has_iron_plate": "2022-05-06 14:50:51 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_steel_to_slab": {
     "criteria": {
       "has_storage_steel": "2022-05-02 12:38:13 +0200"
@@ -749,6 +827,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/gold_ingot_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_gold": "2022-05-06 15:11:57 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_electrum_to_ingot_electrum": {
     "criteria": {
       "has_storage_electrum": "2022-05-02 12:35:10 +0200"
@@ -833,6 +917,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/white_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/manyullyn_block_from_ingots": {
     "criteria": {
       "has_item": "2022-05-02 12:35:16 +0200"
@@ -845,6 +935,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/iron_catwalk": {
+    "criteria": {
+      "has_item": "2022-05-06 14:50:51 +0200"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/birch_drawers": {
     "criteria": {
       "has_chest": "2022-05-02 12:32:57 +0200"
@@ -854,6 +950,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/magenta_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
     },
     "done": true
   },
@@ -1025,6 +1127,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/electrum_mix": {
+    "criteria": {
+      "has_gold_dust": "2022-05-06 15:11:57 +0200"
+    },
+    "done": true
+  },
   "simplemagnets:recipes/search/basic_magnet": {
     "criteria": {
       "iron": "2022-05-02 12:34:40 +0200"
@@ -1103,9 +1211,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/light_blue_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/blasting/silver_ingot_compat_thermal": {
     "criteria": {
       "has_item": "2022-05-06 09:08:45 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/blue_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
     },
     "done": true
   },
@@ -1289,6 +1409,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2022-05-06 14:50:51 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gold_ingot_from_dust": {
+    "criteria": {
+      "has_dust_gold": "2022-05-06 15:11:57 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/queens_slime_block_from_ingots": {
     "criteria": {
       "has_item": "2022-05-02 12:35:17 +0200"
@@ -1328,6 +1460,12 @@
   "tconstruct:recipes/tconstruct/tools/armor/building/plate_chestplate": {
     "criteria": {
       "has_item": "2022-05-02 12:35:22 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/zinc_catwalk": {
+    "criteria": {
+      "has_item": "2022-05-06 14:16:41 +0200"
     },
     "done": true
   },
@@ -1409,6 +1547,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/iron_ingot_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_iron": "2022-05-06 14:50:55 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_gold": {
+    "criteria": {
+      "has_plate_gold": "2022-05-06 15:11:57 +0200"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/iron_wand": {
     "criteria": {
       "has_item": "2022-05-02 12:34:40 +0200"
@@ -1445,6 +1595,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/orange_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/jungle_drawers": {
     "criteria": {
       "has_chest": "2022-05-02 12:32:57 +0200"
@@ -1457,9 +1613,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/iron_mesh_fence": {
+    "criteria": {
+      "has_item": "2022-05-06 14:50:51 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_iron": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2022-05-06 14:50:51 +0200"
     },
     "done": true
   },
@@ -1559,6 +1727,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/purple_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2022-05-02 12:34:43 +0200"
@@ -1574,6 +1748,12 @@
   "tconstruct:recipes/tconstruct/general/tables/tinkers_forge": {
     "criteria": {
       "has_item": "2022-05-02 12:37:26 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_sheet_metal_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2022-05-06 14:56:05 +0200"
     },
     "done": true
   },
@@ -1604,6 +1784,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/chute_aluminum": {
     "criteria": {
       "has_plate": "2022-05-06 08:23:47 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/gold_catwalk": {
+    "criteria": {
+      "has_item": "2022-05-06 15:11:57 +0200"
     },
     "done": true
   },
@@ -1643,9 +1829,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2022-05-06 14:50:51 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/dynamo": {
     "criteria": {
       "has_coil_lv": "2022-05-05 12:13:29 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/earmuffs": {
+    "criteria": {
+      "has_iron_rod": "2022-05-06 14:51:20 +0200"
     },
     "done": true
   },
@@ -1673,9 +1871,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_iron": {
+    "criteria": {
+      "has_plate_iron": "2022-05-06 14:50:54 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/lead_ingot_compat_silents_mechanisms": {
     "criteria": {
       "has_item": "2022-05-05 18:18:23 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/constantan_mix": {
+    "criteria": {
+      "has_nickel_dust": "2022-05-06 13:55:01 +0200"
     },
     "done": true
   },
@@ -1706,6 +1916,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2022-05-06 14:50:51 +0200"
     },
     "done": true
   },
@@ -1745,6 +1961,18 @@
     },
     "done": true
   },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_crook_iron": {
+    "criteria": {
+      "has_pebble": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2022-05-06 15:11:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2022-05-02 12:34:43 +0200"
@@ -1778,6 +2006,12 @@
   "tconstruct:recipes/tconstruct/tools/armor/building/plate_helmet": {
     "criteria": {
       "has_item": "2022-05-02 12:35:22 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/gold_mesh_fence": {
+    "criteria": {
+      "has_item": "2022-05-06 15:11:57 +0200"
     },
     "done": true
   },
@@ -1835,6 +2069,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/green_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_goggles": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
@@ -1865,6 +2105,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/brown_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/ingot_silver_compat_immersiveengineering": {
     "criteria": {
       "has_item": "2022-05-06 09:08:45 +0200"
@@ -1886,6 +2132,18 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_electrum_hammering": {
     "criteria": {
       "has_electrum_ingot": "2022-05-02 12:35:10 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/smelting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2022-05-06 14:16:47 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/gray_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
     },
     "done": true
   },
@@ -1913,6 +2171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2022-05-06 14:56:05 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_constantan_to_storage_constantan": {
     "criteria": {
       "has_ingot_constantan": "2022-05-02 12:34:48 +0200"
@@ -1937,9 +2201,27 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2022-05-06 14:50:51 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
+    "criteria": {
+      "has_iron_rod": "2022-05-06 14:51:20 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_electrum": {
     "criteria": {
       "has_electrum_ingot": "2022-05-02 12:35:10 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/nugget_nickel_to_ingot_nickel": {
+    "criteria": {
+      "has_nugget_nickel": "2022-05-06 13:54:58 +0200"
     },
     "done": true
   },
@@ -2057,6 +2339,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/blasting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2022-05-06 14:16:47 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/lead_ingot_compat_mysticalworld": {
     "criteria": {
       "has_item": "2022-05-05 18:18:23 +0200"
@@ -2078,6 +2366,12 @@
   "oreclumps:recipes/misc/lead_ingot_from_blasting_raw_lead": {
     "criteria": {
       "has_raw_ore": "2022-05-05 18:18:28 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/pink_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
     },
     "done": true
   },
@@ -2132,6 +2426,12 @@
   "create:recipes/building_blocks/blasting/uranium_ingot_compat_silents_mechanisms": {
     "criteria": {
       "has_item": "2022-05-05 15:22:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2022-05-06 14:50:51 +0200"
     },
     "done": true
   },
@@ -2249,6 +2549,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/zinc_mesh_fence": {
+    "criteria": {
+      "has_item": "2022-05-06 14:16:41 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper": {
     "criteria": {
       "has_copper_ingot": "2022-05-02 12:34:47 +0200"
@@ -2291,6 +2597,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/light_gray_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_fence": {
     "criteria": {
       "has_steel_ingot": "2022-05-02 12:34:56 +0200"
@@ -2327,9 +2639,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/yellow_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/gas_generator": {
+    "criteria": {
+      "has_iron_plate": "2022-05-06 14:50:51 +0200"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/machineinformation_module": {
     "criteria": {
       "ingot": "2022-05-02 12:34:40 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/lime_decal": {
+    "criteria": {
+      "has_item": "2022-05-06 14:51:26 +0200"
     },
     "done": true
   },
@@ -2435,6 +2765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tools/modifiers/silky_cloth": {
     "criteria": {
       "has_item": "2022-05-02 12:34:43 +0200"
@@ -2462,6 +2798,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sample_drill": {
     "criteria": {
       "has_steel_scaffolding_standard": "2022-05-02 14:49:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2022-05-06 14:56:05 +0200"
     },
     "done": true
   },
@@ -2522,6 +2864,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-05-02 12:34:44 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/oil_can": {
+    "criteria": {
+      "has_iron_plate": "2022-05-06 14:50:51 +0200"
     },
     "done": true
   },
@@ -2612,6 +2960,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/gunpart_barrel": {
     "criteria": {
       "has_stick_steel": "2022-05-03 08:02:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/zinc_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2022-05-06 14:16:43 +0200"
     },
     "done": true
   },
