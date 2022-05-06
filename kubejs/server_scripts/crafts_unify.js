@@ -184,9 +184,35 @@ onEvent('recipes', e => {
 
     createCrushing('immersiveengineering:storage_lead', 'create:crushed_lead_ore', 5, 1, false)
 
+    //Aluminum
+    e.remove({ id: 'immersiveengineering:crafting/stick_aluminum'})
+    e.remove({ id: 'immersiveengineering:crafting/wire_aluminum'})
+    e.remove({ id: 'immersiveengineering:metalpress/wire_aluminum'})
+    e.remove({ id: 'immersiveengineering:metalpress/rod_aluminum'})
 
+    e.remove({ id: 'immersiveengineering:crafting/plate_aluminum_hammering'})
+    e.remove({ id: 'immersiveengineering:metalpress/plate_aluminum'})
 
+    e.remove({ id: 'tconstruct:smeltery/casting/metal/aluminum/rod_gold_cast' })
+    e.remove({ id: 'tconstruct:smeltery/casting/metal/aluminum/rod_sand_cast' })
 
+    replaceIO('immersiveengineering:ingot_aluminum' , 'oreclumps:aluminum_ingot')
+    replaceIO('exnihilosequentia:ingot_aluminum'    , 'oreclumps:aluminum_ingot')
+    replaceIO('immersiveengineering:dust_aluminum'  , 'kubejs:aluminum_dust')
+    replaceIO('immersiveengineering:plate_aluminum' , 'kubejs:aluminum_sheet')
+
+    createCutting('immersiveengineering:stick_aluminum', 'immersiveengineering:wire_aluminum', 6, 20, 'kubejs:aluminum_dust')
+    createCutting('oreclumps:aluminum_ingot', 'immersiveengineering:stick_aluminum', 3, 20, 'kubejs:aluminum_dust')
+
+    createCutting('kubejs:aluminum_sheet', 'immersiveengineering:wire_aluminum', 4, 10, 'kubejs:aluminum_dust')
+    createCutting('kubejs:aluminum_sheet', 'immersiveengineering:stick_aluminum', 4, 10, 'kubejs:aluminum_dust')
+
+    createMixingItem(['kubejs:aluminum_dust', 'kubejs:aluminum_dust'], 'oreclumps:aluminum_ingot', [6, 3], 'heated')
+    createMixingItem(['kubejs:aluminum_dust', 'kubejs:aluminum_dust'], 'oreclumps:aluminum_ingot', [3, 3], 'superheated')
+    
+    createPress('oreclumps:aluminum_ingot', 'kubejs:aluminum_sheet')
+
+    
 
 
 
