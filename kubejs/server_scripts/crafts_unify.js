@@ -297,9 +297,74 @@ onEvent('recipes', e => {
     createMixingItem(['kubejs:zinc_dust', 'kubejs:zinc_dust'], 'oreclumps:zinc_ingot', [6, 3], 'heated')
     createMixingItem(['kubejs:zinc_dust', 'kubejs:zinc_dust'], 'oreclumps:zinc_ingot', [3, 3], 'superheated')
     
-    //
-    
+    //IRON
+    e.remove({id: 'tconstruct:smeltery/casting/metal/iron/rod_gold_cast'})
+    e.remove({id: 'tconstruct:smeltery/casting/metal/iron/rod_sand_cast'})
 
+    e.remove({id: 'immersiveengineering:arcfurnace/dust_iron'})
+    e.remove({id: 'immersiveengineering:arcfurnace/steel'})
+    e.remove({id: 'immersiveengineering:crafting/hammercrushing_iron'})
+    e.remove({id: 'immersiveengineering:crafting/plate_iron_hammering'})
+    e.remove({id: 'immersiveengineering:blastfurnace/steel_block'})
+    e.remove({id: 'immersiveengineering:blastfurnace/steel'})
+
+    e.remove({id: 'immersiveengineering:metalpress/plate_iron'})
+    e.remove({id: 'immersiveengineering:metalpress/rod_iron'})
+    e.remove({id: 'immersiveengineering:metalpress/wire_iron'})
+
+    e.remove({id: 'immersiveengineering:crafting/stick_iron'}) 
+    e.remove({id: 'boss_tools:iron_plate'}) 
+    
+    replaceIO('boss_tools:iron_plate', 'create:iron_sheet')
+    replaceIO('immersiveengineering:plate_iron', 'create:iron_sheet')
+
+    replaceIO('immersiveengineering:dust_iron', 'kubejs:iron_dust')
+    replaceIO('immersiveengineering:stick_iron', 'createaddition:iron_rod')
+
+    createCrushing('minecraft:iron_block', 'create:crushed_iron_ore', 4, 2, 'kubejs:iron_dust')
+    createCrushing('create:crushed_iron_ore', 'kubejs:iron_dust', 4, 2, 'kubejs:iron_dust')
+    
+    createMixingItem(['kubejs:iron_dust', 'kubejs:iron_dust'], 'minecraft:iron_ingot', [6, 3], 'heated')
+    createMixingItem(['kubejs:iron_dust', 'kubejs:iron_dust'], 'minecraft:iron_ingot', [3, 3], 'superheated')
+    
+    createMixingItem(['minecraft:iron_block', 'minecraft:coal_block'], 'alloyed:steel_block', [1, 2], 'superheated')
+   
+    createCutting('createaddition:iron_rod', 'createaddition:iron_wire', 6, 20, 'kubejs:iron_dust')
+    createCutting('minecraft:iron_ingot', 'createaddition:iron_rod', 3, 20, 'kubejs:iron_dust')
+
+    createCutting('create:iron_sheet', 'createaddition:iron_wire', 4, 10, 'kubejs:iron_dust')
+    createCutting('create:iron_sheet', 'createaddition:iron_rod', 4, 10, 'kubejs:iron_dust')
+
+    //GOLD
+    e.remove({id: 'immersiveengineering:arcfurnace/dust_gold'})
+    e.remove({id: 'immersiveengineering:arcfurnace/steel'})
+    e.remove({id: 'immersiveengineering:crafting/hammercrushing_gold'})
+    e.remove({id: 'immersiveengineering:crafting/plate_gold_hammering'})
+    e.remove({id: 'immersiveengineering:blastfurnace/steel_block'})
+    e.remove({id: 'immersiveengineering:blastfurnace/steel'})
+
+    e.remove({id: 'immersiveengineering:metalpress/plate_gold'})
+    e.remove({id: 'immersiveengineering:metalpress/rod_gold'})
+    e.remove({id: 'immersiveengineering:metalpress/wire_gold'})
+
+    e.remove({id: 'immersiveengineering:crafting/stick_gold'}) 
+    replaceIO('immersiveengineering:plate_gold', 'create:golden_sheet')
+    replaceIO('immersiveengineering:dust_gold', 'kubejs:gold_dust')
+
+
+    createCrushing('minecraft:gold_block', 'create:crushed_gold_ore', 4, 2, 'kubejs:gold_dust')
+    createCrushing('create:crushed_gold_ore', 'kubejs:gold_dust', 4, 2, 'kubejs:gold_dust')
+    
+    createMixingItem(['kubejs:gold_dust', 'kubejs:gold_dust'], 'minecraft:gold_ingot', [6, 3], 'heated')
+    createMixingItem(['kubejs:gold_dust', 'kubejs:gold_dust'], 'minecraft:gold_ingot', [3, 3], 'superheated')
+    
+    createMixingItem(['minecraft:gold_block', 'minecraft:coal_block'], 'alloyed:steel_block', [1, 2], 'superheated')
+   
+    createCutting('createaddition:gold_rod', 'createaddition:gold_wire', 6, 20, 'kubejs:gold_dust')
+    createCutting('minecraft:gold_ingot', 'createaddition:gold_rod', 3, 20, 'kubejs:gold_dust')
+
+    createCutting('create:golden_sheet', 'createaddition:gold_wire', 4, 10, 'kubejs:gold_dust')
+    createCutting('create:golden_sheet', 'createaddition:gold_rod', 4, 10, 'kubejs:gold_dust')
 
     
     
