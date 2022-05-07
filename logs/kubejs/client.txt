@@ -1,4 +1,4 @@
-[14:36:19] [INFO ] Loaded script client_scripts:jei.js in 0.002 s
-[14:36:19] [INFO ] Hello, World! (You will see this line every time client resources reload)
-[14:36:19] [INFO ] Loaded script client_scripts:script.js in 0.002 s
-[14:36:19] [INFO ] Loaded 2/2 KubeJS client scripts in 0.019 s
+[09:18:46] [INFO ] Loaded script client_scripts:jei.js in 0.001 s
+[09:18:46] [INFO ] Hello, World! (You will see this line every time client resources reload)
+[09:18:46] [INFO ] Loaded script client_scripts:script.js in 0.001 s
+[09:18:46] [INFO ] Loaded 2/2 KubeJS client scripts in 0.011 s

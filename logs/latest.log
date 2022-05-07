@@ -1,15 +1,140 @@
-[07May2022 09:15:45.034] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Audric__San, --version, forge-36.2.33, --gameDir, C:\Users\audri\curseforge\minecraft\Instances\1.16.5, --assetsDir, C:\Users\audri\curseforge\minecraft\Install\assets, --assetIndex, 1.16, --uuid, 3529a25226cb4c45a7a0558f4fd68946, --accessToken, ????????, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.33, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
-[07May2022 09:15:45.462] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_51 by Oracle Corporation
-[07May2022 09:15:45.488] [main/WARN] [cpw.mods.modlauncher.SecureJarHandler/]: LEGACY JDK DETECTED, SECURED JAR HANDLING DISABLED
-[07May2022 09:15:48.683] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[07May2022 09:15:48.737] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/audri/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
-[07May2022 09:15:53.046] [main/ERROR] [mixin/]: Mixin config boss_tools.mixin.json does not specify "minVersion" property
-[07May2022 09:15:53.210] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlclient' with arguments [--version, forge-36.2.33, --gameDir, C:\Users\audri\curseforge\minecraft\Instances\1.16.5, --assetsDir, C:\Users\audri\curseforge\minecraft\Install\assets, --uuid, 3529a25226cb4c45a7a0558f4fd68946, --username, Audric__San, --assetIndex, 1.16, --accessToken, ????????, --userType, msa, --versionType, release, --width, 1024, --height, 768]
-[07May2022 09:15:53.460] [main/WARN] [mixin/]: Reference map 'rhino-forge-refmap.json' for rhino.mixins.json could not be read. If this is a development environment you can ignore this message
-[07May2022 09:15:53.492] [main/WARN] [mixin/]: Reference map 'createdeco.refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[07May2022 09:15:53.493] [main/WARN] [mixin/]: Reference map 'hackforge.refmap.json' for creategears.mixins.json could not be read. If this is a development environment you can ignore this message
-[07May2022 09:15:53.495] [main/WARN] [mixin/]: Reference map 'creategearaddon.refmap.json' for creategearaddon.mixins.json could not be read. If this is a development environment you can ignore this message
-[07May2022 09:15:55.021] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
-[07May2022 09:15:55.491] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
-[07May2022 09:15:55.538] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
-[07May2022 09:15:55.706] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LootTableManager#apply
+[07May2022 09:18:26.172] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Audric__San, --version, forge-36.2.33, --gameDir, C:\Users\audri\curseforge\minecraft\Instances\1.16.5, --assetsDir, C:\Users\audri\curseforge\minecraft\Install\assets, --assetIndex, 1.16, --uuid, 3529a25226cb4c45a7a0558f4fd68946, --accessToken, ????????, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.33, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[07May2022 09:18:26.176] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_51 by Oracle Corporation
+[07May2022 09:18:26.194] [main/WARN] [cpw.mods.modlauncher.SecureJarHandler/]: LEGACY JDK DETECTED, SECURED JAR HANDLING DISABLED
+[07May2022 09:18:26.722] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[07May2022 09:18:26.758] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/audri/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[07May2022 09:18:29.348] [main/ERROR] [mixin/]: Mixin config boss_tools.mixin.json does not specify "minVersion" property
+[07May2022 09:18:29.420] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlclient' with arguments [--version, forge-36.2.33, --gameDir, C:\Users\audri\curseforge\minecraft\Instances\1.16.5, --assetsDir, C:\Users\audri\curseforge\minecraft\Install\assets, --uuid, 3529a25226cb4c45a7a0558f4fd68946, --username, Audric__San, --assetIndex, 1.16, --accessToken, ????????, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[07May2022 09:18:29.494] [main/WARN] [mixin/]: Reference map 'rhino-forge-refmap.json' for rhino.mixins.json could not be read. If this is a development environment you can ignore this message
+[07May2022 09:18:29.522] [main/WARN] [mixin/]: Reference map 'createdeco.refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[07May2022 09:18:29.524] [main/WARN] [mixin/]: Reference map 'hackforge.refmap.json' for creategears.mixins.json could not be read. If this is a development environment you can ignore this message
+[07May2022 09:18:29.526] [main/WARN] [mixin/]: Reference map 'creategearaddon.refmap.json' for creategearaddon.mixins.json could not be read. If this is a development environment you can ignore this message
+[07May2022 09:18:30.378] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[07May2022 09:18:30.725] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[07May2022 09:18:30.783] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[07May2022 09:18:30.930] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LootTableManager#apply
+[07May2022 09:18:32.910] [pool-3-thread-1/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[07May2022 09:18:33.200] [pool-3-thread-1/INFO] [FerriteCore - class definer/]: Using Java 8 class definer
+[07May2022 09:18:36.210] [pool-3-thread-1/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[07May2022 09:18:39.785] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07May2022 09:18:40.242] [main/INFO] [net.minecraft.client.Minecraft/]: Setting user: Audric__San
+[07May2022 09:18:40.486] [main/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 build 10
+[07May2022 09:18:41.319] [main/INFO] [KubeJS/]: Loaded client.properties
+[07May2022 09:18:41.486] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LootTableManager#apply
+[07May2022 09:18:42.218] [modloading-worker-3/INFO] [com.builtbroken.cardboardboxes.Cardboardboxes/]: ModHandler#buildHandlerData() -> Loading data and data handlers
+[07May2022 09:18:42.232] [modloading-worker-3/INFO] [com.builtbroken.cardboardboxes.Cardboardboxes/]: Finished building the config -> net.minecraftforge.common.ForgeConfigSpec@7278e7d8
+[07May2022 09:18:42.253] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ModelBakery#<init>
+[07May2022 09:18:42.479] [modloading-worker-7/INFO] [botanypotstiers/]: Loading config: C:\Users\audri\curseforge\minecraft\Instances\1.16.5\config\botanypotstiers-common.toml
+[07May2022 09:18:42.483] [modloading-worker-7/INFO] [botanypotstiers/]: Built config: C:\Users\audri\curseforge\minecraft\Instances\1.16.5\config\botanypotstiers-common.toml
+[07May2022 09:18:42.487] [modloading-worker-7/INFO] [botanypotstiers/]: Loaded config: C:\Users\audri\curseforge\minecraft\Instances\1.16.5\config\botanypotstiers-common.toml
+[07May2022 09:18:42.558] [modloading-worker-10/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[07May2022 09:18:42.796] [modloading-worker-4/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[07May2022 09:18:42.911] [Phosphophyllite Registry Worker/INFO] [Phosphophyllite/Registry/]: Thread started
+[07May2022 09:18:43.775] [modloading-worker-2/INFO] [de.melanx.extradisks.ExtraDisks/]: 14 blocks registered.
+[07May2022 09:18:44.537] [modloading-worker-2/INFO] [de.melanx.extradisks.ExtraDisks/]: 29 items registered.
+[07May2022 09:18:44.544] [modloading-worker-2/INFO] [de.melanx.extradisks.ExtraDisks/]: 13 tiles registered.
+[07May2022 09:18:44.544] [modloading-worker-2/INFO] [de.melanx.extradisks.ExtraDisks/]: 13 containers registered.
+[07May2022 09:18:44.588] [modloading-worker-3/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[07May2022 09:18:44.600] [modloading-worker-3/INFO] [KubeJS/]: Found kubejs plugin
+[07May2022 09:18:44.631] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.33, for MC 1.16.5 with MCP 20210115.111550
+[07May2022 09:18:44.632] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.33 Initialized
+[07May2022 09:18:44.687] [modloading-worker-3/INFO] [KubeJS/]: Found ftbchunks plugin
+[07May2022 09:18:44.745] [modloading-worker-3/INFO] [KubeJS/]: Found kubejs_create plugin
+[07May2022 09:18:44.751] [modloading-worker-1/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Main.initialize()
+[07May2022 09:18:44.754] [modloading-worker-3/INFO] [KubeJS/]: Found kubejs_immersive_engineering plugin
+[07May2022 09:18:44.757] [modloading-worker-1/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Reflecting GuiContainer...
+[07May2022 09:18:44.758] [modloading-worker-3/INFO] [KubeJS/]: Done in 0 s
+[07May2022 09:18:44.791] [modloading-worker-1/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Detected obfuscation: FORGE.
+[07May2022 09:18:44.793] [modloading-worker-1/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Success.
+[07May2022 09:18:44.793] [modloading-worker-1/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Initialized.
+[07May2022 09:18:44.851] [modloading-worker-6/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[07May2022 09:18:44.872] [modloading-worker-9/INFO] [com.jozufozu.flywheel.backend.Backend/]: Optifine not detected.
+[07May2022 09:18:44.912] [modloading-worker-12/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[07May2022 09:18:44.926] [modloading-worker-10/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[07May2022 09:18:45.048] [modloading-worker-9/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[07May2022 09:18:45.134] [modloading-worker-3/INFO] [KubeJS/]: Loaded common.properties
+[07May2022 09:18:45.137] [modloading-worker-12/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[07May2022 09:18:45.238] [modloading-worker-2/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[07May2022 09:18:45.240] [modloading-worker-12/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[07May2022 09:18:45.279] [modloading-worker-13/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 1 RS API injection point
+[07May2022 09:18:45.280] [modloading-worker-13/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Injected RS API in com.refinedmods.refinedstorageaddons.RSAddons RSAPI
+[07May2022 09:18:45.547] [modloading-worker-7/INFO] [io.github.drmanganese.topaddons.TopAddons/]: Registered addon Forge
+[07May2022 09:18:45.668] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\audri\curseforge\minecraft\Instances\1.16.5\config\exnihilo-addons\exntinkers-common.toml is not correct. Correcting
+[07May2022 09:18:45.670] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore was corrected from null to its default, SimpleCommentedConfig:{}. 
+[07May2022 09:18:45.670] [modloading-worker-6/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore.enableCobalt was corrected from null to its default, true. 
+[07May2022 09:18:45.680] [modloading-worker-7/INFO] [io.github.drmanganese.topaddons.TopAddons/]: Registered addon Vanilla
+[07May2022 09:18:45.725] [modloading-worker-10/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[07May2022 09:18:45.752] [modloading-worker-7/INFO] [io.github.drmanganese.topaddons.TopAddons/]: Registered addon Storage Drawers
+[07May2022 09:18:46.160] [modloading-worker-4/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `byg` for name `hypogeal`, expected `immersivepetroleum`. This could be a intended override, but in most cases indicates a broken mod.
+[07May2022 09:18:46.495] [modloading-worker-3/INFO] [KubeJS Startup/]: Loaded script startup_scripts:block.js in 0.193 s
+[07May2022 09:18:46.508] [modloading-worker-3/INFO] [KubeJS Startup/]: Loaded script startup_scripts:fluid.js in 0.011 s
+[07May2022 09:18:46.512] [modloading-worker-3/INFO] [KubeJS Startup/]: Loaded script startup_scripts:generation.js in 0.002 s
+[07May2022 09:18:46.522] [modloading-worker-3/INFO] [KubeJS Startup/]: Loaded script startup_scripts:items.js in 0.01 s
+[07May2022 09:18:46.523] [modloading-worker-3/INFO] [KubeJS Startup/]: Loaded 4/4 KubeJS startup scripts in 0.801 s
+[07May2022 09:18:46.696] [modloading-worker-3/INFO] [KubeJS Client/]: Loaded script client_scripts:jei.js in 0.001 s
+[07May2022 09:18:46.697] [modloading-worker-3/INFO] [KubeJS Client/]: Hello, World! (You will see this line every time client resources reload)
+[07May2022 09:18:46.697] [modloading-worker-3/INFO] [KubeJS Client/]: Loaded script client_scripts:script.js in 0.001 s
+[07May2022 09:18:46.697] [modloading-worker-3/INFO] [KubeJS Client/]: Loaded 2/2 KubeJS client scripts in 0.011 s
+[07May2022 09:18:47.531] [Thread-43/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.NullPointerException: null
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) [eventbus-4.0.0.jar:4.0.0+65+master.6080a3f]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) [modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) [?:1.8.0_51]
+[07May2022 09:18:47.538] [Thread-43/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.NullPointerException: null
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) [eventbus-4.0.0.jar:4.0.0+65+master.6080a3f]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) [modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) [?:1.8.0_51]
+[07May2022 09:18:47.547] [Thread-43/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.NullPointerException: null
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) [eventbus-4.0.0.jar:4.0.0+65+master.6080a3f]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) [modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) [?:1.8.0_51]
+	at net.minecraftforge.fml.client.gui.screen.ModListScreen.<init>(ModListScreen.java:112) [?:?]
+[07May2022 09:18:47.549] [Thread-43/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.NullPointerException: null
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) [eventbus-4.0.0.jar:4.0.0+65+master.6080a3f]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) [modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) [?:1.8.0_51]
+	at net.minecraftforge.fml.client.gui.screen.ModListScreen.<init>(ModListScreen.java:112) [?:?]
+[07May2022 09:18:47.552] [Thread-43/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.NullPointerException: null
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:62) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:21) [eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:20) [eventbus-4.0.0.jar:4.0.0+65+master.6080a3f]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) [modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) [?:1.8.0_51]
+	at net.minecraftforge.fml.client.gui.screen.ModListScreen.<init>(ModListScreen.java:112) [?:?]
