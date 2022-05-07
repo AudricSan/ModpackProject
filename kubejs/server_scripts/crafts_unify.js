@@ -78,12 +78,6 @@ onEvent('recipes', e => {
     'kubejs:steel_dust'
     'kubejs:steel_gear'
 
-    // FUNCTION //
-    function replaceIO(oldItem, newItem) {
-        e.replaceInput({}, oldItem, newItem);
-        e.replaceOutput({}, oldItem, newItem);
-    }
-
     createCrushing('kubejs:steel_crushed', 'kubejs:steel_dust', 1, 3, false)
     createMilling('kubejs:steel_crushed', 'kubejs:steel_dust', 1, 3, false)
 
@@ -351,7 +345,6 @@ onEvent('recipes', e => {
     replaceIO('immersiveengineering:plate_gold', 'create:golden_sheet')
     replaceIO('immersiveengineering:dust_gold', 'kubejs:gold_dust')
 
-
     createCrushing('minecraft:gold_block', 'create:crushed_gold_ore', 4, 2, 'kubejs:gold_dust')
     createCrushing('create:crushed_gold_ore', 'kubejs:gold_dust', 4, 2, 'kubejs:gold_dust')
     
@@ -366,9 +359,6 @@ onEvent('recipes', e => {
     createCutting('create:golden_sheet', 'createaddition:gold_wire', 4, 10, 'kubejs:gold_dust')
     createCutting('create:golden_sheet', 'createaddition:gold_rod', 4, 10, 'kubejs:gold_dust')
 
-    
-    
-    
 
 
 
@@ -401,24 +391,11 @@ onEvent('recipes', e => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    // FUNCTION //
+    function replaceIO(oldItem, newItem) {
+        e.replaceInput({}, oldItem, newItem);
+        e.replaceOutput({}, oldItem, newItem);
+    }
 
     function createPress(input, output) {
         e.custom({
