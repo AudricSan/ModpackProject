@@ -105,6 +105,7 @@ onEvent('recipes', e => {
 
     e.remove({ id: 'immersiveengineering:metalpress/wire_copper' })
     e.remove({ id: 'immersiveengineering:metalpress/rod_copper' })
+    e.remove({ id: 'immersiveengineering:metalpress/plate_copper' })
 
     e.remove({ id: 'tconstruct:smeltery/casting/metal/copper/wire_gold_cast' })
     e.remove({ id: 'tconstruct:smeltery/casting/metal/copper/rod_gold_cast' })
@@ -359,6 +360,84 @@ onEvent('recipes', e => {
     createCutting('create:golden_sheet', 'createaddition:gold_wire', 4, 10, 'kubejs:gold_dust')
     createCutting('create:golden_sheet', 'createaddition:gold_rod', 4, 10, 'kubejs:gold_dust')
 
+    //Bronze
+    'tconstruct:tinkers_bronze_nugget'
+    'tconstruct:tinkers_bronze_block'
+    'alloyed:bronze_block'
+
+    e.remove({ id: 'tconstruct:smeltery/casting/metal/silicon_bronze/ingot_gold_cast' })
+    e.remove({ id: 'tconstruct:smeltery/casting/metal/silicon_bronze/ingot_sand_cast' })
+    e.remove({ id: 'tconstruct:common/materials/tinkers_bronze_block_from_ingots' })
+
+    e.remove({ id: 'immersiveengineering:metalpress/plate_bronze' })
+    e.remove({ id: 'immersiveengineering:alloysmelter/bronze' })
+    e.remove({ id: 'immersiveengineering:arcfurnace/alloy_bronze' })
+
+    replaceIO('tconstruct:tinkers_bronze_ingot', 'alloyed:bronze_ingot')
+    replaceIO('steampowered:bronze_sheet', 'alloyed:bronze_sheet')
+
+    e.stonecutting('tconstruct:tinkers_bronze_block', 'alloyed:bronze_block')
+
+    //Craunium
+    createPress('kubejs:craunium_ingot', 'kubejs:craunium_sheet')
+    e.shapeless('kubejs:craunium_ingot', '9x kubejs:craunium_nugget')
+    e.shapeless('9x kubejs:craunium_nugget', 'kubejs:craunium_ingot')
+    createBulkWashingCrushed('kubejs:craunium_crushed', 'kubejs:craunium_nugget', 10, 5)
+
+    createCrushing('kubejs:craunium_block', 'kubejs:craunium_crushed', 5, 1, false)
+    createCrushing('kubejs:craunium_ore', 'kubejs:craunium_crushed', 1, 2, 'minecraft:cobblestone')
+    createMilling('kubejs:craunium_ore', 'kubejs:craunium_crushed', 1, 1, false)
+    createCrushing('kubejs:craunium_raw', 'kubejs:craunium_crushed', 1, 2, 'minecraft:cobblestone')
+    createMilling('kubejs:craunium_raw', 'kubejs:craunium_crushed', 1, 1, false)
+
+    e.shapeless('kubejs:craunium_block', '9x kubejs:craunium_ingot')
+    e.shapeless('9x kubejs:craunium_ingot', 'kubejs:craunium_block')
+
+    createCrushing('kubejs:craunium_ingot', 'kubejs:craunium_dust', 3, 2, 'kubejs:titanium_dust')
+    createCrushing('kubejs:craunium_block', 'kubejs:craunium_dust', 5, 3, 'kubejs:titanium_dust')
+    createMilling('kubejs:craunium_ingot', 'kubejs:craunium_dust', 1, 1, false)
+
+    createMixingItem(['kubejs:craunium_dust', 'kubejs:craunium_dust'], 'kubejs:craunium_ingot', [6, 3], 'heated')
+    createMixingItem(['kubejs:craunium_dust', 'kubejs:craunium_dust'], 'kubejs:craunium_ingot', [3, 3], 'superheated')
+
+    e.smelting('kubejs:craunium_ingot', 'kubejs:craunium_raw')
+    e.blasting('kubejs:craunium_ingot', 'kubejs:craunium_raw')
+
+    createCutting('kubejs:craunium_sheet', 'kubejs:craunium_gear', 2, 10, 'kubejs:craunium_dust')
+
+    createMixingItem3(['kubejs:craunium_dust', 'kubejs:craunium_ingot', 'minecraft:quartz'], 'kubejs:craunium_crystal', [5, 10, 10, 5], 'superheated')
+    createMixingItem3(['kubejs:craunium_dust', 'kubejs:craunium_ingot', 'minecraft:quartz'], 'kubejs:craunium_crystal', [20, 5, 5, 1], 'heated')
+
+    //SOME DUSTS
+    replaceIO('immersiveengineering:dust_hop_graphite', 'kubejs:hop_graphite_dust')
+    replaceIO('immersiveengineering:dust_sulfur', 'kubejs:sulfur_dust')
+    replaceIO('immersiveengineering:dust_electrum', 'kubejs:electrum_dust')
+    replaceIO('immersiveengineering:dust_constantan', 'kubejs:constantan_dust')
+    replaceIO('createaddition:diamond_grit', 'kubejs:diamond_dust')
+    replaceIO('createaddition:copper_grit', 'kubejs:copper_dust')
+
+    //Desh
+    e.remove({id: 'boss_tools:desh_plate'})
+    e.remove({id: 'boss_tools:compressed_desh'})
+    createPress('boss_tools:desh_ingot','boss_tools:desh_plate')
+    
+    e.recipes.createSequencedAssembly([
+        Item.of('boss_tools:compressed_desh').withChance(32.0),
+        Item.of('kubejs:desh_dust').withChance(2.0),
+    ], 'boss_tools:desh_plate', [
+        e.recipes.createPressing('kubejs:desh_sequenced_compressed_plate', 'kubejs:desh_sequenced_compressed_plate'),
+    ]).transitionalItem('kubejs:desh_sequenced_compressed_plate').loops(6)
+
+    //Silicon
+    e.remove({id: 'boss_tools:compressed_silicon'})
+    createPress('boss_tools:silicon_ingot','kubejs:silicon_sheet')
+
+    e.recipes.createSequencedAssembly([
+        Item.of('boss_tools:compressed_silicon').withChance(32.0),
+        Item.of('kubejs:silicon_dust').withChance(2.0),
+    ], 'kubejs:silicon_sheet', [
+        e.recipes.createPressing('kubejs:silicon_sequenced_compressed_plate', 'kubejs:silicon_sequenced_compressed_plate'),
+    ]).transitionalItem('kubejs:silicon_sequenced_compressed_plate').loops(6)
 
 
 

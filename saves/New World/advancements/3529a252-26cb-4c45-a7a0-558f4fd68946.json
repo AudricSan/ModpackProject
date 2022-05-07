@@ -41,6 +41,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2022-05-07 10:06:51 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_constantan_from_dust": {
+    "criteria": {
+      "has_dust_constantan": "2022-05-07 10:15:40 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_to_nugget_nickel": {
     "criteria": {
       "has_ingot_nickel": "2022-05-06 13:54:58 +0200"
@@ -239,6 +251,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/quartz_shuriken": {
+    "criteria": {
+      "has_item": "2022-05-07 10:06:51 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_from_dust_from_blasting": {
     "criteria": {
       "has_dust_nickel": "2022-05-06 13:55:01 +0200"
@@ -353,6 +371,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/gunpowder_from_dusts": {
+    "criteria": {
+      "has_sulfur": "2022-05-07 10:15:21 +0200"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/fluidplus_module": {
     "criteria": {
       "ingot": "2022-05-02 12:34:40 +0200"
@@ -410,6 +434,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_legs": {
     "criteria": {
       "has_steel_plate": "2022-05-02 12:37:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2022-05-07 10:06:51 +0200"
     },
     "done": true
   },
@@ -587,9 +617,21 @@
     },
     "done": true
   },
+  "boss_tools:rocket_advancement": {
+    "criteria": {
+      "rocket_advancement": "2022-05-07 10:25:25 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecutter": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
+    },
+    "done": true
+  },
+  "oreclumps:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_ore": "2022-05-07 09:37:57 +0200"
     },
     "done": true
   },
@@ -608,6 +650,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_uranium_to_slab": {
     "criteria": {
       "has_storage_uranium": "2022-05-05 15:25:11 +0200"
+    },
+    "done": true
+  },
+  "oreclumps:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_ore": "2022-05-07 09:37:57 +0200"
     },
     "done": true
   },
@@ -875,6 +923,12 @@
     },
     "done": true
   },
+  "boss_tools:rocket_tier_2_advancement": {
+    "criteria": {
+      "rocket_tier_2_advancement": "2022-05-07 10:25:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2022-05-02 12:34:43 +0200"
@@ -1103,6 +1157,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/brass_catwalk": {
+    "criteria": {
+      "has_item": "2022-05-07 09:25:25 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/diving_helmet": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
@@ -1202,6 +1262,18 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2022-05-02 12:34:44 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/tinkers_bronze_ingot_from_block": {
+    "criteria": {
+      "has_item": "2022-05-07 09:25:35 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_hop_graphite_from_blasting": {
+    "criteria": {
+      "has_dust_hop_graphite": "2022-05-07 10:15:09 +0200"
     },
     "done": true
   },
@@ -1328,6 +1400,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/nugget_copper_to_ingot_copper": {
     "criteria": {
       "has_nugget_copper": "2022-05-05 13:13:46 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/tinkers_bronze_ingot_from_nuggets": {
+    "criteria": {
+      "has_item": "2022-05-07 09:25:35 +0200"
     },
     "done": true
   },
@@ -1697,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2022-05-07 10:06:51 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_chest": {
     "criteria": {
       "has_steel_plate": "2022-05-02 12:37:43 +0200"
@@ -1811,6 +1895,12 @@
     },
     "done": true
   },
+  "oreclumps:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_ore": "2022-05-07 09:37:57 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_lead_to_slab": {
     "criteria": {
       "has_storage_lead": "2022-05-06 08:19:00 +0200"
@@ -1844,6 +1934,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/earmuffs": {
     "criteria": {
       "has_iron_rod": "2022-05-06 14:51:20 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_hop_graphite": {
+    "criteria": {
+      "has_dust_hop_graphite": "2022-05-07 10:15:09 +0200"
     },
     "done": true
   },
@@ -1889,6 +1985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2022-05-07 10:06:51 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
@@ -1910,6 +2012,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/axe_steel": {
     "criteria": {
       "has_steel_ingot": "2022-05-02 12:34:56 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/brass_mesh_fence": {
+    "criteria": {
+      "has_item": "2022-05-07 09:25:25 +0200"
     },
     "done": true
   },
@@ -2021,6 +2129,12 @@
     },
     "done": true
   },
+  "alloyed:recipes/main_group/crafting/bronze_ingot_from_decompacting": {
+    "criteria": {
+      "has_ingredient": "2022-05-07 09:25:42 +0200"
+    },
+    "done": true
+  },
   "alloyed:recipes/main_group/smithing/steel_shovel": {
     "criteria": {
       "has_ingredient": "2022-05-02 12:34:56 +0200"
@@ -2108,6 +2222,12 @@
   "createdeco:recipes/createdeco.props/brown_decal": {
     "criteria": {
       "has_item": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_constantan_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_constantan": "2022-05-07 10:15:40 +0200"
     },
     "done": true
   },
@@ -2435,6 +2555,12 @@
     },
     "done": true
   },
+  "boss_tools:rocket_tier_3_advancement": {
+    "criteria": {
+      "rocket_tier_3_advancement": "2022-05-07 10:25:22 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/palettes/copper_shingles_from_tiles": {
     "criteria": {
       "has_item": "2022-05-05 13:13:51 +0200"
@@ -2549,6 +2675,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/glass/vanilla/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2022-05-07 10:06:51 +0200"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/zinc_mesh_fence": {
     "criteria": {
       "has_item": "2022-05-06 14:16:41 +0200"
@@ -2594,6 +2726,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_aluminum": {
     "criteria": {
       "has_plate_aluminum": "2022-05-06 08:23:47 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/tools/building/flint_and_bronze": {
+    "criteria": {
+      "has_bronze": "2022-05-07 09:25:10 +0200"
     },
     "done": true
   },
@@ -2711,6 +2849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2022-05-07 10:06:51 +0200"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
     "criteria": {
       "ingot": "2022-05-02 12:34:40 +0200"
@@ -2756,6 +2900,12 @@
   "simplemagnets:recipes/search/basic_demagnetization_coil": {
     "criteria": {
       "iron": "2022-05-02 12:34:40 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_electrum_from_dust": {
+    "criteria": {
+      "has_dust_electrum": "2022-05-07 10:15:31 +0200"
     },
     "done": true
   },
@@ -2828,6 +2978,12 @@
   "create:recipes/building_blocks/smelting/ingot_uranium_compat_immersiveengineering": {
     "criteria": {
       "has_item": "2022-05-05 15:22:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2022-05-07 10:06:51 +0200"
     },
     "done": true
   },
@@ -2942,6 +3098,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_electrum_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_electrum": "2022-05-07 10:15:31 +0200"
     },
     "done": true
   },

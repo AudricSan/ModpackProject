@@ -30,6 +30,7 @@ events.listen('item.registry', function (e) {
 	e.create('tin_dust')               .displayName('Tin Dust')
 	e.create('copper_dust')            .displayName('Copper Dust')
 	e.create('silicon_dust')           .displayName('Silicon Dust')
+	e.create('desh_dust')           .displayName('Desh Dust')
 	e.create('iridium_dust')           .displayName('Iridium Dust')
 	e.create('steel_dust')             .displayName('Steel Dust')
 	e.create('titanium_dust')          .displayName('Titanium Dust')
@@ -78,6 +79,9 @@ events.listen('item.registry', function (e) {
 	
 	// Incomplete for Squencial Assembler
 	e.create('steel_sequenced_compressed_plate').type('create:sequenced_assembly').displayName('Steel Sequenced Compressed Plate')
+	e.create('desh_sequenced_compressed_plate').type('create:sequenced_assembly').displayName('Desh Sequenced Compressed Plate')
+	e.create('silicon_sequenced_compressed_plate').type('create:sequenced_assembly').displayName('Silicon Sequenced Compressed Plate')
+
 	e.create('steel_sequenced_stick_steel').type('create:sequenced_assembly').displayName('Steel Sequenced Stick Steel')
 	e.create('steel_sequenced_fan_steel').type('create:sequenced_assembly').displayName('Steel Sequenced Fan Steel')
 	e.create('steel_sequenced_gear_steel').type('create:sequenced_assembly').displayName('Steel Sequenced Gear Steel')
