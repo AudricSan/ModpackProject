@@ -1,11 +1,11 @@
 // REMOVE
 onEvent('recipes', e => {
     //GLOBLS
-    e.remove({type: 'immersiveengineering:arcfurnace'})
-    e.remove({type: 'immersiveengineering:crusher'})
-    e.remove({type: 'immersiveengineering:recycling'})
-    e.remove({type: 'immersiveengineering:metalpress'})
-    e.remove({type: 'immersiveengineering:alloysmelter'})
+    e.remove({ type: 'immersiveengineering:arcfurnace' })
+    e.remove({ type: 'immersiveengineering:crusher' })
+    e.remove({ type: 'immersiveengineering:recycling' })
+    e.remove({ type: 'immersiveengineering:metalpress' })
+    e.remove({ type: 'immersiveengineering:alloysmelter' })
 
     //Steel
     e.remove({ id: 'immersiveengineering:crafting/ingot_steel_to_storage_steel' })
@@ -136,53 +136,53 @@ onEvent('recipes', e => {
     createMixingItem(['kubejs:copper_dust', 'kubejs:copper_dust'], 'create:copper_ingot', [3, 3], 'superheated')
 
     //Uranium
-    e.remove( { id: 'immersiveengineering:metalpress/plate_uranium'})
-    e.remove( { id: 'immersiveengineering:crafting/plate_uranium_hammering'})
-    e.remove( { id: 'immersiveengineering:crafting/plate_uranium_hammering'})
+    e.remove({ id: 'immersiveengineering:metalpress/plate_uranium' })
+    e.remove({ id: 'immersiveengineering:crafting/plate_uranium_hammering' })
+    e.remove({ id: 'immersiveengineering:crafting/plate_uranium_hammering' })
 
-    e.remove( { id: 'immersiveengineering:crafting/hammercrushing_uranium'})
+    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_uranium' })
 
-    e.remove( { id: 'immersiveengineering:crusher/ore_uranium'})
-    e.remove( { id: 'immersiveengineering:crusher/ingot_uranium'})
+    e.remove({ id: 'immersiveengineering:crusher/ore_uranium' })
+    e.remove({ id: 'immersiveengineering:crusher/ingot_uranium' })
 
-    e.remove( { id: 'immersiveengineering:crafting/ingot_uranium_to_storage_uranium'})
+    e.remove({ id: 'immersiveengineering:crafting/ingot_uranium_to_storage_uranium' })
 
-    replaceIO('immersiveengineering:ingot_uranium'  , 'biggerreactors:yellorium_ingot')
-    replaceIO('exnihilosequentia:ingot_uranium'     , 'biggerreactors:yellorium_ingot')
-    replaceIO('oreclumps:uranium_ingot'             , 'biggerreactors:yellorium_ingot')
-    replaceIO('oreclumps:uranium_ingot'             , 'biggerreactors:yellorium_ingot')
+    replaceIO('immersiveengineering:ingot_uranium', 'biggerreactors:yellorium_ingot')
+    replaceIO('exnihilosequentia:ingot_uranium', 'biggerreactors:yellorium_ingot')
+    replaceIO('oreclumps:uranium_ingot', 'biggerreactors:yellorium_ingot')
+    replaceIO('oreclumps:uranium_ingot', 'biggerreactors:yellorium_ingot')
 
-    replaceIO('immersiveengineering:nugget_uranium' , 'kubejs:uranium_nugget')
-    replaceIO('immersiveengineering:plate_uranium'  , 'kubejs:uranium_sheet')
+    replaceIO('immersiveengineering:nugget_uranium', 'kubejs:uranium_nugget')
+    replaceIO('immersiveengineering:plate_uranium', 'kubejs:uranium_sheet')
 
     createPress('biggerreactors:yellorium_ingot', 'kubejs:uranium_sheet')
 
     createCrushing('create:crushed_uranium_ore', 'biggerreactors:yellorium_dust', 1, 3, false)
-    createMilling ('create:crushed_uranium_ore', 'biggerreactors:yellorium_dust', 1, 3, false)
+    createMilling('create:crushed_uranium_ore', 'biggerreactors:yellorium_dust', 1, 3, false)
 
     createCrushing('biggerreactors:yellorium_ingot', 'create:crushed_uranium_ore', 1, 3, 'biggerreactors:yellorium_dust')
-    createMilling ('biggerreactors:yellorium_ingot', 'create:crushed_uranium_ore', 1, 3, false)
+    createMilling('biggerreactors:yellorium_ingot', 'create:crushed_uranium_ore', 1, 3, false)
 
     e.stonecutting('immersiveengineering:storage_uranium', 'biggerreactors:yellorium_block')
 
     //Lead  
-    e.remove({ id: 'immersiveengineering:crafting/wire_lead'})
-    e.remove({ id: 'immersiveengineering:metalpress/wire_lead'})
+    e.remove({ id: 'immersiveengineering:crafting/wire_lead' })
+    e.remove({ id: 'immersiveengineering:metalpress/wire_lead' })
     e.remove({ id: 'tconstruct:smeltery/casting/metal/lead/wire_gold_cast' })
-    e.remove({ id: 'immersiveengineering:crusher/ingot_lead'})
+    e.remove({ id: 'immersiveengineering:crusher/ingot_lead' })
     e.remove({ id: 'tconstruct:smeltery/casting/metal/lead/wire_sand_cast' })
 
-    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_lead'})
-    
-    replaceIO('immersiveengineering:ingot_lead' , 'oreclumps:lead_ingot')
-    replaceIO('exnihilosequentia:ingot_lead'    , 'oreclumps:lead_ingot')
-    replaceIO('immersiveengineering:dust_lead'  , 'kubejs:lead_dust')
-    replaceIO('immersiveengineering:plate_lead' , 'kubejs:lead_sheet')
+    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_lead' })
+
+    replaceIO('immersiveengineering:ingot_lead', 'oreclumps:lead_ingot')
+    replaceIO('exnihilosequentia:ingot_lead', 'oreclumps:lead_ingot')
+    replaceIO('immersiveengineering:dust_lead', 'kubejs:lead_dust')
+    replaceIO('immersiveengineering:plate_lead', 'kubejs:lead_sheet')
 
     createPress('biggerreactors:yellorium_ingot', 'kubejs:lead_sheet')
-    
+
     createCutting('kubejs:lead_sheet', 'immersiveengineering:wire_lead', 4, 10, 'kubejs:lead_dust')
-    
+
     createCrushing('create:crushed_lead_ore', 'kubejs:lead_dust', 3, 2, false)
     createCrushing('oreclumps:lead_ingot', 'kubejs:lead_dust', 2, 2, 'kubejs:silver_dust')
 
@@ -192,21 +192,21 @@ onEvent('recipes', e => {
     createCrushing('immersiveengineering:storage_lead', 'create:crushed_lead_ore', 5, 1, false)
 
     //Aluminum
-    e.remove({ id: 'immersiveengineering:crafting/stick_aluminum'})
-    e.remove({ id: 'immersiveengineering:crafting/wire_aluminum'})
-    e.remove({ id: 'immersiveengineering:metalpress/wire_aluminum'})
-    e.remove({ id: 'immersiveengineering:metalpress/rod_aluminum'})
+    e.remove({ id: 'immersiveengineering:crafting/stick_aluminum' })
+    e.remove({ id: 'immersiveengineering:crafting/wire_aluminum' })
+    e.remove({ id: 'immersiveengineering:metalpress/wire_aluminum' })
+    e.remove({ id: 'immersiveengineering:metalpress/rod_aluminum' })
 
-    e.remove({ id: 'immersiveengineering:crafting/plate_aluminum_hammering'})
-    e.remove({ id: 'immersiveengineering:metalpress/plate_aluminum'})
+    e.remove({ id: 'immersiveengineering:crafting/plate_aluminum_hammering' })
+    e.remove({ id: 'immersiveengineering:metalpress/plate_aluminum' })
 
     e.remove({ id: 'tconstruct:smeltery/casting/metal/aluminum/rod_gold_cast' })
     e.remove({ id: 'tconstruct:smeltery/casting/metal/aluminum/rod_sand_cast' })
 
-    replaceIO('immersiveengineering:ingot_aluminum' , 'oreclumps:aluminum_ingot')
-    replaceIO('exnihilosequentia:ingot_aluminum'    , 'oreclumps:aluminum_ingot')
-    replaceIO('immersiveengineering:dust_aluminum'  , 'kubejs:aluminum_dust')
-    replaceIO('immersiveengineering:plate_aluminum' , 'kubejs:aluminum_sheet')
+    replaceIO('immersiveengineering:ingot_aluminum', 'oreclumps:aluminum_ingot')
+    replaceIO('exnihilosequentia:ingot_aluminum', 'oreclumps:aluminum_ingot')
+    replaceIO('immersiveengineering:dust_aluminum', 'kubejs:aluminum_dust')
+    replaceIO('immersiveengineering:plate_aluminum', 'kubejs:aluminum_sheet')
 
     createCutting('immersiveengineering:stick_aluminum', 'immersiveengineering:wire_aluminum', 6, 20, 'kubejs:aluminum_dust')
     createCutting('oreclumps:aluminum_ingot', 'immersiveengineering:stick_aluminum', 3, 20, 'kubejs:aluminum_dust')
@@ -216,22 +216,22 @@ onEvent('recipes', e => {
 
     createMixingItem(['kubejs:aluminum_dust', 'kubejs:aluminum_dust'], 'oreclumps:aluminum_ingot', [6, 3], 'heated')
     createMixingItem(['kubejs:aluminum_dust', 'kubejs:aluminum_dust'], 'oreclumps:aluminum_ingot', [3, 3], 'superheated')
-    
+
     createPress('oreclumps:aluminum_ingot', 'kubejs:aluminum_sheet')
 
     //Silver
-    replaceIO('immersiveengineering:ingot_silver'   , 'oreclumps:silver_ingot')
-    replaceIO('exnihilosequentia:ingot_silver'      , 'oreclumps:silver_ingot')
-    replaceIO('immersiveengineering:dust_silver'  , 'kubejs:silver_dust')
-    replaceIO('immersiveengineering:plate_silver' , 'kubejs:silver_sheet')
+    replaceIO('immersiveengineering:ingot_silver', 'oreclumps:silver_ingot')
+    replaceIO('exnihilosequentia:ingot_silver', 'oreclumps:silver_ingot')
+    replaceIO('immersiveengineering:dust_silver', 'kubejs:silver_dust')
+    replaceIO('immersiveengineering:plate_silver', 'kubejs:silver_sheet')
 
-    e.remove({ id: 'immersiveengineering:recycling/silver_sheet'})
-    e.remove({ id: 'immersiveengineering:crafting/plate_silver_hammering'})
-    e.remove({ id: 'immersiveengineering:metalpress/plate_silver'})
+    e.remove({ id: 'immersiveengineering:recycling/silver_sheet' })
+    e.remove({ id: 'immersiveengineering:crafting/plate_silver_hammering' })
+    e.remove({ id: 'immersiveengineering:metalpress/plate_silver' })
 
     createMixingItem(['kubejs:silver_dust', 'kubejs:silver_dust'], 'oreclumps:silver_ingot', [6, 3], 'heated')
     createMixingItem(['kubejs:silver_dust', 'kubejs:silver_dust'], 'oreclumps:silver_ingot', [3, 3], 'superheated')
-    
+
     createPress('oreclumps:silver_ingot', 'kubejs:silver_sheet')
     createCrushing('immersiveengineering:storage_silver', 'create:crushed_silver_ore', 5, 1, false)
 
@@ -239,76 +239,76 @@ onEvent('recipes', e => {
     e.remove({ id: 'tconstruct:smeltery/casting/metal/cobalt/ingot_gold_cast' })
     e.remove({ id: 'tconstruct:smeltery/casting/metal/cobalt/ingot_sand_cast' })
 
-    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_silver'})
+    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_silver' })
 
-    e.remove({ id: 'immersiveengineering:crusher/ingot_silver'})
-    e.remove({ id: 'immersiveengineering:crusher/ore_lead'})
-    e.remove({ id: 'immersiveengineering:crusher/ore_silver'})
+    e.remove({ id: 'immersiveengineering:crusher/ingot_silver' })
+    e.remove({ id: 'immersiveengineering:crusher/ore_lead' })
+    e.remove({ id: 'immersiveengineering:crusher/ore_silver' })
 
     replaceIO('tconstruct:cobalt_ingot', 'oreclumps:cobalt_ingot')
 
     createMixingItem(['kubejs:cobalt_dust', 'kubejs:cobalt_dust'], 'oreclumps:cobalt_ingot', [6, 3], 'heated')
     createMixingItem(['kubejs:cobalt_dust', 'kubejs:cobalt_dust'], 'oreclumps:cobalt_ingot', [3, 3], 'superheated')
-    
+
     createCrushing('morecreatestuffs:crushed_cobalt_ore', 'kubejs:cobalt_dust', 3, 2, false)
     createCrushing('oreclumps:silver_ingot', 'kubejs:cobalt_dust', 2, 2, 'kubejs:lead_dust')
 
     //Nickel
-    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_nickel'})
+    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_nickel' })
 
-    e.remove({ id: 'immersiveengineering:crusher/ingot_nickel'})
-    e.remove({ id: 'immersiveengineering:crusher/ore_nickel'})
-    e.remove({ id: 'immersiveengineering:crusher/ore_iron'})
+    e.remove({ id: 'immersiveengineering:crusher/ingot_nickel' })
+    e.remove({ id: 'immersiveengineering:crusher/ore_nickel' })
+    e.remove({ id: 'immersiveengineering:crusher/ore_iron' })
 
-    e.remove({ id: 'immersiveengineering:arcfurnace/dust_nickel'})
+    e.remove({ id: 'immersiveengineering:arcfurnace/dust_nickel' })
 
-    replaceIO('immersiveengineering:plate_nickel'   , 'kubejs:nickel_sheet')
-    replaceIO('immersiveengineering:dust_nickel'    ,'kubejs:nickel_dust')
-    replaceIO('exnihilosequentia:ingot_nickel'      ,'oreclumps:nickel_ingot')    
-    replaceIO('immersiveengineering:ingot_nickel'   ,'oreclumps:nickel_ingot')     
-    
+    replaceIO('immersiveengineering:plate_nickel', 'kubejs:nickel_sheet')
+    replaceIO('immersiveengineering:dust_nickel', 'kubejs:nickel_dust')
+    replaceIO('exnihilosequentia:ingot_nickel', 'oreclumps:nickel_ingot')
+    replaceIO('immersiveengineering:ingot_nickel', 'oreclumps:nickel_ingot')
+
     createMixingItem(['kubejs:nickel_dust', 'kubejs:nickel_dust'], 'oreclumps:nickel_ingot', [6, 3], 'heated')
     createMixingItem(['kubejs:nickel_dust', 'kubejs:nickel_dust'], 'oreclumps:nickel_ingot', [3, 3], 'superheated')
-    
+
     createCrushing('oreclumps:nickel_ingot', 'kubejs:nickel_dust', 2, 2, 'kubejs:iron_dust')
 
     //iron
     createCrushing('minecraft:iron_ingot', 'kubejs:iron_dust', 2, 2, 'kubejs:nickel_dust')
 
     //Zinc
-    e.remove({ id: 'createaddition:pressing/zinc_ingot'})
-    e.remove({ id: 'immersiveengineering:arcfurnace/alloy_brass'})
-    e.remove({ id: 'immersiveengineering:arcfurnace/dust_zinc'})
-    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_zinc'})
-    
+    e.remove({ id: 'createaddition:pressing/zinc_ingot' })
+    e.remove({ id: 'immersiveengineering:arcfurnace/alloy_brass' })
+    e.remove({ id: 'immersiveengineering:arcfurnace/dust_zinc' })
+    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_zinc' })
+
     replaceIO('createaddition:zinc_sheet', 'createdeco:zinc_sheet')
     replaceIO('oreclumps:zinc_ingot', 'create:zinc_ingot')
     replaceIO('exnihilosequentia:ingot_zinc', 'create:zinc_ingot')
 
     createCrushing('create:zinc_ingot', 'kubejs:zinc_dust', 2, 1, 'kubejs:iron_dust')
     createCrushing('create:crushed_zinc_ore', 'kubejs:zinc_dust', 4, 2, 'kubejs:zinc_dust')
-    
+
     createMixingItem(['kubejs:zinc_dust', 'kubejs:zinc_dust'], 'oreclumps:zinc_ingot', [6, 3], 'heated')
     createMixingItem(['kubejs:zinc_dust', 'kubejs:zinc_dust'], 'oreclumps:zinc_ingot', [3, 3], 'superheated')
-    
+
     //IRON
-    e.remove({id: 'tconstruct:smeltery/casting/metal/iron/rod_gold_cast'})
-    e.remove({id: 'tconstruct:smeltery/casting/metal/iron/rod_sand_cast'})
+    e.remove({ id: 'tconstruct:smeltery/casting/metal/iron/rod_gold_cast' })
+    e.remove({ id: 'tconstruct:smeltery/casting/metal/iron/rod_sand_cast' })
 
-    e.remove({id: 'immersiveengineering:arcfurnace/dust_iron'})
-    e.remove({id: 'immersiveengineering:arcfurnace/steel'})
-    e.remove({id: 'immersiveengineering:crafting/hammercrushing_iron'})
-    e.remove({id: 'immersiveengineering:crafting/plate_iron_hammering'})
-    e.remove({id: 'immersiveengineering:blastfurnace/steel_block'})
-    e.remove({id: 'immersiveengineering:blastfurnace/steel'})
+    e.remove({ id: 'immersiveengineering:arcfurnace/dust_iron' })
+    e.remove({ id: 'immersiveengineering:arcfurnace/steel' })
+    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_iron' })
+    e.remove({ id: 'immersiveengineering:crafting/plate_iron_hammering' })
+    e.remove({ id: 'immersiveengineering:blastfurnace/steel_block' })
+    e.remove({ id: 'immersiveengineering:blastfurnace/steel' })
 
-    e.remove({id: 'immersiveengineering:metalpress/plate_iron'})
-    e.remove({id: 'immersiveengineering:metalpress/rod_iron'})
-    e.remove({id: 'immersiveengineering:metalpress/wire_iron'})
+    e.remove({ id: 'immersiveengineering:metalpress/plate_iron' })
+    e.remove({ id: 'immersiveengineering:metalpress/rod_iron' })
+    e.remove({ id: 'immersiveengineering:metalpress/wire_iron' })
 
-    e.remove({id: 'immersiveengineering:crafting/stick_iron'}) 
-    e.remove({id: 'boss_tools:iron_plate'}) 
-    
+    e.remove({ id: 'immersiveengineering:crafting/stick_iron' })
+    e.remove({ id: 'boss_tools:iron_plate' })
+
     replaceIO('boss_tools:iron_plate', 'create:iron_sheet')
     replaceIO('immersiveengineering:plate_iron', 'create:iron_sheet')
 
@@ -317,12 +317,12 @@ onEvent('recipes', e => {
 
     createCrushing('minecraft:iron_block', 'create:crushed_iron_ore', 4, 2, 'kubejs:iron_dust')
     createCrushing('create:crushed_iron_ore', 'kubejs:iron_dust', 4, 2, 'kubejs:iron_dust')
-    
+
     createMixingItem(['kubejs:iron_dust', 'kubejs:iron_dust'], 'minecraft:iron_ingot', [6, 3], 'heated')
     createMixingItem(['kubejs:iron_dust', 'kubejs:iron_dust'], 'minecraft:iron_ingot', [3, 3], 'superheated')
-    
+
     createMixingItem(['minecraft:iron_block', 'minecraft:coal_block'], 'alloyed:steel_block', [1, 2], 'superheated')
-   
+
     createCutting('createaddition:iron_rod', 'createaddition:iron_wire', 6, 20, 'kubejs:iron_dust')
     createCutting('minecraft:iron_ingot', 'createaddition:iron_rod', 3, 20, 'kubejs:iron_dust')
 
@@ -330,29 +330,29 @@ onEvent('recipes', e => {
     createCutting('create:iron_sheet', 'createaddition:iron_rod', 4, 10, 'kubejs:iron_dust')
 
     //GOLD
-    e.remove({id: 'immersiveengineering:arcfurnace/dust_gold'})
-    e.remove({id: 'immersiveengineering:arcfurnace/steel'})
-    e.remove({id: 'immersiveengineering:crafting/hammercrushing_gold'})
-    e.remove({id: 'immersiveengineering:crafting/plate_gold_hammering'})
-    e.remove({id: 'immersiveengineering:blastfurnace/steel_block'})
-    e.remove({id: 'immersiveengineering:blastfurnace/steel'})
+    e.remove({ id: 'immersiveengineering:arcfurnace/dust_gold' })
+    e.remove({ id: 'immersiveengineering:arcfurnace/steel' })
+    e.remove({ id: 'immersiveengineering:crafting/hammercrushing_gold' })
+    e.remove({ id: 'immersiveengineering:crafting/plate_gold_hammering' })
+    e.remove({ id: 'immersiveengineering:blastfurnace/steel_block' })
+    e.remove({ id: 'immersiveengineering:blastfurnace/steel' })
 
-    e.remove({id: 'immersiveengineering:metalpress/plate_gold'})
-    e.remove({id: 'immersiveengineering:metalpress/rod_gold'})
-    e.remove({id: 'immersiveengineering:metalpress/wire_gold'})
+    e.remove({ id: 'immersiveengineering:metalpress/plate_gold' })
+    e.remove({ id: 'immersiveengineering:metalpress/rod_gold' })
+    e.remove({ id: 'immersiveengineering:metalpress/wire_gold' })
 
-    e.remove({id: 'immersiveengineering:crafting/stick_gold'}) 
+    e.remove({ id: 'immersiveengineering:crafting/stick_gold' })
     replaceIO('immersiveengineering:plate_gold', 'create:golden_sheet')
     replaceIO('immersiveengineering:dust_gold', 'kubejs:gold_dust')
 
     createCrushing('minecraft:gold_block', 'create:crushed_gold_ore', 4, 2, 'kubejs:gold_dust')
     createCrushing('create:crushed_gold_ore', 'kubejs:gold_dust', 4, 2, 'kubejs:gold_dust')
-    
+
     createMixingItem(['kubejs:gold_dust', 'kubejs:gold_dust'], 'minecraft:gold_ingot', [6, 3], 'heated')
     createMixingItem(['kubejs:gold_dust', 'kubejs:gold_dust'], 'minecraft:gold_ingot', [3, 3], 'superheated')
-    
+
     createMixingItem(['minecraft:gold_block', 'minecraft:coal_block'], 'alloyed:steel_block', [1, 2], 'superheated')
-   
+
     createCutting('createaddition:gold_rod', 'createaddition:gold_wire', 6, 20, 'kubejs:gold_dust')
     createCutting('minecraft:gold_ingot', 'createaddition:gold_rod', 3, 20, 'kubejs:gold_dust')
 
