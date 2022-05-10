@@ -30,7 +30,7 @@ events.listen('item.registry', function (e) {
 	e.create('tin_dust')               .displayName('Tin Dust')
 	e.create('copper_dust')            .displayName('Copper Dust')
 	e.create('silicon_dust')           .displayName('Silicon Dust')
-	e.create('desh_dust')           .displayName('Desh Dust')
+	e.create('desh_dust')              .displayName('Desh Dust')
 	e.create('iridium_dust')           .displayName('Iridium Dust')
 	e.create('steel_dust')             .displayName('Steel Dust')
 	e.create('titanium_dust')          .displayName('Titanium Dust')
