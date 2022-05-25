@@ -9,6 +9,7 @@
 #D60460 create:gearbox
 #145137 create:mechanical_press
 #4F44DD create:mechanical_saw
+#1322E9 boss_tools:rocket_launch_pad
 #D3CCFE create:shaft
 #DC3458 minecraft:stone
 #2E9337 minecraft:stonecutter

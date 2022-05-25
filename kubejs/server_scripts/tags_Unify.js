@@ -16,7 +16,6 @@ events.listen('item.tags', function (e) {
     e.add('forge:sticks', ['immersiveengineering:stick_steel'])
     e.add('forge:beconpayment', ['create:copper_ingot'])
     e.add('minecraft:beacon_payment_items', ['create:copper_ingot'])
-    e.add('forge:ingots', ['kubejs:lead_dust'])
     e.add('forge:dusts', ['kubejs:silver_dust'])
     e.add('forge:plates', ['kubejs:silver_sheet', 'kubejs:uranium_sheet', 'kubejs:aluminum_sheet'])
 
@@ -49,7 +48,6 @@ events.listen('item.tags', function (e) {
 
     //Lead
     e.remove('forge:ingots/lead', ['immersiveengineering:ingot_lead', 'exnihilosequentia:ingot_lead'])
-
     e.remove('forge:dusts/lead', 'immersiveengineering:dust_lead')
 
     e.add('forge:dusts/lead', 'kubejs:lead_dust')

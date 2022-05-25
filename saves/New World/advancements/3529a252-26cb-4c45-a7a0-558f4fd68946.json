@@ -473,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2022-05-25 11:52:43 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_steel_to_storage_steel": {
     "criteria": {
       "has_ingot_steel": "2022-05-02 12:35:11 +0200"
@@ -584,6 +590,12 @@
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_pants": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2022-05-25 11:52:43 +0200"
     },
     "done": true
   },
@@ -1223,6 +1235,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2022-05-25 11:46:27 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/diving_boots": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
@@ -1292,6 +1310,12 @@
   "createdeco:recipes/createdeco.props/light_blue_decal": {
     "criteria": {
       "has_item": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2022-05-25 11:52:43 +0200"
     },
     "done": true
   },
@@ -1745,6 +1769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2022-05-25 11:52:43 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/brass_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2022-05-02 12:34:48 +0200"
@@ -1766,6 +1796,12 @@
   "alloyed:recipes/main_group/crafting/steel_block": {
     "criteria": {
       "has_ingredient": "2022-05-02 12:34:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-05-25 11:52:43 +0200"
     },
     "done": true
   },
@@ -2021,6 +2057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2022-05-25 11:52:43 +0200"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/brass_mesh_fence": {
     "criteria": {
       "has_item": "2022-05-07 09:25:25 +0200"
@@ -2084,6 +2126,12 @@
   "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2022-05-06 15:11:57 +0200"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2022-05-25 11:52:43 +0200"
     },
     "done": true
   },
@@ -2195,6 +2243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2022-05-25 11:52:43 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_goggles": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
@@ -2210,6 +2264,12 @@
   "createdeco:recipes/createdeco.metals/netherite_bars": {
     "criteria": {
       "has_item": "2022-05-02 12:34:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2022-05-25 11:52:43 +0200"
     },
     "done": true
   },
@@ -2285,6 +2345,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-05-25 11:52:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2022-05-25 11:52:43 +0200"
+    },
+    "done": true
+  },
   "exnihilosequentia:recipes/exnihilosequentia/ens_hammer_iron": {
     "criteria": {
       "has_material": "2022-05-02 12:34:40 +0200"
@@ -2318,6 +2390,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2022-05-02 12:34:43 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_doll_x4": {
+    "criteria": {
+      "has_diamond": "2022-05-25 11:52:43 +0200"
     },
     "done": true
   },
@@ -2408,6 +2486,12 @@
   "tconstruct:recipes/tconstruct/general/common/materials/cobalt_nugget_from_ingot": {
     "criteria": {
       "has_item": "2022-05-02 12:35:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2022-05-25 11:52:43 +0200"
     },
     "done": true
   },
@@ -2741,6 +2825,12 @@
     },
     "done": true
   },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_crook_diamond": {
+    "criteria": {
+      "has_pebble": "2022-05-25 11:52:43 +0200"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.props/light_gray_decal": {
     "criteria": {
       "has_item": "2022-05-06 14:51:26 +0200"
@@ -2939,6 +3029,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2022-05-25 11:52:43 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-05-02 12:33:03 +0200"
@@ -3086,6 +3182,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/armor_faraday_chest": {
     "criteria": {
       "has_alu_plate": "2022-05-06 08:23:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2022-05-25 11:52:43 +0200"
     },
     "done": true
   },
