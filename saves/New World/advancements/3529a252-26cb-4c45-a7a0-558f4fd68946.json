@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "create:wrench": {
+    "criteria": {
+      "0": "2022-05-25 11:24:22 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_steel": {
     "criteria": {
       "has_steel_ingot": "2022-05-02 12:34:56 +0200"
