@@ -21327,3 +21327,51 @@ java.lang.IllegalArgumentException: ItemStack value must not be empty. 1 air min
 [25May2022 12:02:53.616] [Server thread/INFO] [immersiveengineering/]: Retrogen was performed on 2 Chunks, 111 chunks remaining
 [25May2022 12:02:53.667] [Server thread/INFO] [immersiveengineering/]: Retrogen was performed on 2 Chunks, 109 chunks remaining
 [25May2022 12:02:53.716] [Server thread/INFO] [immersiveengineering/]: Retrogen was performed on 2 Chunks, 107 chunks remaining
+[25May2022 12:33:27.963] [main/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[25May2022 12:33:28.020] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Audric__San lost connection: Disconnected
+[25May2022 12:33:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Audric__San left the game
+[25May2022 12:33:28.060] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[25May2022 12:33:28.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25May2022 12:33:28.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25May2022 12:33:28.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25May2022 12:33:28.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[25May2022 12:33:28.123] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[25May2022 12:33:28.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[25May2022 12:33:28.125] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25May2022 12:33:28.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[25May2022 12:33:28.127] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25May2022 12:33:28.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/compactmachines:compact_world
+[25May2022 12:33:28.130] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[25May2022 12:33:28.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:mars_orbit
+[25May2022 12:33:28.131] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[25May2022 12:33:28.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:mercury
+[25May2022 12:33:28.133] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[25May2022 12:33:28.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:venus_orbit
+[25May2022 12:33:28.134] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[25May2022 12:33:28.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:mars
+[25May2022 12:33:28.136] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[25May2022 12:33:28.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:overworld_orbit
+[25May2022 12:33:28.140] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[25May2022 12:33:28.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:venus
+[25May2022 12:33:28.141] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[25May2022 12:33:28.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:moon_orbit
+[25May2022 12:33:28.143] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[25May2022 12:33:28.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:moon
+[25May2022 12:33:28.144] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[25May2022 12:33:28.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:mercury_orbit
+[25May2022 12:33:28.146] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[25May2022 12:33:28.204] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[25May2022 12:33:28.208] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25May2022 12:33:28.209] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25May2022 12:33:28.209] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[25May2022 12:33:28.210] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[25May2022 12:33:28.210] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[25May2022 12:33:28.210] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[25May2022 12:33:28.210] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[25May2022 12:33:28.211] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[25May2022 12:33:28.211] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[25May2022 12:33:28.212] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[25May2022 12:33:28.212] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[25May2022 12:33:28.212] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[25May2022 12:33:33.631] [DiscordRP Stop/INFO] [com.sunekaer.mods.sdrp.discord.DiscordRichPresence/]: Shutting down Discord Rich Presence client
+[25May2022 12:33:33.632] [DiscordRP Stop/INFO] [com.sunekaer.mods.sdrp.discord.DiscordRichPresence/]: Discord client closed.
