@@ -419,6 +419,8 @@ onEvent('recipes', e => {
     //Desh
     e.remove({id: 'boss_tools:desh_plate'})
     e.remove({id: 'boss_tools:compressed_desh'})
+    e.remove({id: 'boss_tools:compressing/compressed_desh'})
+
     createPress('boss_tools:desh_ingot','boss_tools:desh_plate')
     
     e.recipes.createSequencedAssembly([
@@ -428,8 +430,20 @@ onEvent('recipes', e => {
         e.recipes.createPressing('kubejs:desh_sequenced_compressed_plate', 'kubejs:desh_sequenced_compressed_plate'),
     ]).transitionalItem('kubejs:desh_sequenced_compressed_plate').loops(6)
 
+    //Quartz
+    e.recipes.createSequencedAssembly([
+        Item.of('kubejs:quartz_dust').withChance(32.0),
+        Item.of('kubejs:quartz_dust').withChance(2.0),
+    ], '#forge:gems/quartz', [
+        e.recipes.createCutting('kubejs:quartz_sequenced_dust', 'kubejs:quartz_sequenced_dust'),
+        e.recipes.createPressing('kubejs:quartz_sequenced_dust', 'kubejs:quartz_sequenced_dust')
+    ]).transitionalItem('kubejs:quartz_sequenced_dust').loops(1)
+
     //Silicon
     e.remove({id: 'boss_tools:compressed_silicon'})
+    e.remove({id: 'boss_tools:compressing/compressed_silicon'})
+    e.remove({id: 'refinedstorage:silicon'})
+
     createPress('boss_tools:silicon_ingot','kubejs:silicon_sheet')
 
     e.recipes.createSequencedAssembly([
@@ -439,36 +453,17 @@ onEvent('recipes', e => {
         e.recipes.createPressing('kubejs:silicon_sequenced_compressed_plate', 'kubejs:silicon_sequenced_compressed_plate'),
     ]).transitionalItem('kubejs:silicon_sequenced_compressed_plate').loops(6)
 
+    createCrushing('boss_tools:silicon_ingot', 'kubejs:silicon_dust', 3, 2, 'kubejs:craunium_dust')
+    createCrushing('refinedstorage:silicon', 'kubejs:silicon_dust', 2, 1, false)
 
+    createMixingItem(['kubejs:silicon_dust', 'kubejs:silicon_dust'], 'boss_tools:silicon_nugget', [5, 5], 'heated')
+    createMixingItem(['kubejs:silicon_dust', 'kubejs:silicon_dust'], 'boss_tools:silicon_nugget', [5, 2], 'superheated')
+    
+    createMixingItem(['kubejs:silicon_dust', 'kubejs:craunium_dust'], 'refinedstorage:silicon', [5, 5], 'heated')
+    createMixingItem(['kubejs:silicon_dust', 'kubejs:craunium_dust'], 'refinedstorage:silicon', [2, 2], 'superheated')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    e.smelting('refinedstorage:silicon', 'kubejs:quartz_dust')
+    e.blasting('refinedstorage:silicon', 'kubejs:quartz_dust')
 
     // FUNCTION //
     function replaceIO(oldItem, newItem) {

@@ -59,6 +59,7 @@ events.listen('item.registry', function (e) {
     e.create('chromium_dust')          .displayName('Chromium Dust')
     e.create('thorium_dust')           .displayName('Thorium Dust')
     e.create('carbon_dust')            .displayName('Carbon Dust')
+    e.create('quartz_dust')            .displayName('Quartz Dust')
     
     // New Plates
     e.create('silver_sheet')             .displayName('Silver Sheet')          
@@ -85,6 +86,8 @@ events.listen('item.registry', function (e) {
 	e.create('steel_sequenced_stick_steel').type('create:sequenced_assembly').displayName('Steel Sequenced Stick Steel')
 	e.create('steel_sequenced_fan_steel').type('create:sequenced_assembly').displayName('Steel Sequenced Fan Steel')
 	e.create('steel_sequenced_gear_steel').type('create:sequenced_assembly').displayName('Steel Sequenced Gear Steel')
+
+	e.create('quartz_sequenced_dust').type('create:sequenced_assembly').displayName('Quartz Sequenced Dust')
 	// e.create('kubejs:incomplete_taluminide_gear') 	.displayName('Incomplete Titanium Aluminide Gear')
 	// e.create('kubejs:incomplete_tiridium_gear') 	.displayName('Incomplete Titanium Iridium Gear')
 	// e.create('kubejs:incomplete_titanium_gear') 	.displayName('Incomplete Titanium Gear')
