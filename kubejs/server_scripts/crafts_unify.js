@@ -379,7 +379,6 @@ onEvent('recipes', e => {
     e.stonecutting('tconstruct:tinkers_bronze_block', 'alloyed:bronze_block')
 
     //Craunium
-    createPress('kubejs:craunium_ingot', 'kubejs:craunium_sheet')
     e.shapeless('kubejs:craunium_ingot', '9x kubejs:craunium_nugget')
     e.shapeless('9x kubejs:craunium_nugget', 'kubejs:craunium_ingot')
     createBulkWashingCrushed('kubejs:craunium_crushed', 'kubejs:craunium_nugget', 10, 5)
@@ -403,10 +402,11 @@ onEvent('recipes', e => {
     e.smelting('kubejs:craunium_ingot', 'kubejs:craunium_raw')
     e.blasting('kubejs:craunium_ingot', 'kubejs:craunium_raw')
 
-    createCutting('kubejs:craunium_sheet', 'kubejs:craunium_gear', 2, 10, 'kubejs:craunium_dust')
-
     createMixingItem3(['kubejs:craunium_dust', 'kubejs:craunium_ingot', 'minecraft:quartz'], 'kubejs:craunium_crystal', [5, 10, 10, 5], 'superheated')
     createMixingItem3(['kubejs:craunium_dust', 'kubejs:craunium_ingot', 'minecraft:quartz'], 'kubejs:craunium_crystal', [20, 5, 5, 1], 'heated')
+
+    createPress('kubejs:craunium_ingot', 'kubejs:craunium_sheet')
+    createCutting('kubejs:craunium_sheet', 'kubejs:craunium_gear', 2, 10, 'kubejs:craunium_dust')
 
     //SOME DUSTS
     replaceIO('immersiveengineering:dust_hop_graphite', 'kubejs:hop_graphite_dust')
@@ -464,6 +464,10 @@ onEvent('recipes', e => {
 
     e.smelting('refinedstorage:silicon', 'kubejs:quartz_dust')
     e.blasting('refinedstorage:silicon', 'kubejs:quartz_dust')
+
+    //SpaceStation Special craft
+        // createPress('kubejs:craunium_ingot', 'boss_tools:iron_plate')
+        // createCutting('boss_tools:iron_plate', 'boss_tools:steel_ingot', 2, 10, 'kubejs:craunium_dust')
 
     // FUNCTION //
     function replaceIO(oldItem, newItem) {
