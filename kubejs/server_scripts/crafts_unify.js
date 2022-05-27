@@ -469,6 +469,8 @@ onEvent('recipes', e => {
         // createPress('kubejs:craunium_ingot', 'boss_tools:iron_plate')
         // createCutting('boss_tools:iron_plate', 'boss_tools:steel_ingot', 2, 10, 'kubejs:craunium_dust')
 
+        // see in mod ADDON files to edit Station craft
+
     // FUNCTION //
     function replaceIO(oldItem, newItem) {
         e.replaceInput({}, oldItem, newItem);
