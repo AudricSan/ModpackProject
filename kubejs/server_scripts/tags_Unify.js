@@ -19,6 +19,10 @@ events.listen('item.tags', function (e) {
     e.add('forge:dusts', ['kubejs:silver_dust'])
     e.add('forge:plates', ['kubejs:silver_sheet', 'kubejs:uranium_sheet', 'kubejs:aluminum_sheet'])
 
+    //quartz
+    e.add('forge:gems', 'byg:quartz_crystal')
+    e.add('forge:gems/quartz', 'byg:quartz_crystal')
+
     //Steel
     e.remove('forge:ingots/steel', ['boss_tools:steel_ingot', 'immersiveengineering:ingot_steel'])
     e.remove('forge:dusts/steel', ['immersiveengineering:dust_steel'])
