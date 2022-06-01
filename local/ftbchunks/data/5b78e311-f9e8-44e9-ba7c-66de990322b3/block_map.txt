@@ -19,6 +19,7 @@
 #228015 minecraft:ladder
 #145137 create:mechanical_press
 #4F44DD create:mechanical_saw
+#01ECA2 byg:quartz_crystal
 #1322E9 boss_tools:rocket_launch_pad
 #D3CCFE create:shaft
 #F68259 minecraft:shroomlight

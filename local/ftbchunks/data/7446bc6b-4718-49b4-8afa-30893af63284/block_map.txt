@@ -1,0 +1,5 @@
+#52B53D minecraft:air
+#E9A8F5 minecraft:crying_obsidian
+#89C856 minecraft:end_rod
+#6A5197 minecraft:polished_andesite
+#705189 minecraft:sea_lantern

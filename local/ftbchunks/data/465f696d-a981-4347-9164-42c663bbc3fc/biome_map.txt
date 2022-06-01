@@ -1,12 +1,15 @@
 #556 minecraft:beach
 #3D6 minecraft:cold_ocean
 #4F9 minecraft:dark_forest
+#5D7 byg:deciduous_forest
 #705 minecraft:deep_frozen_ocean
 #008 minecraft:desert
 #19B minecraft:desert_hills
 #360 byg:ebony_hills
 #58B byg:flowering_meadow
+#678 byg:fresh_water_lake
 #292 minecraft:frozen_ocean
+#73C byg:grassland_plateau
 #5A3 byg:grove
 #5F3 byg:meadow
 #7E1 byg:polluted_lake

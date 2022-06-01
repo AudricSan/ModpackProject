@@ -53,6 +53,5 @@ onEvent('jei.hide.items', e => {
 })
 
 onEvent('jei.hide.fluids', e => {
-	e.hide('example:fluid')
-
+	// e.hide('example:fluid')
 })

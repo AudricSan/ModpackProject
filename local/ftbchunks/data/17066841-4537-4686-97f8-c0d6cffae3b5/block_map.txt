@@ -1,0 +1,6 @@
+#52B53D minecraft:air
+#2F436F minecraft:glass
+#482EEB minecraft:glowstone
+#2E2249 minecraft:iron_block
+#0EFBB2 minecraft:nether_brick_slab
+#86FC77 minecraft:sand

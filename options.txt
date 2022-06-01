@@ -127,8 +127,8 @@ key_oreexcavation.key.shape_edit:key.keyboard.keypad.1
 key_key.dankstorage.construction:key.keyboard.i
 key_key.ftbquests.quests:key.keyboard.comma
 key_key.inventorysorter.itemout:key.mouse.102
-key_key.inventorysorter.sort:key.mouse.middle
 key_key.inventorysorter.itemin:key.mouse.100
+key_key.inventorysorter.sort:key.mouse.middle
 key_key.nextDestination:key.keyboard.right.bracket
 key_key.prevDestination:key.keyboard.left.bracket
 key_key.openManual:key.keyboard.f1
