@@ -1,6 +1,13 @@
 #52B53D minecraft:air
+#2925D4 minecraft:black_stained_glass
+#87B36D minecraft:blue_wool
+#FB5E8C minecraft:command_block
 #2F436F minecraft:glass
 #482EEB minecraft:glowstone
 #2E2249 minecraft:iron_block
+#EA439B minecraft:lapis_ore
 #0EFBB2 minecraft:nether_brick_slab
+#73753E minecraft:oak_fence
+#46FB1F minecraft:oak_wall_sign
+#1322E9 boss_tools:rocket_launch_pad
 #86FC77 minecraft:sand

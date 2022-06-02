@@ -1,0 +1,9 @@
+#34C byg:baobab_savanna
+#556 minecraft:beach
+#34D minecraft:deep_lukewarm_ocean
+#67B byg:dunes
+#79A minecraft:lukewarm_ocean
+#4DB byg:oasis
+#5FF minecraft:river
+#181 minecraft:savanna
+#2B7 minecraft:warm_ocean

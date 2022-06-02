@@ -5,9 +5,19 @@
 	can_edit: false
 	lock: false
 	auto_pin: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		3F3F4F75B680C53F: 1
+	}
+	started: {
+		0000000000000001: 1654106308000L
+		5FE72794BF29DCC4: 1654106308000L
+		71F713EB878AFD8E: 1654106308000L
+		3F3F4F75B680C53F: 1654106308000L
+	}
+	completed: {
+		5FE72794BF29DCC4: 1654106308000L
+		3F3F4F75B680C53F: 1654106308000L
+	}
 	claimed_rewards: { }
 	pinned_quests: [ ]
 }
