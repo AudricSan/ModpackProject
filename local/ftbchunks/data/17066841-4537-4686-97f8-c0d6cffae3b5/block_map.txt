@@ -1,7 +1,10 @@
 #52B53D minecraft:air
 #2925D4 minecraft:black_stained_glass
 #87B36D minecraft:blue_wool
+#B76D44 create:cogwheel
 #FB5E8C minecraft:command_block
+#73CA69 create:creative_motor
+#548B83 create:encased_fan
 #2F436F minecraft:glass
 #482EEB minecraft:glowstone
 #2E2249 minecraft:iron_block
@@ -11,4 +14,6 @@
 #46FB1F minecraft:oak_wall_sign
 #1322E9 boss_tools:rocket_launch_pad
 #86FC77 minecraft:sand
+#872D76 minecraft:snow
 #BBEC9D boss_tools:solar_panel
+#BB3278 mekanism:ultimate_universal_cable
