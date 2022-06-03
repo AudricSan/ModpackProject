@@ -3,6 +3,8 @@
 - Update Configured
 - Update Rf Tools Utility
 
+- add mekanisùm mod
+
 - Unify
     - Steel
     - Copper
@@ -21,7 +23,11 @@
     - quartz
     - silicon
 
+    - remove all craft of mekanism
+
 - New craft
     - Compressed plate (desh, silicon, steel)
     - Space station refind craft
     - cobble generator tier user previous tier
+
+    - item and Energy cable of mekanism

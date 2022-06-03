@@ -11,3 +11,4 @@
 #46FB1F minecraft:oak_wall_sign
 #1322E9 boss_tools:rocket_launch_pad
 #86FC77 minecraft:sand
+#BBEC9D boss_tools:solar_panel

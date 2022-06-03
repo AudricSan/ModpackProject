@@ -1,3 +1,4 @@
 minecraft:overworld
 boss_tools:overworld_orbit
 boss_tools:moon_orbit
+boss_tools:moon

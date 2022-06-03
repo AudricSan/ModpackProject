@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "creategears:recipes/creategears/simple_gearshift_vertical": {
+    "criteria": {
+      "has_cogwheel": "2022-06-03 19:32:07 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/pig_iron_block_from_ingots": {
     "criteria": {
       "has_item": "2022-05-02 12:35:17 +0200"
@@ -215,6 +221,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/half_shaft_magic_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
@@ -311,6 +323,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/half_shaft_redwood_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_red": {
     "criteria": {
       "has_sheetmetal": "2022-05-02 12:38:13 +0200"
@@ -344,6 +362,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/hoe_steel": {
     "criteria": {
       "has_steel_ingot": "2022-05-02 12:34:56 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_fir_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
     },
     "done": true
   },
@@ -659,6 +683,12 @@
     },
     "done": true
   },
+  "creategears:recipes/creategears/half_shaft_gear": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-05-02 12:34:40 +0200"
@@ -827,6 +857,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/half_shaft_palm_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
     "criteria": {
       "has_copper_ingot": "2022-05-02 12:34:47 +0200"
@@ -881,6 +917,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/half_shaft_warped_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
@@ -932,6 +974,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_from_dust_from_blasting": {
     "criteria": {
       "has_dust_silver": "2022-05-06 09:08:53 +0200"
+    },
+    "done": true
+  },
+  "boss_tools:moon_advancement": {
+    "criteria": {
+      "moon_advancement": "2022-06-03 19:26:10 +0200"
     },
     "done": true
   },
@@ -1028,6 +1076,12 @@
   "createdeco:recipes/createdeco.props/magenta_decal": {
     "criteria": {
       "has_item": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_cherry_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
     },
     "done": true
   },
@@ -1223,6 +1277,18 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/half_shaft_dark_oak_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
+    },
+    "done": true
+  },
+  "creategears:recipes/creategears/gear_from_cogwheel": {
+    "criteria": {
+      "has_cogwheel": "2022-06-03 19:32:07 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/duct": {
     "criteria": {
       "has_item": "2022-05-02 12:35:22 +0200"
@@ -1310,6 +1376,12 @@
   "createdeco:recipes/createdeco.props/light_blue_decal": {
     "criteria": {
       "has_item": "2022-05-06 14:51:26 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_acacia_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
     },
     "done": true
   },
@@ -1535,6 +1607,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/tesla_coil": {
+    "criteria": {
+      "has_capacitor_hv": "2022-06-03 19:14:31 +0200"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_reinforced_hull": {
     "criteria": {
       "has_steel_ingot": "2022-05-02 12:34:56 +0200"
@@ -1544,6 +1622,12 @@
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_crimson_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
     },
     "done": true
   },
@@ -1685,6 +1769,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/half_shaft_jungle_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_lead_to_storage_lead": {
     "criteria": {
       "has_ingot_lead": "2022-05-02 12:34:50 +0200"
@@ -1763,6 +1853,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/half_shaft_birch_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/crimson_drawers": {
     "criteria": {
       "has_chest": "2022-05-02 12:32:57 +0200"
@@ -1796,6 +1892,12 @@
   "alloyed:recipes/main_group/crafting/steel_block": {
     "criteria": {
       "has_ingredient": "2022-05-02 12:34:56 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_umbran_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
     },
     "done": true
   },
@@ -1886,6 +1988,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sword_steel": {
     "criteria": {
       "has_steel_ingot": "2022-05-02 12:34:56 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_jacaranda_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
     },
     "done": true
   },
@@ -1982,6 +2090,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/ingot_hop_graphite": {
     "criteria": {
       "has_dust_hop_graphite": "2022-05-07 10:15:09 +0200"
+    },
+    "done": true
+  },
+  "creategears:recipes/creategears/gear": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
     },
     "done": true
   },
@@ -2273,6 +2387,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/half_shaft_hellbark_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/ens_ancient_debris": {
     "criteria": {
       "has_scrap": "2022-05-02 12:34:44 +0200"
@@ -2381,6 +2501,18 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/half_shaft_dead_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_mahogany_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_gray": {
     "criteria": {
       "has_sheetmetal": "2022-05-02 12:38:13 +0200"
@@ -2426,6 +2558,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/nugget_nickel_to_ingot_nickel": {
     "criteria": {
       "has_nugget_nickel": "2022-05-06 13:54:58 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_willow_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
     },
     "done": true
   },
@@ -2480,6 +2618,12 @@
   "create:recipes/building_blocks/smelting/lead_ingot_compat_thermal": {
     "criteria": {
       "has_item": "2022-05-05 18:18:23 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2022-06-03 19:32:07 +0200"
     },
     "done": true
   },
@@ -2594,6 +2738,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_from_slab": {
     "criteria": {
       "has_storage_aluminum": "2022-05-06 08:23:50 +0200"
+    },
+    "done": true
+  },
+  "creategears:recipes/creategears/simple_gearshift_horizontal": {
+    "criteria": {
+      "has_cogwheel": "2022-06-03 19:32:07 +0200"
     },
     "done": true
   },
@@ -3203,6 +3353,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/railgun": {
+    "criteria": {
+      "has_capacitor_hv": "2022-06-03 19:14:31 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2022-05-02 12:34:47 +0200"
@@ -3218,6 +3374,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-05-02 12:34:40 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_oak_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-03 19:32:07 +0200"
     },
     "done": true
   },

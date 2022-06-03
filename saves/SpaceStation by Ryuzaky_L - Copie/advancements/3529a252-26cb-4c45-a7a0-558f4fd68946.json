@@ -47,6 +47,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/transformer": {
+    "criteria": {
+      "has_mv_connector": "2022-06-03 18:45:55 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/coil_mv": {
+    "criteria": {
+      "has_wirecoil_electrum": "2022-06-03 18:46:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-06-01 16:27:29 +0200"
@@ -97,6 +109,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/transformer_hv": {
+    "criteria": {
+      "has_hv_connector": "2022-06-03 18:45:49 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2022-06-01 16:16:00 +0200"
@@ -130,6 +148,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-06-01 19:45:20 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/coil_hv": {
+    "criteria": {
+      "has_wirecoil_steel": "2022-06-03 18:46:06 +0200"
     },
     "done": true
   },
@@ -397,6 +421,18 @@
     },
     "done": true
   },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2022-06-03 18:46:29 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/redstone_breaker": {
+    "criteria": {
+      "has_hv_connector": "2022-06-03 18:45:49 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2022-06-01 16:16:00 +0200"
@@ -415,6 +451,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/tesla_coil": {
+    "criteria": {
+      "has_capacitor_hv": "2022-06-03 18:45:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-05-31 20:14:57 +0200"
@@ -424,6 +466,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-06-01 16:27:29 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/railgun": {
+    "criteria": {
+      "has_capacitor_hv": "2022-06-03 18:45:15 +0200"
     },
     "done": true
   },
@@ -484,6 +532,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-06-01 16:27:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-06-03 18:30:27 +0200"
     },
     "done": true
   },
