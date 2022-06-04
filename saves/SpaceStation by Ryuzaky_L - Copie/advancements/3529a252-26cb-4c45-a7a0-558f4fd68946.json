@@ -503,6 +503,18 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_light_gray1": {
+    "criteria": {
+      "glass": "2022-06-04 22:14:44 +0200"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/tinted_glass": {
+    "criteria": {
+      "glass": "2022-06-04 22:14:44 +0200"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_crafting_grid": {
     "criteria": {
       "refinedstorage:controller": "2022-06-03 22:27:32 +0200"
