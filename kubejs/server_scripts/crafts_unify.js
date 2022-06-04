@@ -469,6 +469,50 @@ onEvent('recipes', e => {
     // createPress('kubejs:craunium_ingot', 'boss_tools:iron_plate')
     // createCutting('boss_tools:iron_plate', 'boss_tools:steel_ingot', 2, 10, 'kubejs:craunium_dust')
 
+    e.custom({
+        "type": "boss_tools_giselle_addon:space_station",
+        "ingredients": [
+            {
+                "ingredient": {
+                    "item": "alloyed:steel_ingot"
+                },
+                "count": 25
+            },
+            {
+                "ingredient": {
+                    "item": "kubejs:craunium_ingot"
+                },
+                "count": 30
+            },
+            {
+                "ingredient": {
+                    "tag": "forge:plates/craunium"
+                },
+                "count": 15
+            },
+            {
+                "ingredient": {
+                    "item": "boss_tools:compressed_steel"
+                },
+                "count": 50
+            },
+            {
+                "ingredient": {
+                    "item": "boss_tools:compressed_silicon"
+                },
+                "count": 25
+            },
+            {
+                "ingredient": {
+                    "item": "boss_tools:compressed_desh"
+                },
+                "count": 35
+            }
+        ]
+    })
+
+    // EDIT STATION STRUCTURE IN BOOS TOOL JAVA FILE
+
     // see in mod ADDON files to edit Station craft
 
     //Cobble for days

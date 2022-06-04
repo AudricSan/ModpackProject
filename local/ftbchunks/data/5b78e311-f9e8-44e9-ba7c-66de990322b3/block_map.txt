@@ -38,6 +38,8 @@
 #65707C create:mechanical_pump
 #4F44DD create:mechanical_saw
 #BAE599 boss_tools:moon_sand
+#0F484A boss_tools:oxygen_bubble_distributor
+#7C8629 boss_tools:oxygen_loader
 #01ECA2 byg:quartz_crystal
 #1322E9 boss_tools:rocket_launch_pad
 #D3CCFE create:shaft
@@ -48,6 +50,7 @@
 #BBEC9D boss_tools:solar_panel
 #DC3458 minecraft:stone
 #2E9337 minecraft:stonecutter
+#B96EB4 minecraft:structure_block
 #89C1BB mekanism:ultimate_energy_cube
 #8B4889 refinedpipes:ultimate_energy_pipe
 #838E23 refinedpipes:ultimate_fluid_pipe
