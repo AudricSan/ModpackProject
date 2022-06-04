@@ -1,5 +1,7 @@
 #52B53D minecraft:air
+#1D5855 mekanism:basic_universal_cable
 #2925D4 minecraft:black_stained_glass
+#0B1306 boss_tools:blue_iron_plating_block
 #87B36D minecraft:blue_wool
 #B76D44 create:cogwheel
 #FB5E8C minecraft:command_block
@@ -8,6 +10,8 @@
 #2F436F minecraft:glass
 #482EEB minecraft:glowstone
 #2E2249 minecraft:iron_block
+#29A309 boss_tools:iron_mark_block
+#A79F01 boss_tools:iron_plating_block
 #EA439B minecraft:lapis_ore
 #0EFBB2 minecraft:nether_brick_slab
 #73753E minecraft:oak_fence
