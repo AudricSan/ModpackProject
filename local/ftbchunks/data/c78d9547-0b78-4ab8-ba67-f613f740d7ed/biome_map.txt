@@ -1,0 +1,13 @@
+#556 minecraft:beach
+#34D minecraft:deep_lukewarm_ocean
+#3DE minecraft:deep_ocean
+#010 minecraft:forest
+#678 byg:fresh_water_lake
+#79A minecraft:lukewarm_ocean
+#79C byg:maple_taiga
+#5FF minecraft:river
+#5ED byg:seasonal_birch_forest
+#180 byg:seasonal_birch_forest_hills
+#740 byg:seasonal_deciduous_clearing
+#2B7 minecraft:warm_ocean
+#452 minecraft:wooded_hills

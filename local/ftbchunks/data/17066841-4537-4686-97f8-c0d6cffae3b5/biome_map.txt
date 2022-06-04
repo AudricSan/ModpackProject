@@ -1,0 +1,13 @@
+#008 minecraft:desert
+#19B minecraft:desert_hills
+#010 minecraft:forest
+#3A0 minecraft:frozen_river
+#4B0 minecraft:jungle
+#022 minecraft:mountain_edge
+#379 minecraft:mountains
+#5FF minecraft:river
+#1D0 minecraft:snowy_mountains
+#162 minecraft:snowy_tundra
+#169 minecraft:taiga
+#63C minecraft:taiga_hills
+#452 minecraft:wooded_hills

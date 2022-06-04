@@ -1,0 +1,13 @@
+#556 minecraft:beach
+#3D6 minecraft:cold_ocean
+#1AF byg:deciduous_clearing
+#5D7 byg:deciduous_forest
+#1EA byg:deciduous_forest_hills
+#109 minecraft:deep_cold_ocean
+#678 byg:fresh_water_lake
+#5A3 byg:grove
+#3DC minecraft:plains
+#634 byg:prairie
+#440 byg:prairie_clearing
+#5FF minecraft:river
+#4D3 minecraft:swamp

@@ -1,0 +1,8 @@
+#008 minecraft:desert
+#19B minecraft:desert_hills
+#67B byg:dunes
+#4DB byg:oasis
+#3DC minecraft:plains
+#5FF minecraft:river
+#181 minecraft:savanna
+#12E byg:shrublands

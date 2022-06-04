@@ -1,0 +1,18 @@
+[2022-06-01 15:28:01] [modloading-worker-11/INFO] [aT] 
+[2022-06-01 15:28:01] [modloading-worker-11/INFO] [aT] ******************************************************************************************
+[2022-06-01 15:28:01] [modloading-worker-11/INFO] [aT] 
+[2022-06-01 15:28:01] [modloading-worker-11/INFO] [aT] WorldEdit CUI Forge Edition 3 version 3.0.9 for Minecraft 1.16.5
+[2022-06-01 15:28:01] [modloading-worker-11/INFO] [aT] Built with forge 36.0.13
+[2022-06-01 15:28:01] [modloading-worker-11/INFO] [aT] 
+[2022-06-01 15:28:01] [modloading-worker-11/INFO] [aT] Environment :
+[2022-06-01 15:28:01] [modloading-worker-11/INFO] [aT] 		 OS :Windows 10 (amd64) 
+[2022-06-01 15:28:01] [modloading-worker-11/INFO] [aT] 		 Java: 1.8.0_51
+[2022-06-01 15:28:01] [modloading-worker-11/INFO] [aT] 		 Language :US_en
+[2022-06-01 15:28:01] [modloading-worker-11/INFO] [aT] 
+[2022-06-01 15:28:01] [modloading-worker-11/INFO] [aT] ******************************************************************************************
+[2022-06-01 15:28:01] [modloading-worker-11/INFO] [aT] 
+[2022-06-01 15:28:01] [modloading-worker-11/INFO] [a] WorldEdit CUI Forge Edition 3 is loading ...
+[2022-06-01 15:28:18] [Worker-Main-13/DEBUG] [aM] Handler registered: com.github.hexomod.worldeditcuife3.aN
+[2022-06-01 15:30:03] [main/DEBUG] [fY] Received CUI event from server: s|cuboid
+[2022-06-01 15:30:03] [main/DEBUG] [q] Received command from WE : s - Params: cuboid
+[2022-06-01 15:30:03] [main/DEBUG] [gg] Cuboid command :s|cuboid

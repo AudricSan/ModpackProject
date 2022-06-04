@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "3529a25226cb4c45a7a0558f4fd68946"
+	name: "Audric__San"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

@@ -1,0 +1,19 @@
+{
+	id: "3529a252-26cb-4c45-a7a0-558f4fd68946"
+	type: "player"
+	player_name: "Audric__San"
+	ranks: {
+		3529a252-26cb-4c45-a7a0-558f4fd68946: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Audric__San"
+		"ftbteams:color": "#59E2FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

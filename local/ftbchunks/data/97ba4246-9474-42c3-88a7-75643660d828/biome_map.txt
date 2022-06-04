@@ -1,0 +1,15 @@
+#556 minecraft:beach
+#4B3 byg:cika_woods
+#743 byg:coniferous_clearing
+#06B byg:coniferous_forest
+#010 minecraft:forest
+#678 byg:fresh_water_lake
+#79A minecraft:lukewarm_ocean
+#379 minecraft:mountains
+#5FF minecraft:river
+#3A8 byg:seasonal_deciduous_forest
+#6FB byg:seasonal_deciduous_forest_hills
+#23E byg:seasonal_forest
+#169 minecraft:taiga
+#473 byg:vibrant_swamplands
+#452 minecraft:wooded_hills

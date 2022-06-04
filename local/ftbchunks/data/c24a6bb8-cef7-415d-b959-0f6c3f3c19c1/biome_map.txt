@@ -1,0 +1,17 @@
+#47F minecraft:birch_forest
+#008 minecraft:desert
+#30B byg:flowering_grove
+#678 byg:fresh_water_lake
+#5A3 byg:grove
+#56C boss_tools:mars
+#6FF boss_tools:mars_ice_spike
+#07C byg:mojave_desert
+#6E1 boss_tools:orbit
+#3DC minecraft:plains
+#293 byg:red_desert
+#5FF minecraft:river
+#67B minecraft:savanna
+#174 minecraft:shattered_savanna
+#4C0 byg:sierra_range
+#45C byg:sierra_valley
+#06B byg:woodlands

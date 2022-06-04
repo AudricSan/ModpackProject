@@ -1,0 +1,15 @@
+#694 byg:ancient_forest
+#556 minecraft:beach
+#34D minecraft:deep_lukewarm_ocean
+#30B byg:flowering_grove
+#678 byg:fresh_water_lake
+#0DE byg:glowing_ancient_forest
+#5A3 byg:grove
+#79A minecraft:lukewarm_ocean
+#4F1 minecraft:ocean
+#440 byg:prairie_clearing
+#5FF minecraft:river
+#4D3 minecraft:swamp
+#169 minecraft:taiga
+#6BC byg:tropical_rainforest
+#06B byg:woodlands

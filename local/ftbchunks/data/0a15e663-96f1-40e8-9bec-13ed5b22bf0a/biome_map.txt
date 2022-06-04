@@ -1,0 +1,16 @@
+#461 byg:blue_taiga
+#0F4 byg:blue_taiga_hills
+#3D9 byg:boreal_clearing
+#281 byg:boreal_forest
+#714 byg:boreal_forest_hills
+#010 minecraft:forest
+#678 byg:fresh_water_lake
+#79C byg:maple_taiga
+#6DB byg:orchard
+#5FF minecraft:river
+#740 byg:seasonal_deciduous_clearing
+#3A8 byg:seasonal_deciduous_forest
+#6BC byg:tropical_rainforest
+#30F byg:tropical_rainforest_hills
+#473 byg:vibrant_swamplands
+#452 minecraft:wooded_hills

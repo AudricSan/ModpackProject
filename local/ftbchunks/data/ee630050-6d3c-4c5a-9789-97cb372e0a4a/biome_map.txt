@@ -1,0 +1,17 @@
+#3AD byg:autumnal_valley
+#556 minecraft:beach
+#653 byg:cika_mountains
+#4B3 byg:cika_woods
+#34D minecraft:deep_lukewarm_ocean
+#3DE minecraft:deep_ocean
+#678 byg:fresh_water_lake
+#602 byg:great_lake_isles
+#3A2 byg:great_lakes
+#79A minecraft:lukewarm_ocean
+#79C byg:maple_taiga
+#4F1 minecraft:ocean
+#3DC minecraft:plains
+#5FF minecraft:river
+#5ED byg:seasonal_birch_forest
+#180 byg:seasonal_birch_forest_hills
+#774 minecraft:sunflower_plains
