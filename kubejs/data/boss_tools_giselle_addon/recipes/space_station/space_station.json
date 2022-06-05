@@ -1,41 +1,41 @@
 {
-	"type": "boss_tools_giselle_addon:space_station",
-	"ingredients": [
-		{
-			"ingredient": {
-				"item": "alloyed:steel_ingot"
-			},
-			"count": 25
-		},
-		{
-			"ingredient": {
-				"item": "kubejs:craunium_ingot"
-			},
-			"count": 30
-		},
-		{
-			"ingredient": {
-				"tag": "forge:plates/craunium"
-			},
-			"count": 15
-		},
-		{
-			"ingredient": {
-				"item": "boss_tools:compressed_steel"
-			},
-			"count": 50
-		},
-		{
-			"ingredient": {
-				"item": "boss_tools:compressed_silicon"
-			},
-			"count": 25
-		},
-		{
-			"ingredient": {
-				"item": "boss_tools:compressed_desh"
-			},
-			"count": 35
-		}
-	]
+    "type": "boss_tools_giselle_addon:space_station",
+    "ingredients": [
+        {
+            "ingredient": {
+                "item": "alloyed:steel_ingot"
+            },
+            "count": 25
+        },
+        {
+            "ingredient": {
+                "item": "kubejs:craunium_ingot"
+            },
+            "count": 30
+        },
+        {
+            "ingredient": {
+                "tag": "forge:plates/craunium"
+            },
+            "count": 15
+        },
+        {
+            "ingredient": {
+                "item": "boss_tools:compressed_steel"
+            },
+            "count": 50
+        },
+        {
+            "ingredient": {
+                "item": "boss_tools:compressed_silicon"
+            },
+            "count": 25
+        },
+        {
+            "ingredient": {
+                "item": "boss_tools:compressed_desh"
+            },
+            "count": 35
+        }
+    ]
 }

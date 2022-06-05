@@ -463,7 +463,7 @@ onEvent('recipes', e => {
 
 
     //spaceboss tools
-        // EDIT STATION STRUCTURE IN Data folder
+    // EDIT STATION STRUCTURE IN Data folder
 
     //Cobble for days
     e.remove({ id: 'cobblefordays:tier_2' })
@@ -479,7 +479,7 @@ onEvent('recipes', e => {
         A: '#forge:cobblestone',
         B: 'cobblefordays:tier_1'
     })
-    
+
     e.shaped('cobblefordays:tier_3', [
         'AAA',
         'ABA',
@@ -488,7 +488,7 @@ onEvent('recipes', e => {
         A: '#forge:ingots/iron',
         B: 'cobblefordays:tier_2'
     })
-    
+
     e.shaped('cobblefordays:tier_4', [
         'AAA',
         'ABA',
@@ -507,8 +507,8 @@ onEvent('recipes', e => {
         B: 'cobblefordays:tier_4'
     })
 
-    e.remove({ id: 'create:crafting/kinetics/mechanical_press'})
-    
+    e.remove({ id: 'create:crafting/kinetics/mechanical_press' })
+
     e.shaped('create:mechanical_press', [
         ' A ',
         'BCB',
@@ -521,7 +521,7 @@ onEvent('recipes', e => {
     })
 
     //REMOVE ALL MEKANISM
-    e.remove({mod: 'mekanism'})
+    e.remove({ mod: 'mekanism' })
 
     // Energy Cable
 
@@ -545,7 +545,7 @@ onEvent('recipes', e => {
         B: 'kubejs:craunium_sheet',
         C: 'kubejs:craunium_nugget'
     })
-    
+
     e.recipes.createMechanicalCrafting('2x mekanism:elite_universal_cable', [
         'AAAAA',
         'ABBBA',
@@ -557,7 +557,7 @@ onEvent('recipes', e => {
         B: 'kubejs:craunium_gear',
         C: 'kubejs:craunium_sheet'
     })
-    
+
     e.recipes.createMechanicalCrafting('2x mekanism:ultimate_universal_cable', [
         'AAAAA',
         'ABBBA',
@@ -571,7 +571,7 @@ onEvent('recipes', e => {
     })
 
     // Item Cable
-    
+
     e.recipes.createMechanicalCrafting('8x mekanism:basic_logistical_transporter', [
         'AAAAA',
         'ABBBA',
@@ -583,7 +583,7 @@ onEvent('recipes', e => {
         B: 'kubejs:craunium_nugget',
         C: 'kubejs:craunium_ingot'
     })
-    
+
     e.recipes.createMechanicalCrafting('8x mekanism:advanced_logistical_transporter', [
         'AAAAA',
         'ABBBA',
@@ -595,7 +595,7 @@ onEvent('recipes', e => {
         B: 'kubejs:craunium_ingot',
         C: 'kubejs:craunium_sheet'
     })
-    
+
     e.recipes.createMechanicalCrafting('8x mekanism:elite_logistical_transporter', [
         'AAAAA',
         'ABBBA',
@@ -607,7 +607,7 @@ onEvent('recipes', e => {
         B: 'kubejs:craunium_sheet',
         C: 'kubejs:craunium_gear'
     })
-    
+
     e.recipes.createMechanicalCrafting('8x mekanism:ultimate_logistical_transporter', [
         'AAAAA',
         'ABBBA',
@@ -618,241 +618,241 @@ onEvent('recipes', e => {
         A: 'mekanism:elite_logistical_transporter',
         B: 'kubejs:craunium_gear',
         C: 'kubejs:craunium_crystal'
-    })    
-
-// FUNCTION //
-function replaceIO(oldItem, newItem) {
-    e.replaceInput({}, oldItem, newItem);
-    e.replaceOutput({}, oldItem, newItem);
-}
-
-function createPress(input, output) {
-    e.custom({
-        "type": "create:pressing",
-
-        "ingredients": [
-            { "item": input }
-        ],
-
-        "results": [
-            { "item": output }
-        ]
     })
-}
 
-function createCutting(input, output, qte, qte2, secoutput) {
-    if (secoutput === false) {
-        e.custom({
-            "type": "create:cutting",
-
-            "ingredients": [
-                { "item": input }],
-
-            "results": [
-                { "item": output, "count": qte }],
-
-            "processingTime": 300,
-        })
-
-    } else {
-
-        e.custom({
-            "type": "create:cutting",
-
-            "ingredients": [
-                { "item": input }],
-
-            "results": [
-                { "item": output, "count": qte },
-                { "item": secoutput, "count": qte2, "chance": 0.125 }
-            ],
-
-            "processingTime": 600,
-        })
+    // FUNCTION //
+    function replaceIO(oldItem, newItem) {
+        e.replaceInput({}, oldItem, newItem);
+        e.replaceOutput({}, oldItem, newItem);
     }
-}
 
-function createCrushing(input, output, qte, qte2, secoutput) {
-    if (secoutput === false) {
+    function createPress(input, output) {
         e.custom({
-            "type": "create:crushing",
+            "type": "create:pressing",
 
             "ingredients": [
                 { "item": input }
             ],
 
             "results": [
-                { "item": output, "count": qte },
-                { "item": output, "count": qte2, "chance": 0.3 },
-            ],
-
-            "processingTime": 400,
-        })
-    } else {
-        e.custom({
-            "type": "create:crushing",
-
-            "ingredients": [
-                { "item": input }
-            ],
-
-            "results": [
-                { "item": output, "count": qte },
-                { "item": output, "count": qte2, "chance": 0.3 },
-                { "item": secoutput, "chance": 0.125 }
-            ],
-
-            "processingTime": 400,
+                { "item": output }
+            ]
         })
     }
-}
 
-function createMilling(input, output, qte, qte2, secoutput) {
-    if (secoutput === false) {
+    function createCutting(input, output, qte, qte2, secoutput) {
+        if (secoutput === false) {
+            e.custom({
+                "type": "create:cutting",
+
+                "ingredients": [
+                    { "item": input }],
+
+                "results": [
+                    { "item": output, "count": qte }],
+
+                "processingTime": 300,
+            })
+
+        } else {
+
+            e.custom({
+                "type": "create:cutting",
+
+                "ingredients": [
+                    { "item": input }],
+
+                "results": [
+                    { "item": output, "count": qte },
+                    { "item": secoutput, "count": qte2, "chance": 0.125 }
+                ],
+
+                "processingTime": 600,
+            })
+        }
+    }
+
+    function createCrushing(input, output, qte, qte2, secoutput) {
+        if (secoutput === false) {
+            e.custom({
+                "type": "create:crushing",
+
+                "ingredients": [
+                    { "item": input }
+                ],
+
+                "results": [
+                    { "item": output, "count": qte },
+                    { "item": output, "count": qte2, "chance": 0.3 },
+                ],
+
+                "processingTime": 400,
+            })
+        } else {
+            e.custom({
+                "type": "create:crushing",
+
+                "ingredients": [
+                    { "item": input }
+                ],
+
+                "results": [
+                    { "item": output, "count": qte },
+                    { "item": output, "count": qte2, "chance": 0.3 },
+                    { "item": secoutput, "chance": 0.125 }
+                ],
+
+                "processingTime": 400,
+            })
+        }
+    }
+
+    function createMilling(input, output, qte, qte2, secoutput) {
+        if (secoutput === false) {
+            e.custom({
+                "type": "create:milling",
+
+                "ingredients": [
+                    { "item": input }],
+
+                "results": [
+                    { "item": output, "count": qte }],
+
+                "processingTime": 400,
+            })
+
+        } else {
+
+            e.custom({
+                "type": "create:milling",
+
+                "ingredients": [
+                    { "item": input }],
+
+                "results": [
+                    { "item": output, "count": qte },
+                    { "item": secoutput, "count": qte2, "chance": 0.125 }
+                ],
+
+                "processingTime": 400,
+            })
+        }
+    }
+
+    function createBulkWashingCrushed(input, output, qte, qte2) {
         e.custom({
-            "type": "create:milling",
+            "type": "create:splashing",
 
             "ingredients": [
                 { "item": input }],
 
             "results": [
-                { "item": output, "count": qte }],
+                { "item": output, "count": qte },
+                { "item": output, "count": qte2, "chance": 0.3 }],
 
-            "processingTime": 400,
+            "processingTime": 400
         })
+    }
 
-    } else {
-
+    //Create Mixing
+    function createMixingItem(input, output, qte, heated) {
         e.custom({
-            "type": "create:milling",
+            "type": "create:mixing",
 
             "ingredients": [
-                { "item": input }],
+                { "item": input[0], "count": qte[0] },
+                { "item": input[1], "count": qte[1] }
+            ],
 
             "results": [
-                { "item": output, "count": qte },
-                { "item": secoutput, "count": qte2, "chance": 0.125 }
+                { "item": output, 'count': qte[2] }
             ],
 
             "processingTime": 400,
+            "heatRequirement": heated
         })
     }
-}
 
-function createBulkWashingCrushed(input, output, qte, qte2) {
-    e.custom({
-        "type": "create:splashing",
+    function createMixingItem3(input, output, qte, heated) {
+        e.custom({
+            "type": "create:mixing",
 
-        "ingredients": [
-            { "item": input }],
+            "ingredients": [
+                { "item": input[0], "count": qte[0] },
+                { "item": input[1], "count": qte[1] },
+                { "item": input[2], "count": qte[2] }
+            ],
 
-        "results": [
-            { "item": output, "count": qte },
-            { "item": output, "count": qte2, "chance": 0.3 }],
+            "results": [
+                { "item": output, 'count': qte[3] }
+            ],
 
-        "processingTime": 400
-    })
-}
+            "processingTime": 400,
+            "heatRequirement": heated
+        })
+    }
 
-//Create Mixing
-function createMixingItem(input, output, qte, heated) {
-    e.custom({
-        "type": "create:mixing",
+    function createMixingItem4(input, output, qte, heated) {
+        e.custom({
+            "type": "create:mixing",
 
-        "ingredients": [
-            { "item": input[0], "count": qte[0] },
-            { "item": input[1], "count": qte[1] }
-        ],
+            "ingredients": [
+                { "item": input[0], "count": qte[0] },
+                { "item": input[1], "count": qte[1] },
+                { "item": input[2], "count": qte[2] },
+                { "item": input[3], "count": qte[3] }
+            ],
 
-        "results": [
-            { "item": output, 'count': qte[2] }
-        ],
+            "results": [
+                { "item": output, 'count': qte[4] }
+            ],
 
-        "processingTime": 400,
-        "heatRequirement": heated
-    })
-}
+            "processingTime": 400,
+            "heatRequirement": heated
+        })
+    }
 
-function createMixingItem3(input, output, qte, heated) {
-    e.custom({
-        "type": "create:mixing",
+    function createMixingItem5(input, output, qte, heated) {
+        e.custom({
+            "type": "create:mixing",
 
-        "ingredients": [
-            { "item": input[0], "count": qte[0] },
-            { "item": input[1], "count": qte[1] },
-            { "item": input[2], "count": qte[2] }
-        ],
+            "ingredients": [
+                { "item": input[0], "count": qte[0] },
+                { "item": input[1], "count": qte[1] },
+                { "item": input[2], "count": qte[2] },
+                { "item": input[3], "count": qte[3] },
+                { "item": input[4], "count": qte[4] }
+            ],
 
-        "results": [
-            { "item": output, 'count': qte[3] }
-        ],
+            "results": [
+                { "item": output, 'count': qte[5] }
+            ],
 
-        "processingTime": 400,
-        "heatRequirement": heated
-    })
-}
+            "processingTime": 400,
+            "heatRequirement": heated
+        })
+    }
 
-function createMixingItem4(input, output, qte, heated) {
-    e.custom({
-        "type": "create:mixing",
+    function createMixingItem6(input, output, qte, heated) {
+        e.custom({
+            "type": "create:mixing",
 
-        "ingredients": [
-            { "item": input[0], "count": qte[0] },
-            { "item": input[1], "count": qte[1] },
-            { "item": input[2], "count": qte[2] },
-            { "item": input[3], "count": qte[3] }
-        ],
+            "ingredients": [
+                { "item": input[0], "count": qte[0] },
+                { "item": input[1], "count": qte[1] },
+                { "item": input[2], "count": qte[2] },
+                { "item": input[3], "count": qte[3] },
+                { "item": input[4], "count": qte[4] },
+                { "item": input[5], "count": qte[5] },
+            ],
 
-        "results": [
-            { "item": output, 'count': qte[4] }
-        ],
+            "results": [
+                { "item": output, 'count': qte[6] }
+            ],
 
-        "processingTime": 400,
-        "heatRequirement": heated
-    })
-}
-
-function createMixingItem5(input, output, qte, heated) {
-    e.custom({
-        "type": "create:mixing",
-
-        "ingredients": [
-            { "item": input[0], "count": qte[0] },
-            { "item": input[1], "count": qte[1] },
-            { "item": input[2], "count": qte[2] },
-            { "item": input[3], "count": qte[3] },
-            { "item": input[4], "count": qte[4] }
-        ],
-
-        "results": [
-            { "item": output, 'count': qte[5] }
-        ],
-
-        "processingTime": 400,
-        "heatRequirement": heated
-    })
-}
-
-function createMixingItem6(input, output, qte, heated) {
-    e.custom({
-        "type": "create:mixing",
-
-        "ingredients": [
-            { "item": input[0], "count": qte[0] },
-            { "item": input[1], "count": qte[1] },
-            { "item": input[2], "count": qte[2] },
-            { "item": input[3], "count": qte[3] },
-            { "item": input[4], "count": qte[4] },
-            { "item": input[5], "count": qte[5] },
-        ],
-
-        "results": [
-            { "item": output, 'count': qte[6] }
-        ],
-
-        "processingTime": 400,
-        "heatRequirement": heated
-    })
-}
+            "processingTime": 400,
+            "heatRequirement": heated
+        })
+    }
 
 })
