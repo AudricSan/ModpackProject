@@ -3,13 +3,17 @@
 	"y": 74,
 	"width": 20,
 	"height": 20,
+
 	"u": 0,
 	"v": 0,
 	"hoverU": 0,
 	"hoverV": 20,
+
 	"texWidth": 20,
 	"texHeight": 40,
-	"langKey": "packmenu.reload_button",
-	"texture": "packmenu:textures/reload.png",
-	"action": "RELOAD"
+
+	"texture": "minecraft:textures/gui/widgets.png",
+	"action": "RELOAD",
+
+	"active": false
 }

@@ -1,6 +1,7 @@
 {
 	"x": -124,
 	"y": 74,
+	
 	"width": 20,
 	"height": 20,
 	"texWidth": 20,
@@ -13,6 +14,8 @@
 
 	"action": "OPEN_GUI",
 	"data": "language",
+	"texture": "minecraft:textures/gui/language.png",
+
 
 	"fontColor": 16777215,
 	"hoverFontColor": 16729154,

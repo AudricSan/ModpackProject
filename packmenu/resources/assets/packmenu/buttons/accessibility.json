@@ -3,12 +3,16 @@
 	"y": 74,
 	"width": 20,
 	"height": 20,
+
 	"u": 0,
 	"v": 0,
 	"hoverU": 0,
 	"hoverV": 20,
+
 	"texWidth": 32,
 	"texHeight": 64,
+
 	"action": "OPEN_GUI",
-	"data": "ACCESSIBILITY"
+	"data": "ACCESSIBILITY",
+	"texture": "minecraft:textures/gui/accessibility.png"
 }
