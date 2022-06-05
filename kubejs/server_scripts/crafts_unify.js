@@ -361,10 +361,6 @@ onEvent('recipes', e => {
     createCutting('create:golden_sheet', 'createaddition:gold_rod', 4, 10, 'kubejs:gold_dust')
 
     //Bronze
-    'tconstruct:tinkers_bronze_nugget'
-    'tconstruct:tinkers_bronze_block'
-    'alloyed:bronze_block'
-
     e.remove({ id: 'tconstruct:smeltery/casting/metal/silicon_bronze/ingot_gold_cast' })
     e.remove({ id: 'tconstruct:smeltery/casting/metal/silicon_bronze/ingot_sand_cast' })
     e.remove({ id: 'tconstruct:common/materials/tinkers_bronze_block_from_ingots' })
@@ -465,55 +461,9 @@ onEvent('recipes', e => {
     e.smelting('refinedstorage:silicon', 'kubejs:quartz_dust')
     e.blasting('refinedstorage:silicon', 'kubejs:quartz_dust')
 
-    //SpaceStation Special craft
-    // createPress('kubejs:craunium_ingot', 'boss_tools:iron_plate')
-    // createCutting('boss_tools:iron_plate', 'boss_tools:steel_ingot', 2, 10, 'kubejs:craunium_dust')
 
-    e.custom({
-        "type": "boss_tools_giselle_addon:space_station",
-        "ingredients": [
-            {
-                "ingredient": {
-                    "item": "alloyed:steel_ingot"
-                },
-                "count": 25
-            },
-            {
-                "ingredient": {
-                    "item": "kubejs:craunium_ingot"
-                },
-                "count": 30
-            },
-            {
-                "ingredient": {
-                    "tag": "forge:plates/craunium"
-                },
-                "count": 15
-            },
-            {
-                "ingredient": {
-                    "item": "boss_tools:compressed_steel"
-                },
-                "count": 50
-            },
-            {
-                "ingredient": {
-                    "item": "boss_tools:compressed_silicon"
-                },
-                "count": 25
-            },
-            {
-                "ingredient": {
-                    "item": "boss_tools:compressed_desh"
-                },
-                "count": 35
-            }
-        ]
-    })
-
-    // EDIT STATION STRUCTURE IN BOOS TOOL JAVA FILE
-
-    // see in mod ADDON files to edit Station craft
+    //spaceboss tools
+        // EDIT STATION STRUCTURE IN Data folder
 
     //Cobble for days
     e.remove({ id: 'cobblefordays:tier_2' })
