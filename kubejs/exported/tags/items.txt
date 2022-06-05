@@ -1,0 +1,6643 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jun 5, 2022 3:44:36 PM
+
+#forge:glass/tinted
+- connectedglass:tinted_borderless_glass
+- connectedglass:tinted_borderless_glass_white
+- connectedglass:tinted_borderless_glass_orange
+- connectedglass:tinted_borderless_glass_magenta
+- connectedglass:tinted_borderless_glass_light_blue
+- connectedglass:tinted_borderless_glass_yellow
+- connectedglass:tinted_borderless_glass_lime
+- connectedglass:tinted_borderless_glass_pink
+- connectedglass:tinted_borderless_glass_gray
+- connectedglass:tinted_borderless_glass_light_gray
+- connectedglass:tinted_borderless_glass_cyan
+- connectedglass:tinted_borderless_glass_purple
+- connectedglass:tinted_borderless_glass_blue
+- connectedglass:tinted_borderless_glass_brown
+- connectedglass:tinted_borderless_glass_green
+- connectedglass:tinted_borderless_glass_red
+- connectedglass:tinted_borderless_glass_black
+- connectedglass:tinted_glass
+
+#forge:plates
+- #forge:plates/desh
+- #forge:plates/iron
+- immersiveengineering:plate_copper
+- immersiveengineering:plate_aluminum
+- immersiveengineering:plate_lead
+- immersiveengineering:plate_silver
+- immersiveengineering:plate_nickel
+- immersiveengineering:plate_uranium
+- immersiveengineering:plate_constantan
+- immersiveengineering:plate_electrum
+- immersiveengineering:plate_steel
+- immersiveengineering:plate_iron
+- immersiveengineering:plate_gold
+- create:copper_sheet
+- create:brass_sheet
+- create:iron_sheet
+- create:golden_sheet
+- createaddition:zinc_sheet
+
+#boss_tools:compresseds/silicon
+- boss_tools:compressed_silicon
+
+#forge:dyes/gray
+- minecraft:gray_dye
+
+#mekanism:alloys/basic
+- minecraft:redstone
+
+#refinedstorage:grid
+- refinedstorage:pink_grid
+- refinedstorage:gray_grid
+- refinedstorage:orange_grid
+- refinedstorage:cyan_grid
+- refinedstorage:magenta_grid
+- refinedstorage:grid
+- refinedstorage:light_gray_grid
+- refinedstorage:brown_grid
+- refinedstorage:black_grid
+- refinedstorage:white_grid
+- refinedstorage:lime_grid
+- refinedstorage:purple_grid
+- refinedstorage:red_grid
+- refinedstorage:green_grid
+- refinedstorage:blue_grid
+- refinedstorage:yellow_grid
+
+#forge:alloys
+- #forge:alloys/advanced
+- #forge:alloys/elite
+- #forge:alloys/ultimate
+
+#forge:wires/gold
+- createaddition:gold_wire
+
+#forge:ingots/refined_obsidian
+- mekanism:ingot_refined_obsidian
+
+#tconstruct:casts/single_use/blank
+- tconstruct:blank_sand_cast
+- tconstruct:blank_red_sand_cast
+
+#tconstruct:stoneshields
+- #forge:stone
+- #forge:cobblestone
+- #forge:sandstone
+- #forge:end_stones
+- #forge:gravel
+- minecraft:netherrack
+- minecraft:basalt
+- minecraft:polished_basalt
+- minecraft:blackstone
+- minecraft:polished_blackstone
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane
+- tconstruct:white_clear_stained_glass_pane
+
+#forge:storage_blocks/desh
+- boss_tools:desh_block
+
+#refinedstorage:parts/items/256k
+- extrastorage:storagepart_256k
+- extradisks:256k_storage_part
+
+#excompressum:heavy_sieve
+- excompressum:oak_heavy_sieve
+- excompressum:jungle_heavy_sieve
+- excompressum:acacia_heavy_sieve
+- excompressum:birch_heavy_sieve
+- excompressum:dark_oak_heavy_sieve
+- excompressum:jungle_heavy_sieve
+- excompressum:spruce_heavy_sieve
+
+#forge:circuits/elite
+- mekanism:elite_control_circuit
+
+#forge:ingots/silver
+- oreclumps:silver_ingot
+- immersiveengineering:ingot_silver
+- exnihilosequentia:ingot_silver
+
+#tconstruct:slimy_leaves
+- tconstruct:earth_slime_leaves
+- tconstruct:sky_slime_leaves
+- tconstruct:ender_slime_leaves
+
+#forge:ingots/platinum
+- oreclumps:platinum_ingot
+- exnihilosequentia:ingot_platinum
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+- tconstruct:light_gray_clear_stained_glass_pane
+
+#forge:beacon_payment
+- #create:create_ingots
+
+#tconstruct:casts/multi_use/tool_binding
+- tconstruct:tool_binding_cast
+
+#byg:maple_logs
+- byg:maple_log
+- byg:stripped_maple_log
+- byg:maple_wood
+- byg:stripped_maple_wood
+
+#mekanism:colorable/terracotta
+- minecraft:terracotta
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+
+#fabric:axes
+- byg:pendorite_axe
+- byg:pendorite_battleaxe
+
+#forge:storage_blocks/ametrine
+- byg:ametrine_block
+
+#forge:seeds/cassava
+- createcafe:cassava_seeds
+
+#excompressum:compressed_hammer
+- excompressum:compressed_hammer_wood
+- excompressum:compressed_hammer_stone
+- excompressum:compressed_hammer_iron
+- excompressum:compressed_hammer_gold
+- excompressum:compressed_hammer_diamond
+- excompressum:compressed_hammer_netherite
+
+#forge:dusts/constantan
+- immersiveengineering:dust_constantan
+
+#forge:glass/pink
+- minecraft:pink_stained_glass
+- tconstruct:pink_clear_stained_glass
+
+#forge:chests
+- #forge:chests/ender
+- #forge:chests/trapped
+- #forge:chests/wooden
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block
+
+#forge:ores/redstone
+- minecraft:redstone_ore
+- byg:cryptic_redstone_ore
+
+#forge:storage_blocks/uranium
+- biggerreactors:yellorium_block
+- immersiveengineering:storage_uranium
+- mekanism:block_uranium
+
+#forge:ingots/hepatizon
+- tconstruct:hepatizon_ingot
+
+#forge:dusts/lapis
+- mekanism:dust_lapis_lazuli
+
+#forge:ingots/pig_iron
+- tconstruct:pig_iron_ingot
+
+#forge:fence_gates
+- #forge:fence_gates/wooden
+- byg:aspen_fence_gate
+- byg:baobab_fence_gate
+- byg:blue_enchanted_fence_gate
+- byg:cherry_fence_gate
+- byg:cika_fence_gate
+- byg:cypress_fence_gate
+- byg:ebony_fence_gate
+- byg:fir_fence_gate
+- byg:green_enchanted_fence_gate
+- byg:holly_fence_gate
+- byg:jacaranda_fence_gate
+- byg:mahogany_fence_gate
+- byg:mangrove_fence_gate
+- byg:maple_fence_gate
+- byg:pine_fence_gate
+- byg:rainbow_eucalyptus_fence_gate
+- byg:redwood_fence_gate
+- byg:skyris_fence_gate
+- byg:willow_fence_gate
+- byg:witch_hazel_fence_gate
+- byg:zelkova_fence_gate
+- byg:sythian_fence_gate
+- byg:embur_fence_gate
+- byg:palm_fence_gate
+- byg:lament_fence_gate
+- byg:ether_fence_gate
+- byg:bulbis_fence_gate
+- byg:nightshade_fence_gate
+- byg:imparius_fence_gate
+
+#forge:ingots
+- oreclumps:copper_ingot
+- oreclumps:lead_ingot
+- oreclumps:nickel_ingot
+- oreclumps:silver_ingot
+- oreclumps:tin_ingot
+- oreclumps:osmium_ingot
+- oreclumps:uranium_ingot
+- oreclumps:zinc_ingot
+- oreclumps:aluminum_ingot
+- oreclumps:chromium_ingot
+- oreclumps:cobalt_ingot
+- oreclumps:platinum_ingot
+- oreclumps:thorium_ingot
+- oreclumps:titanium_ingot
+- oreclumps:tungsten_ingot
+- oreclumps:adamantium_ingot
+- oreclumps:mythril_ingot
+- biggerreactors:blutonium_ingot
+- biggerreactors:cyanite_ingot
+- biggerreactors:graphite_ingot
+- biggerreactors:ludicrite_ingot
+- biggerreactors:yellorium_ingot
+- #forge:ingots/desh
+- #forge:ingots/silicon
+- #forge:ingots/steel
+- #forge:ingots/iron
+- #forge:ingots/gold
+- #forge:ingots/brick
+- #forge:ingots/nether_brick
+- #forge:ingots/netherite
+- tconstruct:seared_brick
+- tconstruct:scorched_brick
+- #forge:ingots/copper
+- #forge:ingots/cobalt
+- #forge:ingots/slimesteel
+- #forge:ingots/silicon_bronze
+- #forge:ingots/rose_gold
+- #forge:ingots/pig_iron
+- #forge:ingots/queens_slime
+- #forge:ingots/manyullyn
+- #forge:ingots/hepatizon
+- #forge:ingots/soulsteel
+- #forge:ingots/knightslime
+- immersiveengineering:ingot_copper
+- immersiveengineering:ingot_aluminum
+- immersiveengineering:ingot_lead
+- immersiveengineering:ingot_silver
+- immersiveengineering:ingot_nickel
+- immersiveengineering:ingot_uranium
+- immersiveengineering:ingot_constantan
+- immersiveengineering:ingot_electrum
+- immersiveengineering:ingot_steel
+- #create:create_ingots
+- #forge:ingots/copper
+- #forge:ingots/lead
+- #forge:ingots/nickel
+- #forge:ingots/silver
+- #forge:ingots/tin
+- #forge:ingots/aluminum
+- #forge:ingots/platinum
+- #forge:ingots/uranium
+- #forge:ingots/zinc
+- mekanism:ingot_osmium
+- mekanism:ingot_copper
+- mekanism:ingot_tin
+- mekanism:ingot_lead
+- mekanism:ingot_uranium
+- #forge:ingots/bronze
+- #forge:ingots/refined_glowstone
+- #forge:ingots/refined_obsidian
+- #forge:ingots/steel
+- bigreactors:yellorium_ingot
+- bigreactors:cyanite_ingot
+- bigreactors:graphite_ingot
+- bigreactors:blutonium_ingot
+- bigreactors:magentite_ingot
+
+#forge:crops/nether_wart
+- minecraft:nether_wart
+
+#forge:storage_blocks/copper
+- tconstruct:copper_block
+- immersiveengineering:storage_copper
+- create:copper_block
+- mekanism:block_copper
+
+#minecraft:coals
+- minecraft:coal
+- minecraft:charcoal
+- byg:lignite
+- byg:anthracite
+
+#tconstruct:casts/multi_use/nugget
+- tconstruct:nugget_cast
+
+#forge:dusts/lithium
+- mekanism:dust_lithium
+
+#byg:willow_logs
+- byg:willow_log
+- byg:stripped_willow_log
+- byg:willow_wood
+- byg:stripped_willow_wood
+
+#mekanism:alloys/atomic
+- #forge:alloys/ultimate
+
+#forge:plates/constantan
+- immersiveengineering:plate_constantan
+
+#forge:ingots/nether_brick
+- minecraft:nether_brick
+
+#forge:pickaxes
+- byg:pendorite_pickaxe
+
+#refinedstorage:parts/items/infinite
+- extradisks:infinite_storage_part
+
+#refinedstorage:parts/items/16384k
+- extrastorage:storagepart_16384k
+- extradisks:16384k_storage_part
+
+#refinedstorage:network_transmitter
+- refinedstorage:pink_network_transmitter
+- refinedstorage:gray_network_transmitter
+- refinedstorage:orange_network_transmitter
+- refinedstorage:cyan_network_transmitter
+- refinedstorage:magenta_network_transmitter
+- refinedstorage:network_transmitter
+- refinedstorage:light_gray_network_transmitter
+- refinedstorage:brown_network_transmitter
+- refinedstorage:black_network_transmitter
+- refinedstorage:white_network_transmitter
+- refinedstorage:lime_network_transmitter
+- refinedstorage:purple_network_transmitter
+- refinedstorage:red_network_transmitter
+- refinedstorage:green_network_transmitter
+- refinedstorage:blue_network_transmitter
+- refinedstorage:yellow_network_transmitter
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block
+
+#forge:sheetmetals/aluminum
+- immersiveengineering:sheetmetal_aluminum
+
+#forge:ores/lead
+- oreclumps:raw_lead
+- immersiveengineering:ore_lead
+- exnihilosequentia:chunk_lead
+- mekanism:lead_ore
+
+#forge:black_sand
+- byg:black_sand
+
+#forge:dyes/orange
+- minecraft:orange_dye
+
+#forge:rods/iron
+- boss_tools:iron_stick
+- immersiveengineering:stick_iron
+- createaddition:iron_rod
+
+#tconstruct:casts/single_use/wire
+- tconstruct:wire_sand_cast
+- tconstruct:wire_red_sand_cast
+
+#forge:plates/silver
+- immersiveengineering:plate_silver
+
+#tconstruct:casts/multi_use/coin
+- tconstruct:coin_cast
+
+#forge:nuggets/soulsteel
+- tconstruct:soulsteel_nugget
+
+#forge:glass/white
+- minecraft:white_stained_glass
+- tconstruct:white_clear_stained_glass
+
+#mekanism:alloys/infused
+- #forge:alloys/advanced
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane
+- tconstruct:red_clear_stained_glass_pane
+
+#mekanism:enriched/carbon
+- mekanism:enriched_carbon
+
+#minecraft:fishes
+- minecraft:cod
+- minecraft:cooked_cod
+- minecraft:salmon
+- minecraft:cooked_salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+
+#forge:nuggets/manyullyn
+- tconstruct:manyullyn_nugget
+
+#forge:fabric_hemp
+- immersiveengineering:hemp_fabric
+
+#steampowered:plates/cast_iron
+- steampowered:cast_iron_sheet
+- #forge:plates/cast_iron?
+
+#forge:dusts/wood
+- excompressum:wood_chippings
+- immersiveengineering:dust_wood
+- mekanism:sawdust
+
+#refinedstorage:disks/items/256k
+- extrastorage:disk_256k
+- extradisks:256k_storage_disk
+
+#forge:pellets/plutonium
+- mekanism:pellet_plutonium
+
+#forge:fruits
+- byg:blueberries
+- byg:green_apple
+- byg:crimson_berries
+- byg:baobab_fruit
+- byg:joshua_fruit
+
+#mekanism:dirty_dusts/uranium
+- mekanism:dirty_dust_uranium
+
+#forge:wires/aluminum
+- immersiveengineering:wire_aluminum
+
+#forge:sand/colorless
+- minecraft:sand
+- byg:end_sand
+
+#forge:tools/scythe
+- tconstruct:kama
+- tconstruct:scythe
+
+#forge:slimeball/ender
+- tconstruct:ender_slime_ball
+
+#forge:nuggets/brass
+- create:brass_nugget
+
+#forge:sheetmetals/copper
+- immersiveengineering:sheetmetal_copper
+
+#byg:pink_sand
+- byg:pink_sand
+
+#tconstruct:modifiable/melee/sword
+- tconstruct:sword
+- tconstruct:cleaver
+
+#forge:gems/diamond
+- minecraft:diamond
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- alloyed:steel_bars
+- create:granite_cobblestone_wall
+- create:granite_bricks_wall
+- create:fancy_granite_bricks_wall
+- create:paved_granite_wall
+- create:diorite_cobblestone_wall
+- create:diorite_bricks_wall
+- create:fancy_diorite_bricks_wall
+- create:paved_diorite_wall
+- create:andesite_cobblestone_wall
+- create:andesite_bricks_wall
+- create:fancy_andesite_bricks_wall
+- create:paved_andesite_wall
+- create:limestone_cobblestone_wall
+- create:polished_limestone_wall
+- create:limestone_bricks_wall
+- create:fancy_limestone_bricks_wall
+- create:paved_limestone_wall
+- create:weathered_limestone_cobblestone_wall
+- create:polished_weathered_limestone_wall
+- create:weathered_limestone_bricks_wall
+- create:fancy_weathered_limestone_bricks_wall
+- create:paved_weathered_limestone_wall
+- create:dolomite_cobblestone_wall
+- create:polished_dolomite_wall
+- create:dolomite_bricks_wall
+- create:fancy_dolomite_bricks_wall
+- create:paved_dolomite_wall
+- create:gabbro_cobblestone_wall
+- create:polished_gabbro_wall
+- create:gabbro_bricks_wall
+- create:fancy_gabbro_bricks_wall
+- create:paved_gabbro_wall
+- create:scoria_cobblestone_wall
+- create:polished_scoria_wall
+- create:scoria_bricks_wall
+- create:fancy_scoria_bricks_wall
+- create:paved_scoria_wall
+- create:dark_scoria_cobblestone_wall
+- create:polished_dark_scoria_wall
+- create:dark_scoria_bricks_wall
+- create:fancy_dark_scoria_bricks_wall
+- create:paved_dark_scoria_wall
+- byg:dacite_cobblestone_wall
+- byg:dacite_wall
+- byg:dacite_tile_wall
+- byg:dacite_brick_wall
+- byg:mossy_stone_wall
+- byg:rocky_stone_wall
+- byg:scoria_stone_wall
+- byg:scoria_cobblestone_wall
+- byg:scoria_stonebrick_wall
+- byg:soapstone_wall
+- byg:polished_soapstone_wall
+- byg:soapstone_brick_wall
+- byg:soapstone_tile_wall
+- byg:red_rock_wall
+- byg:red_rock_brick_wall
+- byg:mossy_red_rock_brick_wall
+- byg:cracked_red_rock_brick_wall
+- byg:chiseled_red_rock_brick_wall
+- byg:ether_stone_wall
+- byg:purpur_stone_wall
+- byg:cryptic_stone_wall
+- byg:chiseled_therium_wall
+- byg:shiny_chiseled_therium_wall
+- byg:cobbled_ether_stone_wall
+- byg:carved_ether_stone_wall
+- byg:travertine_wall
+- byg:polished_travertine_wall
+- byg:chiseled_travertine_wall
+- byg:chiseled_fungal_imparius_wall
+
+#forge:storage_blocks/lead
+- immersiveengineering:storage_lead
+- mekanism:block_lead
+
+#mekanism:clumps/iron
+- mekanism:clump_iron
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs
+- minecraft:music_disc_pigstep
+
+#forge:fences/aluminum
+- immersiveengineering:alu_fence
+
+#tconstruct:modifiable/melee_or_harvest
+- #tconstruct:modifiable/melee
+- #tconstruct:modifiable/harvest
+
+#bigreactors:reactor/casing_user/reinforced
+- bigreactors:reinforced_reactorcontroller
+- bigreactors:reinforced_reactorcontrolrod
+- bigreactors:reinforced_reactorsolidaccessport
+- bigreactors:reinforced_reactorpowertapfe_active
+- bigreactors:reinforced_reactorpowertapfe_passive
+- bigreactors:reinforced_reactorfluidport_forge_active
+- bigreactors:reinforced_reactorfluidport_forge_passive
+- bigreactors:reinforced_reactorfluidport_mekanism_passive
+- bigreactors:reinforced_reactorredstoneport
+- bigreactors:reinforced_reactorcomputerport
+- bigreactors:reinforced_reactorchargingportfe
+
+#forge:gems
+- #forge:gems/diamond
+- #forge:gems/emerald
+- #forge:gems/lapis
+- #forge:gems/prismarine
+- #forge:gems/quartz
+- byg:ametrine_gems
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+- byg:black_sand
+- byg:blue_sand
+- byg:end_sand
+- byg:pink_sand
+- byg:purple_sand
+- byg:white_sand
+- boss_tools:moon_sand
+- boss_tools:mars_sand
+- boss_tools:venus_sand
+
+#forge:plates/bronze
+- alloyed:bronze_sheet
+
+#forge:nuggets/netherite_scrap
+- tconstruct:debris_nugget
+
+#forge:nuggets/desh
+- boss_tools:desh_nugget
+
+#forge:storage_blocks/inanite
+- bigreactors:inanite_block
+
+#mekanism:colorable/glass_panes
+- minecraft:glass_pane
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#forge:treated_wood
+- immersiveengineering:treated_wood_horizontal
+- immersiveengineering:treated_wood_vertical
+- immersiveengineering:treated_wood_packaged
+
+#forge:dusts/netherite
+- mekanism:dust_netherite
+
+#refinedstorage:storage_blocks/fluids/infinite
+- extradisks:infinite_fluid_storage_block
+
+#forge:dyes/light_gray
+- minecraft:light_gray_dye
+
+#forge:gems/fluorite
+- mekanism:fluorite_gem
+
+#forge:sheetmetals/uranium
+- immersiveengineering:sheetmetal_uranium
+
+#forge:ingots/bronze
+- alloyed:bronze_ingot
+- mekanism:ingot_bronze
+
+#forge:ingots/blutonium
+- bigreactors:blutonium_ingot
+
+#forge:ingots/copper
+- oreclumps:copper_ingot
+- tconstruct:copper_ingot
+- immersiveengineering:ingot_copper
+- create:copper_ingot
+- exnihilosequentia:ingot_copper
+- mekanism:ingot_copper
+
+#tconstruct:casts/single_use/plate
+- tconstruct:plate_sand_cast
+- tconstruct:plate_red_sand_cast
+
+#forge:ores/cobalt
+- oreclumps:raw_cobalt
+- tconstruct:cobalt_ore
+- exnihilosequentia:chunk_cobalt
+
+#byg:double_purple_dye
+- byg:tall_allium
+
+#tconstruct:casts/multi_use/broad_axe_head
+- tconstruct:broad_axe_head_cast
+
+#forge:glass/blue
+- minecraft:blue_stained_glass
+- tconstruct:blue_clear_stained_glass
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- tconstruct:greenheart_trapdoor
+- tconstruct:skyroot_trapdoor
+- tconstruct:bloodshroom_trapdoor
+- byg:aspen_trapdoor
+- byg:baobab_trapdoor
+- byg:blue_enchanted_trapdoor
+- byg:cherry_trapdoor
+- byg:cika_trapdoor
+- byg:cypress_trapdoor
+- byg:ebony_trapdoor
+- byg:fir_trapdoor
+- byg:green_enchanted_trapdoor
+- byg:holly_trapdoor
+- byg:jacaranda_trapdoor
+- byg:mahogany_trapdoor
+- byg:mangrove_trapdoor
+- byg:maple_trapdoor
+- byg:pine_trapdoor
+- byg:rainbow_eucalyptus_trapdoor
+- byg:redwood_trapdoor
+- byg:skyris_trapdoor
+- byg:willow_trapdoor
+- byg:witch_hazel_trapdoor
+- byg:zelkova_trapdoor
+- byg:sythian_trapdoor
+- byg:embur_trapdoor
+- byg:palm_trapdoor
+- byg:lament_trapdoor
+- byg:ether_trapdoor
+- byg:bulbis_trapdoor
+- byg:nightshade_trapdoor
+- byg:imparius_trapdoor
+
+#create:valve_handles
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+
+#forge:wool/orange
+- minecraft:orange_wool
+
+#forge:coal_petcoke
+- immersivepetroleum:petcoke
+
+#forge:storage_blocks/coal
+- minecraft:coal_block
+
+#byg:imparius_stems
+- byg:imparius_stem
+- byg:imparius_hyphae
+- byg:fungal_imparius_stem
+- byg:fungal_imparius_hyphae
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass
+- tconstruct:light_blue_clear_stained_glass
+
+#refinedstorage:disks/fluids
+- #refinedstorage:disks/fluids/16384k
+- #refinedstorage:disks/fluids/65536k
+- #refinedstorage:disks/fluids/262144k
+- #refinedstorage:disks/fluids/1048576k
+- #refinedstorage:disks/fluids/16384k
+- #refinedstorage:disks/fluids/65536k
+- #refinedstorage:disks/fluids/262144k
+- #refinedstorage:disks/fluids/1048576k
+- #refinedstorage:disks/fluids/infinite
+
+#forge:wires
+- #forge:wires/copper
+- #forge:wires/electrum
+- #forge:wires/aluminum
+- #forge:wires/steel
+- #forge:wires/lead
+- createaddition:copper_wire
+- createaddition:iron_wire
+- createaddition:gold_wire
+
+#forge:ingots/brass
+- create:brass_ingot
+
+#byg:yellow_dye
+- byg:lolipop_flower
+- byg:yellow_daffodil
+- byg:yellow_tulip
+
+#forge:ingots/adamantium
+- oreclumps:adamantium_ingot
+
+#byg:green_dye
+- byg:golden_spined_cactus
+- byg:horseweed
+- byg:mini_cactus
+- byg:prickly_pear_cactus
+
+#mekanism:enriched/tin
+- mekanism:enriched_tin
+
+#forge:nuggets/silicon_bronze
+- tconstruct:tinkers_bronze_nugget
+
+#tconstruct:casts/multi_use/gem
+- tconstruct:gem_cast
+
+#forge:wool/light_blue
+- minecraft:light_blue_wool
+
+#forge:sandstone/red
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:tipped_arrow
+- minecraft:spectral_arrow
+
+#forge:meat_cooked
+- minecraft:cooked_chicken
+- minecraft:cooked_cod
+- minecraft:cooked_mutton
+- minecraft:cooked_porkchop
+- minecraft:cooked_rabbit
+- minecraft:cooked_salmon
+- minecraft:cooked_beef
+
+#refinedstorage:fluid_grid
+- refinedstorage:pink_fluid_grid
+- refinedstorage:gray_fluid_grid
+- refinedstorage:orange_fluid_grid
+- refinedstorage:cyan_fluid_grid
+- refinedstorage:magenta_fluid_grid
+- refinedstorage:fluid_grid
+- refinedstorage:light_gray_fluid_grid
+- refinedstorage:brown_fluid_grid
+- refinedstorage:black_fluid_grid
+- refinedstorage:white_fluid_grid
+- refinedstorage:lime_fluid_grid
+- refinedstorage:purple_fluid_grid
+- refinedstorage:red_fluid_grid
+- refinedstorage:green_fluid_grid
+- refinedstorage:blue_fluid_grid
+- refinedstorage:yellow_fluid_grid
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- tconstruct:greenheart_door
+- tconstruct:skyroot_door
+- tconstruct:bloodshroom_door
+- byg:aspen_door
+- byg:baobab_door
+- byg:blue_enchanted_door
+- byg:cherry_door
+- byg:cika_door
+- byg:cypress_door
+- byg:ebony_door
+- byg:fir_door
+- byg:green_enchanted_door
+- byg:holly_door
+- byg:jacaranda_door
+- byg:mahogany_door
+- byg:mangrove_door
+- byg:maple_door
+- byg:pine_door
+- byg:rainbow_eucalyptus_door
+- byg:redwood_door
+- byg:skyris_door
+- byg:willow_door
+- byg:witch_hazel_door
+- byg:zelkova_door
+- byg:sythian_door
+- byg:embur_door
+- byg:palm_door
+- byg:lament_door
+- byg:ether_door
+- byg:bulbis_door
+- byg:nightshade_door
+- byg:imparius_door
+
+#tconstruct:duct_containers
+- minecraft:bucket
+- tconstruct:copper_can
+- tconstruct:seared_lantern
+- tconstruct:scorched_lantern
+
+#rftoolsbase:shards
+- rftoolsbase:dimensionalshard
+
+#tconstruct:modifiable/interactable
+- #tconstruct:modifiable/held
+- #tconstruct:modifiable/armor/chestplate
+
+#forge:dusts/fluorite
+- mekanism:dust_fluorite
+
+#forge:ingots/constantan
+- immersiveengineering:ingot_constantan
+
+#forge:glass/purple
+- minecraft:purple_stained_glass
+- tconstruct:purple_clear_stained_glass
+
+#forge:dyes/magenta
+- minecraft:magenta_dye
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+
+#forge:purple_sand
+- byg:purple_sand
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- byg:red_rock
+- byg:dacite_cobblestone
+- byg:scoria_cobblestone
+- byg:soapstone
+- byg:cobbled_ether_stone
+
+#forge:dyes/cyan
+- minecraft:cyan_dye
+
+#forge:nuggets/netherite
+- tconstruct:netherite_nugget
+- createdeco:netherite_nugget
+
+#mekanism:crystals/uranium
+- mekanism:crystal_uranium
+
+#mekanism:shards/tin
+- mekanism:shard_tin
+
+#byg:embur_pedus
+- byg:embur_pedu
+- byg:stripped_embur_pedu
+- byg:embur_hyphae
+- byg:stripped_embur_hyphae
+
+#tconstruct:slime_block
+- minecraft:slime_block
+- tconstruct:sky_slime
+- tconstruct:ichor_slime
+- tconstruct:ender_slime
+- tconstruct:blood_slime
+
+#forge:ores/tungsten
+- oreclumps:raw_tungsten
+
+#forge:wool/blue
+- minecraft:blue_wool
+
+#byg:black_sand
+- byg:purple_sand
+
+#mekanism:shards/osmium
+- mekanism:shard_osmium
+
+#forge:nuggets/platinum
+- morecreatestuffs:platinum_nugget
+
+#tconstruct:scorched_tanks
+- tconstruct:scorched_fuel_tank
+- tconstruct:scorched_fuel_gauge
+- tconstruct:scorched_ingot_tank
+- tconstruct:scorched_ingot_gauge
+
+#forge:dyes/purple
+- minecraft:purple_dye
+
+#byg:light_blue_dye
+- byg:winter_scilla
+- byg:thereal_bellflower
+
+#byg:double_pink_dye
+- byg:japanese_orchid
+- byg:tall_pink_allium
+
+#bigreactors:turbine/casing_user/basic
+- bigreactors:basic_turbinecontroller
+- bigreactors:basic_turbinepowertapfe_active
+- bigreactors:basic_turbinepowertapfe_passive
+- bigreactors:basic_turbinefluidport_forge_active
+- bigreactors:basic_turbinefluidport_forge_passive
+- bigreactors:basic_turbinechargingportfe
+
+#forge:nuggets/pig_iron
+- tconstruct:pig_iron_nugget
+
+#forge:ingots/queens_slime
+- tconstruct:queens_slime_ingot
+
+#tconstruct:casts/multi_use/broad_blade
+- tconstruct:broad_blade_cast
+
+#forge:sand/purple
+- byg:purple_sand
+
+#forge:gems/prismarine
+- minecraft:prismarine_crystals
+
+#forge:storage_blocks/silver
+- immersiveengineering:storage_silver
+
+#forge:ores/gold
+- oreclumps:raw_gold
+- boss_tools:venus_gold_ore
+- #minecraft:gold_ores
+- exnihilosequentia:chunk_gold
+
+#mekanism:colorable/beds
+- minecraft:white_bed
+- minecraft:orange_bed
+- minecraft:magenta_bed
+- minecraft:light_blue_bed
+- minecraft:yellow_bed
+- minecraft:lime_bed
+- minecraft:pink_bed
+- minecraft:gray_bed
+- minecraft:light_gray_bed
+- minecraft:cyan_bed
+- minecraft:purple_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:green_bed
+- minecraft:red_bed
+- minecraft:black_bed
+
+#mekanism:crystals
+- mekanism:crystal_iron
+- mekanism:crystal_gold
+- mekanism:crystal_osmium
+- mekanism:crystal_copper
+- mekanism:crystal_tin
+- mekanism:crystal_lead
+- mekanism:crystal_uranium
+
+#forge:nuggets/knightslime
+- tconstruct:knightslime_nugget
+
+#forge:nuggets/zinc
+- create:zinc_nugget
+
+#byg:cherry_logs
+- byg:cherry_log
+- byg:stripped_cherry_log
+- byg:cherry_wood
+- byg:stripped_cherry_wood
+
+#forge:dusts/coal
+- mekanism:dust_coal
+
+#forge:glass/lime
+- minecraft:lime_stained_glass
+- tconstruct:lime_clear_stained_glass
+
+#forge:chests/wooden
+- minecraft:chest
+- minecraft:trapped_chest
+
+#forge:storage_blocks/aluminum
+- immersiveengineering:storage_aluminum
+
+#tconstruct:modifiable/aoe
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:kama
+- tconstruct:scythe
+- tconstruct:sword
+- tconstruct:cleaver
+- tconstruct:flint_and_bronze
+- #tconstruct:modifiable/armor/boots
+
+#forge:dusts/copper
+- immersiveengineering:dust_copper
+- mekanism:dust_copper
+
+#forge:gems/emerald
+- minecraft:emerald
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#forge:tools
+- #forge:tools/wrench
+- #forge:tools/wrench
+
+#forge:storage_blocks/glowstone
+- minecraft:glowstone
+
+#forge:nuggets/uranium
+- immersiveengineering:nugget_uranium
+- mekanism:nugget_uranium
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+- byg:soapstone_bricks
+- byg:scoria_stonebricks
+- byg:red_rock_bricks
+- byg:carved_ether_stone
+- byg:chiseled_therium
+- byg:shiny_chiseled_therium
+
+#forge:nuggets/nickel
+- immersiveengineering:nugget_nickel
+
+#forge:glass/orange
+- minecraft:orange_stained_glass
+- tconstruct:orange_clear_stained_glass
+
+#forge:dusts/refined_obsidian
+- mekanism:dust_refined_obsidian
+
+#forge:plates/gold
+- immersiveengineering:plate_gold
+- create:golden_sheet
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- boss_tools:moon_brick_slab
+- boss_tools:cracked_moon_brick_slab
+- alloyed:steel_sheet_slab
+- create:granite_cobblestone_slab
+- create:granite_bricks_slab
+- create:fancy_granite_bricks_slab
+- create:paved_granite_slab
+- create:diorite_cobblestone_slab
+- create:diorite_bricks_slab
+- create:fancy_diorite_bricks_slab
+- create:paved_diorite_slab
+- create:andesite_cobblestone_slab
+- create:andesite_bricks_slab
+- create:fancy_andesite_bricks_slab
+- create:paved_andesite_slab
+- create:limestone_cobblestone_slab
+- create:polished_limestone_slab
+- create:limestone_bricks_slab
+- create:fancy_limestone_bricks_slab
+- create:paved_limestone_slab
+- create:weathered_limestone_cobblestone_slab
+- create:polished_weathered_limestone_slab
+- create:weathered_limestone_bricks_slab
+- create:fancy_weathered_limestone_bricks_slab
+- create:paved_weathered_limestone_slab
+- create:dolomite_cobblestone_slab
+- create:polished_dolomite_slab
+- create:dolomite_bricks_slab
+- create:fancy_dolomite_bricks_slab
+- create:paved_dolomite_slab
+- create:gabbro_cobblestone_slab
+- create:polished_gabbro_slab
+- create:gabbro_bricks_slab
+- create:fancy_gabbro_bricks_slab
+- create:paved_gabbro_slab
+- create:scoria_cobblestone_slab
+- create:polished_scoria_slab
+- create:scoria_bricks_slab
+- create:fancy_scoria_bricks_slab
+- create:paved_scoria_slab
+- create:dark_scoria_cobblestone_slab
+- create:polished_dark_scoria_slab
+- create:dark_scoria_bricks_slab
+- create:fancy_dark_scoria_bricks_slab
+- create:paved_dark_scoria_slab
+- byg:aspen_slab
+- byg:baobab_slab
+- byg:blue_enchanted_slab
+- byg:cherry_slab
+- byg:cika_slab
+- byg:cypress_slab
+- byg:ebony_slab
+- byg:fir_slab
+- byg:green_enchanted_slab
+- byg:holly_slab
+- byg:jacaranda_slab
+- byg:mahogany_slab
+- byg:mangrove_slab
+- byg:maple_slab
+- byg:pine_slab
+- byg:rainbow_eucalyptus_slab
+- byg:redwood_slab
+- byg:skyris_slab
+- byg:willow_slab
+- byg:witch_hazel_slab
+- byg:zelkova_slab
+- byg:dacite_cobblestone_slab
+- byg:mossy_stone_slab
+- byg:rocky_stone_slab
+- byg:scoria_stone_slab
+- byg:scoria_cobblestone_slab
+- byg:scoria_stonebrick_slab
+- byg:soapstone_slab
+- byg:polished_soapstone_slab
+- byg:soapstone_brick_slab
+- byg:soapstone_tile_slab
+- byg:red_rock_slab
+- byg:red_rock_brick_slab
+- byg:mossy_red_rock_brick_slab
+- byg:cracked_red_rock_brick_slab
+- byg:chiseled_red_rock_brick_slab
+- byg:sythian_slab
+- byg:embur_slab
+- byg:palm_slab
+- byg:lament_slab
+- byg:ether_slab
+- byg:bulbis_slab
+- byg:nightshade_slab
+- byg:ether_stone_slab
+- byg:cobbled_ether_stone_slab
+- byg:carved_ether_stone_slab
+- byg:purpur_stone_slab
+- byg:imparius_slab
+- byg:chiseled_fungal_imparius_slab
+
+#tconstruct:slimy_grass_seeds
+- tconstruct:earth_slime_grass_seeds
+- tconstruct:sky_slime_grass_seeds
+- tconstruct:ichor_slime_grass_seeds
+- tconstruct:ender_slime_grass_seeds
+- tconstruct:blood_slime_grass_seeds
+
+#forge:plates/steel
+- immersiveengineering:plate_steel
+- alloyed:steel_sheet
+
+#forge:crops/cassava
+- createcafe:cassava_root
+
+#tconstruct:casts/single_use/pickaxe_head
+- tconstruct:pickaxe_head_sand_cast
+- tconstruct:pickaxe_head_red_sand_cast
+
+#refinedstorage:crafting_monitor
+- refinedstorage:pink_crafting_monitor
+- refinedstorage:gray_crafting_monitor
+- refinedstorage:orange_crafting_monitor
+- refinedstorage:cyan_crafting_monitor
+- refinedstorage:magenta_crafting_monitor
+- refinedstorage:crafting_monitor
+- refinedstorage:light_gray_crafting_monitor
+- refinedstorage:brown_crafting_monitor
+- refinedstorage:black_crafting_monitor
+- refinedstorage:white_crafting_monitor
+- refinedstorage:lime_crafting_monitor
+- refinedstorage:purple_crafting_monitor
+- refinedstorage:red_crafting_monitor
+- refinedstorage:green_crafting_monitor
+- refinedstorage:blue_crafting_monitor
+- refinedstorage:yellow_crafting_monitor
+
+#tconstruct:guides
+- tconstruct:materials_and_you
+- tconstruct:tinkers_gadgetry
+- tconstruct:puny_smelting
+- tconstruct:mighty_smelting
+- tconstruct:fantastic_foundry
+- tconstruct:encyclopedia
+
+#tconstruct:congealed_slime
+- tconstruct:earth_congealed_slime
+- tconstruct:sky_congealed_slime
+- tconstruct:ichor_congealed_slime
+- tconstruct:ender_congealed_slime
+- tconstruct:blood_congealed_slime
+
+#tconstruct:modifiable/melee/primary
+- tconstruct:sledge_hammer
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:scythe
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:cleaver
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+- byg:aspen_button
+- byg:baobab_button
+- byg:blue_enchanted_button
+- byg:cherry_button
+- byg:cika_button
+- byg:cypress_button
+- byg:ebony_button
+- byg:fir_button
+- byg:green_enchanted_button
+- byg:holly_button
+- byg:jacaranda_button
+- byg:mahogany_button
+- byg:mangrove_button
+- byg:maple_button
+- byg:pine_button
+- byg:rainbow_eucalyptus_button
+- byg:redwood_button
+- byg:skyris_button
+- byg:willow_button
+- byg:witch_hazel_button
+- byg:zelkova_button
+- byg:sythian_button
+- byg:embur_button
+- byg:palm_button
+- byg:lament_button
+- byg:ether_button
+- byg:bulbis_button
+- byg:nightshade_button
+- byg:imparius_button
+
+#byg:green_enchanted_logs
+- byg:green_enchanted_log
+- byg:stripped_green_enchanted_log
+- byg:green_enchanted_wood
+- byg:stripped_green_enchanted_wood
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+
+#forge:wool/lime
+- minecraft:lime_wool
+
+#forge:nuggets/yellorium
+- bigreactors:yellorium_nugget
+
+#excompressum:crucibles/wooden
+- excompressum:acacia_crucible
+- excompressum:birch_crucible
+- excompressum:dark_oak_crucible
+- excompressum:jungle_crucible
+- excompressum:oak_crucible
+- excompressum:spruce_crucible
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- tconstruct:greenheart_pressure_plate
+- tconstruct:skyroot_pressure_plate
+- tconstruct:bloodshroom_pressure_plate
+- byg:aspen_pressure_plate
+- byg:baobab_pressure_plate
+- byg:blue_enchanted_pressure_plate
+- byg:cherry_pressure_plate
+- byg:cika_pressure_plate
+- byg:cypress_pressure_plate
+- byg:ebony_pressure_plate
+- byg:fir_pressure_plate
+- byg:green_enchanted_pressure_plate
+- byg:holly_pressure_plate
+- byg:jacaranda_pressure_plate
+- byg:mahogany_pressure_plate
+- byg:mangrove_pressure_plate
+- byg:maple_pressure_plate
+- byg:pine_pressure_plate
+- byg:rainbow_eucalyptus_pressure_plate
+- byg:redwood_pressure_plate
+- byg:skyris_pressure_plate
+- byg:willow_pressure_plate
+- byg:witch_hazel_pressure_plate
+- byg:zelkova_pressure_plate
+- byg:sythian_pressure_plate
+- byg:embur_pressure_plate
+- byg:palm_pressure_plate
+- byg:lament_pressure_plate
+- byg:ether_pressure_plate
+- byg:bulbis_pressure_plate
+- byg:nightshade_pressure_plate
+- byg:imparius_pressure_plate
+
+#forge:nuggets/osmium
+- mekanism:nugget_osmium
+
+#byg:sythian_stems
+- byg:sythian_stem
+- byg:stripped_sythian_stem
+- byg:sythian_hyphae
+- byg:stripped_sythian_hyphae
+
+#forge:pellets/antimatter
+- mekanism:pellet_antimatter
+
+#mekanism:shards/iron
+- mekanism:shard_iron
+
+#create:create_ingots
+- create:copper_ingot
+- create:zinc_ingot
+- create:brass_ingot
+
+#dankstorage:blacklisted_usage
+- #dankstorage:mekanism_cables?
+- pocketstorage:psu_1?
+- pocketstorage:psu_2?
+- pocketstorage:psu_3?
+- pocketstorage:psu_4?
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+
+#forge:sheetmetals/silver
+- immersiveengineering:sheetmetal_silver
+
+#tconstruct:smeltery
+- #tconstruct:seared_blocks
+- #tconstruct:seared_tanks
+- tconstruct:smeltery_controller
+- tconstruct:seared_drain
+- tconstruct:seared_chute
+- tconstruct:seared_duct
+- tconstruct:seared_glass
+- tconstruct:seared_ladder
+
+#refinedstorage:crafter
+- refinedstorage:pink_crafter
+- refinedstorage:gray_crafter
+- refinedstorage:orange_crafter
+- refinedstorage:cyan_crafter
+- refinedstorage:magenta_crafter
+- refinedstorage:crafter
+- refinedstorage:light_gray_crafter
+- refinedstorage:brown_crafter
+- refinedstorage:black_crafter
+- refinedstorage:white_crafter
+- refinedstorage:lime_crafter
+- refinedstorage:purple_crafter
+- refinedstorage:red_crafter
+- refinedstorage:green_crafter
+- refinedstorage:blue_crafter
+- refinedstorage:yellow_crafter
+
+#forge:nuggets/coal
+- excompressum:uncompressed_coal
+
+#tconstruct:casts/multi_use/blank
+- tconstruct:blank_cast
+
+#byg:white_dye
+- byg:white_anemone
+- byg:white_sage
+- byg:winter_rose
+- byg:snowdrops
+- byg:angelica
+
+#forge:hoes
+- byg:pendorite_hoe
+
+#forge:wool/cyan
+- minecraft:cyan_wool
+
+#refinedstorage:storage_blocks/fluids
+- #refinedstorage:storage_blocks/fluids/16384k
+- #refinedstorage:storage_blocks/fluids/65536k
+- #refinedstorage:storage_blocks/fluids/262144k
+- #refinedstorage:storage_blocks/fluids/1048576k
+- #refinedstorage:storage_blocks/fluids/16384k
+- #refinedstorage:storage_blocks/fluids/65536k
+- #refinedstorage:storage_blocks/fluids/262144k
+- #refinedstorage:storage_blocks/fluids/1048576k
+- #refinedstorage:storage_blocks/fluids/infinite
+
+#mekanism:colorable/banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#tconstruct:casts/multi_use/tough_handle
+- tconstruct:tough_handle_cast
+
+#forge:storage_blocks/silicon
+- boss_tools:silicon_block
+
+#forge:gravel
+- minecraft:gravel
+
+#forge:dyes/black
+- minecraft:black_dye
+
+#refinedstorage:parts/fluids/infinite
+- extradisks:infinite_fluid_storage_part
+
+#tconstruct:casts/multi_use
+- #tconstruct:casts/multi_use/blank
+- #tconstruct:casts/multi_use/ingot
+- #tconstruct:casts/multi_use/nugget
+- #tconstruct:casts/multi_use/gem
+- #tconstruct:casts/multi_use/rod
+- #tconstruct:casts/multi_use/repair_kit
+- #tconstruct:casts/multi_use/plate
+- #tconstruct:casts/multi_use/gear
+- #tconstruct:casts/multi_use/coin
+- #tconstruct:casts/multi_use/wire
+- #tconstruct:casts/multi_use/pickaxe_head
+- #tconstruct:casts/multi_use/small_axe_head
+- #tconstruct:casts/multi_use/small_blade
+- #tconstruct:casts/multi_use/hammer_head
+- #tconstruct:casts/multi_use/broad_axe_head
+- #tconstruct:casts/multi_use/broad_blade
+- #tconstruct:casts/multi_use/tool_binding
+- #tconstruct:casts/multi_use/large_plate
+- #tconstruct:casts/multi_use/tool_handle
+- #tconstruct:casts/multi_use/tough_handle
+
+#refinedstorage:parts/fluids
+- #refinedstorage:parts/fluids/16384k
+- #refinedstorage:parts/fluids/65536k
+- #refinedstorage:parts/fluids/262144k
+- #refinedstorage:parts/fluids/1048576k
+- #refinedstorage:parts/fluids/16384k
+- #refinedstorage:parts/fluids/65536k
+- #refinedstorage:parts/fluids/262144k
+- #refinedstorage:parts/fluids/1048576k
+- #refinedstorage:parts/fluids/infinite
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+- tconstruct:light_blue_clear_stained_glass_pane
+
+#mekanism:enriched/redstone
+- mekanism:enriched_redstone
+
+#boss_tools:engines/diamond
+- boss_tools:diamond_engine
+
+#rftoolsutility:living/living
+- #rftoolsutility:living/lowyield
+- #rftoolsutility:living/averageyield
+- #rftoolsutility:living/highyield
+
+#forge:ores/zinc
+- oreclumps:raw_zinc
+- create:zinc_ore
+- exnihilosequentia:chunk_zinc
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#forge:nuggets/copper
+- tconstruct:copper_nugget
+- immersiveengineering:nugget_copper
+- create:copper_nugget
+- mekanism:nugget_copper
+
+#forge:sawblades
+- immersiveengineering:sawblade
+
+#steampowered:ingots/steel
+- steampowered:steel_ingot
+- #forge:ingots/steel
+
+#forge:ingots/silicon_bronze
+- tconstruct:tinkers_bronze_ingot
+
+#byg:zelkova_logs
+- byg:zelkova_log
+- byg:stripped_zelkova_log
+- byg:zelkova_wood
+- byg:stripped_zelkova_wood
+
+#forge:crops/carrot
+- minecraft:carrot
+
+#forge:ores/adamantium
+- oreclumps:raw_adamantium
+
+#forge:leggings
+- byg:ametrine_leggings
+
+#mekanism:dirty_dusts/lead
+- mekanism:dirty_dust_lead
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+
+#forge:shovels
+- byg:pendorite_shovel
+
+#forge:fences/steel
+- immersiveengineering:steel_fence
+
+#forge:storage_blocks/coal_coke
+- immersiveengineering:coke
+
+#forge:dyes/blue
+- minecraft:blue_dye
+
+#forge:storage_blocks/iron
+- minecraft:iron_block
+
+#create:seats
+- create:white_seat
+- create:orange_seat
+- create:magenta_seat
+- create:light_blue_seat
+- create:yellow_seat
+- create:lime_seat
+- create:pink_seat
+- create:gray_seat
+- create:light_gray_seat
+- create:cyan_seat
+- create:purple_seat
+- create:blue_seat
+- create:brown_seat
+- create:green_seat
+- create:red_seat
+- create:black_seat
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+- tconstruct:brown_clear_stained_glass_pane
+
+#create:sandpaper
+- create:sand_paper
+- create:red_sand_paper
+- createaddition:diamond_grit_sandpaper
+
+#forge:heads
+- minecraft:creeper_head
+- minecraft:dragon_head
+- minecraft:player_head
+- minecraft:skeleton_skull
+- minecraft:wither_skeleton_skull
+- minecraft:zombie_head
+- tconstruct:blaze_head
+- tconstruct:enderman_head
+- tconstruct:stray_head
+- tconstruct:husk_head
+- tconstruct:drowned_head
+- tconstruct:spider_head
+- tconstruct:cave_spider_head
+- tconstruct:piglin_head
+- tconstruct:piglin_brute_head
+- tconstruct:zombified_piglin_head
+
+#forge:ores/lignite
+- byg:lignite_ore
+
+#forge:dusts/ridiculite
+- bigreactors:ridiculite_dust
+
+#tconstruct:casts/multi_use/large_plate
+- tconstruct:large_plate_cast
+
+#storagedrawers:drawers
+- storagedrawers:oak_full_drawers_1
+- storagedrawers:oak_full_drawers_2
+- storagedrawers:oak_full_drawers_4
+- storagedrawers:oak_half_drawers_1
+- storagedrawers:oak_half_drawers_2
+- storagedrawers:oak_half_drawers_4
+- storagedrawers:spruce_full_drawers_1
+- storagedrawers:spruce_full_drawers_2
+- storagedrawers:spruce_full_drawers_4
+- storagedrawers:spruce_half_drawers_1
+- storagedrawers:spruce_half_drawers_2
+- storagedrawers:spruce_half_drawers_4
+- storagedrawers:birch_full_drawers_1
+- storagedrawers:birch_full_drawers_2
+- storagedrawers:birch_full_drawers_4
+- storagedrawers:birch_half_drawers_1
+- storagedrawers:birch_half_drawers_2
+- storagedrawers:birch_half_drawers_4
+- storagedrawers:jungle_full_drawers_1
+- storagedrawers:jungle_full_drawers_2
+- storagedrawers:jungle_full_drawers_4
+- storagedrawers:jungle_half_drawers_1
+- storagedrawers:jungle_half_drawers_2
+- storagedrawers:jungle_half_drawers_4
+- storagedrawers:acacia_full_drawers_1
+- storagedrawers:acacia_full_drawers_2
+- storagedrawers:acacia_full_drawers_4
+- storagedrawers:acacia_half_drawers_1
+- storagedrawers:acacia_half_drawers_2
+- storagedrawers:acacia_half_drawers_4
+- storagedrawers:dark_oak_full_drawers_1
+- storagedrawers:dark_oak_full_drawers_2
+- storagedrawers:dark_oak_full_drawers_4
+- storagedrawers:dark_oak_half_drawers_1
+- storagedrawers:dark_oak_half_drawers_2
+- storagedrawers:dark_oak_half_drawers_4
+- storagedrawers:crimson_full_drawers_1
+- storagedrawers:crimson_full_drawers_2
+- storagedrawers:crimson_full_drawers_4
+- storagedrawers:crimson_half_drawers_1
+- storagedrawers:crimson_half_drawers_2
+- storagedrawers:crimson_half_drawers_4
+- storagedrawers:warped_full_drawers_1
+- storagedrawers:warped_full_drawers_2
+- storagedrawers:warped_full_drawers_4
+- storagedrawers:warped_half_drawers_1
+- storagedrawers:warped_half_drawers_2
+- storagedrawers:warped_half_drawers_4
+
+#forge:circuits/basic
+- mekanism:basic_control_circuit
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+
+#forge:storage_blocks/steel
+- boss_tools:steel_block
+- immersiveengineering:storage_steel
+- alloyed:steel_block
+- mekanism:block_steel
+
+#mekanism:shards/uranium
+- mekanism:shard_uranium
+
+#bigreactors:turbine/casing_user/reinforced
+- bigreactors:reinforced_turbinecontroller
+- bigreactors:reinforced_turbinepowertapfe_active
+- bigreactors:reinforced_turbinepowertapfe_passive
+- bigreactors:reinforced_turbinefluidport_forge_active
+- bigreactors:reinforced_turbinefluidport_forge_passive
+- bigreactors:reinforced_turbinecomputerport
+- bigreactors:reinforced_turbinechargingportfe
+
+#refinedstorage:detector
+- refinedstorage:pink_detector
+- refinedstorage:gray_detector
+- refinedstorage:orange_detector
+- refinedstorage:cyan_detector
+- refinedstorage:magenta_detector
+- refinedstorage:detector
+- refinedstorage:light_gray_detector
+- refinedstorage:brown_detector
+- refinedstorage:black_detector
+- refinedstorage:white_detector
+- refinedstorage:lime_detector
+- refinedstorage:purple_detector
+- refinedstorage:red_detector
+- refinedstorage:green_detector
+- refinedstorage:blue_detector
+- refinedstorage:yellow_detector
+
+#forge:blue_sand
+- byg:blue_sand
+
+#tconstruct:chrysophilite_ores
+- #forge:ores/gold
+- minecraft:gilded_blackstone
+
+#forge:storage_blocks/refined_glowstone
+- mekanism:block_refined_glowstone
+
+#forge:ores/chesse
+- boss_tools:moon_cheese_ore
+
+#forge:mushrooms
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- byg:green_mushroom
+- byg:wood_blewit
+- byg:weeping_milkcap
+- byg:black_puff
+- byg:sythian_fungus
+- byg:imparius_mushroom
+
+#dankstorage:dank_storages
+- dankstorage:dank_1
+- dankstorage:dank_2
+- dankstorage:dank_3
+- dankstorage:dank_4
+- dankstorage:dank_5
+- dankstorage:dank_6
+- dankstorage:dank_7
+
+#tconstruct:casts
+- #tconstruct:casts/gold
+- #tconstruct:casts/sand
+- #tconstruct:casts/red_sand
+
+#forge:storage_blocks/bronze
+- alloyed:bronze_block
+- mekanism:block_bronze
+
+#mekanism:shards
+- mekanism:shard_iron
+- mekanism:shard_gold
+- mekanism:shard_osmium
+- mekanism:shard_copper
+- mekanism:shard_tin
+- mekanism:shard_lead
+- mekanism:shard_uranium
+
+#forge:sheetmetals/gold
+- immersiveengineering:sheetmetal_gold
+
+#forge:rods/all_metal
+- #forge:rods/aluminum
+- #forge:rods/iron
+- #forge:rods/steel
+- createaddition:iron_rod
+- createaddition:copper_rod
+- createaddition:gold_rod
+- createaddition:brass_rod
+
+#byg:skyris_logs
+- byg:skyris_log
+- byg:stripped_skyris_log
+- byg:skyris_wood
+- byg:stripped_skyris_wood
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- #tconstruct:slimy_saplings
+- byg:aspen_sapling
+- byg:baobab_sapling
+- byg:blue_enchanted_sapling
+- byg:blue_spruce_sapling
+- byg:brown_birch_sapling
+- byg:brown_oak_sapling
+- byg:cika_sapling
+- byg:cypress_sapling
+- byg:ebony_sapling
+- byg:fir_sapling
+- byg:green_enchanted_sapling
+- byg:holly_sapling
+- byg:jacaranda_sapling
+- byg:indigo_jacaranda_sapling
+- byg:mahogany_sapling
+- byg:mangrove_sapling
+- byg:maple_sapling
+- byg:orange_birch_sapling
+- byg:orange_oak_sapling
+- byg:orange_spruce_sapling
+- byg:orchard_sapling
+- byg:palo_verde_sapling
+- byg:pine_sapling
+- byg:pink_cherry_sapling
+- byg:rainbow_eucalyptus_sapling
+- byg:red_birch_sapling
+- byg:red_maple_sapling
+- byg:red_oak_sapling
+- byg:red_spruce_sapling
+- byg:redwood_sapling
+- byg:silver_maple_sapling
+- byg:white_cherry_sapling
+- byg:willow_sapling
+- byg:witch_hazel_sapling
+- byg:yellow_birch_sapling
+- byg:zelkova_sapling
+- byg:skyris_sapling
+- byg:palm_sapling
+- byg:araucaria_sapling
+- byg:brown_zelkova_sapling
+- byg:lament_sapling
+- byg:withering_oak_sapling
+- byg:ether_sapling
+- byg:nightshade_sapling
+
+#forge:ores/copper
+- oreclumps:raw_copper
+- tconstruct:copper_ore
+- immersiveengineering:ore_copper
+- create:copper_ore
+- exnihilosequentia:chunk_copper
+- mekanism:copper_ore
+
+#byg:white_sand
+- byg:white_sand
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#forge:ores/silicon
+- boss_tools:mars_silicon_ore
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- tconstruct:greenheart_fence
+- tconstruct:skyroot_fence
+- tconstruct:bloodshroom_fence
+- byg:aspen_fence
+- byg:baobab_fence
+- byg:blue_enchanted_fence
+- byg:cherry_fence
+- byg:cika_fence
+- byg:cypress_fence
+- byg:ebony_fence
+- byg:fir_fence
+- byg:green_enchanted_fence
+- byg:holly_fence
+- byg:jacaranda_fence
+- byg:mahogany_fence
+- byg:mangrove_fence
+- byg:maple_fence
+- byg:pine_fence
+- byg:rainbow_eucalyptus_fence
+- byg:redwood_fence
+- byg:skyris_fence
+- byg:willow_fence
+- byg:witch_hazel_fence
+- byg:zelkova_fence
+- byg:sythian_fence
+- byg:embur_fence
+- byg:palm_fence
+- byg:lament_fence
+- byg:ether_fence
+- byg:bulbis_fence
+- byg:nightshade_fence
+- byg:imparius_fence
+
+#forge:sheetmetals/constantan
+- immersiveengineering:sheetmetal_constantan
+
+#forge:obsidian
+- minecraft:obsidian
+
+#refinedstorage:disks/items/262144k
+- extradisks:262144k_storage_disk
+
+#forge:alloys/ultimate
+- mekanism:alloy_atomic
+
+#tconstruct:modifiable/melee_or_unarmed
+- #tconstruct:modifiable/melee
+- #tconstruct:modifiable/armor/chestplate
+
+#forge:ingots/tungsten
+- oreclumps:tungsten_ingot
+
+#mekanism:clumps/osmium
+- mekanism:clump_osmium
+
+#bigreactors:reactor/casing_user/basic
+- bigreactors:basic_reactorcontroller
+- bigreactors:basic_reactorcontrolrod
+- bigreactors:basic_reactorsolidaccessport
+- bigreactors:basic_reactorpowertapfe_active
+- bigreactors:basic_reactorpowertapfe_passive
+- bigreactors:basic_reactorredstoneport
+- bigreactors:basic_reactorchargingportfe
+
+#forge:rods/brass
+- createaddition:brass_rod
+
+#forge:buckets/honey
+- create:honey_bucket
+
+#tconstruct:casts/single_use/tool_handle
+- tconstruct:tool_handle_sand_cast
+- tconstruct:tool_handle_red_sand_cast
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass
+- tconstruct:magenta_clear_stained_glass
+
+#forge:ores/coal
+- boss_tools:venus_coal_ore
+- minecraft:coal_ore
+
+#byg:light_gray_dye
+- byg:richea
+
+#refinedstorage:disks/items/65536k
+- extradisks:65536k_storage_disk
+
+#mekanism:colorable/wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#tconstruct:seared_tanks
+- tconstruct:seared_fuel_tank
+- tconstruct:seared_fuel_gauge
+- tconstruct:seared_ingot_tank
+- tconstruct:seared_ingot_gauge
+
+#forge:nuggets/refined_glowstone
+- mekanism:nugget_refined_glowstone
+
+#forge:sand/white
+- byg:white_sand
+
+#forge:workbench
+- byg:aspen_crafting_table
+- byg:baobab_crafting_table
+- byg:blue_enchanted_crafting_table
+- byg:cherry_crafting_table
+- byg:cika_crafting_table
+- byg:cypress_crafting_table
+- byg:ebony_crafting_table
+- byg:fir_crafting_table
+- byg:green_enchanted_crafting_table
+- byg:holly_crafting_table
+- byg:jacaranda_crafting_table
+- byg:mahogany_crafting_table
+- byg:mangrove_crafting_table
+- byg:maple_crafting_table
+- byg:pine_crafting_table
+- byg:rainbow_eucalyptus_crafting_table
+- byg:redwood_crafting_table
+- byg:skyris_crafting_table
+- byg:willow_crafting_table
+- byg:witch_hazel_crafting_table
+- byg:zelkova_crafting_table
+- byg:sythian_crafting_table
+- byg:embur_crafting_table
+- byg:palm_crafting_table
+- byg:lament_crafting_table
+- byg:ether_crafting_table
+- byg:bulbis_crafting_table
+- byg:nightshade_crafting_table
+- byg:imparius_crafting_table
+
+#forge:storage_blocks/pendorite
+- byg:pendorite_block
+
+#immersiveengineering:circuits/solder
+- #forge:wires/copper
+- #forge:wires/lead
+
+#forge:books/guide
+- #tconstruct:guides
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+- byg:aspen_trapdoor
+- byg:baobab_trapdoor
+- byg:blue_enchanted_trapdoor
+- byg:cherry_trapdoor
+- byg:cika_trapdoor
+- byg:cypress_trapdoor
+- byg:ebony_trapdoor
+- byg:fir_trapdoor
+- byg:green_enchanted_trapdoor
+- byg:holly_trapdoor
+- byg:jacaranda_trapdoor
+- byg:mahogany_trapdoor
+- byg:mangrove_trapdoor
+- byg:maple_trapdoor
+- byg:pine_trapdoor
+- byg:rainbow_eucalyptus_trapdoor
+- byg:redwood_trapdoor
+- byg:skyris_trapdoor
+- byg:willow_trapdoor
+- byg:witch_hazel_trapdoor
+- byg:zelkova_trapdoor
+- byg:sythian_trapdoor
+- byg:embur_trapdoor
+- byg:palm_trapdoor
+- byg:lament_trapdoor
+- byg:ether_trapdoor
+- byg:bulbis_trapdoor
+- byg:nightshade_trapdoor
+- byg:imparius_trapdoor
+
+#forge:ingots/gold
+- minecraft:gold_ingot
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass
+- tconstruct:cyan_clear_stained_glass
+
+#forge:leather
+- minecraft:leather
+
+#forge:dusts/salt
+- mekanism:salt
+
+#forge:glass
+- #forge:glass/colorless
+- #forge:stained_glass
+- connectedglass:borderless_glass
+- connectedglass:borderless_glass_white
+- connectedglass:borderless_glass_orange
+- connectedglass:borderless_glass_magenta
+- connectedglass:borderless_glass_light_blue
+- connectedglass:borderless_glass_yellow
+- connectedglass:borderless_glass_lime
+- connectedglass:borderless_glass_pink
+- connectedglass:borderless_glass_gray
+- connectedglass:borderless_glass_light_gray
+- connectedglass:borderless_glass_cyan
+- connectedglass:borderless_glass_purple
+- connectedglass:borderless_glass_blue
+- connectedglass:borderless_glass_brown
+- connectedglass:borderless_glass_green
+- connectedglass:borderless_glass_red
+- connectedglass:borderless_glass_black
+- connectedglass:clear_glass
+- connectedglass:clear_glass_white
+- connectedglass:clear_glass_orange
+- connectedglass:clear_glass_magenta
+- connectedglass:clear_glass_light_blue
+- connectedglass:clear_glass_yellow
+- connectedglass:clear_glass_lime
+- connectedglass:clear_glass_pink
+- connectedglass:clear_glass_gray
+- connectedglass:clear_glass_light_gray
+- connectedglass:clear_glass_cyan
+- connectedglass:clear_glass_purple
+- connectedglass:clear_glass_blue
+- connectedglass:clear_glass_brown
+- connectedglass:clear_glass_green
+- connectedglass:clear_glass_red
+- connectedglass:clear_glass_black
+- connectedglass:scratched_glass
+- connectedglass:scratched_glass_white
+- connectedglass:scratched_glass_orange
+- connectedglass:scratched_glass_magenta
+- connectedglass:scratched_glass_light_blue
+- connectedglass:scratched_glass_yellow
+- connectedglass:scratched_glass_lime
+- connectedglass:scratched_glass_pink
+- connectedglass:scratched_glass_gray
+- connectedglass:scratched_glass_light_gray
+- connectedglass:scratched_glass_cyan
+- connectedglass:scratched_glass_purple
+- connectedglass:scratched_glass_blue
+- connectedglass:scratched_glass_brown
+- connectedglass:scratched_glass_green
+- connectedglass:scratched_glass_red
+- connectedglass:scratched_glass_black
+- connectedglass:tinted_borderless_glass
+- connectedglass:tinted_borderless_glass_white
+- connectedglass:tinted_borderless_glass_orange
+- connectedglass:tinted_borderless_glass_magenta
+- connectedglass:tinted_borderless_glass_light_blue
+- connectedglass:tinted_borderless_glass_yellow
+- connectedglass:tinted_borderless_glass_lime
+- connectedglass:tinted_borderless_glass_pink
+- connectedglass:tinted_borderless_glass_gray
+- connectedglass:tinted_borderless_glass_light_gray
+- connectedglass:tinted_borderless_glass_cyan
+- connectedglass:tinted_borderless_glass_purple
+- connectedglass:tinted_borderless_glass_blue
+- connectedglass:tinted_borderless_glass_brown
+- connectedglass:tinted_borderless_glass_green
+- connectedglass:tinted_borderless_glass_red
+- connectedglass:tinted_borderless_glass_black
+- connectedglass:tinted_glass
+
+#tconstruct:modifiable/armor/leggings
+- tconstruct:travelers_leggings
+- tconstruct:plate_leggings
+- tconstruct:slime_leggings
+
+#forge:gems/ametrine
+- byg:ametrine_gems
+
+#minecraft:boats
+- minecraft:oak_boat
+- minecraft:spruce_boat
+- minecraft:birch_boat
+- minecraft:jungle_boat
+- minecraft:acacia_boat
+- minecraft:dark_oak_boat
+
+#forge:nuggets/iron
+- minecraft:iron_nugget
+
+#forge:storage_blocks/magentite
+- bigreactors:magentite_block
+
+#tconstruct:modifiable/armor
+- #tconstruct:modifiable/armor/boots
+- #tconstruct:modifiable/armor/leggings
+- #tconstruct:modifiable/armor/chestplate
+- #tconstruct:modifiable/armor/helmets
+
+#refinedstorage:disk_manipulator
+- refinedstorage:pink_disk_manipulator
+- refinedstorage:gray_disk_manipulator
+- refinedstorage:orange_disk_manipulator
+- refinedstorage:cyan_disk_manipulator
+- refinedstorage:magenta_disk_manipulator
+- refinedstorage:disk_manipulator
+- refinedstorage:light_gray_disk_manipulator
+- refinedstorage:brown_disk_manipulator
+- refinedstorage:black_disk_manipulator
+- refinedstorage:white_disk_manipulator
+- refinedstorage:lime_disk_manipulator
+- refinedstorage:purple_disk_manipulator
+- refinedstorage:red_disk_manipulator
+- refinedstorage:green_disk_manipulator
+- refinedstorage:blue_disk_manipulator
+- refinedstorage:yellow_disk_manipulator
+
+#forge:storage_blocks/yellorium
+- biggerreactors:yellorium_block
+- bigreactors:yellorium_block
+
+#byg:baobab_logs
+- byg:baobab_log
+- byg:stripped_baobab_log
+- byg:baobab_wood
+- byg:stripped_baobab_wood
+
+#steampowered:ingots/cast_iron
+- steampowered:cast_iron_ingot
+- #forge:ingots/cast_iron?
+
+#forge:storage_blocks/rose_gold
+- tconstruct:rose_gold_block
+
+#forge:storage_blocks/brass
+- create:brass_block
+
+#forge:crops/potato
+- minecraft:potato
+
+#tconstruct:casts/gold
+- tconstruct:blank_cast
+- tconstruct:ingot_cast
+- tconstruct:nugget_cast
+- tconstruct:gem_cast
+- tconstruct:rod_cast
+- tconstruct:repair_kit_cast
+- tconstruct:plate_cast
+- tconstruct:gear_cast
+- tconstruct:coin_cast
+- tconstruct:wire_cast
+- tconstruct:pickaxe_head_cast
+- tconstruct:small_axe_head_cast
+- tconstruct:small_blade_cast
+- tconstruct:hammer_head_cast
+- tconstruct:broad_axe_head_cast
+- tconstruct:broad_blade_cast
+- tconstruct:tool_binding_cast
+- tconstruct:large_plate_cast
+- tconstruct:tool_handle_cast
+- tconstruct:tough_handle_cast
+
+#byg:black_dye
+- byg:black_rose
+
+#forge:dusts/plutonium
+- bigreactors:blutonium_dust
+
+#forge:wool/red
+- minecraft:red_wool
+
+#boss_tools:engines/golden
+- boss_tools:golden_engine
+
+#forge:storage_blocks/silicon_bronze
+- tconstruct:tinkers_bronze_block
+
+#byg:mahogany_logs
+- byg:mahogany_log
+- byg:stripped_mahogany_log
+- byg:mahogany_wood
+- byg:stripped_mahogany_wood
+
+#forge:tools/wrench
+- biggerreactors:wrench
+- rftoolsbase:smartwrench
+- rftoolsbase:smartwrench_select
+- mekanism:configurator
+- pipez:wrench
+- bigreactors:wrench
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+- tconstruct:white_clear_stained_glass_pane
+- tconstruct:orange_clear_stained_glass_pane
+- tconstruct:magenta_clear_stained_glass_pane
+- tconstruct:light_blue_clear_stained_glass_pane
+- tconstruct:yellow_clear_stained_glass_pane
+- tconstruct:lime_clear_stained_glass_pane
+- tconstruct:pink_clear_stained_glass_pane
+- tconstruct:gray_clear_stained_glass_pane
+- tconstruct:light_gray_clear_stained_glass_pane
+- tconstruct:cyan_clear_stained_glass_pane
+- tconstruct:purple_clear_stained_glass_pane
+- tconstruct:blue_clear_stained_glass_pane
+- tconstruct:brown_clear_stained_glass_pane
+- tconstruct:green_clear_stained_glass_pane
+- tconstruct:red_clear_stained_glass_pane
+- tconstruct:black_clear_stained_glass_pane
+- connectedglass:borderless_glass_white_pane
+- connectedglass:borderless_glass_orange_pane
+- connectedglass:borderless_glass_magenta_pane
+- connectedglass:borderless_glass_light_blue_pane
+- connectedglass:borderless_glass_yellow_pane
+- connectedglass:borderless_glass_lime_pane
+- connectedglass:borderless_glass_pink_pane
+- connectedglass:borderless_glass_gray_pane
+- connectedglass:borderless_glass_light_gray_pane
+- connectedglass:borderless_glass_cyan_pane
+- connectedglass:borderless_glass_purple_pane
+- connectedglass:borderless_glass_blue_pane
+- connectedglass:borderless_glass_brown_pane
+- connectedglass:borderless_glass_green_pane
+- connectedglass:borderless_glass_red_pane
+- connectedglass:borderless_glass_black_pane
+- connectedglass:clear_glass_white_pane
+- connectedglass:clear_glass_orange_pane
+- connectedglass:clear_glass_magenta_pane
+- connectedglass:clear_glass_light_blue_pane
+- connectedglass:clear_glass_yellow_pane
+- connectedglass:clear_glass_lime_pane
+- connectedglass:clear_glass_pink_pane
+- connectedglass:clear_glass_gray_pane
+- connectedglass:clear_glass_light_gray_pane
+- connectedglass:clear_glass_cyan_pane
+- connectedglass:clear_glass_purple_pane
+- connectedglass:clear_glass_blue_pane
+- connectedglass:clear_glass_brown_pane
+- connectedglass:clear_glass_green_pane
+- connectedglass:clear_glass_red_pane
+- connectedglass:clear_glass_black_pane
+- connectedglass:scratched_glass_white_pane
+- connectedglass:scratched_glass_orange_pane
+- connectedglass:scratched_glass_magenta_pane
+- connectedglass:scratched_glass_light_blue_pane
+- connectedglass:scratched_glass_yellow_pane
+- connectedglass:scratched_glass_lime_pane
+- connectedglass:scratched_glass_pink_pane
+- connectedglass:scratched_glass_gray_pane
+- connectedglass:scratched_glass_light_gray_pane
+- connectedglass:scratched_glass_cyan_pane
+- connectedglass:scratched_glass_purple_pane
+- connectedglass:scratched_glass_blue_pane
+- connectedglass:scratched_glass_brown_pane
+- connectedglass:scratched_glass_green_pane
+- connectedglass:scratched_glass_red_pane
+- connectedglass:scratched_glass_black_pane
+
+#immersiveengineering:scaffoldings/steel
+- immersiveengineering:steel_scaffolding_standard
+- immersiveengineering:steel_scaffolding_grate_top
+- immersiveengineering:steel_scaffolding_wooden_top
+
+#forge:nuggets/tin
+- mekanism:nugget_tin
+
+#curios:head
+- immersiveengineering:earmuffs
+
+#forge:storage_blocks/queens_slime
+- tconstruct:queens_slime_block
+
+#forge:storage_blocks/zinc
+- create:zinc_block
+
+#byg:lament_logs
+- byg:lament_log
+- byg:stripped_lament_log
+- byg:lament_wood
+- byg:stripped_lament_wood
+
+#forge:dusts/nickel
+- immersiveengineering:dust_nickel
+
+#forge:workbenches
+- minecraft:crafting_table
+- tconstruct:crafting_station
+- #forge:workbench?
+
+#tconstruct:modifiable/armor/boots
+- tconstruct:travelers_boots
+- tconstruct:plate_boots
+- tconstruct:slime_boots
+
+#refinedstorage:storage_blocks/items/1048576k
+- extradisks:1048576k_storage_block
+
+#forge:dusts/gold
+- immersiveengineering:dust_gold
+- mekanism:dust_gold
+
+#forge:wool/purple
+- minecraft:purple_wool
+
+#mekanism:shards/copper
+- mekanism:shard_copper
+
+#forge:ingots/netherite_scrap
+- minecraft:netherite_scrap
+
+#byg:blue_dye
+- byg:blue_sage
+- byg:violet_leather_flower
+- byg:blueberries
+
+#tconstruct:casts/single_use/tool_binding
+- tconstruct:tool_binding_sand_cast
+- tconstruct:tool_binding_red_sand_cast
+
+#forge:wires/lead
+- immersiveengineering:wire_lead
+
+#forge:glass/gray
+- minecraft:gray_stained_glass
+- tconstruct:gray_clear_stained_glass
+
+#forge:ores/chromium
+- oreclumps:raw_chromium
+
+#forge:dyes/light_blue
+- minecraft:light_blue_dye
+
+#tconstruct:casts/single_use/rod
+- tconstruct:rod_sand_cast
+- tconstruct:rod_red_sand_cast
+
+#forge:ingots/rose_gold
+- tconstruct:rose_gold_ingot
+
+#create:toolboxes
+- create:white_toolbox
+- create:orange_toolbox
+- create:magenta_toolbox
+- create:light_blue_toolbox
+- create:yellow_toolbox
+- create:lime_toolbox
+- create:pink_toolbox
+- create:gray_toolbox
+- create:light_gray_toolbox
+- create:cyan_toolbox
+- create:purple_toolbox
+- create:blue_toolbox
+- create:brown_toolbox
+- create:green_toolbox
+- create:red_toolbox
+- create:black_toolbox
+
+#forge:ingots/desh
+- boss_tools:desh_ingot
+
+#forge:bitumen
+- immersivepetroleum:bitumen
+
+#forge:storage_blocks/refined_obsidian
+- mekanism:block_refined_obsidian
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane
+- tconstruct:black_clear_stained_glass_pane
+
+#forge:dyes/pink
+- minecraft:pink_dye
+
+#mekanism:crystals/gold
+- mekanism:crystal_gold
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+- tconstruct:blue_clear_stained_glass_pane
+
+#tconstruct:bloodshroom_logs
+- tconstruct:bloodshroom_log
+- tconstruct:stripped_bloodshroom_log
+- tconstruct:bloodshroom_wood
+- tconstruct:stripped_bloodshroom_wood
+
+#forge:ingots/refined_glowstone
+- mekanism:ingot_refined_glowstone
+
+#forge:crops/wheat
+- minecraft:wheat
+
+#tconstruct:tables
+- tconstruct:crafting_station
+- tconstruct:part_builder
+- tconstruct:tinker_station
+
+#forge:wool/white
+- minecraft:white_wool
+
+#byg:redwood_logs
+- byg:redwood_log
+- byg:stripped_redwood_log
+- byg:redwood_wood
+- byg:stripped_redwood_wood
+
+#forge:dusts/yellorium
+- biggerreactors:yellorium_dust
+- bigreactors:yellorium_dust
+
+#mekanism:dirty_dusts/tin
+- mekanism:dirty_dust_tin
+
+#forge:stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+- create:limestone
+- create:polished_limestone
+- create:weathered_limestone
+- create:polished_weathered_limestone
+- create:dolomite
+- create:polished_dolomite
+- create:gabbro
+- create:polished_gabbro
+- create:scoria
+- create:polished_scoria
+- create:dark_scoria
+- create:polished_dark_scoria
+- byg:soapstone
+- byg:scoria_stone
+- byg:dacite
+- byg:rocky_stone
+- byg:mossy_stone
+- byg:overgrown_stone
+- byg:overgrown_dacite
+- byg:sythian_nylium
+- byg:podzol_dacite
+- byg:red_rock
+- byg:ether_stone
+- boss_tools:moon_stone
+- boss_tools:mars_stone
+- boss_tools:venus_stone
+- boss_tools:mercury_stone
+
+#tconstruct:casts/sand
+- tconstruct:blank_sand_cast
+- tconstruct:ingot_sand_cast
+- tconstruct:nugget_sand_cast
+- tconstruct:gem_sand_cast
+- tconstruct:rod_sand_cast
+- tconstruct:repair_kit_sand_cast
+- tconstruct:plate_sand_cast
+- tconstruct:gear_sand_cast
+- tconstruct:coin_sand_cast
+- tconstruct:wire_sand_cast
+- tconstruct:pickaxe_head_sand_cast
+- tconstruct:small_axe_head_sand_cast
+- tconstruct:small_blade_sand_cast
+- tconstruct:hammer_head_sand_cast
+- tconstruct:broad_axe_head_sand_cast
+- tconstruct:broad_blade_sand_cast
+- tconstruct:tool_binding_sand_cast
+- tconstruct:large_plate_sand_cast
+- tconstruct:tool_handle_sand_cast
+- tconstruct:tough_handle_sand_cast
+
+#forge:wrenches
+- mekanism:configurator
+- #forge:tools/wrench
+
+#forge:ingots/ludicrite
+- biggerreactors:ludicrite_ingot
+- bigreactors:ludicrite_ingot
+
+#mekanism:dirty_dusts/gold
+- mekanism:dirty_dust_gold
+
+#byg:rainbow_eucalyptus_logs
+- byg:rainbow_eucalyptus_log
+- byg:stripped_rainbow_eucalyptus_log
+- byg:rainbow_eucalyptus_wood
+- byg:stripped_rainbow_eucalyptus_wood
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+- tconstruct:yellow_clear_stained_glass_pane
+
+#forge:gems/lapis
+- minecraft:lapis_lazuli
+
+#forge:gunpowder
+- minecraft:gunpowder
+
+#forge:wool/gray
+- minecraft:gray_wool
+
+#botanypots:hopper_botany_pots
+- botanypots:hopper_botany_pot
+- botanypots:hopper_white_botany_pot
+- botanypots:hopper_orange_botany_pot
+- botanypots:hopper_magenta_botany_pot
+- botanypots:hopper_light_blue_botany_pot
+- botanypots:hopper_yellow_botany_pot
+- botanypots:hopper_lime_botany_pot
+- botanypots:hopper_pink_botany_pot
+- botanypots:hopper_gray_botany_pot
+- botanypots:hopper_light_gray_botany_pot
+- botanypots:hopper_cyan_botany_pot
+- botanypots:hopper_purple_botany_pot
+- botanypots:hopper_blue_botany_pot
+- botanypots:hopper_brown_botany_pot
+- botanypots:hopper_green_botany_pot
+- botanypots:hopper_red_botany_pot
+- botanypots:hopper_black_botany_pot
+
+#rftoolsutility:living/lowyield
+- #minecraft:leaves
+- #minecraft:saplings
+- #minecraft:flowers
+- #forge:mushrooms
+- #forge:seeds
+- minecraft:cactus
+- minecraft:vine
+- minecraft:lily_pad
+- minecraft:rabbit_hide
+
+#byg:blue_enchanted_logs
+- byg:blue_enchanted_log
+- byg:stripped_blue_enchanted_log
+- byg:blue_enchanted_wood
+- byg:stripped_blue_enchanted_wood
+
+#forge:ingots/nickel
+- oreclumps:nickel_ingot
+- immersiveengineering:ingot_nickel
+- exnihilosequentia:ingot_nickel
+
+#create:crushed_ores
+- create:crushed_iron_ore
+- create:crushed_gold_ore
+- create:crushed_copper_ore
+- create:crushed_zinc_ore
+- create:crushed_brass
+- create:crushed_osmium_ore
+- create:crushed_platinum_ore
+- create:crushed_silver_ore
+- create:crushed_tin_ore
+- create:crushed_lead_ore
+- create:crushed_quicksilver_ore
+- create:crushed_aluminum_ore
+- create:crushed_uranium_ore
+- create:crushed_nickel_ore
+- morecreatestuffs:crushed_cobalt_ore
+- morecreatestuffs:crushed_oratchalcum_ore
+- morecreatestuffs:crushed_platinum_ore
+- morecreatestuffs:crushed_adamantium_ore
+- morecreatestuffs:crushed_mythril_ore
+
+#forge:slimeball/sky
+- tconstruct:sky_slime_ball
+
+#byg:palm_logs
+- byg:palm_log
+- byg:stripped_palm_log
+- byg:palm_wood
+- byg:stripped_palm_wood
+
+#forge:ingots/plutonium
+- bigreactors:blutonium_ingot
+
+#forge:crops
+- #forge:crops/beetroot
+- #forge:crops/carrot
+- #forge:crops/nether_wart
+- #forge:crops/potato
+- #forge:crops/wheat
+- byg:blueberries
+- byg:green_apple
+- byg:crimson_berries
+
+#forge:wool/magenta
+- minecraft:magenta_wool
+
+#forge:pellets/polonium
+- mekanism:pellet_polonium
+
+#mekanism:dirty_dusts/copper
+- mekanism:dirty_dust_copper
+
+#mekanism:enriched/gold
+- mekanism:enriched_gold
+
+#byg:double_cyan_dye
+- byg:foxglove
+
+#curios:charm
+- simplemagnets:basicmagnet
+- simplemagnets:advancedmagnet
+
+#tconstruct:casts/red_sand
+- tconstruct:blank_red_sand_cast
+- tconstruct:ingot_red_sand_cast
+- tconstruct:nugget_red_sand_cast
+- tconstruct:gem_red_sand_cast
+- tconstruct:rod_red_sand_cast
+- tconstruct:repair_kit_red_sand_cast
+- tconstruct:plate_red_sand_cast
+- tconstruct:gear_red_sand_cast
+- tconstruct:coin_red_sand_cast
+- tconstruct:wire_red_sand_cast
+- tconstruct:pickaxe_head_red_sand_cast
+- tconstruct:small_axe_head_red_sand_cast
+- tconstruct:small_blade_red_sand_cast
+- tconstruct:hammer_head_red_sand_cast
+- tconstruct:broad_axe_head_red_sand_cast
+- tconstruct:broad_blade_red_sand_cast
+- tconstruct:tool_binding_red_sand_cast
+- tconstruct:large_plate_red_sand_cast
+- tconstruct:tool_handle_red_sand_cast
+- tconstruct:tough_handle_red_sand_cast
+
+#tconstruct:autosmelt_blacklist
+
+#tconstruct:modifiable/armor/chestplate
+- tconstruct:travelers_chestplate
+- tconstruct:plate_chestplate
+- tconstruct:slime_chestplate
+
+#mekanism:colorable/carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#itemfilters:check_nbt
+- minecraft:potion
+- minecraft:splash_potion
+- minecraft:lingering_potion
+- minecraft:enchanted_book
+- minecraft:tipped_arrow
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+
+#tconstruct:slimy_planks
+- tconstruct:greenheart_planks
+- tconstruct:skyroot_planks
+- tconstruct:bloodshroom_planks
+
+#boss_tools:engines
+- #boss_tools:engines/iron
+- #boss_tools:engines/golden
+- #boss_tools:engines/diamond
+
+#byg:aspen_logs
+- byg:aspen_log
+- byg:stripped_aspen_log
+- byg:aspen_wood
+- byg:stripped_aspen_wood
+
+#forge:storage_blocks/ludicrite
+- biggerreactors:ludicrite_block
+- bigreactors:ludicrite_block
+
+#forge:rods/aluminum
+- immersiveengineering:stick_aluminum
+
+#forge:seeds
+- #forge:seeds/beetroot
+- #forge:seeds/melon
+- #forge:seeds/pumpkin
+- #forge:seeds/wheat
+- immersiveengineering:seed
+- exnihilosequentia:seed_oak
+- exnihilosequentia:seed_spruce
+- exnihilosequentia:seed_birch
+- exnihilosequentia:seed_jungle
+- exnihilosequentia:seed_acacia
+- exnihilosequentia:seed_darkoak
+- exnihilosequentia:seed_cactus
+- exnihilosequentia:seed_sugarcane
+- exnihilosequentia:seed_carrot
+- exnihilosequentia:seed_potato
+- exnihilosequentia:seed_berry
+- exnihilosequentia:seed_kelp
+- exnihilosequentia:seed_pickle
+- exnihilosequentia:seed_bamboo
+- exnihilosequentia:seed_fern
+- exnihilosequentia:seed_large_fern
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+- byg:withering_oak_log
+- byg:withering_oak_wood
+
+#tconstruct:casts/single_use/tough_handle
+- tconstruct:tough_handle_sand_cast
+- tconstruct:tough_handle_red_sand_cast
+
+#byg:purple_sand
+- byg:purple_sand
+
+#mekanism:crystals/osmium
+- mekanism:crystal_osmium
+
+#forge:ores/lapis
+- minecraft:lapis_ore
+
+#forge:storage_blocks/slimesteel
+- tconstruct:slimesteel_block
+
+#forge:slimeballs
+- minecraft:slime_ball
+- #forge:slimeball/earth
+- #forge:slimeball/sky
+- #forge:slimeball/ichor
+- #forge:slimeball/ender
+- #forge:slimeball/blood
+
+#tconstruct:casts/single_use/gear
+- tconstruct:gear_sand_cast
+- tconstruct:gear_red_sand_cast
+
+#forge:ores/nickel
+- oreclumps:raw_nickel
+- immersiveengineering:ore_nickel
+- exnihilosequentia:chunk_nickel
+
+#forge:ores/yellorite
+- bigreactors:yellorite_ore
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+
+#tconstruct:modifiable/harvest/stone
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+
+#minecraft:lectern_books
+- minecraft:written_book
+- minecraft:writable_book
+- #tconstruct:guides
+- immersiveengineering:manual
+- patchouli:guide_book
+
+#forge:white_sand
+- byg:white_sand
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+
+#forge:glass_panes/tinted
+
+#forge:ores/desh
+- boss_tools:moon_desh_ore
+
+#forge:ingots/silicon
+- boss_tools:silicon_ingot
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- tconstruct:greenheart_fence_gate
+- tconstruct:skyroot_fence_gate
+- tconstruct:bloodshroom_fence_gate
+- byg:aspen_fence_gate
+- byg:baobab_fence_gate
+- byg:blue_enchanted_fence_gate
+- byg:cherry_fence_gate
+- byg:cika_fence_gate
+- byg:cypress_fence_gate
+- byg:ebony_fence_gate
+- byg:fir_fence_gate
+- byg:green_enchanted_fence_gate
+- byg:holly_fence_gate
+- byg:jacaranda_fence_gate
+- byg:mahogany_fence_gate
+- byg:mangrove_fence_gate
+- byg:maple_fence_gate
+- byg:pine_fence_gate
+- byg:rainbow_eucalyptus_fence_gate
+- byg:redwood_fence_gate
+- byg:skyris_fence_gate
+- byg:willow_fence_gate
+- byg:witch_hazel_fence_gate
+- byg:zelkova_fence_gate
+- byg:sythian_fence_gate
+- byg:embur_fence_gate
+- byg:palm_fence_gate
+- byg:lament_fence_gate
+- byg:ether_fence_gate
+- byg:bulbis_fence_gate
+- byg:nightshade_fence_gate
+- byg:imparius_fence_gate
+
+#forge:ores/aluminum
+- oreclumps:raw_aluminum
+- immersiveengineering:ore_aluminum
+- exnihilosequentia:chunk_aluminum
+
+#forge:ores/uranium
+- oreclumps:raw_uranium
+- biggerreactors:yellorite_ore
+- immersiveengineering:ore_uranium
+- exnihilosequentia:chunk_uranium
+- mekanism:uranium_ore
+- bigreactors:yellorite_ore
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+- tconstruct:lime_clear_stained_glass_pane
+
+#exnihilosequentia:crucibles
+- exnihilosequentia:acacia_crucible
+- exnihilosequentia:birch_crucible
+- exnihilosequentia:dark_oak_crucible
+- exnihilosequentia:jungle_crucible
+- exnihilosequentia:crucible_wood
+- exnihilosequentia:spruce_crucible
+- exnihilosequentia:crimson_crucible
+- exnihilosequentia:warped_crucible
+
+#forge:wool/pink
+- minecraft:pink_wool
+
+#mekanism:clumps
+- mekanism:clump_iron
+- mekanism:clump_gold
+- mekanism:clump_osmium
+- mekanism:clump_copper
+- mekanism:clump_tin
+- mekanism:clump_lead
+- mekanism:clump_uranium
+
+#forge:ingots/lead
+- oreclumps:lead_ingot
+- immersiveengineering:ingot_lead
+- exnihilosequentia:ingot_lead
+- mekanism:ingot_lead
+
+#exnihilosequentia:barrels
+- exnihilosequentia:acacia_barrel
+- exnihilosequentia:birch_barrel
+- exnihilosequentia:dark_oak_barrel
+- exnihilosequentia:jungle_barrel
+- exnihilosequentia:barrel_wood
+- exnihilosequentia:spruce_barrel
+- exnihilosequentia:crimson_barrel
+- exnihilosequentia:warped_barrel
+
+#forge:plates/cast_iron
+
+#exnihilosequentia:hammer
+- excompressum:hammer_mana
+- exnihilosequentia:hammer_wood
+- exnihilosequentia:hammer_stone
+- exnihilosequentia:hammer_iron
+- exnihilosequentia:hammer_diamond
+- exnihilosequentia:hammer_netherite
+- exnihilosequentia:hammer_gold
+
+#refinedstorage:parts/items/65536k
+- extradisks:65536k_storage_part
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+- byg:flowering_indigo_jacaranda_bush
+- byg:flowering_jacaranda_bush
+- byg:flowering_indigo_jacaranda_leaves
+- byg:flowering_jacaranda_leaves
+- byg:flowering_orchard_leaves
+- byg:flowering_palo_verde_leaves
+- byg:flowering_nightshade_leaves
+
+#forge:storage_blocks/cobalt
+- tconstruct:cobalt_block
+
+#fabric:swords
+- byg:pendorite_sword
+- byg:pendorite_battleaxe
+
+#forge:dusts/tin
+- mekanism:dust_tin
+
+#byg:cika_logs
+- byg:cika_log
+- byg:stripped_cika_log
+- byg:cika_wood
+- byg:stripped_cika_wood
+
+#botania:functional_special_flowers
+- excompressum:evolved_orechid
+
+#forge:large_cogwheels
+- create:large_cogwheel
+- creategearaddon:large_oak_cogwheel
+- creategearaddon:large_birch_cogwheel
+- creategearaddon:large_jungle_cogwheel
+- creategearaddon:large_acacia_cogwheel
+- creategearaddon:large_dark_oak_cogwheel
+- creategearaddon:large_crimson_cogwheel
+- creategearaddon:large_warped_cogwheel
+- creategearaddon:large_cherry_cogwheel
+- creategearaddon:large_dead_cogwheel
+- creategearaddon:large_fir_cogwheel
+- creategearaddon:large_hellbark_cogwheel
+- creategearaddon:large_jacaranda_cogwheel
+- creategearaddon:large_magic_cogwheel
+- creategearaddon:large_mahogany_cogwheel
+- creategearaddon:large_palm_cogwheel
+- creategearaddon:large_redwood_cogwheel
+- creategearaddon:large_umbran_cogwheel
+- creategearaddon:large_willow_cogwheel
+
+#refinedstorage:parts/items
+- #refinedstorage:parts/items/256k
+- #refinedstorage:parts/items/1024k
+- #refinedstorage:parts/items/4096k
+- #refinedstorage:parts/items/16384k
+- #refinedstorage:parts/items/256k
+- #refinedstorage:parts/items/1024k
+- #refinedstorage:parts/items/4096k
+- #refinedstorage:parts/items/16384k
+- #refinedstorage:parts/items/65536k
+- #refinedstorage:parts/items/262144k
+- #refinedstorage:parts/items/1048576k
+- #refinedstorage:parts/items/infinite
+
+#forge:nuggets/rose_gold
+- tconstruct:rose_gold_nugget
+
+#boss_tools:tanks/iron
+- boss_tools:iron_tank
+
+#forge:dyes/brown
+- minecraft:brown_dye
+
+#forge:ores/pendorite
+- byg:pendorite_ore
+
+#refinedstorage:storage_blocks/items/1024k
+- extrastorage:block_1024k
+- extradisks:1024k_storage_block
+
+#forge:ores
+- oreclumps:raw_iron
+- oreclumps:raw_gold
+- oreclumps:raw_copper
+- oreclumps:raw_lead
+- oreclumps:raw_nickel
+- oreclumps:raw_silver
+- oreclumps:raw_tin
+- oreclumps:raw_osmium
+- oreclumps:raw_uranium
+- oreclumps:raw_zinc
+- oreclumps:raw_aluminum
+- oreclumps:raw_chromium
+- oreclumps:raw_cobalt
+- oreclumps:raw_platinum
+- oreclumps:raw_thorium
+- oreclumps:raw_titanium
+- oreclumps:raw_tungsten
+- oreclumps:raw_adamantium
+- oreclumps:raw_mythril
+- biggerreactors:yellorite_ore
+- boss_tools:moon_desh_ore
+- boss_tools:mars_diamond_ore
+- boss_tools:mars_iron_ore
+- boss_tools:moon_cheese_ore
+- boss_tools:mercury_iron_ore
+- boss_tools:mars_silicon_ore
+- boss_tools:mars_ice_shard_ore
+- boss_tools:moon_iron_ore
+- boss_tools:moon_glowstone_ore
+- boss_tools:venus_coal_ore
+- boss_tools:venus_diamond_ore
+- boss_tools:venus_gold_ore
+- rftoolsbase:dimensionalshard_end
+- rftoolsbase:dimensionalshard_nether
+- rftoolsbase:dimensionalshard_overworld
+- #forge:ores/coal
+- #forge:ores/diamond
+- #forge:ores/emerald
+- #forge:ores/gold
+- #forge:ores/iron
+- #forge:ores/lapis
+- #forge:ores/redstone
+- #forge:ores/quartz
+- #forge:ores/netherite_scrap
+- #forge:ores/cobalt
+- #forge:ores/copper
+- immersiveengineering:ore_copper
+- immersiveengineering:ore_aluminum
+- immersiveengineering:ore_lead
+- immersiveengineering:ore_silver
+- immersiveengineering:ore_nickel
+- immersiveengineering:ore_uranium
+- create:copper_ore
+- create:zinc_ore
+- byg:ametrine_ore
+- byg:anthracite_ore
+- byg:budding_ametrine_ore
+- byg:cryptic_redstone_ore
+- byg:lignite_ore
+- byg:pendorite_ore
+- byg:blue_nether_gold_ore
+- byg:blue_nether_quartz_ore
+- byg:brimstone_nether_gold_ore
+- byg:brimstone_nether_quartz_ore
+- #forge:ores/cobalt
+- #forge:ores/copper
+- #forge:ores/lead
+- #forge:ores/nickel
+- #forge:ores/silver
+- #forge:ores/tin
+- #forge:ores/aluminum
+- #forge:ores/platinum
+- #forge:ores/uranium
+- #forge:ores/zinc
+- #forge:ores/iron
+- #forge:ores/gold
+- #forge:ores/copper
+- #forge:ores/tin
+- #forge:ores/osmium
+- #forge:ores/uranium
+- #forge:ores/fluorite
+- #forge:ores/lead
+- #forge:ores/osmium
+
+#forge:rods/steel
+- immersiveengineering:stick_steel
+
+#tconstruct:casts/single_use/small_axe_head
+- tconstruct:small_axe_head_sand_cast
+- tconstruct:small_axe_head_red_sand_cast
+
+#forge:rods/wooden
+- minecraft:stick
+- immersiveengineering:stick_treated
+
+#immersiveengineering:circuits/pcb
+- immersiveengineering:circuit_board
+
+#tconstruct:modifiable/durability
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:kama
+- tconstruct:scythe
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:cleaver
+- tconstruct:flint_and_bronze
+- tconstruct:travelers_boots
+- tconstruct:travelers_leggings
+- tconstruct:travelers_chestplate
+- tconstruct:travelers_helmet
+- tconstruct:plate_boots
+- tconstruct:plate_leggings
+- tconstruct:plate_chestplate
+- tconstruct:plate_helmet
+- tconstruct:slime_boots
+- tconstruct:slime_leggings
+- tconstruct:slime_chestplate
+- tconstruct:slime_helmet
+
+#curios:curio
+- refinedstorage:wireless_grid
+- refinedstorage:creative_wireless_grid
+- refinedstorage:wireless_fluid_grid
+- refinedstorage:creative_wireless_fluid_grid
+- refinedstorage:wireless_crafting_monitor
+- refinedstorage:creative_wireless_crafting_monitor
+- refinedstorageaddons:wireless_crafting_grid
+- refinedstorageaddons:creative_wireless_crafting_grid
+- boss_tools_giselle_addon:oxygen_can
+
+#forge:storage_blocks/graphite
+- biggerreactors:graphite_block
+- bigreactors:graphite_block
+
+#forge:ingots/magentite
+- bigreactors:magentite_ingot
+
+#refinedstorage:disks/items
+- #refinedstorage:disks/items/256k
+- #refinedstorage:disks/items/1024k
+- #refinedstorage:disks/items/4096k
+- #refinedstorage:disks/items/16384k
+- #refinedstorage:disks/items/256k
+- #refinedstorage:disks/items/1024k
+- #refinedstorage:disks/items/4096k
+- #refinedstorage:disks/items/16384k
+- #refinedstorage:disks/items/65536k
+- #refinedstorage:disks/items/262144k
+- #refinedstorage:disks/items/1048576k
+- #refinedstorage:disks/items/infinite
+
+#boss_tools:tanks
+- #boss_tools:tanks/iron
+- #boss_tools:tanks/golden
+- #boss_tools:tanks/diamond
+
+#curios:back
+- immersiveengineering:powerpack
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block
+
+#tconstruct:parts
+- tconstruct:pickaxe_head
+- tconstruct:hammer_head
+- tconstruct:small_axe_head
+- tconstruct:broad_axe_head
+- tconstruct:small_blade
+- tconstruct:broad_blade
+- tconstruct:tool_binding
+- tconstruct:large_plate
+- tconstruct:tool_handle
+- tconstruct:tough_handle
+- tconstruct:repair_kit
+
+#byg:holly_logs
+- byg:holly_log
+- byg:stripped_holly_log
+- byg:holly_wood
+- byg:stripped_holly_wood
+
+#forge:dusts/lead
+- immersiveengineering:dust_lead
+- mekanism:dust_lead
+
+#immersiveengineering:circuits/logic
+- immersiveengineering:electron_tube
+
+#byg:pine_logs
+- byg:pine_log
+- byg:stripped_pine_log
+- byg:pine_wood
+- byg:stripped_pine_wood
+
+#steampowered:plates/steel
+- steampowered:steel_sheet
+- #forge:plates/steel
+
+#refinedstorage:storage_blocks/fluids/65536k
+- extrastorage:block_65536k_fluid
+- extradisks:65536k_fluid_storage_block
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+- tconstruct:magenta_clear_stained_glass_pane
+
+#forge:ingots/yellorium
+- biggerreactors:yellorium_ingot
+- bigreactors:yellorium_ingot
+
+#forge:nuggets
+- #forge:nuggets/coal
+- #forge:nuggets/desh
+- #forge:nuggets/silicon
+- #forge:nuggets/steel
+- #forge:nuggets/iron
+- #forge:nuggets/gold
+- #forge:nuggets/copper
+- #forge:nuggets/cobalt
+- #forge:nuggets/slimesteel
+- #forge:nuggets/silicon_bronze
+- #forge:nuggets/rose_gold
+- #forge:nuggets/pig_iron
+- #forge:nuggets/queens_slime
+- #forge:nuggets/manyullyn
+- #forge:nuggets/hepatizon
+- #forge:nuggets/soulsteel
+- #forge:nuggets/knightslime
+- immersiveengineering:nugget_copper
+- immersiveengineering:nugget_aluminum
+- immersiveengineering:nugget_lead
+- immersiveengineering:nugget_silver
+- immersiveengineering:nugget_nickel
+- immersiveengineering:nugget_uranium
+- immersiveengineering:nugget_constantan
+- immersiveengineering:nugget_electrum
+- immersiveengineering:nugget_steel
+- create:copper_nugget
+- create:zinc_nugget
+- create:brass_nugget
+- morecreatestuffs:platinum_nugget
+- mekanism:nugget_osmium
+- mekanism:nugget_copper
+- mekanism:nugget_tin
+- mekanism:nugget_lead
+- mekanism:nugget_uranium
+- #forge:nuggets/bronze
+- #forge:nuggets/refined_glowstone
+- #forge:nuggets/refined_obsidian
+- #forge:nuggets/steel
+- bigreactors:yellorium_nugget
+- bigreactors:blutonium_nugget
+
+#forge:plates/zinc
+- createdeco:zinc_sheet
+- createaddition:zinc_sheet
+
+#fabric:pickaxes
+- byg:pendorite_pickaxe
+
+#forge:nuggets/electrum
+- immersiveengineering:nugget_electrum
+
+#forge:plates/netherite
+- createdeco:netherite_sheet
+
+#mekanism:clumps/tin
+- mekanism:clump_tin
+
+#forge:rods/gold
+- createaddition:gold_rod
+
+#forge:axes
+- byg:pendorite_axe
+- byg:pendorite_battleaxe
+
+#forge:rods/blaze
+- minecraft:blaze_rod
+
+#forge:dusts/blutonium
+- bigreactors:blutonium_dust
+
+#mekanism:crystals/lead
+- mekanism:crystal_lead
+
+#forge:wool/black
+- minecraft:black_wool
+
+#create:upright_on_belt
+- create:blaze_cake_base
+- create:blaze_cake
+- create:creative_blaze_cake
+- create:builders_tea
+- minecraft:glass_bottle
+- minecraft:potion
+- minecraft:splash_potion
+- minecraft:lingering_potion
+- minecraft:honey_bottle
+- minecraft:cake
+- abundance:lavender_tea?
+- atmospheric:aloe_gel_bottle?
+- atmospheric:strawberry_banana_smoothie?
+- atmospheric:yucca_juice?
+- autumnity:sap_bottle?
+- autumnity:syrup_bottle?
+- bayou_blues:gooseberry_jam?
+- bayou_blues:gooseberry_juice?
+- betterbeekeeping:bright_honey_bottle?
+- betterbeekeeping:cool_honey_bottle?
+- betterbeekeeping:lively_honey_bottle?
+- betterbeekeeping:spicy_honey_bottle?
+- betterbeekeeping:strange_honey_bottle?
+- betterbeekeeping:warm_honey_bottle?
+- buzzier_bees:bee_bottle?
+- buzzier_bees:endermite_bottle?
+- buzzier_bees:silverfish_bottle?
+- endergetic:puffbug_bottle?
+- neapolitan:adzuki_milkshake?
+- neapolitan:banana_milkshake?
+- neapolitan:chocolate_milkshake?
+- neapolitan:milk_bottle?
+- neapolitan:mint_milkshake?
+- neapolitan:strawberry_milkshake?
+- twilightforest:fiery_blood?
+- twilightforest:fiery_tears?
+- upgrade_aquatic:mulberry_jam_bottle?
+- createaddition:cake_base
+- createaddition:cake_base_baked
+- createaddition:chocolate_cake
+- createaddition:honey_cake
+- minecraft:cake
+- createaddition:seed_oil_bucket
+
+#forge:storage_blocks/nickel
+- immersiveengineering:storage_nickel
+
+#tconstruct:modifiable
+- #tconstruct:modifiable/multipart
+- #tconstruct:modifiable/durability
+- #tconstruct:modifiable/melee_or_harvest
+- #tconstruct:modifiable/aoe
+- #tconstruct:modifiable/held
+
+#boss_tools:compresseds/desh
+- boss_tools:compressed_desh
+
+#forge:ores/titanium
+- oreclumps:raw_titanium
+
+#refinedstorage:storage_blocks/items
+- #refinedstorage:storage_blocks/items/256k
+- #refinedstorage:storage_blocks/items/1024k
+- #refinedstorage:storage_blocks/items/4096k
+- #refinedstorage:storage_blocks/items/16384k
+- #refinedstorage:storage_blocks/items/256k
+- #refinedstorage:storage_blocks/items/1024k
+- #refinedstorage:storage_blocks/items/4096k
+- #refinedstorage:storage_blocks/items/16384k
+- #refinedstorage:storage_blocks/items/65536k
+- #refinedstorage:storage_blocks/items/262144k
+- #refinedstorage:storage_blocks/items/1048576k
+- #refinedstorage:storage_blocks/items/infinite
+
+#forge:nuggets/bronze
+- mekanism:nugget_bronze
+
+#forge:ingots/graphite
+- biggerreactors:graphite_ingot
+- bigreactors:graphite_ingot
+
+#forge:sheetmetals/nickel
+- immersiveengineering:sheetmetal_nickel
+
+#steampowered:plates/bronze
+- steampowered:bronze_sheet
+- #forge:plates/bronze?
+
+#forge:dusts/inanite
+- bigreactors:inanite_dust
+
+#forge:circuits
+- #forge:circuits/basic
+- #forge:circuits/advanced
+- #forge:circuits/elite
+- #forge:circuits/ultimate
+
+#forge:cogwheels
+- create:cogwheel
+- creategearaddon:oak_cogwheel
+- creategearaddon:birch_cogwheel
+- creategearaddon:jungle_cogwheel
+- creategearaddon:acacia_cogwheel
+- creategearaddon:dark_oak_cogwheel
+- creategearaddon:crimson_cogwheel
+- creategearaddon:warped_cogwheel
+- creategearaddon:cherry_cogwheel
+- creategearaddon:dead_cogwheel
+- creategearaddon:fir_cogwheel
+- creategearaddon:hellbark_cogwheel
+- creategearaddon:jacaranda_cogwheel
+- creategearaddon:magic_cogwheel
+- creategearaddon:mahogany_cogwheel
+- creategearaddon:palm_cogwheel
+- creategearaddon:redwood_cogwheel
+- creategearaddon:umbran_cogwheel
+- creategearaddon:willow_cogwheel
+
+#forge:dusts/ludicrite
+- biggerreactors:ludicrite_dust
+- bigreactors:ludicrite_dust
+
+#forge:glass/red
+- minecraft:red_stained_glass
+- tconstruct:red_clear_stained_glass
+
+#byg:blue_sand
+- byg:blue_sand
+
+#forge:sheetmetals/steel
+- immersiveengineering:sheetmetal_steel
+
+#forge:slimeball/blood
+- tconstruct:blood_slime_ball
+
+#forge:ingots/soulsteel
+- tconstruct:soulsteel_ingot
+
+#refinedstorage:storage_blocks/items/16384k
+- extrastorage:block_16384k
+- extradisks:16384k_storage_block
+
+#forge:ender_pearls
+- minecraft:ender_pearl
+
+#forge:dusts/uranium
+- biggerreactors:yellorium_dust
+- immersiveengineering:dust_uranium
+- mekanism:dust_uranium
+- bigreactors:yellorium_dust
+
+#mekanism:shards/gold
+- mekanism:shard_gold
+
+#dankstorage:mekanism_cables
+- mekanism:basic_universal_cable?
+- mekanism:advanced_universal_cable?
+- mekanism:elite_universal_cable?
+- mekanism:ultimate_universal_cable?
+- mekanism:basic_mechanical_pipe?
+- mekanism:advanced_mechanical_pipe?
+- mekanism:elite_mechanical_pipe?
+- mekanism:ultimate_mechanical_pipe?
+- mekanism:basic_pressurized_tube?
+- mekanism:advanced_pressurized_tube?
+- mekanism:elite_pressurized_tube?
+- mekanism:ultimate_pressurized_tube?
+- mekanism:basic_logistical_transporter?
+- mekanism:advanced_logistical_transporter?
+- mekanism:elite_logistical_transporter?
+- mekanism:ultimate_logistical_transporter?
+- mekanism:restrictive_transporter?
+- mekanism:diversion_transporter?
+- mekanism:basic_thermodynamic_conductor?
+- mekanism:advanced_thermodynamic_conductor?
+- mekanism:elite_thermodynamic_conductor?
+- mekanism:ultimate_thermodynamic_conductor?
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane
+- tconstruct:green_clear_stained_glass_pane
+
+#tconstruct:casts/single_use
+- #tconstruct:casts/single_use/blank
+- #tconstruct:casts/single_use/ingot
+- #tconstruct:casts/single_use/nugget
+- #tconstruct:casts/single_use/gem
+- #tconstruct:casts/single_use/rod
+- #tconstruct:casts/single_use/repair_kit
+- #tconstruct:casts/single_use/plate
+- #tconstruct:casts/single_use/gear
+- #tconstruct:casts/single_use/coin
+- #tconstruct:casts/single_use/wire
+- #tconstruct:casts/single_use/pickaxe_head
+- #tconstruct:casts/single_use/small_axe_head
+- #tconstruct:casts/single_use/small_blade
+- #tconstruct:casts/single_use/hammer_head
+- #tconstruct:casts/single_use/broad_axe_head
+- #tconstruct:casts/single_use/broad_blade
+- #tconstruct:casts/single_use/tool_binding
+- #tconstruct:casts/single_use/large_plate
+- #tconstruct:casts/single_use/tool_handle
+- #tconstruct:casts/single_use/tough_handle
+
+#tconstruct:seeds
+- #forge:seeds
+- minecraft:carrot
+- minecraft:potato
+- minecraft:nether_wart
+
+#forge:chests/trapped
+- minecraft:trapped_chest
+
+#tconstruct:scorched_blocks
+- tconstruct:scorched_stone
+- tconstruct:polished_scorched_stone
+- tconstruct:scorched_bricks
+- tconstruct:scorched_road
+- tconstruct:chiseled_scorched_bricks
+
+#ftbchunks:right_click_whitelist
+- minecraft:shield
+- minecraft:firework_rocket
+- minecraft:map
+
+#forge:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+- byg:black_sandstone
+- byg:black_chiseled_sandstone
+- byg:black_cut_sandstone
+- byg:blue_sandstone
+- byg:blue_chiseled_sandstone
+- byg:blue_cut_sandstone
+- byg:white_sandstone
+- byg:white_chiseled_sandstone
+- byg:white_cut_sandstone
+- byg:purple_sandstone
+- byg:purple_chiseled_sandstone
+- byg:purple_cut_sandstone
+- byg:pink_sandstone
+- byg:pink_chiseled_sandstone
+- byg:pink_cut_sandstone
+- boss_tools:venus_sandstone
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane
+- tconstruct:clear_glass_pane
+- connectedglass:borderless_glass_pane
+- connectedglass:clear_glass_pane
+- connectedglass:scratched_glass_pane
+
+#forge:ingots/osmium
+- oreclumps:osmium_ingot
+- mekanism:ingot_osmium
+
+#mekanism:enriched/diamond
+- mekanism:enriched_diamond
+
+#mekanism:clumps/gold
+- mekanism:clump_gold
+
+#forge:rods/plastic
+- mekanism:hdpe_stick
+
+#byg:red_dye
+- byg:amaranth
+- byg:begonia
+- byg:red_cornflower
+- byg:red_orchid
+- byg:kovan_flower
+- byg:rose
+- byg:torch_ginger
+
+#boss_tools:tanks/golden
+- boss_tools:golden_tank
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#tconstruct:seared_bricks
+- tconstruct:seared_bricks
+- tconstruct:seared_fancy_bricks
+- tconstruct:seared_triangle_bricks
+
+#forge:ores/diamond
+- boss_tools:mars_diamond_ore
+- boss_tools:venus_diamond_ore
+- minecraft:diamond_ore
+
+#forge:ingots/manyullyn
+- tconstruct:manyullyn_ingot
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+
+#forge:ingots/knightslime
+- tconstruct:knightslime_ingot
+
+#thermal:crafting/dies
+- boss_tools_giselle_addon:press_compressing_die?
+
+#forge:ingots/uranium
+- oreclumps:uranium_ingot
+- biggerreactors:yellorium_ingot
+- immersiveengineering:ingot_uranium
+- exnihilosequentia:ingot_uranium
+- mekanism:ingot_uranium
+- bigreactors:yellorium_ingot
+
+#forge:dusts/bronze
+- mekanism:dust_bronze
+
+#tconstruct:casts/single_use/gem
+- tconstruct:gem_sand_cast
+- tconstruct:gem_red_sand_cast
+
+#boss_tools:compresseds/steel
+- boss_tools:compressed_steel
+
+#mekanism:clumps/uranium
+- mekanism:clump_uranium
+
+#refinedstorage:parts/items/1024k
+- extrastorage:storagepart_1024k
+- extradisks:1024k_storage_part
+
+#tconstruct:casts/single_use/broad_blade
+- tconstruct:broad_blade_sand_cast
+- tconstruct:broad_blade_red_sand_cast
+
+#forge:ores/tin
+- oreclumps:raw_tin
+- exnihilosequentia:chunk_tin
+- mekanism:tin_ore
+
+#tconstruct:casts/single_use/hammer_head
+- tconstruct:hammer_head_sand_cast
+- tconstruct:hammer_head_red_sand_cast
+
+#byg:palo_verde_logs
+- byg:palo_verde_log
+- byg:stripped_palo_verde_log
+- byg:palo_verde_wood
+- byg:stripped_palo_verde_wood
+
+#minecraft:signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- tconstruct:greenheart_sign
+- tconstruct:skyroot_sign
+- tconstruct:bloodshroom_sign
+
+#forge:nuggets/silicon
+- boss_tools:silicon_nugget
+
+#forge:nuggets/blutonium
+- bigreactors:blutonium_nugget
+
+#byg:fir_logs
+- byg:fir_log
+- byg:stripped_fir_log
+- byg:fir_wood
+- byg:stripped_fir_wood
+
+#forge:storage_blocks/osmium
+- mekanism:block_osmium
+
+#forge:tools/knives
+- alloyed:steel_knife
+
+#excompressum:hammer
+- excompressum:hammer_mana
+- exnihilosequentia:hammer_wood?
+- exnihilosequentia:hammer_stone?
+- exnihilosequentia:hammer_iron?
+- exnihilosequentia:hammer_gold?
+- exnihilosequentia:hammer_diamond?
+- exnihilosequentia:hammer_netherite?
+
+#forge:dusts/graphite
+- biggerreactors:graphite_dust
+- bigreactors:graphite_dust
+
+#forge:wither_bones
+- tconstruct:necrotic_bone
+
+#forge:wool
+- #forge:wool/white
+- #forge:wool/orange
+- #forge:wool/magenta
+- #forge:wool/light_blue
+- #forge:wool/yellow
+- #forge:wool/lime
+- #forge:wool/pink
+- #forge:wool/gray
+- #forge:wool/light_gray
+- #forge:wool/cyan
+- #forge:wool/purple
+- #forge:wool/blue
+- #forge:wool/brown
+- #forge:wool/green
+- #forge:wool/red
+- #forge:wool/black
+
+#forge:ingots/chromium
+- oreclumps:chromium_ingot
+
+#forge:boots
+- byg:ametrine_boots
+
+#forge:fuels
+- #forge:fuels/bio
+
+#forge:swords
+- byg:pendorite_sword
+- byg:pendorite_battleaxe
+
+#forge:storage_blocks/charcoal
+- mekanism:block_charcoal
+
+#refinedstorage:pattern_grid
+- refinedstorage:pink_pattern_grid
+- refinedstorage:gray_pattern_grid
+- refinedstorage:orange_pattern_grid
+- refinedstorage:cyan_pattern_grid
+- refinedstorage:magenta_pattern_grid
+- refinedstorage:pattern_grid
+- refinedstorage:light_gray_pattern_grid
+- refinedstorage:brown_pattern_grid
+- refinedstorage:black_pattern_grid
+- refinedstorage:white_pattern_grid
+- refinedstorage:lime_pattern_grid
+- refinedstorage:purple_pattern_grid
+- refinedstorage:red_pattern_grid
+- refinedstorage:green_pattern_grid
+- refinedstorage:blue_pattern_grid
+- refinedstorage:yellow_pattern_grid
+
+#byg:orange_dye
+- byg:orange_amaranth
+- byg:orange_daisy
+- byg:guzmania
+- byg:incan_lily
+- byg:california_poppy
+
+#mekanism:configurators
+- #forge:wrenches
+- #forge:tools/wrench
+
+#tconstruct:slimy_logs
+- #tconstruct:greenheart_logs
+- #tconstruct:skyroot_logs
+- #tconstruct:bloodshroom_logs
+
+#excompressum:baits
+- excompressum:cat_bait
+- excompressum:cow_bait
+- excompressum:chicken_bait
+- excompressum:donkey_bait
+- excompressum:fox_bait
+- excompressum:horse_bait
+- excompressum:llama_bait
+- excompressum:mooshroom_bait
+- excompressum:ocelot_bait
+- excompressum:parrot_bait
+- excompressum:pig_bait
+- excompressum:polar_bear_bait
+- excompressum:rabbit_bait
+- excompressum:sheep_bait
+- excompressum:squid_bait
+- excompressum:turtle_bait
+- excompressum:wolf_bait
+
+#rftoolsutility:living/highyield
+- #forge:crops
+- #minecraft:fishes
+- minecraft:beef
+- minecraft:porkchop
+- minecraft:mutton
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:chorus_fruit
+
+#forge:glass/green
+- minecraft:green_stained_glass
+- tconstruct:green_clear_stained_glass
+
+#itemfilters:filters
+- itemfilters:always_true
+- itemfilters:always_false
+- itemfilters:or
+- itemfilters:and
+- itemfilters:not
+- itemfilters:xor
+- itemfilters:tag
+- itemfilters:mod
+- itemfilters:item_group
+- itemfilters:id_regex
+- itemfilters:damage
+- itemfilters:block
+- itemfilters:max_count
+- itemfilters:strong_nbt
+- itemfilters:weak_nbt
+- itemfilters:custom
+
+#refinedstorage:storage_blocks/items/4096k
+- extrastorage:block_4096k
+- extradisks:4096k_storage_block
+
+#refinedstorage:storage_blocks/items/262144k
+- extradisks:262144k_storage_block
+
+#tconstruct:structure_debug/general
+
+#refinedstorage:parts/items/262144k
+- extradisks:262144k_storage_part
+
+#forge:nuggets/hepatizon
+- tconstruct:hepatizon_nugget
+
+#forge:end_stones
+- minecraft:end_stone
+
+#forge:storage_blocks/fluorite
+- mekanism:block_fluorite
+
+#forge:sandstone/colorless
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+
+#forge:ingots/aluminum
+- oreclumps:aluminum_ingot
+- immersiveengineering:ingot_aluminum
+- exnihilosequentia:ingot_aluminum
+
+#boss_tools:tanks/diamond
+- boss_tools:diamond_tank
+
+#forge:storage_blocks/ridiculite
+- bigreactors:ridiculite_block
+
+#fabric:hoes
+- byg:pendorite_hoe
+
+#forge:fiber_hemp
+- immersiveengineering:hemp_fiber
+
+#forge:fences/wooden
+- minecraft:oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- tconstruct:greenheart_fence
+- tconstruct:skyroot_fence
+- tconstruct:bloodshroom_fence
+
+#forge:dusts/emerald
+- mekanism:dust_emerald
+
+#boss_tools:compresseds
+- #boss_tools:compresseds/steel
+- #boss_tools:compresseds/desh
+- #boss_tools:compresseds/silicon
+
+#refinedstorage:disks/items/infinite
+- extradisks:infinite_storage_disk
+
+#forge:storage_blocks
+- #forge:storage_blocks/desh
+- #forge:storage_blocks/silicon
+- #forge:storage_blocks/steel
+- #forge:storage_blocks/coal
+- #forge:storage_blocks/diamond
+- #forge:storage_blocks/emerald
+- #forge:storage_blocks/gold
+- #forge:storage_blocks/iron
+- #forge:storage_blocks/lapis
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/redstone
+- #forge:storage_blocks/netherite
+- #forge:storage_blocks/copper
+- #forge:storage_blocks/cobalt
+- #forge:storage_blocks/slimesteel
+- #forge:storage_blocks/silicon_bronze
+- #forge:storage_blocks/rose_gold
+- #forge:storage_blocks/pig_iron
+- #forge:storage_blocks/queens_slime
+- #forge:storage_blocks/manyullyn
+- #forge:storage_blocks/hepatizon
+- #forge:storage_blocks/soulsteel
+- #forge:storage_blocks/knightslime
+- immersiveengineering:storage_copper
+- immersiveengineering:storage_aluminum
+- immersiveengineering:storage_lead
+- immersiveengineering:storage_silver
+- immersiveengineering:storage_nickel
+- immersiveengineering:storage_uranium
+- immersiveengineering:storage_constantan
+- immersiveengineering:storage_electrum
+- immersiveengineering:storage_steel
+- create:copper_block
+- create:zinc_block
+- create:brass_block
+- byg:ametrine_block
+- byg:pendorite_block
+- byg:anthracite_block
+- byg:lignite_block
+- #forge:storage_blocks/bronze
+- #forge:storage_blocks/charcoal
+- #forge:storage_blocks/refined_glowstone
+- #forge:storage_blocks/refined_obsidian
+- #forge:storage_blocks/steel
+- #forge:storage_blocks/fluorite
+- #forge:storage_blocks/osmium
+- #forge:storage_blocks/copper
+- #forge:storage_blocks/tin
+- #forge:storage_blocks/lead
+- #forge:storage_blocks/uranium
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+- tconstruct:orange_clear_stained_glass_pane
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:iron_ingot
+- #forge:ingots/desh
+- #forge:ingots/silicon
+- #forge:ingots/steel
+- #forge:ingots/cobalt
+- #forge:ingots/queens_slime
+- #forge:ingots/manyullyn
+- #forge:ingots/hepatizon
+- byg:ametrine_gems
+- byg:pendorite_scraps
+- mekanism:ingot_osmium
+- mekanism:ingot_copper
+- mekanism:ingot_tin
+- mekanism:ingot_lead
+- mekanism:ingot_uranium
+- mekanism:ingot_bronze
+- mekanism:ingot_refined_obsidian
+- mekanism:ingot_refined_glowstone
+- mekanism:ingot_steel
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore
+
+#forge:ingots/brick
+- minecraft:brick
+
+#forge:plates/aluminum
+- immersiveengineering:plate_aluminum
+
+#forge:saplings
+- byg:aspen_sapling
+- byg:baobab_sapling
+- byg:blue_enchanted_sapling
+- byg:blue_spruce_sapling
+- byg:brown_birch_sapling
+- byg:brown_oak_sapling
+- byg:cika_sapling
+- byg:cypress_sapling
+- byg:ebony_sapling
+- byg:fir_sapling
+- byg:green_enchanted_sapling
+- byg:holly_sapling
+- byg:jacaranda_sapling
+- byg:indigo_jacaranda_sapling
+- byg:mahogany_sapling
+- byg:mangrove_sapling
+- byg:maple_sapling
+- byg:orange_birch_sapling
+- byg:orange_oak_sapling
+- byg:orange_spruce_sapling
+- byg:orchard_sapling
+- byg:palo_verde_sapling
+- byg:joshua_sapling
+- byg:yellow_spruce_sapling
+- byg:pine_sapling
+- byg:pink_cherry_sapling
+- byg:rainbow_eucalyptus_sapling
+- byg:red_birch_sapling
+- byg:red_maple_sapling
+- byg:red_oak_sapling
+- byg:red_spruce_sapling
+- byg:redwood_sapling
+- byg:silver_maple_sapling
+- byg:white_cherry_sapling
+- byg:willow_sapling
+- byg:witch_hazel_sapling
+- byg:yellow_birch_sapling
+- byg:zelkova_sapling
+- byg:skyris_sapling
+- byg:palm_sapling
+- byg:araucaria_sapling
+- byg:brown_zelkova_sapling
+- byg:lament_sapling
+- byg:withering_oak_sapling
+- byg:ether_sapling
+- byg:nightshade_sapling
+
+#forge:plates/electrum
+- immersiveengineering:plate_electrum
+
+#refinedstorage:security_manager
+- refinedstorage:pink_security_manager
+- refinedstorage:gray_security_manager
+- refinedstorage:orange_security_manager
+- refinedstorage:cyan_security_manager
+- refinedstorage:magenta_security_manager
+- refinedstorage:security_manager
+- refinedstorage:light_gray_security_manager
+- refinedstorage:brown_security_manager
+- refinedstorage:black_security_manager
+- refinedstorage:white_security_manager
+- refinedstorage:lime_security_manager
+- refinedstorage:purple_security_manager
+- refinedstorage:red_security_manager
+- refinedstorage:green_security_manager
+- refinedstorage:blue_security_manager
+- refinedstorage:yellow_security_manager
+
+#tconstruct:modifiable/harvest/primary
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:kama
+- tconstruct:scythe
+
+#forge:nuggets/slimesteel
+- tconstruct:slimesteel_nugget
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block
+
+#byg:withering_oak_logs
+- byg:withering_oak_log
+- byg:withering_oak_wood
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- boss_tools:moon_brick_stairs
+- boss_tools:cracked_moon_brick_stairs
+- alloyed:steel_sheet_stairs
+- create:granite_cobblestone_stairs
+- create:granite_bricks_stairs
+- create:fancy_granite_bricks_stairs
+- create:paved_granite_stairs
+- create:diorite_cobblestone_stairs
+- create:diorite_bricks_stairs
+- create:fancy_diorite_bricks_stairs
+- create:paved_diorite_stairs
+- create:andesite_cobblestone_stairs
+- create:andesite_bricks_stairs
+- create:fancy_andesite_bricks_stairs
+- create:paved_andesite_stairs
+- create:limestone_cobblestone_stairs
+- create:polished_limestone_stairs
+- create:limestone_bricks_stairs
+- create:fancy_limestone_bricks_stairs
+- create:paved_limestone_stairs
+- create:weathered_limestone_cobblestone_stairs
+- create:polished_weathered_limestone_stairs
+- create:weathered_limestone_bricks_stairs
+- create:fancy_weathered_limestone_bricks_stairs
+- create:paved_weathered_limestone_stairs
+- create:dolomite_cobblestone_stairs
+- create:polished_dolomite_stairs
+- create:dolomite_bricks_stairs
+- create:fancy_dolomite_bricks_stairs
+- create:paved_dolomite_stairs
+- create:gabbro_cobblestone_stairs
+- create:polished_gabbro_stairs
+- create:gabbro_bricks_stairs
+- create:fancy_gabbro_bricks_stairs
+- create:paved_gabbro_stairs
+- create:scoria_cobblestone_stairs
+- create:polished_scoria_stairs
+- create:scoria_bricks_stairs
+- create:fancy_scoria_bricks_stairs
+- create:paved_scoria_stairs
+- create:dark_scoria_cobblestone_stairs
+- create:polished_dark_scoria_stairs
+- create:dark_scoria_bricks_stairs
+- create:fancy_dark_scoria_bricks_stairs
+- create:paved_dark_scoria_stairs
+- byg:aspen_stairs
+- byg:baobab_stairs
+- byg:blue_enchanted_stairs
+- byg:cherry_stairs
+- byg:cika_stairs
+- byg:cypress_stairs
+- byg:ebony_stairs
+- byg:fir_stairs
+- byg:green_enchanted_stairs
+- byg:holly_stairs
+- byg:jacaranda_stairs
+- byg:mahogany_stairs
+- byg:mangrove_stairs
+- byg:maple_stairs
+- byg:pine_stairs
+- byg:rainbow_eucalyptus_stairs
+- byg:redwood_stairs
+- byg:skyris_stairs
+- byg:willow_stairs
+- byg:witch_hazel_stairs
+- byg:zelkova_stairs
+- byg:dacite_cobblestone_stairs
+- byg:mossy_stone_stairs
+- byg:rocky_stone_stairs
+- byg:scoria_stone_stairs
+- byg:scoria_cobblestone_stairs
+- byg:scoria_stonebrick_stairs
+- byg:soapstone_stairs
+- byg:polished_soapstone_stairs
+- byg:soapstone_brick_stairs
+- byg:soapstone_tile_stairs
+- byg:red_rock_stairs
+- byg:red_rock_brick_stairs
+- byg:mossy_red_rock_brick_stairs
+- byg:cracked_red_rock_brick_stairs
+- byg:chiseled_red_rock_brick_stairs
+- byg:sythian_stairs
+- byg:embur_stairs
+- byg:palm_stairs
+- byg:lament_stairs
+- byg:ether_stairs
+- byg:bulbis_stairs
+- byg:nightshade_stairs
+- byg:ether_stone_stairs
+- byg:carved_ether_stone_stairs
+- byg:cobbled_ether_stone_stairs
+- byg:purpur_stone_stairs
+- byg:imparius_stairs
+- byg:chiseled_fungal_imparius_stairs
+
+#refinedstorage:storage_blocks/items/256k
+- extrastorage:block_256k
+- extradisks:256k_storage_block
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- #tconstruct:slimy_logs
+- #byg:aspen_logs
+- #byg:baobab_logs
+- #byg:blue_enchanted_logs
+- #byg:cherry_logs
+- #byg:cika_logs
+- #byg:cypress_logs
+- #byg:ebony_logs
+- #byg:fir_logs
+- #byg:green_enchanted_logs
+- #byg:holly_logs
+- #byg:jacaranda_logs
+- #byg:mahogany_logs
+- #byg:mangrove_logs
+- #byg:maple_logs
+- #byg:palo_verde_logs
+- #byg:pine_logs
+- #byg:rainbow_eucalyptus_logs
+- #byg:redwood_logs
+- #byg:skyris_logs
+- #byg:willow_logs
+- #byg:witch_hazel_logs
+- #byg:zelkova_logs
+- #byg:sythian_stems
+- #byg:embur_pedus
+- #byg:palm_logs
+- #byg:lament_logs
+- #byg:bulbis_stems
+- #byg:ether_logs
+- #byg:nightshade_logs
+- #byg:withering_oak_logs
+- byg:imbued_nightshade_log
+- #byg:imparius_stems
+
+#forge:slag
+- immersiveengineering:slag
+
+#tconstruct:casts/multi_use/ingot
+- tconstruct:ingot_cast
+
+#forge:treated_wood_slab
+- immersiveengineering:slab_treated_wood_horizontal
+- immersiveengineering:slab_treated_wood_vertical
+- immersiveengineering:slab_treated_wood_packaged
+
+#refinedstorage:storage_blocks
+- #refinedstorage:storage_blocks/items
+- #refinedstorage:storage_blocks/fluids
+- #refinedstorage:storage_blocks/items
+- #refinedstorage:storage_blocks/fluids
+
+#tconstruct:planklike
+- #minecraft:planks
+- tconstruct:lavawood
+- tconstruct:blazewood
+- tconstruct:nahuatl
+
+#forge:dusts/coal_coke
+- immersiveengineering:dust_coke
+
+#refinedstorage:parts/items/1048576k
+- extradisks:1048576k_storage_part
+
+#forge:nuggets/queens_slime
+- tconstruct:queens_slime_nugget
+
+#tconstruct:modifiable/armor/helmets
+- tconstruct:travelers_helmet
+- tconstruct:plate_helmet
+- tconstruct:slime_helmet
+
+#mekanism:crystals/tin
+- mekanism:crystal_tin
+
+#forge:storage_blocks/blutonium
+- bigreactors:blutonium_block
+
+#forge:seeds/wheat
+- minecraft:wheat_seeds
+
+#forge:salt
+- #forge:dusts/salt
+
+#forge:ingots/iron
+- minecraft:iron_ingot
+
+#botanypots:botany_pots
+- botanypots:botany_pot
+- botanypots:white_botany_pot
+- botanypots:orange_botany_pot
+- botanypots:magenta_botany_pot
+- botanypots:light_blue_botany_pot
+- botanypots:yellow_botany_pot
+- botanypots:lime_botany_pot
+- botanypots:pink_botany_pot
+- botanypots:gray_botany_pot
+- botanypots:light_gray_botany_pot
+- botanypots:cyan_botany_pot
+- botanypots:purple_botany_pot
+- botanypots:blue_botany_pot
+- botanypots:brown_botany_pot
+- botanypots:green_botany_pot
+- botanypots:red_botany_pot
+- botanypots:black_botany_pot
+- botanypots:hopper_botany_pot
+- botanypots:hopper_white_botany_pot
+- botanypots:hopper_orange_botany_pot
+- botanypots:hopper_magenta_botany_pot
+- botanypots:hopper_light_blue_botany_pot
+- botanypots:hopper_yellow_botany_pot
+- botanypots:hopper_lime_botany_pot
+- botanypots:hopper_pink_botany_pot
+- botanypots:hopper_gray_botany_pot
+- botanypots:hopper_light_gray_botany_pot
+- botanypots:hopper_cyan_botany_pot
+- botanypots:hopper_purple_botany_pot
+- botanypots:hopper_blue_botany_pot
+- botanypots:hopper_brown_botany_pot
+- botanypots:hopper_green_botany_pot
+- botanypots:hopper_red_botany_pot
+- botanypots:hopper_black_botany_pot
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#ftbchunks:right_click_blacklist
+- minecraft:bucket
+- minecraft:water_bucket
+- minecraft:lava_bucket
+- minecraft:lead
+- minecraft:name_tag
+- minecraft:splash_potion
+- minecraft:lingering_potion
+
+#mekanism:enriched/obsidian
+- mekanism:enriched_refined_obsidian
+
+#forge:sand
+- #forge:sand/colorless
+- #forge:sand/red
+- byg:white_sand
+- byg:black_sand
+- byg:blue_sand
+- byg:pink_sand
+- byg:purple_sand
+- byg:end_sand
+- boss_tools:moon_sand
+- boss_tools:mars_sand
+- boss_tools:venus_sand
+
+#forge:sheetmetals/lead
+- immersiveengineering:sheetmetal_lead
+
+#forge:ingots/ridiculite
+- bigreactors:ridiculite_ingot
+
+#forge:dyes/yellow
+- minecraft:yellow_dye
+- mekanism:dust_sulfur
+
+#forge:dusts/magentite
+- bigreactors:magentite_dust
+
+#forge:storage_blocks/hepatizon
+- tconstruct:hepatizon_block
+
+#forge:dusts/steel
+- immersiveengineering:dust_steel
+- mekanism:dust_steel
+
+#fabric:chestplates
+- byg:ametrine_chestplate
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- byg:red_rock
+- byg:dacite_cobblestone
+- byg:scoria_cobblestone
+- byg:soapstone
+- byg:cobbled_ether_stone
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_campfire
+- tconstruct:zombified_piglin_head
+
+#forge:meat_uncooked
+- minecraft:chicken
+- minecraft:cod
+- minecraft:mutton
+- minecraft:porkchop
+- minecraft:rabbit
+- minecraft:salmon
+- minecraft:beef
+
+#forge:ingots/zinc
+- oreclumps:zinc_ingot
+- create:zinc_ingot
+- exnihilosequentia:ingot_zinc
+
+#forge:glass/black
+- minecraft:black_stained_glass
+- tconstruct:black_clear_stained_glass
+
+#tconstruct:casts/multi_use/pickaxe_head
+- tconstruct:pickaxe_head_cast
+
+#forge:seeds/coffeebean
+- createcafe:coffee
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#forge:rods
+- #forge:rods/iron
+- #forge:rods/blaze
+- #forge:rods/wooden
+- createaddition:iron_rod
+- createaddition:copper_rod
+- createaddition:gold_rod
+- createaddition:brass_rod
+- #forge:rods/plastic
+
+#tconstruct:casts/multi_use/gear
+- tconstruct:gear_cast
+
+#immersiveengineering:scaffoldings/aluminum
+- immersiveengineering:alu_scaffolding_standard
+- immersiveengineering:alu_scaffolding_grate_top
+- immersiveengineering:alu_scaffolding_wooden_top
+
+#forge:ores/iron
+- oreclumps:raw_iron
+- boss_tools:mars_iron_ore
+- boss_tools:mercury_iron_ore
+- boss_tools:moon_iron_ore
+- minecraft:iron_ore
+- exnihilosequentia:chunk_iron
+
+#forge:wires/iron
+- createaddition:iron_wire
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- tconstruct:greenheart_planks_stairs
+- tconstruct:skyroot_planks_stairs
+- tconstruct:bloodshroom_planks_stairs
+- byg:aspen_stairs
+- byg:baobab_stairs
+- byg:blue_enchanted_stairs
+- byg:cherry_stairs
+- byg:cika_stairs
+- byg:cypress_stairs
+- byg:ebony_stairs
+- byg:fir_stairs
+- byg:green_enchanted_stairs
+- byg:holly_stairs
+- byg:jacaranda_stairs
+- byg:mahogany_stairs
+- byg:mangrove_stairs
+- byg:maple_stairs
+- byg:pine_stairs
+- byg:rainbow_eucalyptus_stairs
+- byg:redwood_stairs
+- byg:skyris_stairs
+- byg:willow_stairs
+- byg:witch_hazel_stairs
+- byg:zelkova_stairs
+- byg:sythian_stairs
+- byg:embur_stairs
+- byg:palm_stairs
+- byg:lament_stairs
+- byg:ether_stairs
+- byg:bulbis_stairs
+- byg:nightshade_stairs
+- byg:imparius_stairs
+
+#tconstruct:casts/multi_use/small_axe_head
+- tconstruct:small_axe_head_cast
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- tconstruct:greenheart_button
+- tconstruct:skyroot_button
+- tconstruct:bloodshroom_button
+- byg:aspen_button
+- byg:baobab_button
+- byg:blue_enchanted_button
+- byg:cherry_button
+- byg:cika_button
+- byg:cypress_button
+- byg:ebony_button
+- byg:fir_button
+- byg:green_enchanted_button
+- byg:holly_button
+- byg:jacaranda_button
+- byg:mahogany_button
+- byg:mangrove_button
+- byg:maple_button
+- byg:pine_button
+- byg:rainbow_eucalyptus_button
+- byg:redwood_button
+- byg:skyris_button
+- byg:willow_button
+- byg:witch_hazel_button
+- byg:zelkova_button
+- byg:sythian_button
+- byg:embur_button
+- byg:palm_button
+- byg:lament_button
+- byg:ether_button
+- byg:bulbis_button
+- byg:nightshade_button
+- byg:imparius_button
+
+#forge:storage_blocks/anthracite
+- byg:anthracite_block
+
+#tconstruct:tanks
+- #tconstruct:seared_tanks
+- #tconstruct:scorched_tanks
+
+#forge:storage_blocks/quartz
+- minecraft:quartz_block
+
+#forge:dyes/green
+- minecraft:green_dye
+
+#refinedstorage:crafting_tables
+- minecraft:crafting_table
+
+#byg:cypress_logs
+- byg:cypress_log
+- byg:stripped_cypress_log
+- byg:cypress_wood
+- byg:stripped_cypress_wood
+
+#forge:ores/emerald
+- minecraft:emerald_ore
+
+#forge:ingots/cobalt
+- oreclumps:cobalt_ingot
+- tconstruct:cobalt_ingot
+
+#refinedstorage:disks
+- #refinedstorage:disks/items
+- #refinedstorage:disks/fluids
+- #refinedstorage:disks/items
+- #refinedstorage:disks/fluids
+
+#mekanism:enriched
+- #mekanism:enriched/carbon
+- #mekanism:enriched/diamond
+- #mekanism:enriched/obsidian
+- #mekanism:enriched/redstone
+- #mekanism:enriched/gold
+- #mekanism:enriched/tin
+
+#forge:storage_blocks/coal_petcoke
+- immersivepetroleum:petcoke_block
+
+#forge:dyes/lime
+- minecraft:lime_dye
+
+#forge:dusts/diamond
+- createaddition:diamond_grit
+- mekanism:dust_diamond
+
+#mekanism:alloys/reinforced
+- #forge:alloys/elite
+
+#forge:plates/iron
+- boss_tools:iron_plate
+- immersiveengineering:plate_iron
+- create:iron_sheet
+
+#forge:circuits/ultimate
+- mekanism:ultimate_control_circuit
+
+#forge:dusts/charcoal
+- mekanism:dust_charcoal
+
+#tconstruct:structure_debug/smeltery
+- #tconstruct:structure_debug/general
+- #tconstruct:smeltery
+
+#byg:pink_dye
+- byg:osiria_rose
+- byg:japanese_orchid
+- byg:silver_vase_flower
+- byg:daffodil
+- byg:bistort
+- byg:firecracker_flower_bush
+- byg:peach_leather_flower
+- byg:pink_allium
+- byg:pink_allium_flower_bush
+- byg:pink_anemone
+- byg:pink_daffodil
+- byg:pink_orchid
+- byg:tall_pink_allium
+
+#forge:nuggets/silver
+- immersiveengineering:nugget_silver
+
+#forge:books
+- #forge:books/guide
+
+#refinedstorage:crafting_grid
+- refinedstorage:pink_crafting_grid
+- refinedstorage:gray_crafting_grid
+- refinedstorage:orange_crafting_grid
+- refinedstorage:cyan_crafting_grid
+- refinedstorage:magenta_crafting_grid
+- refinedstorage:crafting_grid
+- refinedstorage:light_gray_crafting_grid
+- refinedstorage:brown_crafting_grid
+- refinedstorage:black_crafting_grid
+- refinedstorage:white_crafting_grid
+- refinedstorage:lime_crafting_grid
+- refinedstorage:purple_crafting_grid
+- refinedstorage:red_crafting_grid
+- refinedstorage:green_crafting_grid
+- refinedstorage:blue_crafting_grid
+- refinedstorage:yellow_crafting_grid
+
+#tconstruct:casts/single_use/large_plate
+- tconstruct:large_plate_sand_cast
+- tconstruct:large_plate_red_sand_cast
+
+#forge:storage_blocks/clay
+- minecraft:clay
+
+#tconstruct:casts/single_use/nugget
+- tconstruct:nugget_sand_cast
+- tconstruct:nugget_red_sand_cast
+
+#byg:bulbis_stems
+- byg:bulbis_stem
+- byg:stripped_bulbis_stem
+- byg:bulbis_wood
+- byg:stripped_bulbis_wood
+
+#forge:ingots/hop_graphite
+- immersiveengineering:ingot_hop_graphite
+
+#mekanism:clumps/copper
+- mekanism:clump_copper
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+- byg:foxglove
+- byg:delphinium
+- byg:japanese_orchid
+- byg:azalea
+- byg:tall_allium
+- byg:tall_pink_allium
+
+#refinedstorage:parts/fluids/16384k
+- extrastorage:storagepart_16384k_fluid
+- extradisks:16384k_fluid_storage_part
+
+#forge:dusts/cyanite
+- biggerreactors:cyanite_dust
+- bigreactors:cyanite_dust
+
+#forge:sand/black
+- byg:black_sand
+
+#refinedstorage:storage_blocks/fluids/16384k
+- extrastorage:block_16384k_fluid
+- extradisks:16384k_fluid_storage_block
+
+#forge:bookshelves
+- minecraft:bookshelf
+- byg:aspen_bookshelf
+- byg:baobab_bookshelf
+- byg:blue_enchanted_bookshelf
+- byg:cherry_bookshelf
+- byg:cika_bookshelf
+- byg:cypress_bookshelf
+- byg:ebony_bookshelf
+- byg:fir_bookshelf
+- byg:green_enchanted_bookshelf
+- byg:holly_bookshelf
+- byg:jacaranda_bookshelf
+- byg:mahogany_bookshelf
+- byg:mangrove_bookshelf
+- byg:maple_bookshelf
+- byg:pine_bookshelf
+- byg:rainbow_eucalyptus_bookshelf
+- byg:redwood_bookshelf
+- byg:skyris_bookshelf
+- byg:willow_bookshelf
+- byg:witch_hazel_bookshelf
+- byg:zelkova_bookshelf
+- byg:sythian_bookshelf
+- byg:embur_bookshelf
+- byg:palm_bookshelf
+- byg:lament_bookshelf
+- byg:bulbis_bookshelf
+- byg:ether_bookshelf
+- byg:nightshade_bookshelf
+- byg:imparius_bookshelf
+
+#refinedstorage:disks/fluids/262144k
+- extrastorage:disk_262144k_fluid
+- extradisks:262144k_fluid_storage_disk
+
+#forge:ores/platinum
+- oreclumps:raw_platinum
+- exnihilosequentia:chunk_platinum
+
+#forge:dyes
+- #forge:dyes/white
+- #forge:dyes/orange
+- #forge:dyes/magenta
+- #forge:dyes/light_blue
+- #forge:dyes/yellow
+- #forge:dyes/lime
+- #forge:dyes/pink
+- #forge:dyes/gray
+- #forge:dyes/light_gray
+- #forge:dyes/cyan
+- #forge:dyes/purple
+- #forge:dyes/blue
+- #forge:dyes/brown
+- #forge:dyes/green
+- #forge:dyes/red
+- #forge:dyes/black
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+- tconstruct:pink_clear_stained_glass_pane
+
+#forge:fuels/bio
+- mekanism:bio_fuel
+
+#forge:dusts/obsidian
+- create:powdered_obsidian
+- mekanism:dust_obsidian
+
+#tconstruct:casts/single_use/small_blade
+- tconstruct:small_blade_sand_cast
+- tconstruct:small_blade_red_sand_cast
+
+#forge:netherrack
+- minecraft:netherrack
+- byg:overgrown_netherrack
+- byg:overgrown_crimson_blackstone
+- byg:blue_netherrack
+- byg:brimstone
+- byg:embur_nylium
+- byg:sythian_nylium
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+- tconstruct:soul_glass
+
+#forge:rods/copper
+- createaddition:copper_rod
+
+#tconstruct:casts/single_use/repair_kit
+- tconstruct:repair_kit_sand_cast
+- tconstruct:repair_kit_red_sand_cast
+
+#forge:sheetmetals
+- immersiveengineering:sheetmetal_copper
+- immersiveengineering:sheetmetal_aluminum
+- immersiveengineering:sheetmetal_lead
+- immersiveengineering:sheetmetal_silver
+- immersiveengineering:sheetmetal_nickel
+- immersiveengineering:sheetmetal_uranium
+- immersiveengineering:sheetmetal_constantan
+- immersiveengineering:sheetmetal_electrum
+- immersiveengineering:sheetmetal_steel
+- immersiveengineering:sheetmetal_iron
+- immersiveengineering:sheetmetal_gold
+- immersiveengineering:sheetmetal_colored_white
+- immersiveengineering:sheetmetal_colored_orange
+- immersiveengineering:sheetmetal_colored_magenta
+- immersiveengineering:sheetmetal_colored_light_blue
+- immersiveengineering:sheetmetal_colored_yellow
+- immersiveengineering:sheetmetal_colored_lime
+- immersiveengineering:sheetmetal_colored_pink
+- immersiveengineering:sheetmetal_colored_gray
+- immersiveengineering:sheetmetal_colored_light_gray
+- immersiveengineering:sheetmetal_colored_cyan
+- immersiveengineering:sheetmetal_colored_purple
+- immersiveengineering:sheetmetal_colored_blue
+- immersiveengineering:sheetmetal_colored_brown
+- immersiveengineering:sheetmetal_colored_green
+- immersiveengineering:sheetmetal_colored_red
+- immersiveengineering:sheetmetal_colored_black
+
+#forge:vegetables/cassava
+- createcafe:cassava_root
+
+#forge:eggs
+- minecraft:egg
+
+#mantle:offhand_cooldown
+
+#forge:batteries
+- mekanism:energy_tablet
+
+#tconstruct:casts/multi_use/small_blade
+- tconstruct:small_blade_cast
+
+#forge:wires/copper
+- immersiveengineering:wire_copper
+- createaddition:copper_wire
+
+#forge:dyes/red
+- minecraft:red_dye
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+- tconstruct:cyan_clear_stained_glass_pane
+
+#tconstruct:modifiable/two_handed
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:excavator
+- tconstruct:broad_axe
+- tconstruct:scythe
+- tconstruct:cleaver
+
+#forge:dusts/glowstone
+- minecraft:glowstone_dust
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#forge:glass/colorless
+- minecraft:glass
+- tconstruct:clear_glass
+- create:tiled_glass
+- create:framed_glass
+- create:horizontal_framed_glass
+- create:vertical_framed_glass
+- connectedglass:borderless_glass
+- connectedglass:clear_glass
+- connectedglass:scratched_glass
+
+#forge:ingots/slimesteel
+- tconstruct:slimesteel_ingot
+
+#refinedstorage:disks/fluids/16384k
+- extrastorage:disk_16384k_fluid
+- extradisks:16384k_fluid_storage_disk
+
+#forge:storage_blocks/cyanite
+- biggerreactors:cyanite_block
+- bigreactors:cyanite_block
+
+#forge:nuggets/constantan
+- immersiveengineering:nugget_constantan
+
+#forge:ingots/cast_iron
+
+#forge:nuggets/aluminum
+- immersiveengineering:nugget_aluminum
+
+#forge:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+- tconstruct:white_clear_stained_glass
+- tconstruct:orange_clear_stained_glass
+- tconstruct:magenta_clear_stained_glass
+- tconstruct:light_blue_clear_stained_glass
+- tconstruct:yellow_clear_stained_glass
+- tconstruct:lime_clear_stained_glass
+- tconstruct:pink_clear_stained_glass
+- tconstruct:gray_clear_stained_glass
+- tconstruct:light_gray_clear_stained_glass
+- tconstruct:cyan_clear_stained_glass
+- tconstruct:purple_clear_stained_glass
+- tconstruct:blue_clear_stained_glass
+- tconstruct:brown_clear_stained_glass
+- tconstruct:green_clear_stained_glass
+- tconstruct:red_clear_stained_glass
+- tconstruct:black_clear_stained_glass
+- connectedglass:borderless_glass_white
+- connectedglass:borderless_glass_orange
+- connectedglass:borderless_glass_magenta
+- connectedglass:borderless_glass_light_blue
+- connectedglass:borderless_glass_yellow
+- connectedglass:borderless_glass_lime
+- connectedglass:borderless_glass_pink
+- connectedglass:borderless_glass_gray
+- connectedglass:borderless_glass_light_gray
+- connectedglass:borderless_glass_cyan
+- connectedglass:borderless_glass_purple
+- connectedglass:borderless_glass_blue
+- connectedglass:borderless_glass_brown
+- connectedglass:borderless_glass_green
+- connectedglass:borderless_glass_red
+- connectedglass:borderless_glass_black
+- connectedglass:clear_glass_white
+- connectedglass:clear_glass_orange
+- connectedglass:clear_glass_magenta
+- connectedglass:clear_glass_light_blue
+- connectedglass:clear_glass_yellow
+- connectedglass:clear_glass_lime
+- connectedglass:clear_glass_pink
+- connectedglass:clear_glass_gray
+- connectedglass:clear_glass_light_gray
+- connectedglass:clear_glass_cyan
+- connectedglass:clear_glass_purple
+- connectedglass:clear_glass_blue
+- connectedglass:clear_glass_brown
+- connectedglass:clear_glass_green
+- connectedglass:clear_glass_red
+- connectedglass:clear_glass_black
+- connectedglass:scratched_glass_white
+- connectedglass:scratched_glass_orange
+- connectedglass:scratched_glass_magenta
+- connectedglass:scratched_glass_light_blue
+- connectedglass:scratched_glass_yellow
+- connectedglass:scratched_glass_lime
+- connectedglass:scratched_glass_pink
+- connectedglass:scratched_glass_gray
+- connectedglass:scratched_glass_light_gray
+- connectedglass:scratched_glass_cyan
+- connectedglass:scratched_glass_purple
+- connectedglass:scratched_glass_blue
+- connectedglass:scratched_glass_brown
+- connectedglass:scratched_glass_green
+- connectedglass:scratched_glass_red
+- connectedglass:scratched_glass_black
+
+#fabric:leggings
+- byg:ametrine_leggings
+
+#forge:nuggets/gold
+- minecraft:gold_nugget
+
+#refinedstorage:storage_blocks/items/infinite
+- extradisks:infinite_storage_block
+
+#forge:yellow_cake_uranium
+- mekanism:yellow_cake_uranium
+
+#tconstruct:casts/single_use/broad_axe_head
+- tconstruct:broad_axe_head_sand_cast
+- tconstruct:broad_axe_head_red_sand_cast
+
+#forge:nether_stars
+- minecraft:nether_star
+
+#tconstruct:modifiable/harvest
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:cleaver
+- #tconstruct:modifiable/harvest/primary
+- #tconstruct:modifiable/harvest/stone
+
+#forge:ingots/tin
+- oreclumps:tin_ingot
+- exnihilosequentia:ingot_tin
+- mekanism:ingot_tin
+
+#fabric:shovels
+- byg:pendorite_shovel
+
+#forge:ingots/thorium
+- oreclumps:thorium_ingot
+
+#exnihilosequentia:sieves
+- exnihilosequentia:acacia_sieve
+- exnihilosequentia:birch_sieve
+- exnihilosequentia:dark_oak_sieve
+- exnihilosequentia:jungle_sieve
+- exnihilosequentia:sieve
+- exnihilosequentia:spruce_sieve
+- exnihilosequentia:crimson_sieve
+- exnihilosequentia:warped_sieve
+
+#forge:slimeball/earth
+- minecraft:slime_ball
+
+#byg:double_blue_dye
+- byg:azalea
+- byg:delphinium
+
+#refinedstorage:disks/items/4096k
+- extrastorage:disk_4096k
+- extradisks:4096k_storage_disk
+
+#tconstruct:inventory_blacklist
+- minecraft:shulker_box
+- minecraft:white_shulker_box
+- minecraft:orange_shulker_box
+- minecraft:magenta_shulker_box
+- minecraft:light_blue_shulker_box
+- minecraft:yellow_shulker_box
+- minecraft:lime_shulker_box
+- minecraft:pink_shulker_box
+- minecraft:gray_shulker_box
+- minecraft:light_gray_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:purple_shulker_box
+- minecraft:blue_shulker_box
+- minecraft:brown_shulker_box
+- minecraft:green_shulker_box
+- minecraft:red_shulker_box
+- minecraft:black_shulker_box
+
+#refinedstorage:storage_blocks/fluids/262144k
+- extrastorage:block_262144k_fluid
+- extradisks:262144k_fluid_storage_block
+
+#forge:bones
+- minecraft:bone
+
+#forge:ores/mythril
+- oreclumps:raw_mythril
+
+#forge:glass_panes
+- #forge:glass_panes/colorless
+- #forge:stained_glass_panes
+- create:tiled_glass_pane
+- create:framed_glass_pane
+- create:horizontal_framed_glass_pane
+- create:vertical_framed_glass_pane
+- create:oak_window_pane
+- create:spruce_window_pane
+- create:birch_window_pane
+- create:jungle_window_pane
+- create:acacia_window_pane
+- create:dark_oak_window_pane
+- create:crimson_window_pane
+- create:warped_window_pane
+- create:ornate_iron_window_pane
+- connectedglass:borderless_glass_pane
+- connectedglass:borderless_glass_white_pane
+- connectedglass:borderless_glass_orange_pane
+- connectedglass:borderless_glass_magenta_pane
+- connectedglass:borderless_glass_light_blue_pane
+- connectedglass:borderless_glass_yellow_pane
+- connectedglass:borderless_glass_lime_pane
+- connectedglass:borderless_glass_pink_pane
+- connectedglass:borderless_glass_gray_pane
+- connectedglass:borderless_glass_light_gray_pane
+- connectedglass:borderless_glass_cyan_pane
+- connectedglass:borderless_glass_purple_pane
+- connectedglass:borderless_glass_blue_pane
+- connectedglass:borderless_glass_brown_pane
+- connectedglass:borderless_glass_green_pane
+- connectedglass:borderless_glass_red_pane
+- connectedglass:borderless_glass_black_pane
+- connectedglass:clear_glass_pane
+- connectedglass:clear_glass_white_pane
+- connectedglass:clear_glass_orange_pane
+- connectedglass:clear_glass_magenta_pane
+- connectedglass:clear_glass_light_blue_pane
+- connectedglass:clear_glass_yellow_pane
+- connectedglass:clear_glass_lime_pane
+- connectedglass:clear_glass_pink_pane
+- connectedglass:clear_glass_gray_pane
+- connectedglass:clear_glass_light_gray_pane
+- connectedglass:clear_glass_cyan_pane
+- connectedglass:clear_glass_purple_pane
+- connectedglass:clear_glass_blue_pane
+- connectedglass:clear_glass_brown_pane
+- connectedglass:clear_glass_green_pane
+- connectedglass:clear_glass_red_pane
+- connectedglass:clear_glass_black_pane
+- connectedglass:scratched_glass_pane
+- connectedglass:scratched_glass_white_pane
+- connectedglass:scratched_glass_orange_pane
+- connectedglass:scratched_glass_magenta_pane
+- connectedglass:scratched_glass_light_blue_pane
+- connectedglass:scratched_glass_yellow_pane
+- connectedglass:scratched_glass_lime_pane
+- connectedglass:scratched_glass_pink_pane
+- connectedglass:scratched_glass_gray_pane
+- connectedglass:scratched_glass_light_gray_pane
+- connectedglass:scratched_glass_cyan_pane
+- connectedglass:scratched_glass_purple_pane
+- connectedglass:scratched_glass_blue_pane
+- connectedglass:scratched_glass_brown_pane
+- connectedglass:scratched_glass_green_pane
+- connectedglass:scratched_glass_red_pane
+- connectedglass:scratched_glass_black_pane
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- tconstruct:bloodshroom_planks
+- tconstruct:bloodshroom_planks_slab
+- tconstruct:bloodshroom_planks_stairs
+- tconstruct:bloodshroom_fence
+- tconstruct:bloodshroom_fence_gate
+- tconstruct:bloodshroom_door
+- tconstruct:bloodshroom_trapdoor
+- tconstruct:bloodshroom_pressure_plate
+- tconstruct:bloodshroom_button
+- #tconstruct:bloodshroom_logs
+
+#forge:sand/pink
+- byg:pink_sand
+
+#mekanism:colorable/glass
+- minecraft:glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#forge:ores/fluorite
+- mekanism:fluorite_ore
+
+#forge:dusts/iron
+- immersiveengineering:dust_iron
+- mekanism:dust_iron
+
+#mekanism:colorable/concrete
+- minecraft:white_concrete
+- minecraft:orange_concrete
+- minecraft:magenta_concrete
+- minecraft:light_blue_concrete
+- minecraft:yellow_concrete
+- minecraft:lime_concrete
+- minecraft:pink_concrete
+- minecraft:gray_concrete
+- minecraft:light_gray_concrete
+- minecraft:cyan_concrete
+- minecraft:purple_concrete
+- minecraft:blue_concrete
+- minecraft:brown_concrete
+- minecraft:green_concrete
+- minecraft:red_concrete
+- minecraft:black_concrete
+
+#refinedstorage:network_receiver
+- refinedstorage:pink_network_receiver
+- refinedstorage:gray_network_receiver
+- refinedstorage:orange_network_receiver
+- refinedstorage:cyan_network_receiver
+- refinedstorage:magenta_network_receiver
+- refinedstorage:network_receiver
+- refinedstorage:light_gray_network_receiver
+- refinedstorage:brown_network_receiver
+- refinedstorage:black_network_receiver
+- refinedstorage:white_network_receiver
+- refinedstorage:lime_network_receiver
+- refinedstorage:purple_network_receiver
+- refinedstorage:red_network_receiver
+- refinedstorage:green_network_receiver
+- refinedstorage:blue_network_receiver
+- refinedstorage:yellow_network_receiver
+
+#forge:wires/electrum
+- immersiveengineering:wire_electrum
+
+#tconstruct:seared_blocks
+- tconstruct:seared_stone
+- tconstruct:seared_cracked_bricks
+- tconstruct:seared_cobble
+- tconstruct:seared_paver
+- #tconstruct:seared_bricks
+
+#refinedstorage:wireless_transmitter
+- refinedstorage:pink_wireless_transmitter
+- refinedstorage:gray_wireless_transmitter
+- refinedstorage:orange_wireless_transmitter
+- refinedstorage:cyan_wireless_transmitter
+- refinedstorage:magenta_wireless_transmitter
+- refinedstorage:wireless_transmitter
+- refinedstorage:light_gray_wireless_transmitter
+- refinedstorage:brown_wireless_transmitter
+- refinedstorage:black_wireless_transmitter
+- refinedstorage:white_wireless_transmitter
+- refinedstorage:lime_wireless_transmitter
+- refinedstorage:purple_wireless_transmitter
+- refinedstorage:red_wireless_transmitter
+- refinedstorage:green_wireless_transmitter
+- refinedstorage:blue_wireless_transmitter
+- refinedstorage:yellow_wireless_transmitter
+
+#forge:ingots/steel
+- boss_tools:steel_ingot
+- immersiveengineering:ingot_steel
+- alloyed:steel_ingot
+- mekanism:ingot_steel
+
+#byg:nightshade_logs
+- byg:nightshade_log
+- byg:stripped_nightshade_log
+- byg:nightshade_wood
+- byg:stripped_nightshade_wood
+
+#forge:storage_blocks/soulsteel
+- tconstruct:soulsteel_block
+
+#exnihilosequentia:crook
+- exnihilosequentia:crook_wood
+- exnihilosequentia:crook_stone
+- exnihilosequentia:crook_andesite
+- exnihilosequentia:crook_granite
+- exnihilosequentia:crook_diorite
+- exnihilosequentia:crook_gold
+- exnihilosequentia:crook_iron
+- exnihilosequentia:crook_diamond
+- exnihilosequentia:crook_bone
+
+#forge:ingots/netherite
+- minecraft:netherite_ingot
+
+#forge:storage_blocks/tin
+- mekanism:block_tin
+
+#forge:seeds/beetroot
+- minecraft:beetroot_seeds
+
+#forge:storage_blocks/electrum
+- immersiveengineering:storage_electrum
+
+#forge:storage_blocks/knightslime
+- tconstruct:knightslime_block
+
+#tconstruct:casts/multi_use/wire
+- tconstruct:wire_cast
+
+#forge:chestplates
+- byg:ametrine_chestplate
+
+#tconstruct:anvil_metal
+- #forge:storage_blocks/slimesteel
+- #forge:storage_blocks/silicon_bronze
+- #forge:storage_blocks/rose_gold
+- #forge:storage_blocks/pig_iron
+- #forge:storage_blocks/queens_slime
+- #forge:storage_blocks/manyullyn
+- #forge:storage_blocks/hepatizon
+- #forge:storage_blocks/netherite
+- #forge:storage_blocks/bronze?
+- #forge:storage_blocks/brass?
+- #forge:storage_blocks/electrum?
+- #forge:storage_blocks/invar?
+- #forge:storage_blocks/constantan?
+- #forge:storage_blocks/pewter?
+- #forge:storage_blocks/steel?
+- #forge:storage_blocks/enderium?
+- #forge:storage_blocks/lumium?
+- #forge:storage_blocks/signalum?
+- #forge:storage_blocks/refined_glowstone?
+- #forge:storage_blocks/refined_obsidian?
+
+#tconstruct:casts/single_use/coin
+- tconstruct:coin_sand_cast
+- tconstruct:coin_red_sand_cast
+
+#forge:charcoal
+- minecraft:charcoal
+
+#forge:cheese/cheese
+- boss_tools:chesse
+
+#refinedstorage:parts/fluids/1048576k
+- extrastorage:storagepart_1048576k_fluid
+- extradisks:1048576k_fluid_storage_part
+
+#refinedstorage:silicon
+- refinedstorage:silicon
+
+#forge:wool/green
+- minecraft:green_wool
+
+#refinedstorage:crafter_manager
+- refinedstorage:pink_crafter_manager
+- refinedstorage:gray_crafter_manager
+- refinedstorage:orange_crafter_manager
+- refinedstorage:cyan_crafter_manager
+- refinedstorage:magenta_crafter_manager
+- refinedstorage:crafter_manager
+- refinedstorage:light_gray_crafter_manager
+- refinedstorage:brown_crafter_manager
+- refinedstorage:black_crafter_manager
+- refinedstorage:white_crafter_manager
+- refinedstorage:lime_crafter_manager
+- refinedstorage:purple_crafter_manager
+- refinedstorage:red_crafter_manager
+- refinedstorage:green_crafter_manager
+- refinedstorage:blue_crafter_manager
+- refinedstorage:yellow_crafter_manager
+
+#forge:storage_blocks/constantan
+- immersiveengineering:storage_constantan
+
+#refinedstorage:storage_blocks/items/65536k
+- extradisks:65536k_storage_block
+
+#forge:sheetmetals/electrum
+- immersiveengineering:sheetmetal_electrum
+
+#refinedstorage:parts
+- #refinedstorage:parts/items
+- #refinedstorage:parts/fluids
+- #refinedstorage:parts/items
+- #refinedstorage:parts/fluids
+
+#forge:feathers
+- minecraft:feather
+
+#byg:cyan_dye
+- byg:cyan_amaranth
+- byg:cyan_rose
+- byg:cyan_tulip
+- byg:winter_cyclamen
+
+#forge:dusts/silver
+- immersiveengineering:dust_silver
+
+#alloyed:bronze_instruments
+- alloyed:bronze_bell
+
+#forge:plates/lead
+- immersiveengineering:plate_lead
+
+#forge:ingots/cyanite
+- biggerreactors:cyanite_ingot
+- bigreactors:cyanite_ingot
+
+#forge:string
+- minecraft:string
+
+#forge:crops/coffeebean
+- createcafe:coffee_fruit
+
+#refinedstorage:disks/items/16384k
+- extrastorage:disk_16384k
+- extradisks:16384k_storage_disk
+
+#boss_tools:flags/colors
+- boss_tools:flag_blue
+- boss_tools:flag_brown
+- boss_tools:flag_cyan
+- boss_tools:flag_gray
+- boss_tools:flag_green
+- boss_tools:flag_light_blue
+- boss_tools:flag_lime
+- boss_tools:flag_magenta
+- boss_tools:flag_orange
+- boss_tools:flag_pink
+- boss_tools:flag_purple
+- boss_tools:flag_red
+- boss_tools:flag_yellow
+
+#tconstruct:skyroot_logs
+- tconstruct:skyroot_log
+- tconstruct:stripped_skyroot_log
+- tconstruct:skyroot_wood
+- tconstruct:stripped_skyroot_wood
+
+#forge:rods/treated_wood
+- immersiveengineering:stick_treated
+
+#forge:silicon
+- refinedstorage:silicon
+
+#forge:storage_blocks/lignite
+- byg:lignite_block
+
+#boss_tools:flags
+- boss_tools:flag
+- #boss_tools:flags/colors
+
+#rftoolsutility:living/averageyield
+- minecraft:melon
+- minecraft:sugar_cane
+- minecraft:chorus_flower
+- minecraft:pumpkin
+- minecraft:cocoa_beans
+- minecraft:apple
+- minecraft:rabbit_foot
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- #tconstruct:slimy_leaves
+- byg:baobab_leaves
+- byg:blooming_witch_hazel_leaves
+- byg:blue_enchanted_leaves
+- byg:blue_spruce_leaves
+- byg:brown_birch_leaves
+- byg:brown_oak_leaves
+- byg:cika_leaves
+- byg:cypress_leaves
+- byg:ebony_leaves
+- byg:fir_leaves
+- byg:flowering_orchard_leaves
+- byg:flowering_palo_verde_leaves
+- byg:green_enchanted_leaves
+- byg:holly_berry_leaves
+- byg:holly_leaves
+- byg:jacaranda_leaves
+- byg:joshua_leaves
+- byg:ripe_joshua_leaves
+- byg:indigo_jacaranda_leaves
+- byg:mahogany_leaves
+- byg:mangrove_leaves
+- byg:maple_leaves
+- byg:orange_birch_leaves
+- byg:orange_oak_leaves
+- byg:orange_spruce_leaves
+- byg:orchard_leaves
+- byg:palo_verde_leaves
+- byg:pine_leaves
+- byg:pink_cherry_leaves
+- byg:rainbow_eucalyptus_leaves
+- byg:red_birch_leaves
+- byg:red_maple_leaves
+- byg:red_oak_leaves
+- byg:red_spruce_leaves
+- byg:redwood_leaves
+- byg:ripe_orchard_leaves
+- byg:silver_maple_leaves
+- byg:skyris_leaves
+- byg:green_apple_skyris_leaves
+- byg:white_cherry_leaves
+- byg:willow_leaves
+- byg:witch_hazel_leaves
+- byg:yellow_birch_leaves
+- byg:yellow_spruce_leaves
+- byg:aspen_leaves
+- byg:zelkova_leaves
+- byg:palm_leaves
+- byg:araucaria_leaves
+- byg:brown_zelkova_leaves
+- byg:lament_leaves
+- byg:withering_oak_leaves
+- byg:ether_leaves
+- byg:nightshade_leaves
+- byg:flowering_nightshade_leaves
+- byg:flowering_jacaranda_leaves
+- byg:flowering_indigo_jacaranda_leaves
+
+#forge:ingots/titanium
+- oreclumps:titanium_ingot
+
+#mekanism:crystals/copper
+- mekanism:crystal_copper
+
+#refinedstorage:disks/items/1024k
+- extrastorage:disk_1024k
+- extradisks:1024k_storage_disk
+
+#byg:mangrove_logs
+- byg:mangrove_log
+- byg:stripped_mangrove_log
+- byg:mangrove_wood
+- byg:stripped_mangrove_wood
+
+#byg:witch_hazel_logs
+- byg:witch_hazel_log
+- byg:stripped_witch_hazel_log
+- byg:witch_hazel_wood
+- byg:stripped_witch_hazel_wood
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+- tconstruct:gray_clear_stained_glass_pane
+
+#byg:purple_dye
+- byg:allium_flower_bush
+- byg:alpine_bellflower
+- byg:iris
+- byg:purple_orchid
+- byg:purple_sage
+- byg:purple_tulip
+- byg:purple_amaranth
+- byg:crocus
+- byg:tall_allium
+
+#refinedstorage:disks/fluids/1048576k
+- extrastorage:disk_1048576k_fluid
+- extradisks:1048576k_fluid_storage_disk
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+
+#forge:dusts/saltpeter
+- immersiveengineering:dust_saltpeter
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- createplus:goggle_golden_helmet
+- tconstruct:gold_reinforcement
+- tconstruct:gold_item_frame
+- tconstruct:reversed_gold_item_frame
+- tconstruct:molten_gold_bucket
+- #tconstruct:casts/gold
+- create:golden_sheet
+- create:crushed_gold_ore
+- byg:sythian_stalk_block
+- boss_tools:venus_gold_ore
+- mekanism:block_refined_glowstone
+- mekanism:ingot_refined_glowstone
+- mekanism:dust_gold
+- #mekanism:enriched/gold
+- #mekanism:shards/gold
+- #mekanism:crystals/gold
+- #mekanism:dirty_dusts/gold
+- #mekanism:clumps/gold
+
+#dankstorage:blacklisted_storage
+
+#forge:dusts/aluminum
+- immersiveengineering:dust_aluminum
+
+#forge:sand/red
+- minecraft:red_sand
+
+#forge:glass/brown
+- minecraft:brown_stained_glass
+- tconstruct:brown_clear_stained_glass
+
+#forge:dusts/hop_graphite
+- immersiveengineering:dust_hop_graphite
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #tconstruct:greenheart_logs
+- #tconstruct:skyroot_logs
+- #byg:aspen_logs
+- #byg:baobab_logs
+- #byg:blue_enchanted_logs
+- #byg:cherry_logs
+- #byg:cika_logs
+- #byg:cypress_logs
+- #byg:ebony_logs
+- #byg:fir_logs
+- #byg:green_enchanted_logs
+- #byg:holly_logs
+- #byg:jacaranda_logs
+- #byg:mahogany_logs
+- #byg:mangrove_logs
+- #byg:maple_logs
+- #byg:palo_verde_logs
+- #byg:pine_logs
+- #byg:rainbow_eucalyptus_logs
+- #byg:redwood_logs
+- #byg:skyris_logs
+- #byg:willow_logs
+- #byg:witch_hazel_logs
+- #byg:zelkova_logs
+- #byg:palm_logs
+- #byg:bulbis_stems
+- #byg:ether_logs
+- #byg:nightshade_logs
+- #byg:withering_oak_logs
+- #byg:imparius_stems
+
+#forge:dusts/osmium
+- mekanism:dust_osmium
+
+#mekanism:alloys
+- #mekanism:alloys/basic
+- #mekanism:alloys/infused
+- #mekanism:alloys/reinforced
+- #mekanism:alloys/atomic
+
+#refinedstorage:relay
+- refinedstorage:pink_relay
+- refinedstorage:gray_relay
+- refinedstorage:orange_relay
+- refinedstorage:cyan_relay
+- refinedstorage:magenta_relay
+- refinedstorage:relay
+- refinedstorage:light_gray_relay
+- refinedstorage:brown_relay
+- refinedstorage:black_relay
+- refinedstorage:white_relay
+- refinedstorage:lime_relay
+- refinedstorage:purple_relay
+- refinedstorage:red_relay
+- refinedstorage:green_relay
+- refinedstorage:blue_relay
+- refinedstorage:yellow_relay
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass
+- tconstruct:light_gray_clear_stained_glass
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- tconstruct:greenheart_planks_slab
+- tconstruct:skyroot_planks_slab
+- tconstruct:bloodshroom_planks_slab
+- byg:aspen_slab
+- byg:baobab_slab
+- byg:blue_enchanted_slab
+- byg:cherry_slab
+- byg:cika_slab
+- byg:cypress_slab
+- byg:ebony_slab
+- byg:fir_slab
+- byg:green_enchanted_slab
+- byg:holly_slab
+- byg:jacaranda_slab
+- byg:mahogany_slab
+- byg:mangrove_slab
+- byg:maple_slab
+- byg:pine_slab
+- byg:rainbow_eucalyptus_slab
+- byg:redwood_slab
+- byg:skyris_slab
+- byg:willow_slab
+- byg:witch_hazel_slab
+- byg:zelkova_slab
+- byg:sythian_slab
+- byg:embur_slab
+- byg:palm_slab
+- byg:lament_slab
+- byg:ether_slab
+- byg:bulbis_slab
+- byg:nightshade_slab
+- byg:imparius_slab
+
+#tconstruct:modifiable/multipart
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:kama
+- tconstruct:scythe
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:cleaver
+- tconstruct:slime_helmet
+
+#forge:dyes/white
+- minecraft:white_dye
+
+#tconstruct:casts/multi_use/hammer_head
+- tconstruct:hammer_head_cast
+
+#forge:asphalt
+- immersivepetroleum:asphalt
+
+#tconstruct:casts/multi_use/tool_handle
+- tconstruct:tool_handle_cast
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+- byg:allium_flower_bush
+- byg:alpine_bellflower
+- byg:amaranth
+- byg:angelica
+- byg:azalea
+- byg:begonia
+- byg:bistort
+- byg:blue_sage
+- byg:black_rose
+- byg:california_poppy
+- byg:crocus
+- byg:cyan_amaranth
+- byg:cyan_rose
+- byg:cyan_tulip
+- byg:daffodil
+- byg:delphinium
+- byg:fairy_slipper
+- byg:firecracker_flower_bush
+- byg:foxglove
+- byg:golden_spined_cactus
+- byg:green_tulip
+- byg:guzmania
+- byg:incan_lily
+- byg:iris
+- byg:japanese_orchid
+- byg:kovan_flower
+- byg:lazarus_bellflower
+- byg:lolipop_flower
+- byg:magenta_amaranth
+- byg:magenta_tulip
+- byg:orange_amaranth
+- byg:orange_daisy
+- byg:osiria_rose
+- byg:peach_leather_flower
+- byg:pink_allium
+- byg:pink_allium_flower_bush
+- byg:pink_anemone
+- byg:pink_daffodil
+- byg:pink_orchid
+- byg:prairie_grass
+- byg:protea_flower
+- byg:purple_amaranth
+- byg:purple_orchid
+- byg:purple_sage
+- byg:purple_tulip
+- byg:red_cornflower
+- byg:red_orchid
+- byg:richea
+- byg:rose
+- byg:snowdrops
+- byg:silver_vase_flower
+- byg:torch_ginger
+- byg:violet_leather_flower
+- byg:white_anemone
+- byg:white_sage
+- byg:winter_rose
+- byg:winter_cyclamen
+- byg:winter_scilla
+- byg:yellow_daffodil
+- byg:yellow_tulip
+- byg:pollen_block
+- byg:tall_allium
+- byg:tall_pink_allium
+- byg:thereal_bellflower
+
+#forge:seeds/pumpkin
+- minecraft:pumpkin_seeds
+
+#forge:wool/brown
+- minecraft:brown_wool
+
+#forge:ores/osmium
+- oreclumps:raw_osmium
+- mekanism:osmium_ore
+- exnihilosequentia:chunk_osmium
+
+#forge:circuits/advanced
+- mekanism:advanced_control_circuit
+
+#forge:dusts/redstone
+- minecraft:redstone
+
+#refinedstorage:disks/fluids/infinite
+- extradisks:infinite_fluid_storage_disk
+
+#forge:gems/quartz
+- minecraft:quartz
+
+#forge:crops/beetroot
+- minecraft:beetroot
+
+#forge:seeds/melon
+- minecraft:melon_seeds
+
+#forge:ingots/electrum
+- immersiveengineering:ingot_electrum
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13
+- minecraft:music_disc_cat
+- minecraft:music_disc_blocks
+- minecraft:music_disc_chirp
+- minecraft:music_disc_far
+- minecraft:music_disc_mall
+- minecraft:music_disc_mellohi
+- minecraft:music_disc_stal
+- minecraft:music_disc_strad
+- minecraft:music_disc_ward
+- minecraft:music_disc_11
+- minecraft:music_disc_wait
+
+#tconstruct:slimy_saplings
+- tconstruct:earth_slime_sapling
+- tconstruct:sky_slime_sapling
+- tconstruct:ender_slime_sapling
+
+#forge:ores/thorium
+- oreclumps:raw_thorium
+
+#forge:wool/light_gray
+- minecraft:light_gray_wool
+
+#mekanism:colorable/concrete_powder
+- minecraft:white_concrete_powder
+- minecraft:orange_concrete_powder
+- minecraft:magenta_concrete_powder
+- minecraft:light_blue_concrete_powder
+- minecraft:yellow_concrete_powder
+- minecraft:lime_concrete_powder
+- minecraft:pink_concrete_powder
+- minecraft:gray_concrete_powder
+- minecraft:light_gray_concrete_powder
+- minecraft:cyan_concrete_powder
+- minecraft:purple_concrete_powder
+- minecraft:blue_concrete_powder
+- minecraft:brown_concrete_powder
+- minecraft:green_concrete_powder
+- minecraft:red_concrete_powder
+- minecraft:black_concrete_powder
+
+#byg:brown_dye
+- byg:reeds
+
+#forge:wool/yellow
+- minecraft:yellow_wool
+
+#byg:ether_logs
+- byg:ether_log
+- byg:stripped_ether_log
+- byg:ether_wood
+- byg:stripped_ether_wood
+
+#forge:nuggets/lead
+- immersiveengineering:nugget_lead
+- mekanism:nugget_lead
+
+#tconstruct:fireballs
+- minecraft:fire_charge
+
+#pipez:upgrades
+- pipez:basic_upgrade
+- pipez:improved_upgrade
+- pipez:advanced_upgrade
+- pipez:ultimate_upgrade
+- pipez:infinity_upgrade
+
+#byg:lime_dye
+- byg:green_tulip
+
+#forge:plates/brass
+- create:brass_sheet
+
+#fabric:helmets
+- byg:ametrine_helmet
+
+#curios:createplus.goggle_slot
+- create:goggles
+
+#mekanism:shards/lead
+- mekanism:shard_lead
+
+#refinedstorage:parts/fluids/65536k
+- extrastorage:storagepart_65536k_fluid
+- extradisks:65536k_fluid_storage_part
+
+#tconstruct:modifiable/held
+- #tconstruct:modifiable/one_handed
+- #tconstruct:modifiable/two_handed
+
+#forge:slimeball/ichor
+- tconstruct:ichor_slime_ball
+
+#forge:clay
+- minecraft:clay_ball
+- minecraft:clay_ball
+
+#excompressum:crucibles
+- #excompressum:crucibles/wooden
+
+#tconstruct:casts/multi_use/rod
+- tconstruct:rod_cast
+
+#forge:plates/nickel
+- immersiveengineering:plate_nickel
+
+#forge:ores/silver
+- oreclumps:raw_silver
+- immersiveengineering:ore_silver
+- exnihilosequentia:chunk_silver
+
+#forge:alloys/elite
+- mekanism:alloy_reinforced
+
+#mekanism:clumps/lead
+- mekanism:clump_lead
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+- tconstruct:purple_clear_stained_glass_pane
+
+#forge:dusts
+- #forge:dusts/wood
+- biggerreactors:blutonium_dust
+- biggerreactors:cyanite_dust
+- biggerreactors:graphite_dust
+- biggerreactors:ludicrite_dust
+- biggerreactors:yellorium_dust
+- rftoolsbase:dimensionalshard
+- #forge:dusts/glowstone
+- #forge:dusts/prismarine
+- #forge:dusts/redstone
+- immersiveengineering:dust_copper
+- immersiveengineering:dust_aluminum
+- immersiveengineering:dust_lead
+- immersiveengineering:dust_silver
+- immersiveengineering:dust_nickel
+- immersiveengineering:dust_uranium
+- immersiveengineering:dust_constantan
+- immersiveengineering:dust_electrum
+- immersiveengineering:dust_steel
+- immersiveengineering:dust_iron
+- immersiveengineering:dust_gold
+- createaddition:diamond_grit
+- create:powdered_obsidian
+- mekanism:dust_iron
+- mekanism:dust_gold
+- mekanism:dust_osmium
+- mekanism:dust_copper
+- mekanism:dust_tin
+- mekanism:dust_lead
+- mekanism:dust_uranium
+- #forge:dusts/bronze
+- #forge:dusts/charcoal
+- #forge:dusts/coal
+- #forge:dusts/diamond
+- #forge:dusts/emerald
+- #forge:dusts/netherite
+- #forge:dusts/lapis
+- #forge:dusts/lithium
+- #forge:dusts/obsidian
+- #forge:dusts/quartz
+- #forge:dusts/refined_obsidian
+- #forge:dusts/salt
+- #forge:dusts/steel
+- #forge:dusts/sulfur
+- #forge:dusts/wood
+- #forge:dusts/fluorite
+- bigreactors:yellorium_dust
+- bigreactors:cyanite_dust
+- bigreactors:graphite_dust
+- bigreactors:blutonium_dust
+- bigreactors:magentite_dust
+
+#forge:alloys/advanced
+- mekanism:alloy_infused
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass
+- tconstruct:yellow_clear_stained_glass
+
+#forge:nuggets/cobalt
+- tconstruct:cobalt_nugget
+
+#refinedstorage:disks/fluids/65536k
+- extrastorage:disk_65536k_fluid
+- extradisks:65536k_fluid_storage_disk
+
+#forge:helmets
+- byg:ametrine_helmet
+
+#tconstruct:casts/multi_use/plate
+- tconstruct:plate_cast
+
+#forge:ores/anthracite
+- byg:anthracite_ore
+
+#forge:plates/uranium
+- immersiveengineering:plate_uranium
+
+#forge:pink_sand
+- byg:pink_sand
+
+#refinedstorage:disks/items/1048576k
+- extradisks:1048576k_storage_disk
+
+#forge:coal_coke
+- immersiveengineering:coal_coke
+
+#refinedstorage:controller
+- refinedstorage:pink_controller
+- refinedstorage:gray_controller
+- refinedstorage:orange_controller
+- refinedstorage:cyan_controller
+- refinedstorage:magenta_controller
+- refinedstorage:controller
+- refinedstorage:light_gray_controller
+- refinedstorage:brown_controller
+- refinedstorage:black_controller
+- refinedstorage:white_controller
+- refinedstorage:lime_controller
+- refinedstorage:purple_controller
+- refinedstorage:red_controller
+- refinedstorage:green_controller
+- refinedstorage:blue_controller
+- refinedstorage:yellow_controller
+
+#forge:storage_blocks/pig_iron
+- tconstruct:pig_iron_block
+
+#refinedstorage:storage_blocks/fluids/1048576k
+- extrastorage:block_1048576k_fluid
+- extradisks:1048576k_fluid_storage_block
+
+#forge:sawdust
+- #forge:dusts/wood
+
+#forge:chests/ender
+- minecraft:ender_chest
+
+#byg:jacaranda_logs
+- byg:jacaranda_log
+- byg:stripped_jacaranda_log
+- byg:jacaranda_wood
+- byg:stripped_jacaranda_wood
+
+#mekanism:dirty_dusts/iron
+- mekanism:dirty_dust_iron
+
+#tconstruct:casts/single_use/ingot
+- tconstruct:ingot_sand_cast
+- tconstruct:ingot_red_sand_cast
+
+#forge:storage_blocks/manyullyn
+- tconstruct:manyullyn_block
+
+#forge:shears
+- minecraft:shears
+- tconstruct:kama
+- alloyed:steel_shears
+
+#boss_tools:engines/iron
+- boss_tools:iron_engine
+
+#forge:nuggets/steel
+- boss_tools:steel_nugget
+- immersiveengineering:nugget_steel
+- mekanism:nugget_steel
+
+#forge:sand/blue
+- byg:blue_sand
+
+#forge:dusts/electrum
+- immersiveengineering:dust_electrum
+
+#tconstruct:greenheart_logs
+- tconstruct:greenheart_log
+- tconstruct:stripped_greenheart_log
+- tconstruct:greenheart_wood
+- tconstruct:stripped_greenheart_wood
+
+#farmersdelight:tools/knives
+- alloyed:steel_knife
+
+#immersiveengineering:forbidden_in_crates
+- immersiveengineering:toolbox
+- immersiveengineering:crate
+- immersiveengineering:reinforced_crate
+- immersiveengineering:minecart_woodencrate
+- immersiveengineering:minecart_reinforcedcrate
+
+#fabric:boots
+- byg:ametrine_boots
+
+#forge:wires/steel
+- immersiveengineering:wire_steel
+
+#forge:dusts/quartz
+- mekanism:dust_quartz
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- #tconstruct:slimy_planks
+- byg:aspen_planks
+- byg:baobab_planks
+- byg:blue_enchanted_planks
+- byg:cherry_planks
+- byg:cika_planks
+- byg:cypress_planks
+- byg:ebony_planks
+- byg:fir_planks
+- byg:green_enchanted_planks
+- byg:holly_planks
+- byg:jacaranda_planks
+- byg:mahogany_planks
+- byg:mangrove_planks
+- byg:maple_planks
+- byg:pine_planks
+- byg:rainbow_eucalyptus_planks
+- byg:redwood_planks
+- byg:skyris_planks
+- byg:willow_planks
+- byg:witch_hazel_planks
+- byg:zelkova_planks
+- byg:sythian_planks
+- byg:embur_planks
+- byg:palm_planks
+- byg:lament_planks
+- byg:ether_planks
+- byg:bulbis_planks
+- byg:nightshade_planks
+- byg:imparius_planks
+
+#forge:cobblestone
+- minecraft:cobblestone
+- minecraft:infested_cobblestone
+- minecraft:mossy_cobblestone
+- create:granite_cobblestone
+- create:diorite_cobblestone
+- create:andesite_cobblestone
+- create:limestone_cobblestone
+- create:weathered_limestone_cobblestone
+- create:dolomite_cobblestone
+- create:gabbro_cobblestone
+- create:scoria_cobblestone
+- create:dark_scoria_cobblestone
+- byg:red_rock
+- byg:dacite_cobblestone
+- byg:scoria_cobblestone
+- byg:soapstone
+- byg:cobbled_ether_stone
+
+#byg:magenta_dye
+- byg:magenta_amaranth
+- byg:magenta_tulip
+- byg:lazarus_bellflower
+- byg:protea_flower
+- byg:fairy_slipper
+
+#forge:ingots/mythril
+- oreclumps:mythril_ingot
+
+#byg:ebony_logs
+- byg:ebony_log
+- byg:stripped_ebony_log
+- byg:ebony_wood
+- byg:stripped_ebony_wood
+
+#refinedstorage:parts/items/4096k
+- extrastorage:storagepart_4096k
+- extradisks:4096k_storage_part
+
+#forge:dusts/sulfur
+- immersiveengineering:dust_sulfur
+- mekanism:dust_sulfur
+
+#forge:storage_blocks/gold
+- minecraft:gold_block
+
+#tconstruct:foundry
+- #tconstruct:scorched_blocks
+- #tconstruct:scorched_tanks
+- tconstruct:foundry_controller
+- tconstruct:scorched_drain
+- tconstruct:scorched_chute
+- tconstruct:scorched_duct
+- tconstruct:scorched_glass
+- tconstruct:scorched_ladder
+
+#forge:ores/ametrine
+- byg:ametrine_ore
+- byg:budding_ametrine_ore
+
+#tconstruct:modifiable/one_handed
+- tconstruct:pickaxe
+- tconstruct:mattock
+- tconstruct:hand_axe
+- tconstruct:kama
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:flint_and_bronze
+
+#tconstruct:slimeslings
+- tconstruct:earth_slime_sling
+- tconstruct:sky_slime_sling
+- tconstruct:ichor_slime_sling
+- tconstruct:ender_slime_sling
+
+#forge:dusts/coal_petcoke
+- immersivepetroleum:petcoke_dust
+
+#tconstruct:casts/multi_use/repair_kit
+- tconstruct:repair_kit_cast
+
+#tconstruct:modifiable/melee
+- tconstruct:pickaxe
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:kama
+- tconstruct:flint_and_bronze
+- #tconstruct:modifiable/melee/primary
+- #tconstruct:modifiable/melee/sword
+
+#mekanism:crystals/iron
+- mekanism:crystal_iron
+
+#mekanism:dirty_dusts
+- mekanism:dirty_dust_iron
+- mekanism:dirty_dust_gold
+- mekanism:dirty_dust_osmium
+- mekanism:dirty_dust_copper
+- mekanism:dirty_dust_tin
+- mekanism:dirty_dust_lead
+- mekanism:dirty_dust_uranium
+
+#forge:dusts/prismarine
+- minecraft:prismarine_shard
+
+#forge:sheetmetals/iron
+- immersiveengineering:sheetmetal_iron
+
+#forge:fences
+- #forge:fences/nether_brick
+- #forge:fences/wooden
+
+#forge:storage_blocks/petcoke
+- immersivepetroleum:petcoke_block
+
+#forge:ingots/inanite
+- bigreactors:inanite_ingot
+
+#mekanism:dirty_dusts/osmium
+- mekanism:dirty_dust_osmium
+
+#forge:plates/desh
+- boss_tools:desh_plate
+
+#tconstruct:structure_debug/foundry
+- #tconstruct:structure_debug/general
+- #tconstruct:foundry
+
+#forge:plates/copper
+- immersiveengineering:plate_copper
+- create:copper_sheet
+
+#forge:nuggets/refined_obsidian
+- mekanism:nugget_refined_obsidian
+
+#refinedstorage:parts/fluids/262144k
+- extrastorage:storagepart_262144k_fluid
+- extradisks:262144k_fluid_storage_part

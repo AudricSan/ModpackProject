@@ -569,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-06-05 16:01:44 +0200"
+    },
+    "done": true
+  },
   "exnihilosequentia:recipes/exnihilosequentia/ens_hammer_stone": {
     "criteria": {
       "has_stick": "2022-05-03 08:13:56 +0200"
@@ -1991,6 +1997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-06-05 16:01:44 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_cyan": {
     "criteria": {
       "has_sheetmetal": "2022-05-02 12:38:13 +0200"
@@ -2363,6 +2375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-06-05 16:01:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2022-05-02 12:34:43 +0200"
@@ -2600,6 +2618,12 @@
   "exnihilosequentia:recipes/exnihilosequentia/ens_hammer_iron": {
     "criteria": {
       "has_material": "2022-05-02 12:34:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-05 16:01:44 +0200"
     },
     "done": true
   },
@@ -3257,6 +3281,12 @@
     },
     "done": true
   },
+  "create:pipe_spill": {
+    "criteria": {
+      "0": "2022-06-05 16:01:43 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_grate_top_from_slab": {
     "criteria": {
       "has_steel_scaffolding_grate_top": "2022-05-02 14:49:38 +0200"
@@ -3296,6 +3326,12 @@
   "tconstruct:recipes/tconstruct/general/tools/modifiers/silky_cloth": {
     "criteria": {
       "has_item": "2022-05-02 12:34:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-06-05 16:01:44 +0200"
     },
     "done": true
   },
@@ -3362,6 +3398,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2022-05-07 10:06:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-05 16:01:44 +0200"
     },
     "done": true
   },

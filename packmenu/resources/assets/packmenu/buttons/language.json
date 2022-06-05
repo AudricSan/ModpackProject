@@ -3,19 +3,21 @@
 	"y": 74,
 	"width": 20,
 	"height": 20,
+	"texWidth": 20,
+	"texHeight": 40,
+
 	"u": 0,
-	"v": 106,
+	"v": 0,
 	"hoverU": 0,
-	"hoverV": 126,
-	"texWidth": 256,
-	"texHeight": 256,
-	"widgets": false,
+	"hoverV": 20,
+
 	"action": "OPEN_GUI",
-	"data": "LANGUAGE",
+	"data": "language",
 
 	"fontColor": 16777215,
 	"hoverFontColor": 16729154,
 	"dropShadow": true,
+
 	"textXOffset": 0,
 	"textYOffset": -5
 }

@@ -27,10 +27,12 @@
 #61C3E9 mekanism:elite_induction_cell
 #CD10BA mekanism:elite_universal_cable
 #89C856 minecraft:end_rod
+#DC0D87 create:fluid_pipe
 #C3AD5F create:fluid_valve
 #689940 boss_tools_giselle_addon:fuel_loader
 #216474 boss_tools:fuel_refinery
 #D60460 create:gearbox
+#763000 gravestone:gravestone
 #29A309 boss_tools:iron_mark_block
 #A79F01 boss_tools:iron_plating_block
 #228015 minecraft:ladder

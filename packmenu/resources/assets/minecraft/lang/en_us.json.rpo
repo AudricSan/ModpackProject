@@ -1,0 +1,5 @@
+{
+    "conditions": { "not": "guiretextures:dark_mode" },
+    "fallbacks": "assets/minecraft/lang/en_us_dark_mode.json"
+}
+

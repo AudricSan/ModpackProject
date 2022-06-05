@@ -12,7 +12,6 @@
 	"hoverV": 20,
 	"texWidth": 98,
 	"texHeight": 40,
-	"texture": "packmenu:textures/button2.png",
 	"fontColor": 16777215,
 	"hoverFontColor": 16729154,
 	"dropShadow": true,

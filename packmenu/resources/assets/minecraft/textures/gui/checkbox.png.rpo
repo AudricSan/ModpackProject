@@ -1,0 +1,4 @@
+{
+    "conditions": { "not": "guiretextures:dark_mode" },
+    "fallbacks": "assets/minecraft/textures/gui/dark_mode/checkbox.png"
+}
