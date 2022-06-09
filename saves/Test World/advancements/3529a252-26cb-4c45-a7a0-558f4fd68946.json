@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2022-06-09 15:18:11 +0200"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/projector": {
     "criteria": {
       "has_iron_ingot": "2022-05-27 12:11:49 +0200"
@@ -390,15 +396,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/logistics/content_observer": {
-    "criteria": {
-      "has_item": "2022-05-30 17:21:31 +0200"
-    },
-    "done": true
-  },
   "exnihilosequentia:recipes/exnihilosequentia/ens_ingot_copper": {
     "criteria": {
       "has_chunk": "2022-05-30 15:08:36 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2022-05-30 17:21:31 +0200"
     },
     "done": true
   },
@@ -1231,6 +1237,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.reactor/reactor/basic/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2022-06-09 15:18:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-05-27 12:08:11 +0200"
@@ -1490,15 +1502,15 @@
     },
     "done": true
   },
-  "exnihilosequentia:recipes/exnihilosequentia/ens_ingot_silver": {
-    "criteria": {
-      "has_chunk": "2022-05-30 15:08:38 +0200"
-    },
-    "done": true
-  },
   "rftoolsdim:recipes/rftoolsdim/part_memory_0": {
     "criteria": {
       "shard": "2022-05-30 13:06:14 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_ingot_silver": {
+    "criteria": {
+      "has_chunk": "2022-05-30 15:08:38 +0200"
     },
     "done": true
   },
@@ -2183,15 +2195,15 @@
     },
     "done": true
   },
-  "exnihilosequentia:recipes/exnihilosequentia/ens_mesh_iron": {
-    "criteria": {
-      "has_mesh": "2022-05-30 13:11:01 +0200"
-    },
-    "done": true
-  },
   "rftoolsdim:recipes/rftoolsdim/part_energy_0": {
     "criteria": {
       "shard": "2022-05-30 13:06:14 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_mesh_iron": {
+    "criteria": {
+      "has_mesh": "2022-05-30 13:11:01 +0200"
     },
     "done": true
   },
@@ -2519,15 +2531,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodenbarrel": {
-    "criteria": {
-      "has_minecart": "2022-05-30 17:52:08 +0200"
-    },
-    "done": true
-  },
   "exnihilosequentia:recipes/exnihilosequentia/ens_chunk_zinc": {
     "criteria": {
       "has_piece": "2022-05-30 13:59:28 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodenbarrel": {
+    "criteria": {
+      "has_minecart": "2022-05-30 17:52:08 +0200"
     },
     "done": true
   },
@@ -2630,6 +2642,12 @@
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2022-05-27 12:10:23 +0200"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/reinforced/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2022-06-09 15:18:11 +0200"
     },
     "done": true
   },
@@ -3757,6 +3775,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.turbine/turbine/basic/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2022-06-09 15:18:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2022-05-27 12:08:11 +0200"
@@ -4072,6 +4096,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2022-05-27 12:11:49 +0200"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.general/reprocessor/casing": {
+    "criteria": {
+      "has_item": "2022-06-09 15:18:11 +0200"
     },
     "done": true
   },
