@@ -620,6 +620,23 @@ onEvent('recipes', e => {
         C: 'kubejs:craunium_crystal'
     })
 
+    //PIPEZ
+    e.remove({id: 'pipez:energy_pipe'})
+    // e.remove({id: 'pipez:item_pipe'})
+    // e.remove({id: 'pipez:fluid_pipe'})
+    // e.remove({id: 'pipez:gaz_pipe'})
+    // e.remove({id: 'pipez:universal_pipe'})
+
+    e.shaped('pipez:energy_pipe', [
+        'AAA',
+        'BCB',
+        'AAA'
+    ], {
+        A: '#forge:plates/iron',
+        B: '#forge:storage_blocks/redstone',
+        C: '#forge:dusts/redstone'
+    })
+
     // FUNCTION //
     function replaceIO(oldItem, newItem) {
         e.replaceInput({}, oldItem, newItem);
