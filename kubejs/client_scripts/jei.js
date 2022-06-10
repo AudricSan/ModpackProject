@@ -50,6 +50,7 @@ onEvent('jei.hide.items', e => {
 	e.hide('exnihilosequentia:ingot_uranium')
 	e.hide('oreclumps:uranium_ingot')
 
+	e.hide('boss_tools:blast_furnace')
 })
 
 onEvent('jei.hide.fluids', e => {
