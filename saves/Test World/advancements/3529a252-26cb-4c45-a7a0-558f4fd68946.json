@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2022-06-10 13:34:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-05-27 11:38:35 +0200"
@@ -894,6 +900,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/breaker_switch": {
+    "criteria": {
+      "has_wirecoil_copper": "2022-06-10 13:24:47 +0200"
+    },
+    "done": true
+  },
   "exnihilosequentia:recipes/exnihilosequentia/ens_hammer_wood": {
     "criteria": {
       "has_material": "2022-05-27 11:37:21 +0200"
@@ -1316,6 +1328,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/coil_hv": {
+    "criteria": {
+      "has_wirecoil_steel": "2022-06-10 13:24:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2022-05-27 12:11:49 +0200"
@@ -1550,6 +1568,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.general/reprocessor/collector": {
+    "criteria": {
+      "has_item2": "2022-06-10 13:56:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2022-05-27 12:28:50 +0200"
@@ -1691,6 +1715,12 @@
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2022-05-27 12:36:09 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/transformer": {
+    "criteria": {
+      "has_mv_connector": "2022-06-10 13:24:57 +0200"
     },
     "done": true
   },
@@ -2105,6 +2135,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2022-06-10 13:25:38 +0200"
+    },
+    "done": true
+  },
   "oreclumps:recipes/building_blocks/raw_silver_block": {
     "criteria": {
       "has_raw_ore": "2022-05-27 12:19:19 +0200"
@@ -2246,6 +2282,12 @@
   "creategearaddon:recipes/large_palm_cogwheel": {
     "criteria": {
       "has_item": "2022-05-27 13:25:13 +0200"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/reinforced/controller_ingots_yellorium": {
+    "criteria": {
+      "has_item2": "2022-06-10 13:57:21 +0200"
     },
     "done": true
   },
@@ -2564,6 +2606,12 @@
   "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2022-05-27 13:31:41 +0200"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/basic/controller_ingots_uranium": {
+    "criteria": {
+      "has_item2": "2022-06-10 13:57:21 +0200"
     },
     "done": true
   },
@@ -2964,6 +3012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2022-06-10 13:34:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-05-27 12:08:11 +0200"
@@ -3045,6 +3099,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2022-05-27 11:51:14 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/transformer_hv": {
+    "criteria": {
+      "has_hv_connector": "2022-06-10 13:24:58 +0200"
     },
     "done": true
   },
@@ -3282,6 +3342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2022-06-10 13:29:57 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-05-27 11:38:02 +0200"
@@ -3297,6 +3363,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2022-05-30 17:51:02 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_ingot_tin_blast": {
+    "criteria": {
+      "has_chunk": "2022-06-10 13:49:26 +0200"
     },
     "done": true
   },
@@ -3510,6 +3582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2022-06-10 13:34:26 +0200"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
     "criteria": {
       "redstone": "2022-05-27 12:19:02 +0200"
@@ -3555,6 +3633,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
     "criteria": {
       "has_copper_ingot": "2022-05-27 12:14:07 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_mesh_diamond": {
+    "criteria": {
+      "has_mesh": "2022-06-10 14:04:32 +0200"
     },
     "done": true
   },
@@ -3841,6 +3925,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.reactor/reactor/basic/fuelrod_ingots_uranium": {
+    "criteria": {
+      "has_item": "2022-06-10 13:57:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2022-05-27 12:31:29 +0200"
@@ -3895,6 +3985,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/redstone_breaker": {
+    "criteria": {
+      "has_hv_connector": "2022-06-10 13:24:58 +0200"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.general/fluidizer/casing": {
+    "criteria": {
+      "has_item": "2022-06-10 13:57:21 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2022-05-27 13:31:41 +0200"
@@ -3931,6 +4033,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.reactor/reactor/basic/controller_ingots_yellorium": {
+    "criteria": {
+      "has_item2": "2022-06-10 13:57:21 +0200"
+    },
+    "done": true
+  },
   "exnihilosequentia:recipes/exnihilosequentia/ens_hammer_diamond": {
     "criteria": {
       "has_stick": "2022-05-27 11:38:35 +0200"
@@ -3964,6 +4072,12 @@
   "createdeco:recipes/createdeco.metals/zinc_bars": {
     "criteria": {
       "has_item": "2022-05-30 13:22:48 +0200"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/basic/fuelrod_ingots_yellorium": {
+    "criteria": {
+      "has_item": "2022-06-10 13:57:21 +0200"
     },
     "done": true
   },
@@ -4069,6 +4183,12 @@
     },
     "done": true
   },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_chunk_tin": {
+    "criteria": {
+      "has_piece": "2022-06-10 13:28:49 +0200"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
     "criteria": {
       "ingot": "2022-05-27 12:11:49 +0200"
@@ -4084,6 +4204,12 @@
   "create:recipes/create.base/crafting/materials/copper_casing": {
     "criteria": {
       "has_item": "2022-05-27 12:14:07 +0200"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/reinforced/controller_ingots_uranium": {
+    "criteria": {
+      "has_item2": "2022-06-10 13:57:21 +0200"
     },
     "done": true
   },
@@ -4378,6 +4504,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2022-05-27 12:14:07 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_ingot_tin": {
+    "criteria": {
+      "has_chunk": "2022-06-10 13:49:26 +0200"
     },
     "done": true
   },
