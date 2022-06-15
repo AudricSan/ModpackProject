@@ -1,11 +1,13 @@
 Beta 0.4
     - New craft
-        # - Pipez universal pipe
+        - Pipez universal pipe
+        - Pipez upgrade craft
 
     - New items
 
     - Mod
         - Remove
+            - Extreme reactor
 
         - Update
 
@@ -13,7 +15,7 @@ Beta 0.4
     
     - Textures
         - New
-            # - Pipez universal pipe texture
+            - Pipez universal pipe texture
 
         - Edit
         
