@@ -25,6 +25,15 @@ events.listen('item.registry', function (e) {
 	// New Crushed
 	e.create('steel_crushed').displayName('Crushed Steel')
 
+	// New stick
+	e.create('steel_stick').displayName('Steel Stick')
+	e.create('aluminum_stick').displayName('Aluminum Stick')
+
+	// New Wire
+	e.create('lead_wire').displayName('Wire lead')
+	e.create('aluminum_wire').displayName('Wire lead')
+	e.create('steel_wire').displayName('Wire Steel')
+
 	// New Dust
 	e.create('gold_dust').displayName('Gold Dust')
 	e.create('tin_dust').displayName('Tin Dust')
