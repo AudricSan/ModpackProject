@@ -1,6 +1,8 @@
 - Beta 0.3
     - New craft
         - Pipez Energy pipe.
+        # - Pipez item pipe.
+        # - Pipez fluid pipe.
     
     - Edit Craft
         - Space boss tool Electric Blact Furnace
@@ -9,19 +11,31 @@
         - Remove
            - Mekanism
            - Exnihilo mekanism
+           - Immersive
+           - Immersive petroleum
 
         - Update
-
+            - Voice chat
         - New
     
+    - Textures
+        - New
+
+        - Edit
+            # - Pipez texture fit with create
+        
+        - Remove
+
     - JEI
         - Remove
             - Boss tools Blast Furnace
         
         - Add
 
+Beta 0.2.1
+    - Menu Texture Update
 
-- Beta 0.2
+Beta 0.2
     - Update Mod
         - Exnihilo
         - refined storage
@@ -73,6 +87,3 @@
         - cobble generator tier user previous tier
 
         - item and Energy cable of mekanism
-
-Beta 0.2.1
-    - Menu Texture Update

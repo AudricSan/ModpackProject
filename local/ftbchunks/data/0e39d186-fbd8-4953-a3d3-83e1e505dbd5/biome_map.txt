@@ -1,0 +1,13 @@
+#3DF byg:evergreen_clearing
+#548 byg:evergreen_hills
+#06C byg:evergreen_taiga
+#2DE byg:frozen_lake
+#3A0 minecraft:frozen_river
+#5FF minecraft:river
+#3B8 byg:shattered_glacier
+#0EA byg:snowy_blue_taiga
+#2BD byg:snowy_blue_taiga_hills
+#538 byg:snowy_deciduous_clearing
+#7A0 byg:snowy_deciduous_forest
+#340 minecraft:snowy_taiga
+#162 minecraft:snowy_tundra
