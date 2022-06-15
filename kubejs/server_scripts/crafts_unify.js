@@ -355,24 +355,13 @@ onEvent('recipes', e => {
         D: '#forge:storage_blocks/iron'
     })
 
-    // e.recipes.createMechanicalCrafting('2x mekanism:advanced_universal_cable', [
-    //     'AAAAA',
-    //     'ABBBA',
-    //     'ABCBA',
-    //     'ABBBA',
-    //     'AAAAA'
-    // ], {
-    //     A: 'mekanism:basic_universal_cable',
-    //     B: 'kubejs:craunium_sheet',
-    //     C: 'kubejs:craunium_nugget'
-    // })
-
     //PIPEZ
+    //pipe
     e.remove({id: 'pipez:energy_pipe'})
-    // e.remove({id: 'pipez:item_pipe'})
-    // e.remove({id: 'pipez:fluid_pipe'})
-    // e.remove({id: 'pipez:gaz_pipe'})
-    // e.remove({id: 'pipez:universal_pipe'})
+    e.remove({id: 'pipez:item_pipe'})
+    e.remove({id: 'pipez:fluid_pipe'})
+    e.remove({id: 'pipez:gaz_pipe'})
+    e.remove({id: 'pipez:universal_pipe'})
 
     e.shaped('pipez:energy_pipe', [
         'AAA',
@@ -383,6 +372,43 @@ onEvent('recipes', e => {
         B: '#forge:storage_blocks/redstone',
         C: '#forge:dusts/redstone'
     })
+    
+    e.shaped('pipez:fluid_pipe', [
+        'AAA',
+        'BCB',
+        'AAA'
+    ], {
+        A: '#forge:plates/iron',
+        B: 'create:fluid_tank',
+        C: '#forge:dusts/redstone'
+    })
+    
+    e.shaped('pipez:item_pipe', [
+        'AAA',
+        'BCB',
+        'AAA'
+    ], {
+        A: '#forge:plates/iron',
+        B: 'minecraft:dropper',
+        C: '#forge:dusts/redstone'
+    })
+
+    //upgrade
+    e.recipes.createMechanicalCrafting('pipez:infinity_upgrade', [
+        'AAAAAAA',
+        'ABBBBBA',
+        'ABCCCBA',
+        'ABCDCBA',
+        'ABCCCBA',
+        'ABBBBBA',
+        'AAAAAAA'
+    ], {
+        A: 'pipez:basic_upgrade',
+        B: 'pipez:improved_upgrade',
+        C: 'pipez:advanced_upgrade',
+        D: 'pipez:ultimate_upgrade'
+    })
+    
 
     // FUNCTION //
     function replaceIO(oldItem, newItem) {
