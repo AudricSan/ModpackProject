@@ -1,3 +1,2 @@
-[12:35:22] [INFO ] Loaded script client_scripts:hideMeka.js in 0.001 s
-[12:35:22] [INFO ] Loaded script client_scripts:jei.js in 0.003 s
-[12:35:22] [INFO ] Loaded 2/2 KubeJS client scripts in 0.016 s
+[12:58:55] [INFO ] Loaded script client_scripts:jei.js in 0.002 s
+[12:58:55] [INFO ] Loaded 1/1 KubeJS client scripts in 0.01 s

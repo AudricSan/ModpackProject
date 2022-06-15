@@ -9,5 +9,6 @@
 #2BD byg:snowy_blue_taiga_hills
 #538 byg:snowy_deciduous_clearing
 #7A0 byg:snowy_deciduous_forest
+#0F3 byg:snowy_deciduous_forest_hills
 #340 minecraft:snowy_taiga
 #162 minecraft:snowy_tundra
