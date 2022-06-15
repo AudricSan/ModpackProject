@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "alloyed:recipes/main_group/smithing/steel_shears": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/passivefluidport_forge": {
     "criteria": {
       "has_item2": "2022-06-15 14:36:03 +0200"
@@ -44,6 +50,12 @@
   "exnihilosequentia:recipes/exnihilosequentia/ens_barrel_stone": {
     "criteria": {
       "has_walls": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/smithing/steel_axe": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
     },
     "done": true
   },
@@ -86,6 +98,24 @@
   "create:pipe_spill": {
     "criteria": {
       "0": "2022-06-15 14:36:09 +0200"
+    },
+    "done": true
+  },
+  "creategears:recipes/creategears/fully_encased_chain_drive_horizontal": {
+    "criteria": {
+      "has_shaft": "2022-06-15 16:45:14 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/crafting/steel_door": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/smithing/steel_hoe": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
     },
     "done": true
   },
@@ -143,6 +173,12 @@
     },
     "done": true
   },
+  "create:belt_funnel": {
+    "criteria": {
+      "0": "2022-06-15 16:42:11 +0200"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/half_shaft_warped_cogwheel": {
     "criteria": {
       "has_cogwheels": "2022-06-15 14:35:36 +0200"
@@ -152,6 +188,12 @@
   "creategears:recipes/creategears/simple_gearshift_horizontal": {
     "criteria": {
       "has_cogwheel": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/crafting/steel_block": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
     },
     "done": true
   },
@@ -170,6 +212,12 @@
   "creategearaddon:recipes/half_shaft_umbran_cogwheel": {
     "criteria": {
       "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/smithing/steel_shovel": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
     },
     "done": true
   },
@@ -203,6 +251,18 @@
     },
     "done": true
   },
+  "boss_tools:rocket_tier_3_advancement": {
+    "criteria": {
+      "rocket_tier_3_advancement": "2022-06-15 16:48:49 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/smithing/steel_sword": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-06-15 14:03:20 +0200"
@@ -221,6 +281,12 @@
     },
     "done": true
   },
+  "alloyed:steel_ingot": {
+    "criteria": {
+      "has_steel_ingot": "2022-06-15 16:42:36 +0200"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/half_shaft_magic_cogwheel": {
     "criteria": {
       "has_cogwheels": "2022-06-15 14:35:36 +0200"
@@ -230,6 +296,12 @@
   "creategearaddon:recipes/half_shaft_hellbark_cogwheel": {
     "criteria": {
       "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/crafting/steel_bars": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
     },
     "done": true
   },
@@ -251,6 +323,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2022-06-15 16:45:11 +0200"
+    },
+    "done": true
+  },
   "creategears:recipes/creategears/half_shaft_gear": {
     "criteria": {
       "has_cogwheels": "2022-06-15 14:35:36 +0200"
@@ -269,6 +347,24 @@
     },
     "done": true
   },
+  "create:press": {
+    "criteria": {
+      "0": "2022-06-15 16:46:17 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2022-06-15 16:46:11 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2022-06-15 16:45:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2022-06-15 14:03:20 +0200"
@@ -278,6 +374,18 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-06-15 14:36:10 +0200"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2022-06-15 16:45:17 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/smithing/steel_pickaxe": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
     },
     "done": true
   },
@@ -305,6 +413,12 @@
     },
     "done": true
   },
+  "creategears:recipes/creategears/fully_encased_chain_drive_vertical": {
+    "criteria": {
+      "has_shaft": "2022-06-15 16:45:14 +0200"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/half_shaft_fir_cogwheel": {
     "criteria": {
       "has_cogwheels": "2022-06-15 14:35:36 +0200"
@@ -320,6 +434,18 @@
   "cobblefordays:recipes/misc/tier_3": {
     "criteria": {
       "has_water": "2022-06-15 14:36:03 +0200"
+    },
+    "done": true
+  },
+  "create:wrench": {
+    "criteria": {
+      "0": "2022-06-15 16:43:05 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/smithing/steel_fishing_rod": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
     },
     "done": true
   },

@@ -6,6 +6,7 @@
 #6472F9 minecraft:black_stained_glass_pane
 #FC75A4 byg:blue_spruce_leaves
 #6754E0 create:brass_belt_funnel
+#02FE08 create:brass_funnel
 #F522F4 minecraft:chest
 #7FDE54 minecraft:clay
 #DE242D minecraft:coal_ore

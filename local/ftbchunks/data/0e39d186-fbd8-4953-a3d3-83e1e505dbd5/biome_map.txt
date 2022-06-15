@@ -3,6 +3,7 @@
 #06C byg:evergreen_taiga
 #2DE byg:frozen_lake
 #3A0 minecraft:frozen_river
+#6E1 boss_tools:orbit
 #5FF minecraft:river
 #3B8 byg:shattered_glacier
 #0EA byg:snowy_blue_taiga
