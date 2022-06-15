@@ -28,10 +28,11 @@ events.listen('item.registry', function (e) {
 	// New stick
 	e.create('steel_stick').displayName('Steel Stick')
 	e.create('aluminum_stick').displayName('Aluminum Stick')
+	e.create('lead_stick').displayName('Lead Stick')
 
 	// New Wire
 	e.create('lead_wire').displayName('Wire lead')
-	e.create('aluminum_wire').displayName('Wire lead')
+	e.create('aluminum_wire').displayName('Wire Aluminum')
 	e.create('steel_wire').displayName('Wire Steel')
 
 	// New Dust
