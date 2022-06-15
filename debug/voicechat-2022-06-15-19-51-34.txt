@@ -1,0 +1,787 @@
+Simple Voice Chat Debug Report
+15.06.2022 19:51:34
+Compatibility version 14
+
+#####################################################################################################
+
+Loaded mods
+
+Mod ID: rsrequestify
+Name: RSRequestify
+Version: null
+Dependencies: 
+
+Mod ID: skyvillages
+Name: Sky Villages
+Version: null
+Dependencies: minecraft
+
+Mod ID: create_stuff_additions
+Name: Create Stuff Additions
+Version: null
+Dependencies: minecraft, create
+
+Mod ID: supermartijn642configlib
+Name: SuperMartijn642's Config Library
+Version: null
+Dependencies: forge, minecraft
+
+Mod ID: oreclumps
+Name: OreClumps
+Version: 0.4.0
+Dependencies: forge, minecraft
+
+Mod ID: simplemagnets
+Name: Simple Magnets
+Version: null
+Dependencies: forge, minecraft, supermartijn642corelib, supermartijn642configlib
+
+Mod ID: modnametooltip
+Name: Mod Name Tooltip
+Version: null
+Dependencies: forge
+
+Mod ID: cardboardboxes
+Name: [SBM] Cardboard Boxes
+Version: 0.0.5
+Dependencies: forge, minecraft
+
+Mod ID: ctm
+Name: ConnectedTexturesMod
+Version: MC1.16.1-1.1.2.6
+Dependencies: forge
+
+Mod ID: controlling
+Name: Controlling
+Version: 7.0.0.28
+Dependencies: forge, minecraft
+
+Mod ID: placebo
+Name: Placebo
+Version: null
+Dependencies: forge, minecraft
+
+Mod ID: dankstorage
+Name: Dank Storage
+Version: 3.21
+Dependencies: forge
+
+Mod ID: bookshelf
+Name: Bookshelf
+Version: null
+Dependencies: forge, minecraft
+
+Mod ID: botanypotstiers
+Name: Botany Pots Tiers
+Version: 1.141
+Dependencies: botanypots, bookshelf, forge, minecraft
+
+Mod ID: randompatches
+Name: RandomPatches
+Version: forge
+Dependencies: minecraft
+
+Mod ID: excompressum
+Name: Ex Compressum
+Version: null
+Dependencies: 
+
+Mod ID: create_tools_and_armor
+Name: Create Tools and Armor
+Version: null
+Dependencies: minecraft
+
+Mod ID: bygvanillabiomes
+Name: [BYG Addon] Enhanced Vanilla Biomes
+Version: null
+Dependencies: 
+
+Mod ID: jeresources
+Name: Just Enough Resources
+Version: 0.12.1.128
+Dependencies: jei
+
+Mod ID: upm
+Name: Universal Power Monitor
+Version: 0.1.12
+Dependencies: 
+
+Mod ID: createfa
+Name: CreateFoodAdditions
+Version: null
+Dependencies: forge, minecraft, create
+
+Mod ID: refinedstorage
+Name: Refined Storage
+Version: null
+Dependencies: 
+
+Mod ID: createcafe
+Name: Create Cafe
+Version: 2.4
+Dependencies: create
+
+Mod ID: packmenu
+Name: PackMenu
+Version: null
+Dependencies: forge, minecraft, placebo
+
+Mod ID: createplus
+Name: Create Plus
+Version: 1.16.4_v0.3.2.1
+Dependencies: forge, minecraft, create
+
+Mod ID: supermartijn642corelib
+Name: SuperMartijn642's Core Lib
+Version: null
+Dependencies: forge, minecraft
+
+Mod ID: patchouli
+Name: Patchouli
+Version: 53.2
+Dependencies: forge
+
+Mod ID: collective
+Name: Collective
+Version: null
+Dependencies: forge, minecraft
+
+Mod ID: oreexcavation
+Name: Ore Excavation
+Version: null
+Dependencies: 
+
+Mod ID: tiab
+Name: Time In A Bottle
+Version: null
+Dependencies: 
+
+Mod ID: sneaky_tree_growing
+Name: Sneaky Tree Growing
+Version: null
+Dependencies: forge, minecraft
+
+Mod ID: extrastorage
+Name: Extra Storage
+Version: null
+Dependencies: forge, minecraft, refinedstorage
+
+Mod ID: constructionwand
+Name: Construction Wand
+Version: 2.6
+Dependencies: forge, minecraft
+
+Mod ID: architectury
+Name: Architectury
+Version: null
+Dependencies: minecraft
+
+Mod ID: lightoverlay
+Name: Light Overlay
+Version: null
+Dependencies: cloth-config, architectury
+
+Mod ID: cloth-config
+Name: Cloth Config v4 API
+Version: null
+Dependencies: 
+
+Mod ID: cobblefordays
+Name: Cobble For Days
+Version: null
+Dependencies: 
+
+Mod ID: fastleafdecay
+Name: FastLeafDecay
+Version: v25.2
+Dependencies: 
+
+Mod ID: codechickenlib
+Name: CodeChicken Lib
+Version: 4.0.7.445
+Dependencies: forge, minecraft
+
+Mod ID: inventorysorter
+Name: Simple Inventory Sorter
+Version: null
+Dependencies: 
+
+Mod ID: rhino
+Name: Rhino
+Version: build.75
+Dependencies: forge, minecraft
+
+Mod ID: biggerreactors
+Name: Bigger Reactors
+Version: null
+Dependencies: forge, minecraft, phosphophyllite
+
+Mod ID: ftblibrary
+Name: FTB Library
+Version: build.90
+Dependencies: forge, minecraft, architectury
+
+Mod ID: ftbteams
+Name: FTB Teams
+Version: build.40
+Dependencies: forge, minecraft, architectury, ftblibrary
+
+Mod ID: rechiseled
+Name: rechiseled
+Version: null
+Dependencies: forge, minecraft, supermartijn642corelib, supermartijn642configlib
+
+Mod ID: jei
+Name: Just Enough Items
+Version: 7.7.1.152
+Dependencies: forge, minecraft
+
+Mod ID: itemfilters
+Name: Item Filters
+Version: build.9
+Dependencies: forge, minecraft, architectury, jei
+
+Mod ID: simplerpc
+Name: Simple RPC
+Version: null
+Dependencies: forge, minecraft
+
+Mod ID: boss_tools
+Name: Space-BossTools
+Version: 5.5e
+Dependencies: minecraft, forge, tconstruct
+
+Mod ID: createchunkloading
+Name: Create Chunkloading
+Version: null
+Dependencies: forge, minecraft, create
+
+Mod ID: clumps
+Name: Clumps
+Version: 6.0.0.28
+Dependencies: forge, minecraft
+
+Mod ID: shutupexperimentalsettings
+Name: Shutup Experimental Settings!
+Version: null
+Dependencies: forge
+
+Mod ID: configured
+Name: Configured
+Version: null
+Dependencies: forge, minecraft, catalogue
+
+Mod ID: libx
+Name: LibX
+Version: 1.0.76
+Dependencies: forge, minecraft
+
+Mod ID: compactmachines
+Name: Compact Machines 4
+Version: beta.2
+Dependencies: forge, minecraft
+
+Mod ID: botanypots
+Name: BotanyPots
+Version: null
+Dependencies: forge, minecraft, bookshelf, crafttweaker
+
+Mod ID: botanytrees
+Name: BotanyTrees
+Version: null
+Dependencies: forge, minecraft, bookshelf, botanypots
+
+Mod ID: phosphophyllite
+Name: Phosphophyllite
+Version: null
+Dependencies: forge, minecraft
+
+Mod ID: create_confectionery
+Name: Create Confectionery
+Version: null
+Dependencies: minecraft, create
+
+Mod ID: mcjtylib
+Name: McJtyLib
+Version: 5.1.7
+Dependencies: forge
+
+Mod ID: rftoolsbase
+Name: RFToolsBase
+Version: 2.1.5
+Dependencies: forge, mcjtylib
+
+Mod ID: rftoolsstorage
+Name: RFToolsStorage
+Version: 2.0.19
+Dependencies: forge, mcjtylib, rftoolsbase
+
+Mod ID: rftoolscontrol
+Name: RFToolsControl
+Version: 4.0.18
+Dependencies: forge, mcjtylib, rftoolsbase
+
+Mod ID: rftoolsdim
+Name: RFToolsDimensions
+Version: 7.0.21
+Dependencies: forge, mcjtylib, rftoolsbase
+
+Mod ID: toastcontrol
+Name: Toast Control
+Version: null
+Dependencies: forge, minecraft, placebo
+
+Mod ID: enderstorage
+Name: EnderStorage
+Version: 2.8.0.170
+Dependencies: forge, minecraft, codechickenlib
+
+Mod ID: rftoolspower
+Name: RFToolsPower
+Version: 3.0.14
+Dependencies: forge, mcjtylib, rftoolsbase
+
+Mod ID: panorama
+Name: Panorama
+Version: null
+Dependencies: forge, minecraft
+
+Mod ID: extradisks
+Name: Extra Disks
+Version: null
+Dependencies: forge, minecraft, refinedstorage
+
+Mod ID: ftbchunks
+Name: FTB Chunks
+Version: build.115
+Dependencies: forge, minecraft, architectury, ftblibrary, ftbteams, kubejs
+
+Mod ID: kubejs
+Name: KubeJS
+Version: build.299
+Dependencies: forge, minecraft, rhino, architectury, gamestages, jei
+
+Mod ID: forge
+Name: Forge
+Version: null
+Dependencies: 
+
+Mod ID: craftingtweaks
+Name: Crafting Tweaks
+Version: null
+Dependencies: 
+
+Mod ID: zerocore
+Name: Zero CORE 2
+Version: 2.1.17
+Dependencies: minecraft, forge
+
+Mod ID: bigreactors
+Name: Extreme Reactors
+Version: 2.0.45
+Dependencies: minecraft, forge, zerocore
+
+Mod ID: minecraft
+Name: Minecraft
+Version: null
+Dependencies: 
+
+Mod ID: tconstruct
+Name: Tinkers' Construct
+Version: 3.3.4.335
+Dependencies: forge, minecraft, mantle, crafttweaker
+
+Mod ID: rftoolsutility
+Name: RFToolsUtility
+Version: 3.1.16
+Dependencies: forge, mcjtylib, rftoolsbase
+
+Mod ID: voicechat
+Name: Simple Voice Chat
+Version: 2.2.45
+Dependencies: forge, minecraft
+
+Mod ID: theoneprobe
+Name: The One Probe
+Version: 3.1.7
+Dependencies: forge
+
+Mod ID: mousetweaks
+Name: Mouse Tweaks
+Version: null
+Dependencies: 
+
+Mod ID: ftbquests
+Name: FTB Quests
+Version: build.98
+Dependencies: forge, minecraft, architectury, ftblibrary, ftbteams, itemfilters, kubejs
+
+Mod ID: create_addon
+Name: Create Add-On
+Version: null
+Dependencies: minecraft
+
+Mod ID: rftoolsbuilder
+Name: RFToolsBuilder
+Version: 3.1.10
+Dependencies: forge, mcjtylib, rftoolsbase
+
+Mod ID: jeiintegration
+Name: JEI Integration
+Version: 7.1.0.22
+Dependencies: jei, forge, minecraft
+
+Mod ID: pipez
+Name: Pipez
+Version: 1.2.17
+Dependencies: forge, minecraft, mekanism
+
+Mod ID: flywheel
+Name: Flywheel
+Version: 0.2.5
+Dependencies: forge, minecraft
+
+Mod ID: alloyed
+Name: Create: Alloyed
+Version: null
+Dependencies: forge, create, flywheel, farmersdelight, minecraft
+
+Mod ID: steampowered
+Name: Create: Steam Powered
+Version: 1.2.0-hf1
+Dependencies: forge, minecraft, create, flywheel, alloyed
+
+Mod ID: create
+Name: Create
+Version: v0.3.2g
+Dependencies: forge, minecraft, flywheel
+
+Mod ID: morecreatestuffs
+Name: More Create Stuffs
+Version: mc1.16-1.4.1b
+Dependencies: create
+
+Mod ID: createdeco
+Name: Create Deco
+Version: 1.16.5
+Dependencies: forge, minecraft, create
+
+Mod ID: creategears
+Name: Create Gears
+Version: 1.3.3
+Dependencies: forge, minecraft, create, createautomated
+
+Mod ID: creategearaddon
+Name: Create gear addon
+Version: v2.0.0
+Dependencies: forge, create, creategears, minecraft
+
+Mod ID: mantle
+Name: Mantle
+Version: null
+Dependencies: forge, minecraft
+
+Mod ID: gravestone
+Name: Gravestone Mod
+Version: 1.0.6
+Dependencies: forge, minecraft
+
+Mod ID: ftbbackups
+Name: FTB Backups
+Version: 2.1.2.2
+Dependencies: forge, minecraft
+
+Mod ID: fastbench
+Name: Fast Workbench
+Version: null
+Dependencies: forge, minecraft, placebo
+
+Mod ID: polymorph
+Name: Polymorph
+Version: 0.40
+Dependencies: forge, minecraft, fastbench, fastfurnace, sophisticatedbackpacks
+
+Mod ID: justenoughprofessions
+Name: Just Enough Professions (JEP)
+Version: null
+Dependencies: jei
+
+Mod ID: storagedrawers
+Name: Storage Drawers
+Version: null
+Dependencies: minecraft, forge
+
+Mod ID: topaddons
+Name: TOP Addons
+Version: 2.2.0-beta
+Dependencies: forge, minecraft, theoneprobe, storagedrawers, cofh_core, thermal, thermal_foundation, thermal_expansion
+
+Mod ID: createsupercharged
+Name: Create: SuperCharged
+Version: null
+Dependencies: minecraft
+
+Mod ID: rslargepatterns
+Name: Refined Storage Large Patterns
+Version: 2.1.0.3
+Dependencies: forge, refinedstorage
+
+Mod ID: kubejs_create
+Name: KubeJS Create
+Version: build.12
+Dependencies: kubejs, create
+
+Mod ID: fastfurnace
+Name: FastFurnace
+Version: null
+Dependencies: forge, minecraft, placebo
+
+Mod ID: boss_tools_giselle_addon
+Name: Space-BossTools: Giselle Addon
+Version: null
+Dependencies: forge, minecraft, boss_tools, mekanism
+
+Mod ID: appleskin
+Name: AppleSkin
+Version: 2.4.0+mc1.16.4
+Dependencies: forge
+
+Mod ID: ferritecore
+Name: Ferrite Core
+Version: null
+Dependencies: forge, minecraft
+
+Mod ID: connectedglass
+Name: Connected Glass
+Version: 1.1.3a
+Dependencies: forge, minecraft
+
+Mod ID: extendedcreativeinventory
+Name: Extended Creative Inventory
+Version: null
+Dependencies: collective
+
+Mod ID: byg
+Name: Oh The Biomes You'll Go
+Version: null
+Dependencies: forge
+
+Mod ID: refinedstorageaddons
+Name: Refined Storage Addons
+Version: null
+Dependencies: refinedstorage
+
+Mod ID: exnihilotinkers
+Name: Ex Nihilo: Sequentia - Tinkers Addon
+Version: 1.0.0.0
+Dependencies: forge, minecraft, exnihilosequentia, tconstruct
+
+Mod ID: exnihilosequentia
+Name: Ex Nihilo: Sequentia
+Version: 20220530-185402
+Dependencies: forge, minecraft
+
+Mod ID: createaddition
+Name: Create Crafts & Additions
+Version: 20220129a
+Dependencies: forge, create, flywheel, immersiveengineering, computercraft, appliedenergistics2, minecraft
+
+
+#####################################################################################################
+
+Keybinds
+
+key.attack(key.categories.gameplay): key.mouse.left (key.mouse.left)
+key.use(key.categories.gameplay): key.mouse.right (key.mouse.right)
+key.forward(key.categories.movement): key.keyboard.up (key.keyboard.w)
+key.left(key.categories.movement): key.keyboard.left (key.keyboard.a)
+key.back(key.categories.movement): key.keyboard.down (key.keyboard.s)
+key.right(key.categories.movement): key.keyboard.right (key.keyboard.d)
+key.jump(key.categories.movement): key.keyboard.space (key.keyboard.space)
+key.sneak(key.categories.movement): key.keyboard.right.control (key.keyboard.left.shift)
+key.sprint(key.categories.movement): key.keyboard.right.shift (key.keyboard.left.control)
+key.drop(key.categories.inventory): key.keyboard.p (key.keyboard.q)
+key.inventory(key.categories.inventory): key.keyboard.i (key.keyboard.e)
+key.chat(key.categories.multiplayer): key.keyboard.slash (key.keyboard.t)
+key.playerlist(key.categories.multiplayer): key.keyboard.tab (key.keyboard.tab)
+key.pickItem(key.categories.gameplay): key.mouse.middle (key.mouse.middle)
+key.command(key.categories.multiplayer): key.keyboard.period (key.keyboard.slash)
+key.socialInteractions(key.categories.multiplayer): key.keyboard.unknown (key.keyboard.p)
+key.screenshot(key.categories.misc): key.keyboard.f2 (key.keyboard.f2)
+key.togglePerspective(key.categories.misc): key.keyboard.f5 (key.keyboard.f5)
+key.smoothCamera(key.categories.misc): key.keyboard.unknown (key.keyboard.unknown)
+key.fullscreen(key.categories.misc): key.keyboard.f11 (key.keyboard.f11)
+key.spectatorOutlines(key.categories.misc): key.keyboard.unknown (key.keyboard.unknown)
+key.swapOffhand(key.categories.inventory): key.keyboard.o (key.keyboard.f)
+key.saveToolbarActivator(key.categories.creative): key.keyboard.unknown (key.keyboard.c)
+key.loadToolbarActivator(key.categories.creative): key.keyboard.unknown (key.keyboard.x)
+key.advancements(key.categories.misc): key.keyboard.l (key.keyboard.l)
+key.hotbar.1(key.categories.inventory): key.keyboard.1 (key.keyboard.1)
+key.hotbar.2(key.categories.inventory): key.keyboard.2 (key.keyboard.2)
+key.hotbar.3(key.categories.inventory): key.keyboard.3 (key.keyboard.3)
+key.hotbar.4(key.categories.inventory): key.keyboard.4 (key.keyboard.4)
+key.hotbar.5(key.categories.inventory): key.keyboard.5 (key.keyboard.5)
+key.hotbar.6(key.categories.inventory): key.keyboard.6 (key.keyboard.6)
+key.hotbar.7(key.categories.inventory): key.keyboard.7 (key.keyboard.7)
+key.hotbar.8(key.categories.inventory): key.keyboard.8 (key.keyboard.8)
+key.hotbar.9(key.categories.inventory): key.keyboard.9 (key.keyboard.9)
+key.lightoverlay.enable_overlay(key.lightoverlay.category): key.keyboard.f7 (key.keyboard.f7)
+key.secondarySprint(key.categories.movement): key.keyboard.unknown (key.keyboard.w)
+key.dismount(key.categories.gameplay): key.keyboard.left.shift (key.keyboard.left.shift)
+key.narrator(key.categories.misc): key.keyboard.unknown (key.keyboard.b)
+key.pause(key.categories.misc): key.keyboard.escape (key.keyboard.escape)
+key.gui(key.categories.misc): key.keyboard.unknown (key.keyboard.f1)
+key.debugInfo(key.categories.misc): key.keyboard.f3 (key.keyboard.f3)
+key.create_stuff_additions.flying(key.categories.create_stuff_additions): key.keyboard.space (key.keyboard.space)
+key.create_addon.fan_slow_fall(key.categories.misc): key.keyboard.unknown (key.keyboard.b)
+key.ftbchunks.map(key.categories.ui): key.keyboard.semicolon (key.keyboard.m)
+key.ftbchunks.minimap.zoomIn(key.categories.ui): key.keyboard.keypad.add (key.keyboard.equal)
+key.ftbchunks.minimap.zoomOut(key.categories.ui): key.keyboard.keypad.subtract (key.keyboard.minus)
+keys.simplemagnets.toggle(keys.category.simplemagnets): key.keyboard.h (key.keyboard.h)
+key.toggleLiquids(key.categories.theoneprobe): key.keyboard.unknown (key.keyboard.unknown)
+key.toggleVisible(key.categories.theoneprobe): key.keyboard.unknown (key.keyboard.unknown)
+placebo.toggleWings(key.categories.placebo): key.keyboard.keypad.8 (key.keyboard.keypad.8)
+placebo.toggleTrails(key.categories.placebo): key.keyboard.keypad.9 (key.keyboard.keypad.9)
+key.dankstorage.construction(key.categories.dankstorage): key.keyboard.i (key.keyboard.i)
+oreexcavation.key.excavate(OreExcavation): key.keyboard.keypad.0 (key.keyboard.grave.accent)
+oreexcavation.key.shape_toggle(OreExcavation): key.keyboard.keypad.3 (key.keyboard.v)
+oreexcavation.key.shape_edit(OreExcavation): key.keyboard.keypad.1 (key.keyboard.b)
+key.ftbquests.quests(key.categories.ftbquests): key.keyboard.comma (key.keyboard.unknown)
+key.inventorysorter.itemin(keygroup.inventorysorter): key.mouse.100 (key.mouse.100)
+key.inventorysorter.sort(keygroup.inventorysorter): key.mouse.middle (key.mouse.middle)
+key.inventorysorter.itemout(keygroup.inventorysorter): key.mouse.102 (key.mouse.102)
+key.refinedstorage.focusSearchBar(Refined Storage): key.keyboard.tab (key.keyboard.tab)
+key.refinedstorage.clearGridCraftingMatrix(Refined Storage): key.keyboard.x (key.keyboard.x)
+key.refinedstorage.openWirelessGrid(Refined Storage): key.keyboard.unknown (key.keyboard.unknown)
+key.refinedstorage.openWirelessFluidGrid(Refined Storage): key.keyboard.unknown (key.keyboard.unknown)
+key.refinedstorage.openWirelessCraftingMonitor(Refined Storage): key.keyboard.unknown (key.keyboard.unknown)
+key.refinedstorage.openPortableGrid(Refined Storage): key.keyboard.unknown (key.keyboard.unknown)
+key.nextDestination(key.categories.rftools): key.keyboard.right.bracket (key.keyboard.right.bracket)
+key.prevDestination(key.categories.rftools): key.keyboard.left.bracket (key.keyboard.left.bracket)
+key.openManual(key.categories.mcjtylib): key.keyboard.f1 (key.keyboard.f1)
+key.toastcontrol.clear(key.toastcontrol.category): key.keyboard.j (key.keyboard.j)
+panorama.keybinds.screenshot(Panorama): key.keyboard.f4 (key.keyboard.f4)
+key.boss_tools.rocket_start(key.categories.boss_tools): key.keyboard.space (key.keyboard.space)
+key.push_to_talk(key.categories.voicechat): key.keyboard.caps.lock (key.keyboard.caps.lock)
+key.whisper(key.categories.voicechat): key.keyboard.unknown (key.keyboard.unknown)
+key.mute_microphone(key.categories.voicechat): key.keyboard.m (key.keyboard.m)
+key.disable_voice_chat(key.categories.voicechat): key.keyboard.n (key.keyboard.n)
+key.hide_icons(key.categories.voicechat): key.keyboard.h (key.keyboard.h)
+key.voice_chat(key.categories.voicechat): key.keyboard.v (key.keyboard.v)
+key.voice_chat_settings(key.categories.voicechat): key.keyboard.unknown (key.keyboard.unknown)
+key.voice_chat_group(key.categories.voicechat): key.keyboard.g (key.keyboard.g)
+key.voice_chat_toggle_recording(key.categories.voicechat): key.keyboard.unknown (key.keyboard.unknown)
+key.voice_chat_adjust_volumes(key.categories.voicechat): key.keyboard.unknown (key.keyboard.unknown)
+key.tconstruct.helmet_interact(key.categories.tconstruct): key.keyboard.z (key.keyboard.z)
+key.tconstruct.leggings_interact(key.categories.tconstruct): key.keyboard.i (key.keyboard.i)
+key.refinedstorageaddons.openWirelessCraftingGrid(Refined Storage Addons): key.keyboard.g (key.keyboard.g)
+create.keyinfo.toolmenu(Create): key.keyboard.right.alt (key.keyboard.left.alt)
+create.keyinfo.toolbelt(Create): key.keyboard.right.alt (key.keyboard.left.alt)
+key.craftingtweaks.rotate(key.categories.craftingtweaks): key.keyboard.unknown (key.keyboard.unknown)
+key.craftingtweaks.rotate_counter_clockwise(key.categories.craftingtweaks): key.keyboard.unknown (key.keyboard.unknown)
+key.craftingtweaks.balance(key.categories.craftingtweaks): key.keyboard.unknown (key.keyboard.unknown)
+key.craftingtweaks.spread(key.categories.craftingtweaks): key.keyboard.unknown (key.keyboard.unknown)
+key.craftingtweaks.clear(key.categories.craftingtweaks): key.keyboard.unknown (key.keyboard.unknown)
+key.craftingtweaks.force_clear(key.categories.craftingtweaks): key.keyboard.unknown (key.keyboard.unknown)
+key.craftingtweaks.toggleButtons(key.categories.craftingtweaks): key.keyboard.unknown (key.keyboard.unknown)
+key.craftingtweaks.compressOne(key.categories.craftingtweaks): key.keyboard.k (key.keyboard.k)
+key.craftingtweaks.compressStack(key.categories.craftingtweaks): key.keyboard.k (key.keyboard.k)
+key.craftingtweaks.compressAll(key.categories.craftingtweaks): key.keyboard.k (key.keyboard.k)
+key.craftingtweaks.decompressOne(key.categories.craftingtweaks): key.keyboard.unknown (key.keyboard.unknown)
+key.craftingtweaks.decompressStack(key.categories.craftingtweaks): key.keyboard.unknown (key.keyboard.unknown)
+key.craftingtweaks.decompressAll(key.categories.craftingtweaks): key.keyboard.unknown (key.keyboard.unknown)
+key.craftingtweaks.refill_last(key.categories.craftingtweaks): key.keyboard.tab (key.keyboard.tab)
+key.craftingtweaks.refill_last_stack(key.categories.craftingtweaks): key.keyboard.tab (key.keyboard.tab)
+key.configured.open_mod_list(key.categories.configured): key.keyboard.unknown (key.keyboard.unknown)
+key.jei.toggleOverlay(jei (Just Enough Items)): key.keyboard.o (key.keyboard.o)
+key.jei.focusSearch(jei (Just Enough Items)): key.keyboard.f (key.keyboard.f)
+key.jei.toggleCheatMode(jei (Just Enough Items)): key.keyboard.unknown (key.keyboard.unknown)
+key.jei.toggleEditMode(jei (Just Enough Items)): key.keyboard.unknown (key.keyboard.unknown)
+key.jei.showRecipe(jei (Just Enough Items)): key.keyboard.r (key.keyboard.r)
+key.jei.showUses(jei (Just Enough Items)): key.keyboard.u (key.keyboard.u)
+key.jei.recipeBack(jei (Just Enough Items)): key.keyboard.backspace (key.keyboard.backspace)
+key.jei.previousPage(jei (Just Enough Items)): key.keyboard.page.up (key.keyboard.page.up)
+key.jei.nextPage(jei (Just Enough Items)): key.keyboard.page.down (key.keyboard.page.down)
+key.jei.previousCategory(jei (Just Enough Items)): key.keyboard.page.up (key.keyboard.page.up)
+key.jei.nextCategory(jei (Just Enough Items)): key.keyboard.page.down (key.keyboard.page.down)
+key.jei.bookmark(jei (Just Enough Items)): key.keyboard.a (key.keyboard.a)
+key.jei.toggleBookmarkOverlay(jei (Just Enough Items)): key.keyboard.unknown (key.keyboard.unknown)
+
+#####################################################################################################
+
+Input Devices
+
+OpenAL Soft on Microfoon (HyperX Quadcast)
+OpenAL Soft on VoiceMeeter VAIO3 Output (VB-Audio VoiceMeeter VAIO3)
+OpenAL Soft on Microfoonmatrix (Technologie Intel® Smart Sound)
+OpenAL Soft on VoiceMeeter Aux Output (VB-Audio VoiceMeeter AUX VAIO)
+OpenAL Soft on CABLE-C Output (VB-Audio Cable C)
+OpenAL Soft on CABLE-D Output (VB-Audio Cable D)
+OpenAL Soft on CABLE-B Output (VB-Audio Cable B)
+OpenAL Soft on VoiceMeeter Output (VB-Audio VoiceMeeter VAIO)
+OpenAL Soft on CABLE-A Output (VB-Audio Cable A)
+
+#####################################################################################################
+
+Output Devices
+
+OpenAL Soft on CABLE-B Input (VB-Audio Cable B)
+OpenAL Soft on CABLE-A Input (VB-Audio Cable A)
+OpenAL Soft on VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+OpenAL Soft on Speaker (Realtek(R) Audio)
+OpenAL Soft on VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)
+OpenAL Soft on CABLE-C Input (VB-Audio Cable C)
+OpenAL Soft on CABLE-D Input (VB-Audio Cable D)
+OpenAL Soft on Haut-parleurs (HyperX Quadcast)
+OpenAL Soft on Nvidia-D Input (NVIDIA High Definition Audio)
+OpenAL Soft on Nvidia-C Input (NVIDIA High Definition Audio)
+OpenAL Soft on VoiceMeeter VAIO3 Input (VB-Audio VoiceMeeter VAIO3)
+
+#####################################################################################################
+
+Operating System
+Windows 10
+10.0
+amd64
+
+#####################################################################################################
+
+Java
+
+Version: 1.8.0_51
+#####################################################################################################
+
+OpenAL
+
+Version: 1.1 ALSOFT 1.19.1
+Vendor: OpenAL Community
+#####################################################################################################
+
+Connection
+Local Server
+
+Voice chat connected
+Address: /127.0.0.1
+Port: 56659
+Codec: VOIP
+Groups enabled
+Sample rate: 48000
+Frame size: 960
+MTU size: 1024
+Distance: 48.0
+Fade distance: 4.0
+Crouch distance multiplier: 1.0
+Whisper distance multiplier: 0.5
+Authenticated: true
+Recording: false
+
+#####################################################################################################
+
+Client Configuration
+
+
+#####################################################################################################
+
+Player volumes
+
+

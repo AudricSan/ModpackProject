@@ -5,21 +5,15 @@
     },
     "done": true
   },
-  "create:its_alive": {
+  "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
-      "0": "2022-06-15 14:35:48 +0200"
+      "has_glass": "2022-06-15 20:23:03 +0200"
     },
     "done": true
   },
-  "alloyed:recipes/main_group/smithing/steel_shears": {
+  "rftoolsstorage:recipes/rftoolsstorage/storage_control_module": {
     "criteria": {
-      "has_ingredient": "2022-06-15 16:42:37 +0200"
-    },
-    "done": true
-  },
-  "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/passivefluidport_forge": {
-    "criteria": {
-      "has_item2": "2022-06-15 14:36:03 +0200"
+      "ingot": "2022-06-15 19:53:35 +0200"
     },
     "done": true
   },
@@ -29,15 +23,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+  "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
-      "has_stone": "2022-06-15 14:03:20 +0200"
+      "has_glass_colorless": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/fluid_module": {
+    "criteria": {
+      "ingot": "2022-06-15 19:53:35 +0200"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2022-06-15 19:52:34 +0200"
     },
     "done": true
   },
@@ -53,9 +65,9 @@
     },
     "done": true
   },
-  "alloyed:recipes/main_group/smithing/steel_axe": {
+  "createdeco:recipes/createdeco.metals/copper_bars": {
     "criteria": {
-      "has_ingredient": "2022-06-15 16:42:37 +0200"
+      "has_item": "2022-06-15 19:52:34 +0200"
     },
     "done": true
   },
@@ -65,21 +77,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
+  "createdeco:recipes/createdeco.metals/copper_door": {
     "criteria": {
-      "has_stone": "2022-06-15 14:03:20 +0200"
+      "has_item": "2022-06-15 19:52:34 +0200"
     },
     "done": true
   },
-  "bigreactors:recipes/bigreactors.turbine/turbine/basic/passivefluidport_forge": {
+  "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
-      "has_item2": "2022-06-15 14:36:03 +0200"
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
-      "has_water_bucket": "2022-06-15 14:36:03 +0200"
+      "has_glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/iron_wand": {
+    "criteria": {
+      "has_item": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/button_module": {
+    "criteria": {
+      "ingot": "2022-06-15 19:53:35 +0200"
     },
     "done": true
   },
@@ -95,12 +125,6 @@
     },
     "done": true
   },
-  "create:pipe_spill": {
-    "criteria": {
-      "0": "2022-06-15 14:36:09 +0200"
-    },
-    "done": true
-  },
   "creategears:recipes/creategears/fully_encased_chain_drive_horizontal": {
     "criteria": {
       "has_shaft": "2022-06-15 16:45:14 +0200"
@@ -113,9 +137,9 @@
     },
     "done": true
   },
-  "alloyed:recipes/main_group/smithing/steel_hoe": {
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
-      "has_ingredient": "2022-06-15 16:42:37 +0200"
+      "has_glass": "2022-06-15 20:23:03 +0200"
     },
     "done": true
   },
@@ -125,21 +149,9 @@
     },
     "done": true
   },
-  "creategearaddon:recipes/half_shaft_dark_oak_cogwheel": {
+  "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
-      "has_cogwheels": "2022-06-15 14:35:36 +0200"
-    },
-    "done": true
-  },
-  "creategears:recipes/creategears/gear_from_cogwheel": {
-    "criteria": {
-      "has_cogwheel": "2022-06-15 14:35:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2022-06-15 14:36:10 +0200"
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
     },
     "done": true
   },
@@ -161,21 +173,57 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "rftoolsstorage:recipes/rftoolsstorage/dump_module": {
+    "criteria": {
+      "ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/half_shaft_birch_cogwheel": {
     "criteria": {
       "has_cogwheels": "2022-06-15 14:35:36 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2022-06-15 14:36:10 +0200"
-    },
-    "done": true
-  },
   "create:belt_funnel": {
     "criteria": {
       "0": "2022-06-15 16:42:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-15 20:23:03 +0200"
     },
     "done": true
   },
@@ -197,13 +245,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
+  "minecraft:recipes/tools/shears": {
     "criteria": {
-      "has_stone": "2022-06-15 14:03:20 +0200"
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
+  "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2022-06-15 14:03:20 +0200"
     },
@@ -215,9 +263,9 @@
     },
     "done": true
   },
-  "alloyed:recipes/main_group/smithing/steel_shovel": {
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
     "criteria": {
-      "has_ingredient": "2022-06-15 16:42:37 +0200"
+      "has_item": "2022-06-15 19:52:34 +0200"
     },
     "done": true
   },
@@ -227,15 +275,495 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
-      "in_water": "2022-06-15 14:36:10 +0200"
+      "has_glass": "2022-06-15 20:23:03 +0200"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2022-06-15 14:36:10 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "boss_tools:rocket_tier_3_advancement": {
+    "criteria": {
+      "rocket_tier_3_advancement": "2022-06-15 16:48:49 +0200"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/rechiseled/chisel": {
+    "criteria": {
+      "has_iron": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/smithing/steel_sword": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_magic_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/crafting/steel_bars": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_jacaranda_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/redstone_module": {
+    "criteria": {
+      "ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_cherry_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/space_chamber_card": {
+    "criteria": {
+      "glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/brewing/common/glass/vanilla/glass_bottle": {
+    "criteria": {
+      "has_glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2022-06-15 16:45:11 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
+    "criteria": {
+      "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_redwood_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "create:press": {
+    "criteria": {
+      "0": "2022-06-15 16:46:17 +0200"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass1": {
+    "criteria": {
+      "glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
+  "creategears:recipes/creategears/gear": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_fir_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "create:wrench": {
+    "criteria": {
+      "0": "2022-06-15 16:43:05 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2022-06-15 14:35:48 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/smithing/steel_shears": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/fluidplus_module": {
+    "criteria": {
+      "ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/clock_module": {
+    "criteria": {
+      "ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/machineinformation_module": {
+    "criteria": {
+      "ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/advanced_magnet": {
+    "criteria": {
+      "magnet": "2022-06-15 19:38:54 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/inventory_module": {
+    "criteria": {
+      "ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/smithing/steel_axe": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/green_shield_template_block": {
+    "criteria": {
+      "glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/diving_helmet": {
+    "criteria": {
+      "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
+    "criteria": {
+      "ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2022-06-15 14:36:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_casing": {
+    "criteria": {
+      "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "create:pipe_spill": {
+    "criteria": {
+      "0": "2022-06-15 14:36:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/smithing/steel_hoe": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/basic_magnet": {
+    "criteria": {
+      "iron": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/red_shield_template_block": {
+    "criteria": {
+      "glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_dark_oak_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "creategears:recipes/creategears/gear_from_cogwheel": {
+    "criteria": {
+      "has_cogwheel": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-06-15 14:36:10 +0200"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_def": {
+    "criteria": {
+      "iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/basic_demagnetization_coil": {
+    "criteria": {
+      "iron": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/blue_shield_template_block": {
+    "criteria": {
+      "glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-06-15 14:36:10 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/diving_boots": {
+    "criteria": {
+      "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_block_from_compacting": {
+    "criteria": {
+      "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "alloyed:recipes/main_group/smithing/steel_shovel": {
+    "criteria": {
+      "has_ingredient": "2022-06-15 16:42:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-06-15 14:36:10 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/energyplus_module": {
+    "criteria": {
+      "ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/energy_module": {
+    "criteria": {
+      "ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/text_module": {
+    "criteria": {
+      "ingot": "2022-06-15 19:53:35 +0200"
     },
     "done": true
   },
@@ -251,15 +779,9 @@
     },
     "done": true
   },
-  "boss_tools:rocket_tier_3_advancement": {
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
-      "rocket_tier_3_advancement": "2022-06-15 16:48:49 +0200"
-    },
-    "done": true
-  },
-  "alloyed:recipes/main_group/smithing/steel_sword": {
-    "criteria": {
-      "has_ingredient": "2022-06-15 16:42:37 +0200"
+      "has_glass": "2022-06-15 20:23:03 +0200"
     },
     "done": true
   },
@@ -269,15 +791,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/tinted_glass": {
+    "criteria": {
+      "glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_pants": {
+    "criteria": {
+      "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2022-06-15 14:36:10 +0200"
     },
     "done": true
   },
-  "bigreactors:recipes/bigreactors.reactor/reactor/reinforced/passivefluidport_forge": {
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_goggles": {
     "criteria": {
-      "has_item2": "2022-06-15 14:36:03 +0200"
+      "has_item": "2022-06-15 19:52:34 +0200"
     },
     "done": true
   },
@@ -287,27 +827,33 @@
     },
     "done": true
   },
-  "creategearaddon:recipes/half_shaft_magic_cogwheel": {
-    "criteria": {
-      "has_cogwheels": "2022-06-15 14:35:36 +0200"
-    },
-    "done": true
-  },
   "creategearaddon:recipes/half_shaft_hellbark_cogwheel": {
     "criteria": {
       "has_cogwheels": "2022-06-15 14:35:36 +0200"
     },
     "done": true
   },
-  "alloyed:recipes/main_group/crafting/steel_bars": {
+  "rftoolsbase:recipes/rftoolsbase/smartwrench": {
     "criteria": {
-      "has_ingredient": "2022-06-15 16:42:37 +0200"
+      "iron": "2022-06-15 19:53:35 +0200"
     },
     "done": true
   },
-  "creategearaddon:recipes/half_shaft_jacaranda_cogwheel": {
+  "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
-      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+      "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-15 20:23:03 +0200"
     },
     "done": true
   },
@@ -317,15 +863,15 @@
     },
     "done": true
   },
-  "creategearaddon:recipes/half_shaft_cherry_cogwheel": {
+  "create:recipes/create.base/crafting/materials/copper_nugget_from_decompacting": {
     "criteria": {
-      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+      "has_item": "2022-06-15 19:52:34 +0200"
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/logistics/content_observer": {
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
     "criteria": {
-      "has_item": "2022-06-15 16:45:11 +0200"
+      "has_item": "2022-06-15 19:52:34 +0200"
     },
     "done": true
   },
@@ -335,15 +881,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2022-06-15 14:03:20 +0200"
     },
     "done": true
   },
-  "creategearaddon:recipes/half_shaft_redwood_cogwheel": {
+  "minecraft:recipes/decorations/chain": {
     "criteria": {
-      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+      "has_iron_ingot": "2022-06-15 19:53:35 +0200"
     },
     "done": true
   },
@@ -353,27 +905,33 @@
     },
     "done": true
   },
-  "create:press": {
-    "criteria": {
-      "0": "2022-06-15 16:46:17 +0200"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2022-06-15 16:45:09 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_button": {
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
-      "has_stone": "2022-06-15 14:03:20 +0200"
+      "has_glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_hammer_iron": {
+    "criteria": {
+      "has_material": "2022-06-15 19:53:35 +0200"
     },
     "done": true
   },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-06-15 14:36:10 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2022-06-15 19:52:34 +0200"
     },
     "done": true
   },
@@ -389,13 +947,13 @@
     },
     "done": true
   },
-  "creategearaddon:recipes/half_shaft_oak_cogwheel": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+      "iron": "2022-06-15 19:53:35 +0200"
     },
     "done": true
   },
-  "creategears:recipes/creategears/gear": {
+  "creategearaddon:recipes/half_shaft_oak_cogwheel": {
     "criteria": {
       "has_cogwheels": "2022-06-15 14:35:36 +0200"
     },
@@ -419,9 +977,9 @@
     },
     "done": true
   },
-  "creategearaddon:recipes/half_shaft_fir_cogwheel": {
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
-      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+      "has_glass": "2022-06-15 20:23:03 +0200"
     },
     "done": true
   },
@@ -443,9 +1001,9 @@
     },
     "done": true
   },
-  "create:wrench": {
+  "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
-      "0": "2022-06-15 16:43:05 +0200"
+      "has_item": "2022-06-15 19:52:34 +0200"
     },
     "done": true
   },
@@ -455,9 +1013,21 @@
     },
     "done": true
   },
+  "rftoolsbuilder:recipes/rftoolsbuilder/yellow_shield_template_block": {
+    "criteria": {
+      "glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
   "cobblefordays:recipes/misc/tier_5": {
     "criteria": {
       "has_water": "2022-06-15 14:36:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-06-15 20:23:03 +0200"
     },
     "done": true
   },
