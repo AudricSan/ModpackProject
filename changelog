@@ -1,10 +1,14 @@
 - Beta 0.3
     - New craft
         - Pipez Energy pipe.
-        # - Pipez item pipe.
-        # - Pipez fluid pipe.
-    
-    - Edit Craft
+        - Pipez item pipe.
+        - Pipez fluid pipe.
+        # - Pipez universal pipe
+        - Pipez upgrade basic
+        - Pipez upgrade improved
+        - Pipez upgrade advanced
+        - Pipez upgrade infinity
+
         - Space boss tool Electric Blact Furnace
 
     - New items
@@ -12,6 +16,8 @@
         - aluminum stick
         - steel stick
         - steel wire
+        - lead wire
+        - lead stick
 
     - Mod
         - Remove
@@ -31,9 +37,14 @@
             - aluminum stick
             - steel stick
             - steel wire
+            - lead wire
+            - lead stick
 
         - Edit
-            # - Pipez texture fit with create
+            - Pipez fluid pipe texture fit with create
+            - Pipez item pipe texture fit with create
+            - Pipez energy pipe texture fit with create
+            # - Pipez universal pipe texture
         
         - Remove
 
