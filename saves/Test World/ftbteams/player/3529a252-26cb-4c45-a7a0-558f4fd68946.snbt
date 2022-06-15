@@ -7,7 +7,7 @@
 	}
 	properties: {
 		"ftbteams:display_name": "Audric__San"
-		"ftbteams:color": "#8DFF59"
+		"ftbteams:color": "#59CCFF"
 		"ftbchunks:block_edit_mode": "allies"
 		"ftbchunks:block_interact_mode": "allies"
 		"ftbteams:description": ""

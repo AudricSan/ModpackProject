@@ -12,3 +12,4 @@
 #0F3 byg:snowy_deciduous_forest_hills
 #340 minecraft:snowy_taiga
 #162 minecraft:snowy_tundra
+#495 minecraft:the_void
