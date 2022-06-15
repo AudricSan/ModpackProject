@@ -355,20 +355,6 @@ onEvent('recipes', e => {
         D: '#forge:storage_blocks/iron'
     })
 
-    // //REMOVE ALL MEKANISM
-    // e.remove({ mod: 'mekanism' })
-
-    // // Energy Cable
-
-    // e.shaped('8x mekanism:basic_universal_cable', [
-    //     '   ',
-    //     'ABA',
-    //     '   '
-    // ], {
-    //     A: '#forge:ingots/steel',
-    //     B: '#forge:dusts/redstone',
-    // })
-
     // e.recipes.createMechanicalCrafting('2x mekanism:advanced_universal_cable', [
     //     'AAAAA',
     //     'ABBBA',
@@ -379,80 +365,6 @@ onEvent('recipes', e => {
     //     A: 'mekanism:basic_universal_cable',
     //     B: 'kubejs:craunium_sheet',
     //     C: 'kubejs:craunium_nugget'
-    // })
-
-    // e.recipes.createMechanicalCrafting('2x mekanism:elite_universal_cable', [
-    //     'AAAAA',
-    //     'ABBBA',
-    //     'ABCBA',
-    //     'ABBBA',
-    //     'AAAAA'
-    // ], {
-    //     A: 'mekanism:advanced_universal_cable',
-    //     B: 'kubejs:craunium_gear',
-    //     C: 'kubejs:craunium_sheet'
-    // })
-
-    // e.recipes.createMechanicalCrafting('2x mekanism:ultimate_universal_cable', [
-    //     'AAAAA',
-    //     'ABBBA',
-    //     'ABCBA',
-    //     'ABBBA',
-    //     'AAAAA'
-    // ], {
-    //     A: 'mekanism:elite_universal_cable',
-    //     B: 'kubejs:craunium_crystal',
-    //     C: 'kubejs:craunium_gear'
-    // })
-
-    // // Item Cable
-
-    // e.recipes.createMechanicalCrafting('8x mekanism:basic_logistical_transporter', [
-    //     'AAAAA',
-    //     'ABBBA',
-    //     'ABCBA',
-    //     'ABBBA',
-    //     'AAAAA'
-    // ], {
-    //     A: 'minecraft:barrel',
-    //     B: 'kubejs:craunium_nugget',
-    //     C: 'kubejs:craunium_ingot'
-    // })
-
-    // e.recipes.createMechanicalCrafting('8x mekanism:advanced_logistical_transporter', [
-    //     'AAAAA',
-    //     'ABBBA',
-    //     'ABCBA',
-    //     'ABBBA',
-    //     'AAAAA'
-    // ], {
-    //     A: 'mekanism:basic_logistical_transporter',
-    //     B: 'kubejs:craunium_ingot',
-    //     C: 'kubejs:craunium_sheet'
-    // })
-
-    // e.recipes.createMechanicalCrafting('8x mekanism:elite_logistical_transporter', [
-    //     'AAAAA',
-    //     'ABBBA',
-    //     'ABCBA',
-    //     'ABBBA',
-    //     'AAAAA'
-    // ], {
-    //     A: 'mekanism:advanced_logistical_transporter',
-    //     B: 'kubejs:craunium_sheet',
-    //     C: 'kubejs:craunium_gear'
-    // })
-
-    // e.recipes.createMechanicalCrafting('8x mekanism:ultimate_logistical_transporter', [
-    //     'AAAAA',
-    //     'ABBBA',
-    //     'ABCBA',
-    //     'ABBBA',
-    //     'AAAAA'
-    // ], {
-    //     A: 'mekanism:elite_logistical_transporter',
-    //     B: 'kubejs:craunium_gear',
-    //     C: 'kubejs:craunium_crystal'
     // })
 
     //PIPEZ
