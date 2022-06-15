@@ -17,6 +17,10 @@
 #BED665 minecraft:diorite
 #80497A minecraft:dirt
 #3B3ABB tconstruct:earth_congealed_slime
+#B539F9 pipez:energy_pipe
+#DC0D87 create:fluid_pipe
+#A86BF7 pipez:fluid_pipe
+#DDC0C3 create:fluid_tank
 #689940 boss_tools_giselle_addon:fuel_loader
 #D60460 create:gearbox
 #060B35 minecraft:granite
@@ -27,6 +31,7 @@
 #52D27E minecraft:ice
 #29A309 boss_tools:iron_mark_block
 #A79F01 boss_tools:iron_plating_block
+#79904E pipez:item_pipe
 #83CED3 minecraft:lava
 #7482E4 minecraft:lilac
 #145137 create:mechanical_press
@@ -56,3 +61,4 @@
 #B96EB4 minecraft:structure_block
 #5CF3F1 minecraft:sugar_cane
 #329213 minecraft:sweet_berry_bush
+#9D5016 pipez:universal_pipe

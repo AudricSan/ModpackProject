@@ -1,41 +1,29 @@
 {
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+  "creategears:recipes/creategears/simple_gearshift_vertical": {
     "criteria": {
-      "has_stone": "2022-06-15 14:03:20 +0200"
+      "has_cogwheel": "2022-06-15 14:35:36 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+  "create:its_alive": {
     "criteria": {
-      "has_stone": "2022-06-15 14:03:20 +0200"
+      "0": "2022-06-15 14:35:48 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone": {
+  "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/passivefluidport_forge": {
     "criteria": {
-      "has_stone": "2022-06-15 14:03:20 +0200"
+      "has_item2": "2022-06-15 14:36:03 +0200"
     },
     "done": true
   },
-  "create:root": {
+  "creategearaddon:recipes/half_shaft_willow_cogwheel": {
     "criteria": {
-      "0": "2022-06-15 14:03:20 +0200"
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2022-06-15 14:03:20 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2022-06-15 14:03:20 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2022-06-15 14:03:20 +0200"
     },
@@ -59,9 +47,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_button": {
+  "create:recipes/create.base/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.turbine/turbine/basic/passivefluidport_forge": {
+    "criteria": {
+      "has_item2": "2022-06-15 14:36:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2022-06-15 14:36:03 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_jungle_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_palm_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "create:pipe_spill": {
+    "criteria": {
+      "0": "2022-06-15 14:36:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_dark_oak_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "creategears:recipes/creategears/gear_from_cogwheel": {
+    "criteria": {
+      "has_cogwheel": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-06-15 14:36:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-06-15 15:17:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_birch_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-06-15 14:36:10 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_warped_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "creategears:recipes/creategears/simple_gearshift_horizontal": {
+    "criteria": {
+      "has_cogwheel": "2022-06-15 14:35:36 +0200"
     },
     "done": true
   },
@@ -77,9 +167,75 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/half_shaft_umbran_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-06-15 14:36:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-06-15 14:36:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_acacia_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-15 14:36:10 +0200"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/reinforced/passivefluidport_forge": {
+    "criteria": {
+      "has_item2": "2022-06-15 14:36:03 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_magic_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_hellbark_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_jacaranda_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
     },
     "done": true
   },
@@ -89,9 +245,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
+  "creategearaddon:recipes/half_shaft_cherry_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "creategears:recipes/creategears/half_shaft_gear": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_redwood_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2022-06-15 14:03:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-15 14:36:10 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_oak_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "creategears:recipes/creategears/gear": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_dead_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_mahogany_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_fir_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/half_shaft_crimson_cogwheel": {
+    "criteria": {
+      "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_3": {
+    "criteria": {
+      "has_water": "2022-06-15 14:36:03 +0200"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_4": {
+    "criteria": {
+      "has_water": "2022-06-15 14:36:03 +0200"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_5": {
+    "criteria": {
+      "has_water": "2022-06-15 14:36:03 +0200"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_1": {
+    "criteria": {
+      "has_water": "2022-06-15 14:36:03 +0200"
+    },
+    "done": true
+  },
+  "cobblefordays:recipes/misc/tier_2": {
+    "criteria": {
+      "has_water": "2022-06-15 14:36:03 +0200"
     },
     "done": true
   },
