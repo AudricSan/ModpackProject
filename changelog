@@ -7,6 +7,12 @@
     - Edit Craft
         - Space boss tool Electric Blact Furnace
 
+    - New items
+        - aluminum wire
+        - aluminum stick
+        - steel stick
+        - steel wire
+
     - Mod
         - Remove
            - Mekanism
@@ -20,6 +26,11 @@
     
     - Textures
         - New
+            - Lead wire
+            - aluminum wire
+            - aluminum stick
+            - steel stick
+            - steel wire
 
         - Edit
             # - Pipez texture fit with create
@@ -31,6 +42,9 @@
             - Boss tools Blast Furnace
         
         - Add
+
+    - Modpack info
+        - Create back up of Kubejs files with Immersive
 
 Beta 0.2.1
     - Menu Texture Update
