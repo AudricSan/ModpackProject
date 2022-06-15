@@ -1,9 +1,36 @@
-- Beta 0.3
+Beta 0.4
+    - New craft
+        # - Pipez universal pipe
+
+    - New items
+
+    - Mod
+        - Remove
+
+        - Update
+
+        - New
+    
+    - Textures
+        - New
+            # - Pipez universal pipe texture
+
+        - Edit
+        
+    - JEI
+        - Remove
+
+        - Add
+        
+    - Modpack info
+
+    - NEXT UP
+
+Beta 0.3
     - New craft
         - Pipez Energy pipe.
         - Pipez item pipe.
         - Pipez fluid pipe.
-        # - Pipez universal pipe
         - Pipez upgrade basic
         - Pipez upgrade improved
         - Pipez upgrade advanced
@@ -44,18 +71,17 @@
             - Pipez fluid pipe texture fit with create
             - Pipez item pipe texture fit with create
             - Pipez energy pipe texture fit with create
-            # - Pipez universal pipe texture
         
-        - Remove
-
     - JEI
         - Remove
             - Boss tools Blast Furnace
         
-        - Add
-
     - Modpack info
         - Create back up of Kubejs files with Immersive
+
+    - NEXT UP
+        # - Pipez universal pipe texture
+        # - Pipez universal pipe craft
 
 Beta 0.2.1
     - Menu Texture Update
