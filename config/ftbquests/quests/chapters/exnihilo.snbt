@@ -1,0 +1,54 @@
+{
+	id: "4308C931D70A626C"
+	group: "587F4B20EE744A23"
+	order_index: 0
+	filename: "exnihilo"
+	title: "Exnihilo"
+	icon: "excompressum:auto_heavy_sieve"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -5.0d
+			y: 0.0d
+			dependency_requirement: "all_started"
+			id: "45ABB118B93F1604"
+			tasks: [{
+				id: "17033F6190AFA71A"
+				type: "item"
+				item: {
+					id: "exnihilosequentia:hammer_wood"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: 0.0d
+			id: "07A7B31C5D8B0F78"
+			tasks: [{
+				id: "372BF35253FB8A1F"
+				type: "item"
+				item: "minecraft:stripped_oak_wood"
+			}]
+		}
+		{
+			disable_toast: true
+			x: -3.5d
+			y: 1.5d
+			shape: "gear"
+			hide_dependency_lines: false
+			dependencies: ["45ABB118B93F1604"]
+			optional: true
+			id: "29F8E8D121E33EC8"
+			tasks: [{
+				id: "30C582B1AAB9F98D"
+				type: "item"
+				item: "excompressum:wood_chippings"
+			}]
+		}
+	]
+}

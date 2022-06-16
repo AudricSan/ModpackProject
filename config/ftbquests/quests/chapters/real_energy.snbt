@@ -1,7 +1,7 @@
 {
 	id: "51C1ED90B61B9D15"
-	group: ""
-	order_index: 4
+	group: "587F4B20EE744A23"
+	order_index: 1
 	filename: "real_energy"
 	title: "Electricity"
 	icon: "createaddition:tesla_coil"

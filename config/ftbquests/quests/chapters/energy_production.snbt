@@ -1,7 +1,7 @@
 {
 	id: "1DBA299686FEBFC2"
-	group: ""
-	order_index: 3
+	group: "7565C0146D052946"
+	order_index: 2
 	filename: "energy_production"
 	title: "Kinetic Energy"
 	icon: "create:hand_crank"
