@@ -1,0 +1,10 @@
+#290 byg:bayou
+#008 minecraft:desert
+#19B minecraft:desert_hills
+#3D4 byg:lush_red_desert
+#293 byg:red_desert
+#6BF byg:red_desert_dunes
+#5FF minecraft:river
+#67B minecraft:savanna
+#6BC byg:tropical_rainforest
+#06B byg:woodlands
