@@ -1,30 +1,17 @@
 // REMOVE
 onEvent('recipes', e => {
-    // wood
-    createPress('5x excompressum:wood_chippings', 'minecraft:stripped_oak_log')
+    e.remove({ id: 'create:crafting/kinetics/mechanical_press' })
 
-    e.shapeless('minecraft:stripped_oak_log', ['9x excompressum:wood_chippings'])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    e.shaped('create:mechanical_press', [
+        ' A ',
+        'BCB',
+        ' D '
+    ], {
+        A: 'create:andesite_alloy',
+        B: '#forge:cogwheels',
+        C: 'create:andesite_casing',
+        D: '#forge:storage_blocks/iron'
+    })
 
     // FUNCTION //
     function replaceIO(oldItem, newItem) {
