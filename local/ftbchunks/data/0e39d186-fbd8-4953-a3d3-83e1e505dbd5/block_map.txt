@@ -6,10 +6,13 @@
 #9C9D5B byg:black_ice
 #6472F9 minecraft:black_stained_glass_pane
 #FC75A4 byg:blue_spruce_leaves
+#5692CF connectedglass:borderless_glass
+#737AD8 connectedglass:borderless_glass_orange
 #6754E0 create:brass_belt_funnel
 #02FE08 create:brass_funnel
 #F522F4 minecraft:chest
 #7FDE54 minecraft:clay
+#15C150 connectedglass:clear_glass_orange
 #DE242D minecraft:coal_ore
 #058353 minecraft:cobblestone
 #B76D44 create:cogwheel
@@ -43,6 +46,7 @@
 #A4FC4B minecraft:mossy_cobblestone
 #AD9EB5 minecraft:oak_leaves
 #374556 minecraft:oak_sign
+#79BDC3 minecraft:orange_stained_glass
 #7C8629 boss_tools:oxygen_loader
 #C6AE54 byg:packed_black_ice
 #AB1C58 minecraft:peony
