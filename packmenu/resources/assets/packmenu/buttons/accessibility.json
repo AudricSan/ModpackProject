@@ -14,5 +14,5 @@
 
 	"action": "OPEN_GUI",
 	"data": "ACCESSIBILITY",
-	"texture": "minecraft:textures/gui/accessibility.png"
+	"texture": "cra:textures/gui/accessibility.png"
 }

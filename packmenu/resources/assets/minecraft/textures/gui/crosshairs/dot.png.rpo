@@ -1,4 +1,0 @@
-{
-  "conditions": "guiretextures:crosshair_style.dot",
-  "fallbacks": "assets/minecraft/textures/gui/crosshairs/pointer.png"
-}

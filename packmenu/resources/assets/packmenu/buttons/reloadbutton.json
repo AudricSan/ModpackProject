@@ -12,8 +12,8 @@
 	"texWidth": 20,
 	"texHeight": 40,
 
-	"texture": "minecraft:textures/gui/widgets.png",
+	"texture": "cra:textures/gui/reload.png",
 	"action": "RELOAD",
 
-	"active": false
+	"active": true
 }

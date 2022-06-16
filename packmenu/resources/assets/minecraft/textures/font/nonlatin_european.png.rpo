@@ -1,5 +1,0 @@
-{
-    "conditions": { "not": "guiretextures:use_custom_font" },
-    "fallbacks": "assets/minecraft/textures/font/nonlatin_european_custom.png"
-}
-

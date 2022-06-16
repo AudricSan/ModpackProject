@@ -14,7 +14,7 @@
 
 	"action": "OPEN_GUI",
 	"data": "language",
-	"texture": "minecraft:textures/gui/language.png",
+	"texture": "cra:textures/gui/language.png",
 
 
 	"fontColor": 16777215,

@@ -1,4 +1,0 @@
-{
-  "conditions": "guiretextures:crosshair_style.none",
-  "fallbacks": "assets/minecraft/textures/gui/crosshairs/tactical.png"
-}
