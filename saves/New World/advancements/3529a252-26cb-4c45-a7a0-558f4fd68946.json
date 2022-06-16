@@ -1,9 +1,562 @@
 {
+  "exnihilosequentia:recipes/exnihilosequentia/ens_doll_x4": {
+    "criteria": {
+      "has_diamond": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2022-06-16 15:55:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2022-06-16 15:55:09 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_doll_x6": {
+    "criteria": {
+      "has_emerald": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "rftoolsstorage:recipes/rftoolsstorage/storage_control_module": {
+    "criteria": {
+      "ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/fluidplus_module": {
+    "criteria": {
+      "ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/clock_module": {
+    "criteria": {
+      "ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/machineinformation_module": {
+    "criteria": {
+      "ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/fluid_module": {
+    "criteria": {
+      "ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2022-06-16 15:55:09 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/inventory_module": {
+    "criteria": {
+      "ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2022-06-16 15:55:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
+    "criteria": {
+      "ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/iron_wand": {
+    "criteria": {
+      "has_item": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/button_module": {
+    "criteria": {
+      "ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2022-06-16 15:54:22 +0200",
       "minecraft:river": "2022-06-16 14:03:26 +0200"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-06-16 15:55:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/basic_magnet": {
+    "criteria": {
+      "iron": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2022-06-16 15:56:14 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_crook_iron": {
+    "criteria": {
+      "has_pebble": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-06-16 15:55:14 +0200"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-06-16 15:54:55 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2022-06-16 15:55:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_def": {
+    "criteria": {
+      "iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/manual": {
+    "criteria": {
+      "book": "2022-06-16 15:55:09 +0200"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/basic_demagnetization_coil": {
+    "criteria": {
+      "iron": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "rftoolsstorage:recipes/rftoolsstorage/dump_module": {
+    "criteria": {
+      "ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-06-16 15:54:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-06-16 15:54:55 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/energyplus_module": {
+    "criteria": {
+      "ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/energy_module": {
+    "criteria": {
+      "ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2022-06-16 15:55:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-06-16 15:54:55 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/text_module": {
+    "criteria": {
+      "ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/rechiseled/chisel": {
+    "criteria": {
+      "has_iron": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-16 15:54:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-06-16 15:56:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2022-06-16 15:55:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/smartwrench": {
+    "criteria": {
+      "iron": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2022-06-16 15:55:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/redstone_module": {
+    "criteria": {
+      "ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-06-16 15:56:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2022-06-16 15:55:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_hammer_iron": {
+    "criteria": {
+      "has_material": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-16 15:54:55 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_hammer_diamond": {
+    "criteria": {
+      "has_material": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_crook_diamond": {
+    "criteria": {
+      "has_pebble": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2022-06-16 15:55:01 +0200"
+    },
+    "done": true
   },
   "DataVersion": 2586
 }

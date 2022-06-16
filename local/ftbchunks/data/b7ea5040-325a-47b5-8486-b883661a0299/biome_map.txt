@@ -4,7 +4,9 @@
 #7F2 minecraft:jungle_edge
 #379 minecraft:mountains
 #4F1 minecraft:ocean
+#4AA byg:rainbow_beach
 #5FF minecraft:river
+#740 byg:seasonal_deciduous_clearing
 #3A8 byg:seasonal_deciduous_forest
 #406 minecraft:stone_shore
 #306 minecraft:wooded_mountains
