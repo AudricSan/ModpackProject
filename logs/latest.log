@@ -6072,3 +6072,67 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Jun2022 22:14:32.545] [main/INFO] [Botany Pots/]: Loaded 210 botanypots:crop recipes from 4 namespaces
 [16Jun2022 22:14:32.545] [main/INFO] [Botany Pots/]: Loaded 1 botanypots:fertilizer recipes from 1 namespaces
 [16Jun2022 22:14:32.545] [main/INFO] [Botany Pots/]: Loaded 48 botanypots:soil recipes from 3 namespaces
+[16Jun2022 22:21:53.010] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[16Jun2022 22:21:53.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[16Jun2022 22:21:53.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[16Jun2022 22:21:53.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[16Jun2022 22:21:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/compactmachines:compact_world
+[16Jun2022 22:21:53.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:mars_orbit
+[16Jun2022 22:21:53.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:mercury
+[16Jun2022 22:21:53.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:venus_orbit
+[16Jun2022 22:21:53.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:mars
+[16Jun2022 22:21:53.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:overworld_orbit
+[16Jun2022 22:21:53.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:venus
+[16Jun2022 22:21:53.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:moon_orbit
+[16Jun2022 22:21:53.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:moon
+[16Jun2022 22:21:53.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:mercury_orbit
+[16Jun2022 22:21:57.770] [main/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[16Jun2022 22:21:57.791] [main/INFO] [voicechat/]: Clearing audio channels
+[16Jun2022 22:21:57.804] [main/INFO] [voicechat/]: Stopping microphone thread
+[16Jun2022 22:21:57.811] [main/INFO] [voicechat/]: Disconnecting voicechat
+[16Jun2022 22:21:57.815] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Audric__San lost connection: Disconnected
+[16Jun2022 22:21:57.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Audric__San left the game
+[16Jun2022 22:21:57.817] [Server thread/INFO] [voicechat/]: Disconnecting client Audric__San
+[16Jun2022 22:21:57.828] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[16Jun2022 22:21:57.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Jun2022 22:21:57.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Jun2022 22:21:57.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Jun2022 22:21:57.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[16Jun2022 22:21:58.012] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World (2)): All chunks are saved
+[16Jun2022 22:21:58.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[16Jun2022 22:21:58.013] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jun2022 22:21:58.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[16Jun2022 22:21:58.014] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jun2022 22:21:58.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/compactmachines:compact_world
+[16Jun2022 22:21:58.015] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[16Jun2022 22:21:58.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:mars_orbit
+[16Jun2022 22:21:58.016] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[16Jun2022 22:21:58.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:mercury
+[16Jun2022 22:21:58.017] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[16Jun2022 22:21:58.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:venus_orbit
+[16Jun2022 22:21:58.017] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[16Jun2022 22:21:58.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:mars
+[16Jun2022 22:21:58.018] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[16Jun2022 22:21:58.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:overworld_orbit
+[16Jun2022 22:21:58.020] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[16Jun2022 22:21:58.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:venus
+[16Jun2022 22:21:58.021] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[16Jun2022 22:21:58.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:moon_orbit
+[16Jun2022 22:21:58.021] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[16Jun2022 22:21:58.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:moon
+[16Jun2022 22:21:58.022] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[16Jun2022 22:21:58.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/boss_tools:mercury_orbit
+[16Jun2022 22:21:58.023] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[16Jun2022 22:21:58.060] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (New World (2)): All chunks are saved
+[16Jun2022 22:21:58.066] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Jun2022 22:21:58.066] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Jun2022 22:21:58.066] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[16Jun2022 22:21:58.067] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[16Jun2022 22:21:58.067] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[16Jun2022 22:21:58.067] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[16Jun2022 22:21:58.067] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[16Jun2022 22:21:58.067] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (overworld_orbit): All chunks are saved
+[16Jun2022 22:21:58.067] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[16Jun2022 22:21:58.067] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[16Jun2022 22:21:58.067] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[16Jun2022 22:21:58.068] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
