@@ -1,0 +1,5 @@
+{
+    "conditions": { "not": "guiretextures:use_custom_font" },
+    "fallbacks": "assets/minecraft/textures/font/ascii_custom.png"
+}
+
