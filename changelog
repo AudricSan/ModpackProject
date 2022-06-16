@@ -1,14 +1,10 @@
 Beta 0.4
     - New craft
-        - Pipez universal pipe
-        - Pipez upgrade craft
-        - wood chippings to stripped oak
 
     - New items
 
     - Mod
         - Remove
-            - Extreme reactor
 
         - Update
 
@@ -16,21 +12,35 @@ Beta 0.4
     
     - Textures
         - New
-            - Pipez universal pipe texture
 
         - Edit
         
     - JEI
         - Remove
-
-        - Add
         
+    - Modpack info
+        # - Quest Book
+
+    - NEXT UP
+
+Beta 0.3.2
+    - New craft
+        - Pipez universal pipe
+        - Pipez upgrade craft
+        - wood chippings to stripped oak
+
+    - Mod
+        - Remove
+            - Extreme reactor
+    
+    - Textures
+        - New
+            - Pipez universal pipe texture
+
     - Modpack info
         - Edit space station
         - Order files and remove some useless things
         # - Quest book
-
-    - NEXT UP
 
 Beta 0.3
     - New craft
