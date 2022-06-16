@@ -64,7 +64,7 @@ rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 syncChunkWrites:true
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
@@ -115,6 +115,12 @@ key_key.ftbchunks.minimap.zoomOut:key.keyboard.keypad.subtract
 key_keys.simplemagnets.toggle:key.keyboard.h
 key_key.toggleLiquids:key.keyboard.unknown
 key_key.toggleVisible:key.keyboard.unknown
+key_Strip World:key.keyboard.delete
+key_Dress World:key.keyboard.insert
+key_Open Config:key.keyboard.home
+key_Add Block:key.keyboard.page.up
+key_Remove Block:key.keyboard.page.down
+key_Cycle Profile:key.keyboard.end
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_placebo.toggleTrails:key.keyboard.keypad.9
 key_key.dankstorage.construction:key.keyboard.i
@@ -122,9 +128,9 @@ key_oreexcavation.key.excavate:key.keyboard.keypad.0
 key_oreexcavation.key.shape_toggle:key.keyboard.keypad.3
 key_oreexcavation.key.shape_edit:key.keyboard.keypad.1
 key_key.ftbquests.quests:key.keyboard.comma
+key_key.inventorysorter.sort:key.mouse.middle
 key_key.inventorysorter.itemin:key.mouse.100
 key_key.inventorysorter.itemout:key.mouse.102
-key_key.inventorysorter.sort:key.mouse.middle
 key_key.nextDestination:key.keyboard.right.bracket
 key_key.prevDestination:key.keyboard.left.bracket
 key_key.openManual:key.keyboard.f1
@@ -137,8 +143,6 @@ key_key.refinedstorage.openPortableGrid:key.keyboard.unknown
 key_key.toastcontrol.clear:key.keyboard.j
 key_panorama.keybinds.screenshot:key.keyboard.f4
 key_key.boss_tools.rocket_start:key.keyboard.space
-key_key.tconstruct.helmet_interact:key.keyboard.z
-key_key.tconstruct.leggings_interact:key.keyboard.i
 key_key.push_to_talk:key.keyboard.caps.lock
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
@@ -149,6 +153,8 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_key.tconstruct.helmet_interact:key.keyboard.z
+key_key.tconstruct.leggings_interact:key.keyboard.i
 key_key.refinedstorageaddons.openWirelessCraftingGrid:key.keyboard.g:CONTROL
 key_create.keyinfo.toolmenu:key.keyboard.right.alt
 key_create.keyinfo.toolbelt:key.keyboard.right.alt

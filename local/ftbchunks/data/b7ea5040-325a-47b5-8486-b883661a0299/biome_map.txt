@@ -1,0 +1,10 @@
+#556 minecraft:beach
+#3DE minecraft:deep_ocean
+#4B0 minecraft:jungle
+#7F2 minecraft:jungle_edge
+#379 minecraft:mountains
+#4F1 minecraft:ocean
+#5FF minecraft:river
+#3A8 byg:seasonal_deciduous_forest
+#406 minecraft:stone_shore
+#306 minecraft:wooded_mountains
