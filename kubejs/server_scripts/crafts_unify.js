@@ -81,7 +81,6 @@ onEvent('recipes', e => {
     createCrushing('biggerreactors:yellorium_ingot', 'create:crushed_uranium_ore', 1, 3, 'biggerreactors:yellorium_dust')
     createMilling('biggerreactors:yellorium_ingot', 'create:crushed_uranium_ore', 1, 3, false)
 
-
     //Lead  
     e.remove({ id: 'tconstruct:smeltery/casting/metal/lead/wire_gold_cast' })
     e.remove({ id: 'tconstruct:smeltery/casting/metal/lead/wire_sand_cast' })
