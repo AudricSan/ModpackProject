@@ -5,9 +5,19 @@
 	can_edit: true
 	lock: false
 	auto_pin: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		17033F6190AFA71A: 1
+	}
+	started: {
+		0000000000000001: 1655407707687L
+		4308C931D70A626C: 1655407707687L
+		45ABB118B93F1604: 1655407707687L
+		17033F6190AFA71A: 1655407707687L
+	}
+	completed: {
+		45ABB118B93F1604: 1655407707687L
+		17033F6190AFA71A: 1655407707687L
+	}
 	claimed_rewards: { }
 	pinned_quests: [ ]
 }

@@ -21,6 +21,10 @@ onEvent('recipes', e => {
     createCutting('create:iron_sheet', 'createaddition:iron_wire', 4, 10, 'kubejs:iron_dust')
     createCutting('create:iron_sheet', 'createaddition:iron_rod', 4, 10, 'kubejs:iron_dust')
 
+
+    
+
+
     function replaceIO(oldItem, newItem) {
         e.replaceInput({}, oldItem, newItem);
         e.replaceOutput({}, oldItem, newItem);
