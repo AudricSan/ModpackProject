@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/shaftless_oak_cogwheel": {
+    "criteria": {
+      "has_item": "2022-06-17 09:48:54 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/clutch": {
     "criteria": {
       "has_item": "2022-06-17 09:36:26 +0200"
@@ -59,6 +65,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2022-06-17 09:45:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2022-06-16 19:27:16 +0200"
@@ -95,6 +113,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2022-06-17 09:45:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2022-06-17 09:36:26 +0200"
@@ -119,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/iron_wand": {
     "criteria": {
       "has_item": "2022-06-16 19:27:16 +0200"
@@ -140,6 +176,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-06-16 19:19:56 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2022-06-17 09:45:39 +0200"
     },
     "done": true
   },
@@ -173,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2022-06-16 19:29:21 +0200"
@@ -200,6 +248,12 @@
   "storagedrawers:recipes/storagedrawers/crimson_drawers": {
     "criteria": {
       "has_chest": "2022-06-16 19:29:31 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2022-06-17 09:45:39 +0200"
     },
     "done": true
   },
@@ -242,6 +296,12 @@
   "create:recipes/create.base/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2022-06-17 09:36:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2022-06-17 09:45:39 +0200"
     },
     "done": true
   },
@@ -407,6 +467,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-06-16 19:22:39 +0200"
@@ -431,6 +503,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2022-06-17 09:45:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2022-06-16 19:27:16 +0200"
@@ -440,6 +524,12 @@
   "exnihilosequentia:recipes/exnihilosequentia/ens_beehive_frame": {
     "criteria": {
       "has_stick": "2022-06-16 19:18:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
     },
     "done": true
   },
@@ -470,6 +560,12 @@
   "rftoolsutility:recipes/rftoolsutility/clock_module": {
     "criteria": {
       "ingot": "2022-06-16 19:27:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
     },
     "done": true
   },
@@ -539,6 +635,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2022-06-17 09:45:39 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/gabbro_cobblestone_slab": {
     "criteria": {
       "has_gabbro_cobblestone": "2022-06-16 19:37:08 +0200"
@@ -569,6 +671,12 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2022-06-17 09:45:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2022-06-16 19:18:47 +0200"
@@ -578,6 +686,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2022-06-16 19:20:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
     },
     "done": true
   },
@@ -665,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-06-16 19:20:25 +0200"
@@ -746,6 +866,12 @@
   "create:recipes/create.base/crafting/materials/andesite_casing": {
     "criteria": {
       "has_item": "2022-06-17 09:36:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
     },
     "done": true
   },
@@ -894,6 +1020,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2022-06-17 09:45:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2022-06-16 19:27:24 +0200"
@@ -978,9 +1110,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2022-06-16 19:50:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
     },
     "done": true
   },
@@ -1023,6 +1167,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2022-06-16 19:22:39 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2022-06-17 09:45:39 +0200"
     },
     "done": true
   },
@@ -1083,6 +1233,12 @@
   "oreclumps:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_ore": "2022-06-17 09:31:48 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/andesite_sheet_metal_from_andesite_casing_stonecutting": {
+    "criteria": {
+      "has_andesite_casing": "2022-06-17 09:45:39 +0200"
     },
     "done": true
   },
@@ -1195,6 +1351,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2022-06-16 19:22:13 +0200"
@@ -1304,6 +1472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/large_mahogany_cogwheel": {
     "criteria": {
       "has_item": "2022-06-17 09:36:26 +0200"
@@ -1313,6 +1487,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2022-06-16 19:27:24 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2022-06-17 09:45:39 +0200"
     },
     "done": true
   },
@@ -1412,21 +1592,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2022-06-17 09:50:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2022-06-16 19:27:24 +0200"
     },
     "done": true
   },
-  "creategearaddon:recipes/warped_cogwheel": {
-    "criteria": {
-      "has_item": "2022-06-17 09:36:26 +0200"
-    },
-    "done": true
-  },
   "rftoolsutility:recipes/rftoolsutility/moduleplus_template": {
     "criteria": {
       "dimshards": "2022-06-17 09:32:51 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/warped_cogwheel": {
+    "criteria": {
+      "has_item": "2022-06-17 09:36:26 +0200"
     },
     "done": true
   },
@@ -1547,6 +1733,12 @@
   "creategearaddon:recipes/large_cherry_cogwheel": {
     "criteria": {
       "has_item": "2022-06-17 09:36:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2022-06-17 09:45:39 +0200"
     },
     "done": true
   },
@@ -1916,15 +2108,15 @@
     },
     "done": true
   },
-  "creategearaddon:recipes/large_birch_cogwheel": {
-    "criteria": {
-      "has_item": "2022-06-17 09:36:26 +0200"
-    },
-    "done": true
-  },
   "rftoolsdim:recipes/rftoolsdim/dimensional_cross_block": {
     "criteria": {
       "shard": "2022-06-17 09:32:51 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_birch_cogwheel": {
+    "criteria": {
+      "has_item": "2022-06-17 09:36:26 +0200"
     },
     "done": true
   },
@@ -1946,15 +2138,15 @@
     },
     "done": true
   },
-  "creategearaddon:recipes/large_palm_cogwheel": {
-    "criteria": {
-      "has_item": "2022-06-17 09:36:26 +0200"
-    },
-    "done": true
-  },
   "cobblefordays:recipes/misc/tier_5": {
     "criteria": {
       "has_lava": "2022-06-17 09:31:35 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_palm_cogwheel": {
+    "criteria": {
+      "has_item": "2022-06-17 09:36:26 +0200"
     },
     "done": true
   },
