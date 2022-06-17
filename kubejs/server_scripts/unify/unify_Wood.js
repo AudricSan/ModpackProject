@@ -4,6 +4,8 @@ onEvent('recipes', e => {
 
     e.shapeless('minecraft:stripped_oak_log', ['9x excompressum:wood_chippings'])
 
+    e.stonecutting('minecraft:oak_planks', '#minecraft:planks')
+    e.stonecutting('minecraft:oak_button', '#minecraft:wooden_buttons')
 
     function replaceIO(oldItem, newItem) {
         e.replaceInput({}, oldItem, newItem);
