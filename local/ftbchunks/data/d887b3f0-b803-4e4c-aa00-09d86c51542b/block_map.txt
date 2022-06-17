@@ -1,7 +1,9 @@
+#942E52 minecraft:acacia_leaves
 #FA75A8 minecraft:andesite
 #568617 byg:brown_mushroom_stem
 #C6AC20 minecraft:cactus
 #7FDE54 minecraft:clay
+#DE242D minecraft:coal_ore
 #E2D601 minecraft:composter
 #B2A2E1 minecraft:dandelion
 #E3DF1E minecraft:dark_oak_leaves
