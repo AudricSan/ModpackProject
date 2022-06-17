@@ -1,5 +1,5 @@
-[22:13:00] [INFO ] Loaded script startup_scripts:block.js in 0.149 s
-[22:13:01] [INFO ] Loaded script startup_scripts:fluid.js in 0.006 s
-[22:13:01] [INFO ] Loaded script startup_scripts:generation.js in 0.001 s
-[22:13:01] [INFO ] Loaded script startup_scripts:items.js in 0.055 s
-[22:13:01] [INFO ] Loaded 4/4 KubeJS startup scripts in 0.667 s
+[09:17:19] [INFO ] Loaded script startup_scripts:block.js in 0.166 s
+[09:17:19] [INFO ] Loaded script startup_scripts:fluid.js in 0.005 s
+[09:17:19] [INFO ] Loaded script startup_scripts:generation.js in 0.001 s
+[09:17:19] [INFO ] Loaded script startup_scripts:items.js in 0.029 s
+[09:17:19] [INFO ] Loaded 4/4 KubeJS startup scripts in 0.617 s
