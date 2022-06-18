@@ -74,4 +74,5 @@
 #B96EB4 minecraft:structure_block
 #5CF3F1 minecraft:sugar_cane
 #329213 minecraft:sweet_berry_bush
+#ABAD50 tconstruct:tinkers_bronze_block
 #9D5016 pipez:universal_pipe
