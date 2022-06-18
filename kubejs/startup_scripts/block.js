@@ -41,6 +41,14 @@ events.listen('block.registry', function (e) {
         .hardness(1.5)
         .displayName('Adamantium Block')
         .harvestTool('pickaxe', 1)
+        
+    /// 
+
+    e.create('ores_dirt_block')
+        .material('dirt')
+        .hardness(0.5)
+        .displayName('Ores Dirt')
+        .harvestTool('shovel', 1)
 })
 
 onEvent('block.loot_tables', e => {
