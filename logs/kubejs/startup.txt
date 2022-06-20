@@ -1,6 +1,6 @@
-[23:38:34] [INFO ] Loaded script startup_scripts:block.js in 0.211 s
-[23:38:34] [INFO ] Loaded script startup_scripts:fluid.js in 0.004 s
-[23:38:34] [INFO ] Loaded script startup_scripts:generation.js in 0.002 s
-[23:38:34] [INFO ] Loaded script startup_scripts:items.js in 0.013 s
-[23:38:34] [INFO ] Loaded script startup_scripts:oresCrops.js in 0.003 s
-[23:38:34] [INFO ] Loaded 5/5 KubeJS startup scripts in 1.332 s
+[13:59:25] [INFO ] Loaded script startup_scripts:block.js in 0.147 s
+[13:59:25] [INFO ] Loaded script startup_scripts:fluid.js in 0.006 s
+[13:59:25] [INFO ] Loaded script startup_scripts:generation.js in 0.003 s
+[13:59:25] [INFO ] Loaded script startup_scripts:items.js in 0.013 s
+[13:59:25] [INFO ] Loaded script startup_scripts:oresCrops.js in 0.003 s
+[13:59:25] [INFO ] Loaded 5/5 KubeJS startup scripts in 0.838 s
