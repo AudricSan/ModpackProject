@@ -1,9 +1,12 @@
 Beta 0.4
     - New craft
+        - Pipez universal pipe
+        - Pipez upgrade craft
+        - wood chippings to stripped oak
         - Stonecutter all wooden planks to oak planks
         - Stonecutter all wooden buttons to oak button
 
-        # - new ores crops in botany pots
+        - new ores crops in botany pots
 
     - New items
         - ore crops
@@ -11,8 +14,10 @@ Beta 0.4
 
     - Mod
         - Remove
+            - Extreme reactor
 
         - Update
+            - ftb Builder
 
         - New
     
@@ -29,27 +34,10 @@ Beta 0.4
         
     - Modpack info
         # - Quest Book
-
-    - NEXT UP
-
-Beta 0.3.2
-    - New craft
-        - Pipez universal pipe
-        - Pipez upgrade craft
-        - wood chippings to stripped oak
-
-    - Mod
-        - Remove
-            - Extreme reactor
-    
-    - Textures
-        - New
-            - Pipez universal pipe texture
-
-    - Modpack info
         - Edit space station
         - Order files and remove some useless things
-        # - Quest book
+
+    - NEXT UP
 
 Beta 0.3
     - New craft
