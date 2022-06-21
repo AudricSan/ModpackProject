@@ -44,7 +44,7 @@ events.listen('block.registry', function (e) {
         
     /// 
 
-    e.create('ores_dirt_block')
+    e.create('ore_dirt')
         .material('dirt')
         .hardness(0.5)
         .displayName('Ores Dirt')
@@ -53,6 +53,4 @@ events.listen('block.registry', function (e) {
 
 onEvent('block.loot_tables', e => {
     e.addSimpleBlock('kubejs:craunium_ore', 'kubejs:craunium_raw')
-    e.addSimpleBlock('libvulpes:oreiridium', 'kubejs:iridium_raw')
-    e.addSimpleBlock('libvulpes:orerutile', 'oreclumps:raw_titanium')
 })
