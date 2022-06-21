@@ -2,7 +2,6 @@
 onEvent("recipes", e => {
 
     botanypots("kubejs:craunium_crop", ["kubejs:craunium_dust", "kubejs:craunium_crushed"])
-
     botanypots("kubejs:uranium_crop", ["biggerreactors:yellorium_dust", "create:crushed_uranium_ore"])
     botanypots("kubejs:aluminum_crop", ["kubejs:aluminum_dust", "create:crushed_aluminum_ore"])
     botanypots("kubejs:cobalt_crop", ["kubejs:cobalt_dust", "morecreatestuffs:crushed_cobalt_ore"])
@@ -31,7 +30,7 @@ onEvent("recipes", e => {
             },
 
             "categories": [
-                "dirt"
+                "oredirt"
             ],
 
             "growthTicks": 1000,
