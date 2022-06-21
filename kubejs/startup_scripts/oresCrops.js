@@ -1,6 +1,6 @@
 events.listen('item.registry', function (e) {
 
-    // e.create('ores_dirt').displayName('Ore dirt')
+    e.create('ores_dirt').displayName('Ore dirt')
 
     e.create('craunium_crop').displayName('Craunium Crop')
     e.create('uranium_crop').displayName('Uranium Crop')
