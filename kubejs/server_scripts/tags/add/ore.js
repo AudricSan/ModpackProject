@@ -1,0 +1,3 @@
+events.listen('item.tags', function (e) {
+    e.add('forge:crop',["kubejs:craunium_crop", "kubejs:uranium_crop", "kubejs:aluminum_crop", "kubejs:cobalt_crop", "kubejs:zinc_crop", "kubejs:gold_crop", "kubejs:bronze_crop", "kubejs:diamond_crop", "kubejs:electrum_crop", "kubejs:silicon_crop", "kubejs:iron_crop", "kubejs:nickel_crop", "kubejs:silver_crop", "kubejs:lead_crop", "kubejs:copper_crop", "kubejs:steel_crop", "kubejs:desh_crop", "kubejs:tin_crop"])
+})

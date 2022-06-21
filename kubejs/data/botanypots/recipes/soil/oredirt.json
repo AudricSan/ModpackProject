@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+        "item": "kubejs:ore_dirt"
+    },
+    "display": {
+        "block": "kubejs:ore_dirt"
+    },
+    "categories": [
+        "oredirt"
+    ],
+    "growthModifier": 0
+}

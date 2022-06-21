@@ -53,6 +53,7 @@
 #AD9EB5 minecraft:oak_leaves
 #374556 minecraft:oak_sign
 #79BDC3 minecraft:orange_stained_glass
+#625E4E kubejs:ore_dirt
 #E4DCBF kubejs:ores_dirt
 #C9088D kubejs:ores_dirt_block
 #7C8629 boss_tools:oxygen_loader
