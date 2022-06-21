@@ -24,6 +24,7 @@
 #BED665 minecraft:diorite
 #80497A minecraft:dirt
 #3B3ABB tconstruct:earth_congealed_slime
+#AECE2C botanypotstiers:elite_hopper_botany_pot
 #B539F9 pipez:energy_pipe
 #DC0D87 create:fluid_pipe
 #A86BF7 pipez:fluid_pipe
@@ -36,6 +37,8 @@
 #88BAFA minecraft:gravel
 #F7FF82 byg:holly_berry_leaves
 #4457F9 byg:holly_leaves
+#678E23 botanypots:hopper_black_botany_pot
+#FE848C botanypots:hopper_brown_botany_pot
 #52D27E minecraft:ice
 #29A309 boss_tools:iron_mark_block
 #A79F01 boss_tools:iron_plating_block
