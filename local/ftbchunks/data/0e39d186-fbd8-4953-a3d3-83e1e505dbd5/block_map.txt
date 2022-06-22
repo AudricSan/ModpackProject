@@ -19,6 +19,7 @@
 #B76D44 create:cogwheel
 #95EC20 createaddition:creative_energy
 #BF5353 create:creative_fluid_tank
+#A1569E botanypotstiers:creative_hopper_magenta_botany_pot
 #73CA69 create:creative_motor
 #B2A2E1 minecraft:dandelion
 #BED665 minecraft:diorite
