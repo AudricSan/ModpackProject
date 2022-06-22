@@ -5,11 +5,9 @@ Beta 0.4
         - wood chippings to stripped oak
         - Stonecutter all wooden planks to oak planks
         - Stonecutter all wooden buttons to oak button
-
         - new ores crops in botany pots
-
-        # - ore crop
-        # - ore dirt
+        - ore crop
+        - ore dirt
 
     - New items
         - ore crops
@@ -36,11 +34,11 @@ Beta 0.4
         - Remove
         
     - Modpack info
-        # - Quest Book
         - Edit space station
         - Order files and remove some useless things
 
     - NEXT UP
+        # - Quest Book
 
 Beta 0.3
     - New craft
