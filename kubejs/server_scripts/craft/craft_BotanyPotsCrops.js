@@ -19,6 +19,66 @@ onEvent("recipes", e => {
     botanypots("kubejs:steel_crop", ["kubejs:steel_dust", "kubejs:steel_crushed"])
     botanypots("kubejs:desh_crop", ["kubejs:desh_dust", "boss_tools:desh_nugget"])
     botanypots("kubejs:tin_crop", ["kubejs:tin_dust", "create:crushed_tin_ore"])
+    
+    
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "kubejs:craunium_crushed"                  ], "kubejs:craunium_crop" , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "create:crushed_uranium_ore"               ], "kubejs:uranium_crop"  , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "create:crushed_aluminum_ore"              ], "kubejs:aluminum_crop" , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "morecreatestuffs:crushed_cobalt_ore"      ], "kubejs:cobalt_crop"   , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "create:crushed_zinc_ore"                  ], "kubejs:zinc_crop"     , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "create:crushed_gold_ore"                  ], "kubejs:gold_crop"     , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "alloyed:bronze_ingot"                     ], "kubejs:bronze_crop"   , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "minecraft:diamond"                        ], "kubejs:diamond_crop"  , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "kubejs:electrum_dust"                     ], "kubejs:electrum_crop" , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "refinedstorage:silicon"                   ], "kubejs:silicon_crop"  , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "create:crushed_iron_ore"                  ], "kubejs:iron_crop"     , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "create:crushed_nickel_ore"                ], "kubejs:nickel_crop"   , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "create:crushed_silver_ore"                ], "kubejs:silver_crop"   , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "create:crushed_lead_ore"                  ], "kubejs:lead_crop"     , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "create:crushed_copper_ore"                ], "kubejs:copper_crop"   , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "kubejs:steel_crushed"                     ], "kubejs:steel_crop"    , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "boss_tools:desh_nugget"                   ], "kubejs:desh_crop"     , [800,10,15,1], "eated")
+    createMixingFluid( ["createaddition:seed_oil", "minecraft:wheat_seeds" , "create:crushed_tin_ore"                   ], "kubejs:tin_crop"      , [800,10,15,1], "eated")
+
+    createMixingItem(["minecraft:dirt", "kubejs:diamond_dust"], "kubejs:ore_dirt", [1,5,1], false)
+
+
+    function createMixingItem(input, output, qte, heated) {
+        e.custom({
+            "type": "create:mixing",
+
+            "ingredients": [
+                { "item": input[0], "count": qte[0] },
+                { "item": input[1], "count": qte[1] }
+            ],
+
+            "results": [
+                { "item": output, 'count': qte[2] }
+            ],
+
+            "processingTime": 400,
+            "heatRequirement": heated
+        })
+    }
+    
+    function createMixingFluid(input, output, qte, heated) {
+        e.custom({
+            "type": "create:mixing",
+
+            "ingredients": [
+                { "fluid": input[0], "amount": qte[0]},
+                { "item" : input[1], "count": qte[1]},
+                { "item" : input[2], "count": qte[2] }
+            ],
+
+            "results": [
+                { "item": output, 'count': qte[3] }
+            ],
+
+            "processingTime": 400,
+            "heatRequirement": heated
+        })
+    }
 
     function botanypots(crop, results) {
 
