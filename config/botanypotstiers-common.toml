@@ -1,13 +1,13 @@
 #
 #Elite Botany Pot Speed & OUtput
 #Range: > 1
-eliteBotanyPotSpeedOutput = 2
+eliteBotanyPotSpeedOutput = 5
 #
 #Ultra Botany Pot Speed & Output
 #Range: > 1
-ultraBotanyPotSpeedOutput = 6
+ultraBotanyPotSpeedOutput = 10
 #
 #Creative Botany Pot Speed & Output
 #Range: > 1
-creativeBotanyPotSpeedOutput = 10
+creativeBotanyPotSpeedOutput = 100
 
