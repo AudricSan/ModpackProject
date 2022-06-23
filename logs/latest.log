@@ -6284,3 +6284,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Jun2022 14:16:32.169] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
 [23Jun2022 14:16:32.170] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
 [23Jun2022 14:16:32.170] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[23Jun2022 14:16:56.319] [main/INFO] [net.minecraft.client.Minecraft/]: Stopping!

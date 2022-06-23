@@ -18584,3 +18584,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Jun2022 14:16:40.006] [Server thread/DEBUG] [net.minecraftforge.registries.ObjectHolderRef/]: Unable to lookup create_addon:fan_powered_brass_chestpiece_helmet for public static net.minecraft.item.Item net.mcreator.createaddon.item.GluedFanBrassChestpieceItem.helmet. This means the object wasn't registered. It's likely just mod options.
 [23Jun2022 14:16:40.007] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : C:\Users\audri\curseforge\minecraft\Instances\1.16.5\saves\New World (1)\serverconfig
 [23Jun2022 14:16:40.007] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[23Jun2022 14:16:56.319] [main/INFO] [net.minecraft.client.Minecraft/]: Stopping!
