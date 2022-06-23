@@ -51,7 +51,7 @@ events.listen('item.registry', function (e) {
 	e.create('titanium_iridium_dust').displayName('Titanium Iridium Dust')
 	e.create('titanium_aluminide_dust').displayName('Titanium Aluminide Dust')
 	e.create('obsidian_dust').displayName('Obsidian Dust')
-	e.create('hop_graphite_dust').displayName('HOP Graphite Dust')
+	// e.create('hop_graphite_dust').displayName('HOP Graphite Dust')
 	e.create('sulfur_dust').displayName('Sulfur Dust')
 	e.create('electrum_dust').displayName('Electrum Dust')
 	e.create('constantan_dust').displayName('Constantan Dust')
@@ -85,7 +85,7 @@ events.listen('item.registry', function (e) {
 	e.create('aluminum_sheet').displayName('Aluminum Sheet')
 	e.create('titanium_aluminide_sheet').displayName('Titanium Aluminide Sheet')
 	e.create('lead_sheet').displayName('Lead Sheet')
-	e.create('hop_graphite_sheet').displayName('HOP Graphite Sheet')
+	// e.create('hop_graphite_sheet').displayName('HOP Graphite Sheet')
 	e.create('graphite_sheet').displayName('Graphite Sheet')
 
 	// Incomplete for Squencial Assembler

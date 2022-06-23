@@ -3,7 +3,9 @@
 #956B44 byg:aspen_leaves
 #A0E289 excompressum:auto_hammer
 #189B99 minecraft:barrel
+#840F59 minecraft:bedrock
 #7C938F create:belt
+#FC2DEC tconstruct:black_clear_stained_glass
 #9C9D5B byg:black_ice
 #6472F9 minecraft:black_stained_glass_pane
 #FC75A4 byg:blue_spruce_leaves
@@ -12,6 +14,7 @@
 #6754E0 create:brass_belt_funnel
 #02FE08 create:brass_funnel
 #F522F4 minecraft:chest
+#586A5A createchunkloading:chunk_loader
 #7FDE54 minecraft:clay
 #15C150 connectedglass:clear_glass_orange
 #DE242D minecraft:coal_ore
@@ -23,6 +26,7 @@
 #A1569E botanypotstiers:creative_hopper_magenta_botany_pot
 #73CA69 create:creative_motor
 #B2A2E1 minecraft:dandelion
+#5E5E58 create:deployer
 #BED665 minecraft:diorite
 #80497A minecraft:dirt
 #3B3ABB tconstruct:earth_congealed_slime
@@ -46,7 +50,14 @@
 #A79F01 boss_tools:iron_plating_block
 #79904E pipez:item_pipe
 #83CED3 minecraft:lava
+#72D77D minecraft:lever
 #7482E4 minecraft:lilac
+#48B87E compactmachines:machine_giant
+#8BC9F4 compactmachines:machine_large
+#D862D9 compactmachines:machine_maximum
+#CB6090 compactmachines:machine_normal
+#F3A3C0 compactmachines:machine_small
+#D954A9 compactmachines:machine_tiny
 #145137 create:mechanical_press
 #65707C create:mechanical_pump
 #4F44DD create:mechanical_saw
@@ -54,6 +65,7 @@
 #A4FC4B minecraft:mossy_cobblestone
 #AD9EB5 minecraft:oak_leaves
 #374556 minecraft:oak_sign
+#4A5E4E minecraft:obsidian
 #79BDC3 minecraft:orange_stained_glass
 #625E4E kubejs:ore_dirt
 #E4DCBF kubejs:ores_dirt
@@ -77,7 +89,9 @@
 #872D76 minecraft:snow
 #12E6C4 minecraft:snow_block
 #BBEC9D boss_tools:solar_panel
+#750F8F compactmachines:solid_wall
 #13F5AC minecraft:spruce_leaves
+#753082 minecraft:sticky_piston
 #DC3458 minecraft:stone
 #B96EB4 minecraft:structure_block
 #5CF3F1 minecraft:sugar_cane
@@ -85,3 +99,4 @@
 #ABAD50 tconstruct:tinkers_bronze_block
 #932660 botanypotstiers:ultra_botany_pot
 #9D5016 pipez:universal_pipe
+#7E8A7B compactmachines:wall

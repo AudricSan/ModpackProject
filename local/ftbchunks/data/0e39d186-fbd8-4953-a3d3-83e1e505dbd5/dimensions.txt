@@ -1,2 +1,3 @@
 minecraft:overworld
 boss_tools:overworld_orbit
+compactmachines:compact_world
