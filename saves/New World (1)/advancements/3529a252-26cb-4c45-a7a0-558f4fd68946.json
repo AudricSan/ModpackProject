@@ -2402,15 +2402,15 @@
     },
     "done": true
   },
-  "creategearaddon:recipes/dead_cogwheel": {
-    "criteria": {
-      "has_item": "2022-06-24 23:13:30 +0200"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2022-06-24 23:13:29 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/dead_cogwheel": {
+    "criteria": {
+      "has_item": "2022-06-24 23:13:30 +0200"
     },
     "done": true
   },
