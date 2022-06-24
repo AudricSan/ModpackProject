@@ -69,6 +69,7 @@
 #4F44DD create:mechanical_saw
 #81C9DF excompressum:mooshroom_bait
 #A4FC4B minecraft:mossy_cobblestone
+#2C2DC5 extrastorage:netherite_crafter
 #A05455 create_stuff_additions:nixie_lamp
 #AD9EB5 minecraft:oak_leaves
 #374556 minecraft:oak_sign
@@ -101,6 +102,7 @@
 #13F5AC minecraft:spruce_leaves
 #753082 minecraft:sticky_piston
 #DC3458 minecraft:stone
+#55DCCD rechiseled:stone_diagonal_bricks_connecting
 #B96EB4 minecraft:structure_block
 #5CF3F1 minecraft:sugar_cane
 #329213 minecraft:sweet_berry_bush

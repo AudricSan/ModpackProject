@@ -1,10 +1,6 @@
-[11:50:04] [INFO ] Loaded script startup_scripts:block.js in 0.125 s
-[11:50:04] [INFO ] Loaded script startup_scripts:fluid.js in 0.001 s
-[11:50:04] [INFO ] Loaded script startup_scripts:generation.js in 0.003 s
-[11:50:04] [INFO ] Loaded script startup_scripts:itemEdition.js in 0.001 s
-[11:50:04] [INFO ] Loaded script startup_scripts:items.js in 0.019 s
-[11:50:04] [INFO ] Loaded script startup_scripts:oresCrops.js in 0.002 s
-[11:50:04] [INFO ] Loaded 6/6 KubeJS startup scripts in 0.898 s
-[11:50:35] [ERR  ] Error occurred while handling event 'item.modification': Java class "dev.latvian.kubejs.item.ItemModificationProperties" has no public instance field or method named "description". (startup_scripts:itemEdition.js#3)
-[11:51:47] [ERR  ] Error occurred while handling event 'item.modification': Java class "dev.latvian.kubejs.item.ItemModificationProperties" has no public instance field or method named "description". (startup_scripts:itemEdition.js#3)
-[11:51:57] [ERR  ] Error occurred while handling event 'item.modification': Java class "dev.latvian.kubejs.item.ItemModificationProperties" has no public instance field or method named "description". (startup_scripts:itemEdition.js#3)
+[12:03:01] [INFO ] Loaded script startup_scripts:block.js in 0.147 s
+[12:03:01] [INFO ] Loaded script startup_scripts:fluid.js in 0.004 s
+[12:03:01] [INFO ] Loaded script startup_scripts:generation.js in 0.003 s
+[12:03:01] [INFO ] Loaded script startup_scripts:items.js in 0.026 s
+[12:03:01] [INFO ] Loaded script startup_scripts:oresCrops.js in 0.002 s
+[12:03:01] [INFO ] Loaded 5/5 KubeJS startup scripts in 0.721 s
