@@ -1,5 +1,7 @@
 Beta 0.x.x
     - New craft
+        - Flux dust with create
+        - Exnihili dust block from dust dust
 
     - New items
 
@@ -24,7 +26,8 @@ Beta 0.x.x
             - Enchanted weapons
 
         - Edit  
-        
+            - Animated Texture for Statyion blue block
+
     - JEI
         - Add
 
@@ -34,13 +37,13 @@ Beta 0.x.x
         
     - Modpack info
         - edit The one Prob location on HUD
-        - clear a bit code
+        - clear code
+        - remove nback up code
 
     - NEXT UP
         # - Quest Book
         # - Compact machine craft
         # - Flux Network
-        # - Animated Texture for Statyion blue block
 
 Beta 0.4
     - New craft
