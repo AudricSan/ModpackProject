@@ -51,11 +51,9 @@ events.listen('item.tags', function (e) {
     e.add('forge:dusts/craunium', 'kubejs:craunium_dust')
     e.add('forge:dusts/zinc', 'kubejs:zinc_dust')
     e.add('forge/dusts/iron', 'kubejs:iron_dust')
-    // e.add('forge:dusts/hop_graphite', 'kubejs:hop_graphite_dust')
     e.add('forge:dusts/sulfur', 'kubejs:sulfur_dust')
     e.add('forge:dusts/electrum', 'kubejs:electrum_dust')
     e.add('forge:dusts/constantan', 'kubejs:constantan_dust')
     e.add('forge:dusts/diamond', 'kubejs:diamond_dust')
-    e.add('forge:dusts/aluminum', 'kubejs:aluminum_dust')
-    
+    e.add('forge:dusts/aluminum', 'kubejs:aluminum_dust') 
 })

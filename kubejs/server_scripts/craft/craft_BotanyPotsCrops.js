@@ -1,5 +1,6 @@
 // REMOVE
 onEvent("recipes", e => {
+    // @collapse
 
     botanypots("kubejs:craunium_crop", ["kubejs:craunium_dust", "kubejs:craunium_crushed"])
     botanypots("kubejs:uranium_crop", ["biggerreactors:yellorium_dust", "create:crushed_uranium_ore"])

@@ -1,5 +1,7 @@
 // REMOVE
 onEvent('recipes', e => {
+    // @collapse
+
     e.shapeless('kubejs:craunium_ingot', '9x kubejs:craunium_nugget')
     e.shapeless('9x kubejs:craunium_nugget', 'kubejs:craunium_ingot')
     createBulkWashingCrushed('kubejs:craunium_crushed', 'kubejs:craunium_nugget', 10, 5)
@@ -28,11 +30,6 @@ onEvent('recipes', e => {
 
     createPress('kubejs:craunium_ingot', 'kubejs:craunium_sheet')
     createCutting('kubejs:craunium_sheet', 'kubejs:craunium_gear', 2, 10, 'kubejs:craunium_dust')
-
-    function replaceIO(oldItem, newItem) {
-        e.replaceInput({}, oldItem, newItem);
-        e.replaceOutput({}, oldItem, newItem);
-    }
     
     function createPress(input, output) {
         e.custom({
@@ -162,7 +159,6 @@ onEvent('recipes', e => {
         })
     }
     
-    //Create Mixing
     function createMixingItem(input, output, qte, heated) {
         e.custom({
             "type": "create:mixing",
@@ -193,69 +189,6 @@ onEvent('recipes', e => {
     
             "results": [
                 { "item": output, 'count': qte[3] }
-            ],
-    
-            "processingTime": 400,
-            "heatRequirement": heated
-        })
-    }
-    
-    function createMixingItem4(input, output, qte, heated) {
-        e.custom({
-            "type": "create:mixing",
-    
-            "ingredients": [
-                { "item": input[0], "count": qte[0] },
-                { "item": input[1], "count": qte[1] },
-                { "item": input[2], "count": qte[2] },
-                { "item": input[3], "count": qte[3] }
-            ],
-    
-            "results": [
-                { "item": output, 'count': qte[4] }
-            ],
-    
-            "processingTime": 400,
-            "heatRequirement": heated
-        })
-    }
-    
-    function createMixingItem5(input, output, qte, heated) {
-        e.custom({
-            "type": "create:mixing",
-    
-            "ingredients": [
-                { "item": input[0], "count": qte[0] },
-                { "item": input[1], "count": qte[1] },
-                { "item": input[2], "count": qte[2] },
-                { "item": input[3], "count": qte[3] },
-                { "item": input[4], "count": qte[4] }
-            ],
-    
-            "results": [
-                { "item": output, 'count': qte[5] }
-            ],
-    
-            "processingTime": 400,
-            "heatRequirement": heated
-        })
-    }
-    
-    function createMixingItem6(input, output, qte, heated) {
-        e.custom({
-            "type": "create:mixing",
-    
-            "ingredients": [
-                { "item": input[0], "count": qte[0] },
-                { "item": input[1], "count": qte[1] },
-                { "item": input[2], "count": qte[2] },
-                { "item": input[3], "count": qte[3] },
-                { "item": input[4], "count": qte[4] },
-                { "item": input[5], "count": qte[5] },
-            ],
-    
-            "results": [
-                { "item": output, 'count': qte[6] }
             ],
     
             "processingTime": 400,

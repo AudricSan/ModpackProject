@@ -51,7 +51,6 @@ events.listen('item.registry', function (e) {
 	e.create('titanium_iridium_dust').displayName('Titanium Iridium Dust')
 	e.create('titanium_aluminide_dust').displayName('Titanium Aluminide Dust')
 	e.create('obsidian_dust').displayName('Obsidian Dust')
-	// e.create('hop_graphite_dust').displayName('HOP Graphite Dust')
 	e.create('sulfur_dust').displayName('Sulfur Dust')
 	e.create('electrum_dust').displayName('Electrum Dust')
 	e.create('constantan_dust').displayName('Constantan Dust')
@@ -70,6 +69,7 @@ events.listen('item.registry', function (e) {
 	e.create('thorium_dust').displayName('Thorium Dust')
 	e.create('carbon_dust').displayName('Carbon Dust')
 	e.create('quartz_dust').displayName('Quartz Dust')
+	e.create('dust_dust').displayName('Dust Dust')
 
 	// New Plates
 	e.create('silver_sheet').displayName('Silver Sheet')
@@ -85,7 +85,6 @@ events.listen('item.registry', function (e) {
 	e.create('aluminum_sheet').displayName('Aluminum Sheet')
 	e.create('titanium_aluminide_sheet').displayName('Titanium Aluminide Sheet')
 	e.create('lead_sheet').displayName('Lead Sheet')
-	// e.create('hop_graphite_sheet').displayName('HOP Graphite Sheet')
 	e.create('graphite_sheet').displayName('Graphite Sheet')
 
 	// Incomplete for Squencial Assembler
@@ -93,12 +92,11 @@ events.listen('item.registry', function (e) {
 	e.create('desh_sequenced_compressed_plate').type('create:sequenced_assembly').displayName('Desh Sequenced Compressed Plate')
 	e.create('silicon_sequenced_compressed_plate').type('create:sequenced_assembly').displayName('Silicon Sequenced Compressed Plate')
 
+	e.create('flux_sequenced').type('create:sequenced_assembly').displayName('Flux Sequenced')
+
 	e.create('steel_sequenced_stick_steel').type('create:sequenced_assembly').displayName('Steel Sequenced Stick Steel')
 	e.create('steel_sequenced_fan_steel').type('create:sequenced_assembly').displayName('Steel Sequenced Fan Steel')
 	e.create('steel_sequenced_gear_steel').type('create:sequenced_assembly').displayName('Steel Sequenced Gear Steel')
 
 	e.create('quartz_sequenced_dust').type('create:sequenced_assembly').displayName('Quartz Sequenced Dust')
-	// e.create('kubejs:incomplete_taluminide_gear') 	.displayName('Incomplete Titanium Aluminide Gear')
-	// e.create('kubejs:incomplete_tiridium_gear') 	.displayName('Incomplete Titanium Iridium Gear')
-	// e.create('kubejs:incomplete_titanium_gear') 	.displayName('Incomplete Titanium Gear')
 })
