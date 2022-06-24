@@ -29,6 +29,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2022-06-24 10:28:15 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_magic_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2022-06-15 20:23:03 +0200"
@@ -83,9 +95,21 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_birch_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/screen_link": {
     "criteria": {
       "redstone": "2022-06-24 00:37:56 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2022-06-24 10:28:15 +0200"
     },
     "done": true
   },
@@ -137,6 +161,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2022-06-24 10:28:15 +0200"
+    },
+    "done": true
+  },
   "alloyed:recipes/main_group/crafting/steel_door": {
     "criteria": {
       "has_ingredient": "2022-06-15 16:42:37 +0200"
@@ -146,6 +176,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2022-06-24 10:27:13 +0200"
     },
     "done": true
   },
@@ -170,6 +206,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-06-15 15:17:18 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_mahogany_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
     },
     "done": true
   },
@@ -239,6 +281,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2022-06-24 10:28:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-06-15 20:23:03 +0200"
@@ -287,9 +335,21 @@
     },
     "done": true
   },
+  "creategears:recipes/creategears/large_gear": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2022-06-24 00:37:51 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2022-06-24 10:28:15 +0200"
     },
     "done": true
   },
@@ -362,6 +422,12 @@
   "creategearaddon:recipes/half_shaft_jacaranda_cogwheel": {
     "criteria": {
       "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_fir_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
     },
     "done": true
   },
@@ -479,6 +545,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2022-06-24 10:28:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2022-06-15 19:53:35 +0200"
@@ -539,6 +611,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_hellbark_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/inventory_module": {
     "criteria": {
       "ingot": "2022-06-15 19:53:35 +0200"
@@ -548,6 +626,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2022-06-21 14:39:14 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2022-06-24 10:28:15 +0200"
     },
     "done": true
   },
@@ -611,6 +695,12 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2022-06-24 10:28:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2022-06-15 20:23:03 +0200"
@@ -662,6 +752,12 @@
   "constructionwand:recipes/tools/diamond_wand": {
     "criteria": {
       "has_item": "2022-06-21 14:39:14 +0200"
+    },
+    "done": true
+  },
+  "creategears:recipes/creategears/large_half_shaft_gear": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
     },
     "done": true
   },
@@ -773,6 +869,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_cherry_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2022-06-21 13:45:12 +0200"
@@ -791,6 +893,12 @@
     },
     "done": true
   },
+  "create:fan": {
+    "criteria": {
+      "0": "2022-06-24 10:29:19 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_goggles": {
     "criteria": {
       "has_item": "2022-06-15 19:52:34 +0200"
@@ -806,6 +914,12 @@
   "architects_palette:main/root": {
     "criteria": {
       "craftingtable": "2022-06-24 00:19:07 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_oak_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
     },
     "done": true
   },
@@ -872,6 +986,12 @@
   "create:recipes/building_blocks/smelting/ingot_uranium_compat_mekanism": {
     "criteria": {
       "has_item": "2022-06-21 14:40:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2022-06-24 10:28:15 +0200"
     },
     "done": true
   },
@@ -1043,6 +1163,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_redwood_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
     "criteria": {
       "redstone": "2022-06-24 00:37:56 +0200"
@@ -1064,6 +1190,12 @@
   "creategearaddon:recipes/half_shaft_willow_cogwheel": {
     "criteria": {
       "has_cogwheels": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2022-06-24 10:28:15 +0200"
     },
     "done": true
   },
@@ -1157,6 +1289,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/andesite_sheet_metal_from_andesite_casing_stonecutting": {
+    "criteria": {
+      "has_andesite_casing": "2022-06-24 10:28:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2022-06-15 19:53:35 +0200"
@@ -1235,6 +1373,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_warped_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/spruce_drawers": {
     "criteria": {
       "has_chest": "2022-06-16 03:51:43 +0200"
@@ -1274,6 +1418,12 @@
   "create:recipes/misc/blasting/iron_ingot_from_crushed": {
     "criteria": {
       "has_item": "2022-06-21 14:36:45 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_dead_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
     },
     "done": true
   },
@@ -1331,6 +1481,12 @@
     },
     "done": true
   },
+  "creategears:recipes/creategears/large_gear_from_cogwheel": {
+    "criteria": {
+      "has_cogwheel": "2022-06-24 10:19:46 +0200"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/borderless_glass_gray2": {
     "criteria": {
       "glass": "2022-06-16 03:28:26 +0200"
@@ -1361,6 +1517,12 @@
     },
     "done": true
   },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2022-06-24 10:58:20 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
     "criteria": {
       "has_item": "2022-06-15 19:52:34 +0200"
@@ -1376,6 +1538,18 @@
   "create:press": {
     "criteria": {
       "0": "2022-06-15 16:46:17 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2022-06-24 10:28:15 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_crimson_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
     },
     "done": true
   },
@@ -1421,6 +1595,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_acacia_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2022-06-15 19:52:34 +0200"
@@ -1436,6 +1616,12 @@
   "create:recipes/building_blocks/blasting/lead_ingot_compat_mysticalworld": {
     "criteria": {
       "has_item": "2022-06-21 14:37:43 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_willow_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
     },
     "done": true
   },
@@ -1478,6 +1664,12 @@
   "create:recipes/building_blocks/blasting/lead_ingot_compat_thermal": {
     "criteria": {
       "has_item": "2022-06-21 14:37:43 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_jungle_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
     },
     "done": true
   },
@@ -1595,6 +1787,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2022-06-24 10:28:15 +0200"
+    },
+    "done": true
+  },
   "simplemagnets:recipes/search/basic_magnet": {
     "criteria": {
       "iron": "2022-06-15 19:53:35 +0200"
@@ -1649,6 +1847,12 @@
     },
     "done": true
   },
+  "creategearaddon:recipes/large_half_shaft_palm_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2022-06-15 14:03:20 +0200"
@@ -1658,6 +1862,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_umbran_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
     },
     "done": true
   },
@@ -1784,6 +1994,12 @@
   "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_jacaranda_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
     },
     "done": true
   },
@@ -1928,6 +2144,12 @@
   "create:recipes/building_blocks/smelting/aluminum_ingot_compat_silents_mechanisms": {
     "criteria": {
       "has_item": "2022-06-21 14:40:17 +0200"
+    },
+    "done": true
+  },
+  "creategearaddon:recipes/large_half_shaft_dark_oak_cogwheel": {
+    "criteria": {
+      "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
     },
     "done": true
   },

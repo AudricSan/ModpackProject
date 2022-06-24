@@ -1,5 +1,6 @@
 #52B53D minecraft:air
 #FA75A8 minecraft:andesite
+#A4683B create:andesite_casing
 #956B44 byg:aspen_leaves
 #A0E289 excompressum:auto_hammer
 #189B99 minecraft:barrel
@@ -8,12 +9,15 @@
 #FC2DEC tconstruct:black_clear_stained_glass
 #9C9D5B byg:black_ice
 #6472F9 minecraft:black_stained_glass_pane
+#0B1306 boss_tools:blue_iron_plating_block
 #FC75A4 byg:blue_spruce_leaves
 #5692CF connectedglass:borderless_glass
 #737AD8 connectedglass:borderless_glass_orange
 #6754E0 create:brass_belt_funnel
 #02FE08 create:brass_funnel
+#FB5A56 create_stuff_additions:brass_globe
 #F522F4 minecraft:chest
+#FB8D0E create_stuff_additions:chocolate_fountain
 #586A5A createchunkloading:chunk_loader
 #7FDE54 minecraft:clay
 #15C150 connectedglass:clear_glass_orange
@@ -31,6 +35,7 @@
 #80497A minecraft:dirt
 #3B3ABB tconstruct:earth_congealed_slime
 #AECE2C botanypotstiers:elite_hopper_botany_pot
+#548B83 create:encased_fan
 #B539F9 pipez:energy_pipe
 #DC0D87 create:fluid_pipe
 #A86BF7 pipez:fluid_pipe
@@ -49,6 +54,7 @@
 #29A309 boss_tools:iron_mark_block
 #A79F01 boss_tools:iron_plating_block
 #79904E pipez:item_pipe
+#6C55C8 create:large_cogwheel
 #83CED3 minecraft:lava
 #72D77D minecraft:lever
 #7482E4 minecraft:lilac
@@ -63,6 +69,7 @@
 #4F44DD create:mechanical_saw
 #81C9DF excompressum:mooshroom_bait
 #A4FC4B minecraft:mossy_cobblestone
+#A05455 create_stuff_additions:nixie_lamp
 #AD9EB5 minecraft:oak_leaves
 #374556 minecraft:oak_sign
 #4A5E4E minecraft:obsidian
@@ -78,6 +85,7 @@
 #1322E9 boss_tools:rocket_launch_pad
 #EC112A byg:rocky_stone
 #9C3ECB minecraft:rose_bush
+#E493B9 create:rotation_speed_controller
 #86FC77 minecraft:sand
 #D3CCFE create:shaft
 #615192 tconstruct:sky_congealed_slime
@@ -100,3 +108,4 @@
 #932660 botanypotstiers:ultra_botany_pot
 #9D5016 pipez:universal_pipe
 #7E8A7B compactmachines:wall
+#E2C9D0 create:weighted_ejector

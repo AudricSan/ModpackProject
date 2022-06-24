@@ -33,8 +33,8 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:false
-resourcePacks:["vanilla","mod_resources","packmenu"]
-incompatibleResourcePacks:["packmenu"]
+resourcePacks:["vanilla","mod_resources","packmenu","file/Enchanted Armors v1.3.zip","file/Enchanted Tools v2.7.zip","file/Enchanted Weapons v2.4.zip"]
+incompatibleResourcePacks:["packmenu","file/Enchanted Armors v1.3.zip","file/Enchanted Tools v2.7.zip","file/Enchanted Weapons v2.4.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -101,13 +101,13 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
-key_key.create_stuff_additions.flying:key.keyboard.space
 key_key.secondarySprint:key.keyboard.unknown
 key_key.dismount:key.keyboard.left.shift
 key_key.narrator:key.keyboard.unknown
 key_key.pause:key.keyboard.escape
 key_key.gui:key.keyboard.unknown
 key_key.debugInfo:key.keyboard.f3
+key_key.create_stuff_additions.flying:key.keyboard.space
 key_key.create_addon.fan_slow_fall:key.keyboard.unknown
 key_key.ftbchunks.map:key.keyboard.semicolon
 key_key.ftbchunks.minimap.zoomIn:key.keyboard.keypad.add
@@ -128,20 +128,22 @@ key_oreexcavation.key.excavate:key.keyboard.keypad.0
 key_oreexcavation.key.shape_toggle:key.keyboard.keypad.3
 key_oreexcavation.key.shape_edit:key.keyboard.keypad.1
 key_key.ftbquests.quests:key.keyboard.comma
+key_key.inventorysorter.itemout:key.mouse.102
 key_key.inventorysorter.itemin:key.mouse.100
 key_key.inventorysorter.sort:key.mouse.middle
-key_key.inventorysorter.itemout:key.mouse.102
-key_key.nextDestination:key.keyboard.right.bracket
-key_key.prevDestination:key.keyboard.left.bracket
-key_key.openManual:key.keyboard.unknown
 key_key.refinedstorage.focusSearchBar:key.keyboard.tab
 key_key.refinedstorage.clearGridCraftingMatrix:key.keyboard.x:CONTROL
 key_key.refinedstorage.openWirelessGrid:key.keyboard.unknown
 key_key.refinedstorage.openWirelessFluidGrid:key.keyboard.unknown
 key_key.refinedstorage.openWirelessCraftingMonitor:key.keyboard.unknown
 key_key.refinedstorage.openPortableGrid:key.keyboard.unknown
-key_key.toastcontrol.clear:key.keyboard.j
+key_key.openManual:key.keyboard.unknown
+key_key.nextDestination:key.keyboard.right.bracket
+key_key.prevDestination:key.keyboard.left.bracket
+key_jecalculation.key.gui_craft:key.keyboard.unknown
+key_jecalculation.key.gui_math:key.keyboard.unknown
 key_panorama.keybinds.screenshot:key.keyboard.f4
+key_key.toastcontrol.clear:key.keyboard.j
 key_key.boss_tools.rocket_start:key.keyboard.space
 key_key.tconstruct.helmet_interact:key.keyboard.z
 key_key.tconstruct.leggings_interact:key.keyboard.i
