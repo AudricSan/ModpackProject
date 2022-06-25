@@ -1,9 +1,9 @@
 {
 	id: "39AE34428D014BEC"
 	group: ""
-	order_index: 8
+	order_index: 5
 	filename: "moving_items"
-	title: "{cuboiddroid.quests.g.05.c.34}"
+	title: "Items transportation"
 	icon: "enderstorage:ender_chest"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
@@ -12,15 +12,15 @@
 			x: -1.5d
 			y: 0.0d
 			description: [
-				"{cuboiddroid.quests.g.05.c.34.q.00.d.00}"
-				"{cuboiddroid.quests.g.05.c.34.q.00.d.01}"
-				"{cuboiddroid.quests.g.05.c.34.q.00.d.02}"
-				"{cuboiddroid.quests.g.05.c.34.q.00.d.03}"
-				"{cuboiddroid.quests.g.05.c.34.q.00.d.04}"
-				"{cuboiddroid.quests.g.05.c.34.q.00.d.05}"
-				"{cuboiddroid.quests.g.05.c.34.q.00.d.06}"
-				"{cuboiddroid.quests.g.05.c.34.q.00.d.07}"
-				"{cuboiddroid.quests.g.05.c.34.q.00.d.08}"
+				""
+				""
+				""
+				""
+				""
+				""
+				""
+				""
+				""
 			]
 			id: "771FE160AB82E93D"
 			tasks: [{
@@ -32,7 +32,7 @@
 		{
 			x: -1.0d
 			y: 1.5d
-			description: ["{cuboiddroid.quests.g.05.c.34.q.01.d.00}"]
+			description: [""]
 			dependencies: ["771FE160AB82E93D"]
 			id: "77164C9BAEC48316"
 			tasks: [{
@@ -44,7 +44,7 @@
 		{
 			x: -1.0d
 			y: 3.0d
-			description: ["{cuboiddroid.quests.g.05.c.34.q.02.d.00}"]
+			description: [""]
 			dependencies: ["77164C9BAEC48316"]
 			id: "6ABF0D13FB892268"
 			tasks: [{
@@ -56,7 +56,7 @@
 		{
 			x: -1.0d
 			y: 4.5d
-			description: ["{cuboiddroid.quests.g.05.c.34.q.03.d.00}"]
+			description: [""]
 			dependencies: ["6ABF0D13FB892268"]
 			id: "11E0226EAE21EE6D"
 			tasks: [{
@@ -69,11 +69,11 @@
 			x: -0.5d
 			y: 0.0d
 			description: [
-				"{cuboiddroid.quests.g.05.c.34.q.04.d.00}"
-				"{cuboiddroid.quests.g.05.c.34.q.04.d.01}"
-				"{cuboiddroid.quests.g.05.c.34.q.04.d.02}"
-				"{cuboiddroid.quests.g.05.c.34.q.04.d.03}"
-				"{cuboiddroid.quests.g.05.c.34.q.04.d.04}"
+				""
+				""
+				""
+				""
+				""
 			]
 			id: "5B40CF0C26FA4D48"
 			tasks: [{
@@ -86,11 +86,11 @@
 			x: -3.5d
 			y: 0.0d
 			description: [
-				"{cuboiddroid.quests.g.05.c.34.q.05.d.00}"
-				"{cuboiddroid.quests.g.05.c.34.q.05.d.01}"
-				"{cuboiddroid.quests.g.05.c.34.q.05.d.02}"
-				"{cuboiddroid.quests.g.05.c.34.q.05.d.03}"
-				"{cuboiddroid.quests.g.05.c.34.q.05.d.04}"
+				""
+				""
+				""
+				""
+				""
 			]
 			id: "4023C40F3002AC45"
 			tasks: [{
@@ -102,7 +102,7 @@
 		{
 			x: -3.5d
 			y: 1.5d
-			description: ["{cuboiddroid.quests.g.05.c.34.q.06.d.00}"]
+			description: [""]
 			id: "515712C92361FDD4"
 			tasks: [{
 				id: "6E2230C6B4BA4AFB"
@@ -113,7 +113,7 @@
 		{
 			x: -3.5d
 			y: 3.0d
-			description: ["{cuboiddroid.quests.g.05.c.34.q.07.d.00}"]
+			description: [""]
 			id: "2CEE014FDACFB2AA"
 			tasks: [{
 				id: "2C6D31312B3B0C81"
@@ -124,7 +124,7 @@
 		{
 			x: -3.5d
 			y: 4.5d
-			description: ["{cuboiddroid.quests.g.05.c.34.q.08.d.00}"]
+			description: [""]
 			id: "78E1C171E5D7755D"
 			tasks: [{
 				id: "717E71775F7F1BFD"
@@ -135,7 +135,7 @@
 		{
 			x: -3.5d
 			y: 6.0d
-			description: ["{cuboiddroid.quests.g.05.c.34.q.09.d.00}"]
+			description: [""]
 			id: "511603C278061999"
 			tasks: [{
 				id: "03176BD4E21F9638"
@@ -144,19 +144,19 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.05.c.34.q.10}"
+			title: ""
 			x: -6.0d
 			y: 0.0d
 			description: [
-				"{cuboiddroid.quests.g.05.c.34.q.10.d.00}"
-				"{cuboiddroid.quests.g.05.c.34.q.10.d.01}"
-				"{cuboiddroid.quests.g.05.c.34.q.10.d.02}"
-				"{cuboiddroid.quests.g.05.c.34.q.10.d.03}"
-				"{cuboiddroid.quests.g.05.c.34.q.10.d.04}"
-				"{cuboiddroid.quests.g.05.c.34.q.10.d.05}"
-				"{cuboiddroid.quests.g.05.c.34.q.10.d.06}"
-				"{cuboiddroid.quests.g.05.c.34.q.10.d.07}"
-				"{cuboiddroid.quests.g.05.c.34.q.10.d.08}"
+				""
+				""
+				""
+				""
+				""
+				""
+				""
+				""
+				""
 			]
 			id: "04FD705635701534"
 			tasks: [
@@ -176,11 +176,11 @@
 			x: -6.5d
 			y: 1.5d
 			description: [
-				"{cuboiddroid.quests.g.05.c.34.q.11.d.00}"
-				"{cuboiddroid.quests.g.05.c.34.q.11.d.01}"
-				"{cuboiddroid.quests.g.05.c.34.q.11.d.02}"
-				"{cuboiddroid.quests.g.05.c.34.q.11.d.03}"
-				"{cuboiddroid.quests.g.05.c.34.q.11.d.04}"
+				""
+				""
+				""
+				""
+				""
 			]
 			id: "76B554CC34945020"
 			tasks: [{
@@ -193,9 +193,9 @@
 			x: -5.5d
 			y: 1.5d
 			description: [
-				"{cuboiddroid.quests.g.05.c.34.q.12.d.00}"
-				"{cuboiddroid.quests.g.05.c.34.q.12.d.01}"
-				"{cuboiddroid.quests.g.05.c.34.q.12.d.02}"
+				""
+				""
+				""
 			]
 			id: "03C17F549EA160DE"
 			tasks: [{
@@ -208,11 +208,11 @@
 			x: -6.5d
 			y: 3.0d
 			description: [
-				"{cuboiddroid.quests.g.05.c.34.q.13.d.00}"
-				"{cuboiddroid.quests.g.05.c.34.q.13.d.01}"
-				"{cuboiddroid.quests.g.05.c.34.q.13.d.02}"
-				"{cuboiddroid.quests.g.05.c.34.q.13.d.03}"
-				"{cuboiddroid.quests.g.05.c.34.q.13.d.04}"
+				""
+				""
+				""
+				""
+				""
 			]
 			id: "020FC982F30FA0C0"
 			tasks: [{
@@ -225,11 +225,11 @@
 			x: -5.5d
 			y: 3.0d
 			description: [
-				"{cuboiddroid.quests.g.05.c.34.q.14.d.00}"
-				"{cuboiddroid.quests.g.05.c.34.q.14.d.01}"
-				"{cuboiddroid.quests.g.05.c.34.q.14.d.02}"
-				"{cuboiddroid.quests.g.05.c.34.q.14.d.03}"
-				"{cuboiddroid.quests.g.05.c.34.q.14.d.04}"
+				""
+				""
+				""
+				""
+				""
 			]
 			id: "7166B30D53F350AC"
 			tasks: [{
@@ -242,11 +242,11 @@
 			x: -6.5d
 			y: 4.5d
 			description: [
-				"{cuboiddroid.quests.g.05.c.34.q.15.d.00}"
-				"{cuboiddroid.quests.g.05.c.34.q.15.d.01}"
-				"{cuboiddroid.quests.g.05.c.34.q.15.d.02}"
-				"{cuboiddroid.quests.g.05.c.34.q.15.d.03}"
-				"{cuboiddroid.quests.g.05.c.34.q.15.d.04}"
+				""
+				""
+				""
+				""
+				""
 			]
 			id: "281118B8A2CCB6CD"
 			tasks: [{
@@ -258,7 +258,7 @@
 		{
 			x: -5.5d
 			y: 4.5d
-			description: ["{cuboiddroid.quests.g.05.c.34.q.16.d.00}"]
+			description: [""]
 			id: "5537B428F502B4BA"
 			tasks: [{
 				id: "18BBA00035668CB3"
@@ -270,11 +270,11 @@
 			x: 1.5d
 			y: 0.0d
 			description: [
-				"{cuboiddroid.quests.g.05.c.34.q.17.d.00}"
-				"{cuboiddroid.quests.g.05.c.34.q.17.d.01}"
-				"{cuboiddroid.quests.g.05.c.34.q.17.d.02}"
-				"{cuboiddroid.quests.g.05.c.34.q.17.d.03}"
-				"{cuboiddroid.quests.g.05.c.34.q.17.d.04}"
+				""
+				""
+				""
+				""
+				""
 			]
 			id: "5E674CC0FE9ECD44"
 			tasks: [{
@@ -287,9 +287,9 @@
 			x: 1.5d
 			y: 1.5d
 			description: [
-				"{cuboiddroid.quests.g.05.c.34.q.18.d.00}"
-				"{cuboiddroid.quests.g.05.c.34.q.18.d.01}"
-				"{cuboiddroid.quests.g.05.c.34.q.18.d.02}"
+				""
+				""
+				""
 			]
 			id: "5F95CF05B912275D"
 			tasks: [{
@@ -299,22 +299,22 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.05.c.34.q.19}"
+			title: ""
 			x: 3.5d
 			y: 0.0d
 			description: [
-				"{cuboiddroid.quests.g.05.c.34.q.19.d.00}"
-				"{cuboiddroid.quests.g.05.c.34.q.19.d.01}"
-				"{cuboiddroid.quests.g.05.c.34.q.19.d.02}"
-				"{cuboiddroid.quests.g.05.c.34.q.19.d.03}"
-				"{cuboiddroid.quests.g.05.c.34.q.19.d.04}"
+				""
+				""
+				""
+				""
+				""
 			]
 			id: "2C69BA63A47A0E40"
 			tasks: [
 				{
 					id: "5ED38A1C95DD9D5C"
 					type: "item"
-					title: "{cuboiddroid.quests.g.05.c.34.q.19.t.00}"
+					title: ""
 					icon: "xnet:netcable_blue"
 					item: {
 						id: "itemfilters:tag"
@@ -327,7 +327,7 @@
 				{
 					id: "363C1254FAE20EE1"
 					type: "item"
-					title: "{cuboiddroid.quests.g.05.c.34.q.19.t.01}"
+					title: ""
 					icon: "xnet:connector_blue"
 					item: {
 						id: "itemfilters:tag"
@@ -340,14 +340,14 @@
 			]
 		}
 		{
-			title: "{cuboiddroid.quests.g.05.c.34.q.20}"
+			title: ""
 			x: 0.0d
 			y: -2.3d
 			shape: "gear"
 			description: [
-				"{cuboiddroid.quests.g.05.c.34.q.20.d.00}"
-				"{cuboiddroid.quests.g.05.c.34.q.20.d.01}"
-				"{cuboiddroid.quests.g.05.c.34.q.20.d.02}"
+				""
+				""
+				""
 			]
 			size: 1.5d
 			id: "44D7204AAA23552C"
@@ -359,7 +359,7 @@
 		{
 			x: -6.0d
 			y: 6.0d
-			description: ["{cuboiddroid.quests.g.05.c.34.q.21.d.00}"]
+			description: [""]
 			id: "03937D67746BE765"
 			tasks: [{
 				id: "300F36E6A95B2B59"
@@ -377,9 +377,9 @@
 			x: 5.5d
 			y: 0.0d
 			description: [
-				"{cuboiddroid.quests.g.05.c.34.q.22.d.00}"
-				"{cuboiddroid.quests.g.05.c.34.q.22.d.01}"
-				"{cuboiddroid.quests.g.05.c.34.q.22.d.02}"
+				""
+				""
+				""
 			]
 			id: "4CD2F74DF812083B"
 			tasks: [{
@@ -391,7 +391,7 @@
 		{
 			x: 7.5d
 			y: 0.0d
-			description: ["{cuboiddroid.quests.g.05.c.34.q.23.d.00}"]
+			description: [""]
 			id: "47C0486BA8120EB0"
 			tasks: [{
 				id: "7FD9DB0052845816"

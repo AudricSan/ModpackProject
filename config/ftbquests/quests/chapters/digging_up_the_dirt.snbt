@@ -1,11 +1,11 @@
 {
 	id: "37D2FB2DCC9829E5"
 	group: ""
-	order_index: 3
+	order_index: 1
 	filename: "digging_up_the_dirt"
-	title: "{cuboiddroid.quests.g.01.c.05}"
+	title: "planting and farming"
 	icon: {
-		id: "cuboidmod:thatldu_hoe"
+		id: "alloyed:steel_hoe"
 		Count: 1b
 		tag: {
 			Damage: 0
@@ -15,29 +15,23 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "{cuboiddroid.quests.g.01.c.05.q.00}"
+			title: 
 			x: -8.0d
 			y: 2.0d
 			shape: "gear"
-			description: [
-				"{cuboiddroid.quests.g.01.c.05.q.00.d.00}"
-				"{cuboiddroid.quests.g.01.c.05.q.00.d.01}"
-				"{cuboiddroid.quests.g.01.c.05.q.00.d.02}"
-				"{cuboiddroid.quests.g.01.c.05.q.00.d.03}"
-				"{cuboiddroid.quests.g.01.c.05.q.00.d.04}"
-			]
+			description: [""]
 			id: "6B5A701EF1AA7A7E"
 			tasks: [{
 				id: "1B1D342EDDE73994"
 				type: "checkmark"
-				title: "{cuboiddroid.quests.g.01.c.05.q.00.t.00}"
+				title: 
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.01.c.05.q.01}"
+			title: 
 			x: -8.0d
 			y: 3.5d
-			description: ["{cuboiddroid.quests.g.01.c.05.q.01.d.00}"]
+			description: [""]
 			dependencies: ["6B5A701EF1AA7A7E"]
 			id: "5581783BA8F7B28E"
 			tasks: [{
@@ -47,28 +41,10 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.01.c.05.q.02}"
+			title: 
 			x: -8.0d
 			y: 5.0d
-			description: [
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.00}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.01}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.02}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.03}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.04}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.05}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.06}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.07}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.08}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.09}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.10}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.11}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.12}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.13}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.14}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.15}"
-				"{cuboiddroid.quests.g.01.c.05.q.02.d.16}"
-			]
+			description: [""]
 			dependencies: ["5581783BA8F7B28E"]
 			id: "09BF0E0C854B9D19"
 			tasks: [
@@ -160,7 +136,7 @@
 			x: -9.5d
 			y: 8.5d
 			shape: "square"
-			description: ["{cuboiddroid.quests.g.01.c.05.q.09.d.00}"]
+			description: [""]
 			dependencies: ["09BF0E0C854B9D19"]
 			id: "1B4F63C1126E61B8"
 			tasks: [{
@@ -1383,7 +1359,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.01.c.05.q.97}"
+			title: 
 			x: -8.0d
 			y: 31.0d
 			shape: "gear"
@@ -1398,11 +1374,11 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.01.c.05.q.98}"
+			title: 
 			x: -8.0d
 			y: 16.5d
 			shape: "gear"
-			description: ["{cuboiddroid.quests.g.01.c.05.q.98.d.00}"]
+			description: [""]
 			dependencies: [
 				"0878696EBC55F9B4"
 				"01BA8437A5E8D358"
@@ -1420,7 +1396,7 @@
 			tasks: [{
 				id: "33D871ED2B7156BC"
 				type: "checkmark"
-				title: "{cuboiddroid.quests.g.01.c.05.q.98.t.00}"
+				title: 
 			}]
 		}
 	]

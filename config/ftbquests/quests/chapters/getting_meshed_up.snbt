@@ -9,7 +9,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.00}"
+			title: ""
 			disable_toast: true
 			x: -12.5d
 			y: 0.0d
@@ -24,7 +24,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.01}"
+			title: ""
 			disable_toast: true
 			x: -12.5d
 			y: -3.0d
@@ -39,7 +39,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.02}"
+			title: ""
 			disable_toast: true
 			x: -10.0d
 			y: -1.5d
@@ -54,7 +54,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.03}"
+			title: ""
 			disable_toast: true
 			x: -10.0d
 			y: 1.5d
@@ -69,7 +69,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.04}"
+			title: ""
 			disable_toast: true
 			x: -12.5d
 			y: 3.0d
@@ -84,7 +84,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.05}"
+			title: ""
 			x: -15.0d
 			y: 1.5d
 			shape: "hexagon"
@@ -98,7 +98,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.06}"
+			title: ""
 			x: -15.0d
 			y: -1.5d
 			shape: "hexagon"
@@ -308,7 +308,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.23}"
+			title: ""
 			x: 0.0d
 			y: -7.0d
 			hide_dependency_lines: true
@@ -322,7 +322,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.24}"
+			title: ""
 			disable_toast: true
 			x: 12.5d
 			y: 0.0d
@@ -337,7 +337,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.25}"
+			title: ""
 			disable_toast: true
 			x: 12.5d
 			y: 18.0d
@@ -352,7 +352,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.26}"
+			title: ""
 			x: 0.0d
 			y: 25.0d
 			hide_dependency_lines: true
@@ -366,7 +366,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.27}"
+			title: ""
 			disable_toast: true
 			x: -12.5d
 			y: 18.0d
@@ -381,7 +381,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.28}"
+			title: ""
 			disable_toast: true
 			x: 0.0d
 			y: -4.0d
@@ -468,7 +468,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.35}"
+			title: ""
 			disable_toast: true
 			x: 2.5d
 			y: -5.5d
@@ -519,7 +519,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.39}"
+			title: ""
 			disable_toast: true
 			x: 2.5d
 			y: -8.5d
@@ -546,11 +546,11 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.41}"
+			title: ""
 			disable_toast: true
 			x: -10.0d
 			y: 2.5d
-			subtitle: "{cuboiddroid.quests.g.07.c.26.q.41.sub}"
+			subtitle: ""
 			dependencies: ["3084E06F2B80B74E"]
 			id: "40F10AC03856E05E"
 			tasks: [{
@@ -560,11 +560,11 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.42}"
+			title: ""
 			disable_toast: true
 			x: -9.0d
 			y: 2.0d
-			subtitle: "{cuboiddroid.quests.g.07.c.26.q.42.sub}"
+			subtitle: ""
 			dependencies: ["3084E06F2B80B74E"]
 			id: "0E36BC9FFDB5C389"
 			tasks: [{
@@ -574,7 +574,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.43}"
+			title: ""
 			disable_toast: true
 			x: 0.0d
 			y: -10.0d
@@ -589,7 +589,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.44}"
+			title: ""
 			disable_toast: true
 			x: -2.5d
 			y: -8.5d
@@ -604,7 +604,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.45}"
+			title: ""
 			disable_toast: true
 			x: -2.5d
 			y: -5.5d
@@ -691,7 +691,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.52}"
+			title: ""
 			disable_toast: true
 			x: 12.5d
 			y: -5.0d
@@ -706,7 +706,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.53}"
+			title: ""
 			disable_toast: true
 			x: 15.5d
 			y: -4.0d
@@ -721,7 +721,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.54}"
+			title: ""
 			disable_toast: true
 			x: 17.5d
 			y: -1.0d
@@ -736,7 +736,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.55}"
+			title: ""
 			disable_toast: true
 			x: 17.0d
 			y: 2.0d
@@ -751,7 +751,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.56}"
+			title: ""
 			disable_toast: true
 			x: 14.5d
 			y: 4.5d
@@ -766,7 +766,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.57}"
+			title: ""
 			disable_toast: true
 			x: 10.5d
 			y: 4.5d
@@ -781,7 +781,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.58}"
+			title: ""
 			disable_toast: true
 			x: 8.0d
 			y: 2.0d
@@ -796,7 +796,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.59}"
+			title: ""
 			disable_toast: true
 			x: 7.5d
 			y: -1.0d
@@ -811,7 +811,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.60}"
+			title: ""
 			disable_toast: true
 			x: 9.5d
 			y: -4.0d
@@ -826,19 +826,19 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.61}"
+			title: ""
 			icon: "exnihilosequentia:sieve"
 			x: 0.5d
 			y: 8.0d
 			shape: "gear"
 			description: [
-				"{cuboiddroid.quests.g.07.c.26.q.61.d.00}"
-				"{cuboiddroid.quests.g.07.c.26.q.61.d.01}"
-				"{cuboiddroid.quests.g.07.c.26.q.61.d.02}"
-				"{cuboiddroid.quests.g.07.c.26.q.61.d.03}"
-				"{cuboiddroid.quests.g.07.c.26.q.61.d.04}"
-				"{cuboiddroid.quests.g.07.c.26.q.61.d.05}"
-				"{cuboiddroid.quests.g.07.c.26.q.61.d.06}"
+				""
+				""
+				""
+				""
+				""
+				""
+				""
 			]
 			dependencies: ["428FD7AF1B49A51D"]
 			size: 3.0d
@@ -922,11 +922,11 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.68}"
+			title: ""
 			disable_toast: true
 			x: 18.5d
 			y: -1.5d
-			subtitle: "{cuboiddroid.quests.g.07.c.26.q.68.sub}"
+			subtitle: ""
 			dependencies: ["5F37EA9F8187F8A6"]
 			id: "0022334DEA314633"
 			tasks: [{
@@ -1116,7 +1116,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.84}"
+			title: ""
 			disable_toast: true
 			x: 12.5d
 			y: 13.0d
@@ -1131,7 +1131,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.85}"
+			title: ""
 			disable_toast: true
 			x: 17.5d
 			y: 18.0d
@@ -1146,7 +1146,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.86}"
+			title: ""
 			disable_toast: true
 			x: 16.0d
 			y: 14.5d
@@ -1161,7 +1161,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.87}"
+			title: ""
 			disable_toast: true
 			x: 16.0d
 			y: 21.5d
@@ -1176,7 +1176,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.88}"
+			title: ""
 			x: 12.5d
 			y: 23.0d
 			shape: "hexagon"
@@ -1190,7 +1190,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.89}"
+			title: ""
 			disable_toast: true
 			x: 9.0d
 			y: 21.5d
@@ -1205,7 +1205,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.90}"
+			title: ""
 			disable_toast: true
 			x: 7.5d
 			y: 18.0d
@@ -1220,7 +1220,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.91}"
+			title: ""
 			disable_toast: true
 			x: 9.0d
 			y: 14.5d
@@ -1427,7 +1427,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.108}"
+			title: ""
 			x: 3.5d
 			y: 28.5d
 			shape: "hexagon"
@@ -1452,7 +1452,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.110}"
+			title: ""
 			x: -3.5d
 			y: 28.5d
 			shape: "hexagon"
@@ -1477,7 +1477,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.112}"
+			title: ""
 			x: 0.0d
 			y: 30.0d
 			shape: "hexagon"
@@ -1513,7 +1513,7 @@
 			}]
 		}
 		{
-			title: "{cuboiddroid.quests.g.07.c.26.q.115}"
+			title: ""
 			x: -12.5d
 			y: 23.0d
 			shape: "hexagon"
