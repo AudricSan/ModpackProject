@@ -3,7 +3,7 @@
 	title: "Creative Addition Quest"
 	default_reward_team: false
 	default_consume_items: false
-	default_autoclaim_rewards: "enable"
+	default_autoclaim_rewards: "disabled"
 	default_quest_shape: "gear"
 	default_quest_disable_jei: false
 	emergency_items: [{ id: "create:andesite_alloy", Count: 1b }]

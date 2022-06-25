@@ -1,7 +1,7 @@
 {
 	id: "6B875C77BF0C8CD5"
-	group: ""
-	order_index: 3
+	group: "4E6EF07DB8929436"
+	order_index: 2
 	filename: "getting_tinks_done"
 	title: "smeltery"
 	icon: "tconstruct:smeltery_controller"
@@ -9,23 +9,9 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: ""
-			x: -10.5d
-			y: 0.5d
-			shape: "gear"
-			description: [""]
-			id: "0BA4183E9254B2AD"
-			tasks: [{
-				id: "56218806F1A5FC3D"
-				type: "checkmark"
-				title: ""
-			}]
-		}
-		{
-			title: ""
 			x: -8.5d
-			y: 0.5d
-			shape: "square"
+			y: -0.5d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -33,7 +19,6 @@
 				""
 				""
 			]
-			dependencies: ["0BA4183E9254B2AD"]
 			id: "7689811B675CB663"
 			tasks: [{
 				id: "49D59D73E9165F7D"
@@ -43,10 +28,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: -5.5d
-			y: 0.5d
-			shape: "square"
+			x: -8.5d
+			y: 1.0d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -61,13 +45,11 @@
 			}]
 		}
 		{
-			title: ""
-			x: 2.0d
-			y: 3.0d
-			shape: "square"
-			subtitle: ""
+			x: -5.5d
+			y: 2.0d
+			shape: "gear"
 			description: [""]
-			dependencies: ["54493C0419586822"]
+			dependencies: ["71C94DD1513C239E"]
 			id: "504A8DED31C4E3EC"
 			tasks: [{
 				id: "574EAA111108B2C3"
@@ -77,10 +59,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: -2.5d
-			y: -0.5d
-			shape: "square"
+			x: -7.0d
+			y: 2.0d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -97,10 +78,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: -2.5d
-			y: 0.5d
-			shape: "square"
+			x: -7.0d
+			y: 3.0d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -117,10 +97,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: -2.5d
-			y: -1.5d
-			shape: "square"
+			x: -7.0d
+			y: 1.0d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -149,10 +128,9 @@
 			]
 		}
 		{
-			title: ""
-			x: -2.5d
-			y: 1.5d
-			shape: "square"
+			x: -7.0d
+			y: 4.0d
+			shape: "gear"
 			description: [""]
 			dependencies: ["1F4CB5B1FA691BAC"]
 			id: "0D7C115221200F4E"
@@ -163,13 +141,11 @@
 			}]
 		}
 		{
-			title: ""
-			x: 1.0d
-			y: 4.0d
-			shape: "square"
-			subtitle: ""
+			x: -5.5d
+			y: 1.0d
+			shape: "gear"
 			description: [""]
-			dependencies: ["54493C0419586822"]
+			dependencies: ["3468A1304A244F66"]
 			id: "71C94DD1513C239E"
 			tasks: [{
 				id: "6888EAC1B4EC22C7"
@@ -178,10 +154,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: -2.5d
-			y: 2.5d
-			shape: "square"
+			x: -7.0d
+			y: 5.0d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -198,9 +173,8 @@
 			}]
 		}
 		{
-			title: ""
-			x: -2.0d
-			y: 3.5d
+			x: -5.5d
+			y: 5.0d
 			description: [
 				""
 				""
@@ -217,16 +191,15 @@
 			}]
 		}
 		{
-			title: ""
-			x: 3.0d
-			y: 2.0d
-			shape: "square"
+			x: -5.5d
+			y: 3.0d
+			shape: "gear"
 			description: [
 				""
 				""
 				""
 			]
-			dependencies: ["54493C0419586822"]
+			dependencies: ["504A8DED31C4E3EC"]
 			dependency_requirement: "one_started"
 			id: "06701B9E3630EED8"
 			tasks: [
@@ -243,10 +216,9 @@
 			]
 		}
 		{
-			title: ""
-			x: -6.5d
+			x: -7.0d
 			y: -0.5d
-			shape: "square"
+			shape: "gear"
 			description: [
 				""
 				""
@@ -274,10 +246,9 @@
 			]
 		}
 		{
-			title: ""
-			x: -4.5d
-			y: -1.5d
-			shape: "square"
+			x: -5.5d
+			y: -0.5d
+			shape: "gear"
 			description: [""]
 			dependencies: ["307E3B89B44B462C"]
 			id: "3546C3F02222AD0D"
@@ -288,10 +259,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: -2.5d
-			y: -2.5d
-			shape: "square"
+			x: -4.0d
+			y: -0.5d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -308,10 +278,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: 4.0d
-			y: 1.0d
-			shape: "square"
+			x: -5.5d
+			y: 4.0d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -319,7 +288,7 @@
 				""
 				""
 			]
-			dependencies: ["54493C0419586822"]
+			dependencies: ["06701B9E3630EED8"]
 			id: "46AFFB07DDB85108"
 			tasks: [{
 				id: "00EA5B814E3D4C31"
@@ -328,10 +297,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: 7.0d
-			y: -5.0d
-			shape: "square"
+			x: 3.5d
+			y: 1.0d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -347,10 +315,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: -0.5d
-			y: -3.5d
-			shape: "square"
+			x: -2.5d
+			y: -0.5d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -368,10 +335,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: 1.5d
-			y: -4.5d
-			shape: "square"
+			x: -1.0d
+			y: -0.5d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -387,10 +353,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: 3.5d
-			y: -5.5d
-			shape: "square"
+			x: 0.5d
+			y: -0.5d
+			shape: "gear"
 			description: [""]
 			dependencies: ["554C2B8969903BC6"]
 			id: "6661387F6A3E1BCA"
@@ -402,10 +367,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: 5.5d
-			y: -6.5d
-			shape: "square"
+			x: 2.0d
+			y: -0.5d
+			shape: "gear"
 			description: [""]
 			dependencies: ["6661387F6A3E1BCA"]
 			id: "1D85898B092C9EC0"
@@ -416,10 +380,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: 7.0d
-			y: -3.5d
-			shape: "square"
+			x: 3.5d
+			y: 2.5d
+			shape: "gear"
 			description: [""]
 			dependencies: ["79F700177E90BB51"]
 			id: "24E0AF40A7800C82"
@@ -431,9 +394,8 @@
 			}]
 		}
 		{
-			title: ""
-			x: 5.5d
-			y: -5.0d
+			x: 2.0d
+			y: 1.0d
 			description: [""]
 			dependencies: ["1D85898B092C9EC0"]
 			optional: true
@@ -446,9 +408,8 @@
 			}]
 		}
 		{
-			title: ""
-			x: 5.5d
-			y: -3.5d
+			x: 2.0d
+			y: 2.5d
 			description: [""]
 			dependencies: ["55130CF64C4F9EBB"]
 			optional: true
@@ -461,10 +422,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: 10.0d
-			y: -0.5d
-			shape: "square"
+			x: 5.0d
+			y: 4.0d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -480,11 +440,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: 7.0d
-			y: -2.0d
-			shape: "square"
-			subtitle: ""
+			x: 5.0d
+			y: 2.5d
+			shape: "gear"
 			description: [""]
 			dependencies: ["24E0AF40A7800C82"]
 			id: "41533B9883BC8046"
@@ -495,9 +453,8 @@
 			}]
 		}
 		{
-			title: ""
-			x: 8.5d
-			y: -3.5d
+			x: 3.5d
+			y: 4.0d
 			description: [""]
 			dependencies: ["24E0AF40A7800C82"]
 			id: "02C565DF230C9A02"
@@ -508,11 +465,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: 7.0d
-			y: -0.5d
+			x: 6.5d
+			y: 2.5d
 			shape: "gear"
-			subtitle: ""
 			description: [
 				""
 				""
@@ -524,7 +479,6 @@
 				""
 			]
 			dependencies: ["41533B9883BC8046"]
-			size: 1.5d
 			id: "3B00278F3DDF103C"
 			tasks: [{
 				id: "01616EB880322908"
@@ -534,9 +488,8 @@
 			}]
 		}
 		{
-			title: ""
-			x: 8.5d
-			y: -0.5d
+			x: 6.5d
+			y: 4.0d
 			description: [""]
 			dependencies: [
 				"2CDC1C706AFA2E47"
@@ -550,10 +503,8 @@
 			}]
 		}
 		{
-			title: ""
-			x: 10.0d
-			y: -3.5d
-			subtitle: ""
+			x: 3.5d
+			y: 5.5d
 			description: [""]
 			dependencies: ["02C565DF230C9A02"]
 			id: "5A325EC318C6B44C"
@@ -565,10 +516,8 @@
 			}]
 		}
 		{
-			title: ""
-			x: 10.0d
-			y: -2.0d
-			subtitle: ""
+			x: 5.0d
+			y: 5.5d
 			description: [
 				""
 				""
@@ -587,9 +536,8 @@
 			}]
 		}
 		{
-			title: ""
-			x: 5.5d
-			y: -2.0d
+			x: 2.0d
+			y: 4.0d
 			description: [""]
 			dependencies: ["29EB650396A8609B"]
 			optional: true
@@ -601,125 +549,13 @@
 			}]
 		}
 		{
-			title: ""
-			x: 4.0d
-			y: 4.0d
-			shape: "diamond"
-			description: [
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-			]
-			dependencies: [
-				"06701B9E3630EED8"
-				"71C94DD1513C239E"
-				"46AFFB07DDB85108"
-				"504A8DED31C4E3EC"
-			]
-			id: "2827AB59F3D85E9D"
-			tasks: [{
-				id: "41F718B8F6D58AE9"
-				type: "checkmark"
-			}]
-		}
-		{
-			title: ""
-			x: 0.5d
-			y: 0.5d
-			shape: "diamond"
-			description: [
-				""
-				""
-				""
-				""
-				""
-			]
-			dependencies: [
-				"3468A1304A244F66"
-				"38125BFEC7884F38"
-				"44443475CE111148"
-				"0D7C115221200F4E"
-				"1825174040BFD858"
-				"7ABCB955100B92C0"
-			]
-			id: "54493C0419586822"
-			tasks: [{
-				id: "3F9C93758622F915"
-				type: "checkmark"
-			}]
-		}
-		{
-			title: ""
-			x: 4.0d
+			x: 6.5d
 			y: 5.5d
-			shape: "gear"
-			description: [
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-			]
-			dependencies: ["2827AB59F3D85E9D"]
-			size: 1.5d
-			id: "495C59666CD6C3A0"
-			tasks: [{
-				id: "47970DBB4446450F"
-				type: "item"
-				item: "mekanism:ingot_osmium"
-				count: 3L
-			}]
-		}
-		{
-			title: ""
-			x: 11.5d
-			y: -3.5d
-			description: [""]
-			dependencies: [
-				"5D14F476E568B129"
-				"742CB98CD34C3815"
-			]
-			id: "6418606FCB78AE9F"
-			tasks: [
-				{
-					id: "647C981B3E0D1CE1"
-					type: "item"
-					item: "exnihilosequentia:porcelain_clay"
-					count: 5L
-				}
-				{
-					id: "74C0592F1B3A46C2"
-					type: "item"
-					item: "exnihilosequentia:doll_crafting"
-				}
-				{
-					id: "7BFB98282F8CA846"
-					type: "item"
-					item: "exnihilosequentia:doll_blaze"
-				}
-			]
-		}
-		{
-			title: ""
-			x: 11.5d
-			y: -2.0d
 			description: [
 				""
 				""
 				""
 			]
-			dependencies: ["6418606FCB78AE9F"]
 			id: "3725D438E369781D"
 			tasks: [{
 				id: "76C119766ECDC82C"
@@ -728,10 +564,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: 7.0d
-			y: -7.0d
-			shape: "square"
+			x: 3.5d
+			y: -0.5d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -744,15 +579,13 @@
 			tasks: [{
 				id: "3CE850AFE9C0341A"
 				type: "item"
-				title: ""
 				item: "exnihilosequentia:ancient_spores"
 			}]
 		}
 		{
-			title: ""
-			x: 8.5d
-			y: -7.0d
-			shape: "square"
+			x: 5.0d
+			y: -0.5d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -769,10 +602,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: 10.0d
-			y: -6.5d
-			shape: "square"
+			x: 6.5d
+			y: -0.5d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -787,11 +619,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: 11.0d
-			y: -5.5d
-			shape: "square"
-			subtitle: ""
+			x: 8.0d
+			y: -0.5d
+			shape: "gear"
 			description: [
 				""
 				""
@@ -806,10 +636,9 @@
 			}]
 		}
 		{
-			title: ""
-			x: 9.0d
-			y: -5.5d
-			shape: "square"
+			x: 2.0d
+			y: -2.0d
+			shape: "gear"
 			description: [""]
 			dependencies: ["1D85898B092C9EC0"]
 			id: "742CB98CD34C3815"
@@ -821,9 +650,8 @@
 			}]
 		}
 		{
-			title: ""
-			x: 5.5d
-			y: -0.5d
+			x: 8.0d
+			y: 2.5d
 			description: [
 				""
 				""
@@ -841,10 +669,9 @@
 			}]
 		}
 		{
-			title: ""
 			icon: "tconstruct:ingot_sand_cast"
-			x: -1.5d
-			y: 4.5d
+			x: -4.0d
+			y: 5.0d
 			description: [
 				""
 				""
@@ -856,7 +683,6 @@
 			tasks: [{
 				id: "07E9361CEF1E4B4B"
 				type: "checkmark"
-				title: ""
 			}]
 		}
 	]

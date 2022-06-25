@@ -37,7 +37,7 @@
 			title: "Not for sheep"
 			x: -23.5d
 			y: -9.5d
-			shape: "square"
+			shape: "gear"
 			description: [
 				""
 				""
@@ -58,10 +58,9 @@
 			}]
 		}
 		{
-			title: ""
 			x: -22.0d
 			y: -6.5d
-			shape: "square"
+			shape: "gear"
 			description: [
 				""
 				""
@@ -76,7 +75,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: -23.5d
 			y: -6.5d
 			description: [
@@ -95,10 +93,9 @@
 			}]
 		}
 		{
-			title: ""
 			x: -22.0d
 			y: -8.0d
-			shape: "square"
+			shape: "gear"
 			description: [
 				""
 				""
@@ -114,10 +111,9 @@
 			}]
 		}
 		{
-			title: ""
 			x: -20.5d
 			y: -11.0d
-			shape: "square"
+			shape: "gear"
 			description: [
 				""
 				""
@@ -141,7 +137,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: -22.0d
 			y: -11.0d
 			description: [
@@ -155,7 +150,6 @@
 				{
 					id: "0E35258E81651894"
 					type: "item"
-					title: ""
 					item: "minecraft:oak_planks"
 					count: 4L
 				}
@@ -178,11 +172,9 @@
 			]
 		}
 		{
-			title: ""
 			x: -22.0d
 			y: -12.5d
-			shape: "square"
-			subtitle: ""
+			shape: "gear"
 			description: [
 				""
 				""
@@ -209,11 +201,9 @@
 			}]
 		}
 		{
-			title: ""
 			x: -20.5d
 			y: -12.5d
-			shape: "square"
-			subtitle: ""
+			shape: "gear"
 			description: [""]
 			dependencies: ["37652379CE1B798B"]
 			id: "546A3E1E5069E3D6"
@@ -224,7 +214,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: -19.0d
 			y: -11.0d
 			description: [
@@ -247,7 +236,7 @@
 			title: "Barel"
 			x: -23.5d
 			y: -12.5d
-			shape: "square"
+			shape: "gear"
 			description: [
 				""
 				""
@@ -262,11 +251,9 @@
 			}]
 		}
 		{
-			title: ""
 			x: -22.0d
 			y: -14.0d
-			shape: "square"
-			subtitle: ""
+			shape: "gear"
 			description: [""]
 			dependencies: [
 				"546A3E1E5069E3D6"
@@ -280,7 +267,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: -17.5d
 			y: -11.0d
 			description: [""]
@@ -300,10 +286,9 @@
 			}]
 		}
 		{
-			title: ""
 			x: -22.0d
 			y: -9.5d
-			shape: "square"
+			shape: "gear"
 			description: [
 				""
 				""
@@ -345,10 +330,9 @@
 			]
 		}
 		{
-			title: ""
 			x: -23.5d
 			y: -8.0d
-			shape: "square"
+			shape: "gear"
 			description: [
 				""
 				""
@@ -370,10 +354,9 @@
 			}]
 		}
 		{
-			title: ""
 			x: -19.0d
 			y: -9.5d
-			shape: "square"
+			shape: "gear"
 			description: [
 				""
 				""
@@ -410,10 +393,9 @@
 			]
 		}
 		{
-			title: ""
 			x: -19.0d
 			y: -8.0d
-			shape: "square"
+			shape: "gear"
 			description: [
 				""
 				""
@@ -457,10 +439,9 @@
 			]
 		}
 		{
-			title: ""
 			x: -17.5d
 			y: -8.0d
-			shape: "square"
+			shape: "gear"
 			description: [""]
 			dependencies: ["09E583ACB8521C0D"]
 			id: "5D41AFE88B363373"
@@ -477,7 +458,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: -19.0d
 			y: -6.5d
 			shape: "gear"
@@ -496,7 +476,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: -20.5d
 			y: -9.5d
 			description: [
@@ -517,10 +496,8 @@
 			}]
 		}
 		{
-			title: ""
 			x: -20.5d
 			y: -8.0d
-			subtitle: ""
 			description: [
 				""
 				""
@@ -550,7 +527,6 @@
 			tasks: [{
 				id: "6E6DAD3B23E7535A"
 				type: "item"
-				title: ""
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -561,10 +537,8 @@
 			}]
 		}
 		{
-			title: ""
 			x: -17.5d
 			y: -6.5d
-			subtitle: ""
 			description: [""]
 			optional: true
 			id: "16F4815BB74482D3"

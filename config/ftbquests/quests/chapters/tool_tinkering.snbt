@@ -58,7 +58,6 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: ""
 			x: 0.0d
 			y: 0.0d
 			shape: "gear"
@@ -76,7 +75,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: 1.5d
 			y: 0.0d
 			description: [
@@ -101,7 +99,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: 3.0d
 			y: 2.0d
 			description: [
@@ -114,7 +111,6 @@
 			tasks: [{
 				id: "2B4D2D42C82CC5EF"
 				type: "item"
-				title: ""
 				item: {
 					id: "tconstruct:crafting_station"
 					Count: 1b
@@ -123,7 +119,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: 3.0d
 			y: 1.0d
 			description: [
@@ -136,7 +131,6 @@
 			tasks: [{
 				id: "0728C460FC46D219"
 				type: "item"
-				title: ""
 				item: {
 					id: "tconstruct:part_builder"
 					Count: 1b
@@ -145,7 +139,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: 3.0d
 			y: 0.0d
 			description: [
@@ -158,7 +151,6 @@
 			tasks: [{
 				id: "77ED20CAC5FB6FAD"
 				type: "item"
-				title: ""
 				item: {
 					id: "tconstruct:tinker_station"
 					Count: 1b
@@ -167,7 +159,6 @@
 			}]
 		}
 		{
-			title: ""
 			icon: {
 				id: "tconstruct:hand_axe"
 				Count: 1b
@@ -270,7 +261,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: 4.5d
 			y: 0.0d
 			description: [
@@ -321,9 +311,8 @@
 			]
 		}
 		{
-			title: ""
-			x: 6.0d
-			y: 1.5d
+			x: 7.5d
+			y: 0.0d
 			description: [
 				""
 				""
@@ -337,28 +326,20 @@
 			]
 			dependencies: ["0FBD70A678F713DE"]
 			id: "30E592B9968A4B46"
-			tasks: [
-				{
-					id: "2B6EF24D09E52C6E"
-					type: "item"
-					item: {
-						id: "tconstruct:small_axe_head"
-						Count: 1b
-						tag: {
-							Material: "tconstruct:stone"
-						}
+			tasks: [{
+				id: "2B6EF24D09E52C6E"
+				type: "item"
+				item: {
+					id: "tconstruct:small_axe_head"
+					Count: 1b
+					tag: {
+						Material: "tconstruct:stone"
 					}
 				}
-				{
-					id: "25B26DD231CDA123"
-					type: "checkmark"
-					title: ""
-				}
-			]
+			}]
 		}
 		{
-			title: ""
-			x: 7.5d
+			x: 9.0d
 			y: 0.0d
 			shape: "gear"
 			description: [
@@ -366,10 +347,7 @@
 				""
 				""
 			]
-			dependencies: [
-				"30E592B9968A4B46"
-				"54493C0419586822"
-			]
+			dependencies: ["30E592B9968A4B46"]
 			id: "382ACEA3B14FE049"
 			tasks: [{
 				id: "69287F70ED08AFB3"
@@ -389,35 +367,7 @@
 			}]
 		}
 		{
-			title: ""
-			x: 7.5d
-			y: 1.5d
-			description: [
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-			]
-			dependencies: ["382ACEA3B14FE049"]
-			id: "2497581D002D9694"
-			tasks: [{
-				id: "10BFDB20C95492E7"
-				type: "checkmark"
-				title: ""
-			}]
-			rewards: [{
-				id: "1F8C64E72C38CD62"
-				type: "item"
-				item: "tconstruct:silky_cloth"
-				count: 5
-			}]
-		}
-		{
-			title: ""
-			x: 9.0d
+			x: 10.5d
 			y: 0.0d
 			description: [
 				""
@@ -426,12 +376,11 @@
 				""
 				""
 			]
-			dependencies: ["2497581D002D9694"]
+			dependencies: ["382ACEA3B14FE049"]
 			id: "32BD594EE5DEF1FA"
 			tasks: [{
 				id: "5D94B2B948A1287E"
 				type: "item"
-				title: ""
 				item: {
 					id: "tconstruct:tinkers_anvil"
 					Count: 1b
@@ -445,9 +394,8 @@
 			}]
 		}
 		{
-			title: ""
 			x: 10.5d
-			y: 0.0d
+			y: 1.5d
 			description: [
 				""
 				""
@@ -459,7 +407,6 @@
 				{
 					id: "0078E5803F22C337"
 					type: "item"
-					title: ""
 					item: {
 						id: "tconstruct:tough_handle"
 						Count: 1b
@@ -470,7 +417,6 @@
 				{
 					id: "3F4F3433F923AD5F"
 					type: "item"
-					title: ""
 					item: {
 						id: "tconstruct:broad_blade"
 						Count: 1b
@@ -480,7 +426,6 @@
 				{
 					id: "6D2B1ACB5BDAD035"
 					type: "item"
-					title: ""
 					item: {
 						id: "tconstruct:large_plate"
 						Count: 1b
@@ -490,7 +435,6 @@
 				{
 					id: "259D65F2CE40E689"
 					type: "item"
-					title: ""
 					item: {
 						id: "tconstruct:cleaver"
 						Count: 1b
@@ -541,9 +485,8 @@
 			}]
 		}
 		{
-			title: ""
-			x: 9.0d
-			y: 1.5d
+			x: 10.5d
+			y: -1.5d
 			description: [
 				""
 				""
@@ -555,7 +498,6 @@
 				{
 					id: "3875AF169ED6A46C"
 					type: "item"
-					title: ""
 					item: {
 						id: "tconstruct:large_plate"
 						Count: 1b
@@ -566,7 +508,6 @@
 				{
 					id: "6B550B487627AC35"
 					type: "item"
-					title: ""
 					item: {
 						id: "tconstruct:tough_handle"
 						Count: 1b
@@ -577,7 +518,6 @@
 				{
 					id: "145BF10E5A813E30"
 					type: "item"
-					title: ""
 					item: {
 						id: "tconstruct:excavator"
 						Count: 1b

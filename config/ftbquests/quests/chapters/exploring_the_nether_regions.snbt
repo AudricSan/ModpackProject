@@ -1,7 +1,7 @@
 {
 	id: "224354F4BDF62683"
-	group: ""
-	order_index: 6
+	group: "6AC4DD38815B4B73"
+	order_index: 0
 	filename: "exploring_the_nether_regions"
 	title: "Nether Exploration"
 	icon: "exnihilosequentia:crushed_netherrack"
@@ -9,64 +9,9 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: ""
-			x: -1.0d
-			y: 2.0d
-			shape: "gear"
-			description: [""]
-			id: "2280A6EEC1BFDEDD"
-			tasks: [
-				{
-					id: "598A8BA555915DF1"
-					type: "item"
-					item: "rftoolsbase:dimensionalshard"
-				}
-				{
-					id: "50FDF0F8AA087D2F"
-					type: "item"
-					item: "minecraft:nether_bricks"
-				}
-				{
-					id: "21E3DEA97509F418"
-					type: "item"
-					item: "powah:crystal_niotic"
-				}
-				{
-					id: "5C575C37D9D2698D"
-					type: "item"
-					item: "endergetic:boof_block"
-				}
-			]
-		}
-		{
-			x: -1.0d
-			y: 4.0d
-			shape: "square"
-			description: [
-				""
-				""
-				""
-			]
-			dependencies: ["2280A6EEC1BFDEDD"]
-			id: "46821A52352BBC8F"
-			tasks: [{
-				id: "08117E8BF30437D8"
-				type: "item"
-				item: "cuboidmod:energized_nether_bricks"
-			}]
-			rewards: [{
-				id: "672DC08DB4F9A8FB"
-				type: "gamestage"
-				title: "Let's go!"
-				icon: "storagedrawers:shroud_key"
-				auto: "disabled"
-				stage: "nether_access"
-			}]
-		}
-		{
 			x: -1.0d
 			y: 6.0d
-			shape: "square"
+			shape: "gear"
 			description: [
 				""
 				""
@@ -74,12 +19,10 @@
 				""
 				""
 			]
-			dependencies: ["46821A52352BBC8F"]
 			id: "248E373FA159A972"
 			tasks: [{
 				id: "62434700F775BD85"
 				type: "dimension"
-				title: ""
 				dimension: "minecraft:the_nether"
 			}]
 		}
@@ -101,7 +44,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: -2.0d
 			y: 10.0d
 			description: [""]
@@ -115,7 +57,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: -1.0d
 			y: 8.0d
 			description: [
@@ -153,7 +94,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: -1.0d
 			y: 11.5d
 			description: [
@@ -199,7 +139,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: 1.0d
 			y: 6.0d
 			description: [""]
@@ -256,7 +195,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: -3.0d
 			y: 6.0d
 			description: [
@@ -275,10 +213,8 @@
 			}]
 		}
 		{
-			title: ""
 			x: -3.0d
 			y: 8.0d
-			subtitle: ""
 			description: [
 				""
 				""
@@ -307,7 +243,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: -1.0d
 			y: 14.5d
 			shape: "gear"
@@ -334,10 +269,8 @@
 			}]
 		}
 		{
-			title: ""
 			x: 1.0d
 			y: 8.0d
-			subtitle: ""
 			description: [
 				""
 				""
@@ -358,7 +291,6 @@
 			}]
 		}
 		{
-			title: ""
 			x: -2.0d
 			y: 13.0d
 			description: [
@@ -379,27 +311,6 @@
 				type: "advancement"
 				advancement: "minecraft:nether/summon_wither"
 				criterion: ""
-			}]
-		}
-		{
-			title: ""
-			x: -3.0d
-			y: 4.0d
-			shape: "gear"
-			description: [
-				""
-				""
-				""
-				""
-				""
-			]
-			dependencies: ["248E373FA159A972"]
-			size: 1.5d
-			id: "036A00C69FE8FD59"
-			tasks: [{
-				id: "5EE34EC0795F7010"
-				type: "item"
-				item: "quark:blaze_lantern"
 			}]
 		}
 	]

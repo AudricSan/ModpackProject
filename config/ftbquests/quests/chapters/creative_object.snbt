@@ -1,0 +1,11 @@
+{
+	id: "1802BBBE5BC9828E"
+	group: "2C4C4477F47B5FBB"
+	order_index: 1
+	filename: "creative_object"
+	title: "Creative Object"
+	icon: "create:handheld_worldshaper"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

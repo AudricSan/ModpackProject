@@ -1,0 +1,15 @@
+{
+	id: "0595AAE62D9716C3"
+	group: "6AC4DD38815B4B73"
+	order_index: 1
+	filename: "space_exploration"
+	title: "Space exploration"
+	icon: {
+		id: "boss_tools:rocket_t1"
+		Count: 1b
+		tag: { }
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

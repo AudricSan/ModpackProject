@@ -1,99 +1,13 @@
 {
 	id: "7504D2F4D88313C5"
-	group: ""
-	order_index: 0
+	group: "4E6EF07DB8929436"
+	order_index: 5
 	filename: "fluid_transport"
 	title: "Liquid transportation"
 	icon: "enderstorage:ender_tank"
 	default_quest_shape: "gear"
 	default_hide_dependency_lines: false
 	quests: [
-		{
-			x: 2.5d
-			y: 2.0d
-			description: [
-				""
-				""
-				""
-			]
-			id: "5E419353EC2F2F44"
-			tasks: [{
-				id: "73B097E020BC0B9A"
-				type: "item"
-				item: "mekanism:basic_mechanical_pipe"
-			}]
-		}
-		{
-			x: 2.0d
-			y: 3.5d
-			description: [
-				""
-				""
-				""
-			]
-			dependencies: ["5E419353EC2F2F44"]
-			id: "721A102962C8373F"
-			tasks: [{
-				id: "472D4D80A157E367"
-				type: "item"
-				item: "mekanism:advanced_mechanical_pipe"
-			}]
-		}
-		{
-			x: 2.0d
-			y: 5.0d
-			description: [
-				""
-				""
-				""
-			]
-			dependencies: ["721A102962C8373F"]
-			id: "09EDB80081CCAA54"
-			tasks: [{
-				id: "1E916F420B2E1600"
-				type: "item"
-				item: "mekanism:elite_mechanical_pipe"
-			}]
-		}
-		{
-			x: 2.0d
-			y: 6.5d
-			description: [
-				""
-				""
-				""
-			]
-			dependencies: ["09EDB80081CCAA54"]
-			id: "14E47EE15819EF3D"
-			tasks: [{
-				id: "2639228F1B2DE6C9"
-				type: "item"
-				item: "mekanism:ultimate_mechanical_pipe"
-			}]
-		}
-		{
-			x: 1.5d
-			y: 2.0d
-			description: [""]
-			id: "725F5C52C894F657"
-			tasks: [{
-				id: "76D946183175597C"
-				type: "item"
-				item: "mekanism:electric_pump"
-			}]
-		}
-		{
-			title: ""
-			x: -0.5d
-			y: 2.0d
-			description: [""]
-			id: "64B1FD08E6E2B140"
-			tasks: [{
-				id: "5DB02A4C6E1F26F8"
-				type: "item"
-				item: "immersiveengineering:fluid_pipe"
-			}]
-		}
 		{
 			x: 5.5d
 			y: 2.0d
@@ -115,18 +29,6 @@
 				id: "7A812FA6750FB272"
 				type: "item"
 				item: "create:smart_fluid_pipe"
-			}]
-		}
-		{
-			title: ""
-			x: -1.5d
-			y: 2.0d
-			description: [""]
-			id: "182026EEBE95B146"
-			tasks: [{
-				id: "236034ADD050CFCA"
-				type: "item"
-				item: "immersiveengineering:fluid_pump"
 			}]
 		}
 		{
@@ -158,67 +60,7 @@
 			}]
 		}
 		{
-			title: ""
-			x: -3.5d
-			y: 2.0d
-			description: [
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-			]
-			id: "26642B00376F3070"
-			tasks: [
-				{
-					id: "17CA4CE1C8650ECD"
-					type: "item"
-					title: ""
-					icon: "xnet:connector_blue"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "xnet:connectors"
-						}
-					}
-				}
-				{
-					id: "6603FA3C57ABF327"
-					type: "item"
-					title: ""
-					icon: "xnet:netcable_blue"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "xnet:cables"
-						}
-					}
-				}
-			]
-		}
-		{
-			title: ""
-			x: 3.8d
-			y: 0.0d
-			shape: "gear"
-			description: [
-				""
-				""
-				""
-			]
-			size: 1.5d
-			id: "7F4EEC10573D1EB4"
-			tasks: [{
-				id: "2C676AA9A71CAFE9"
-				type: "checkmark"
-			}]
-		}
-		{
-			x: -5.5d
+			x: 2.5d
 			y: 2.0d
 			description: [""]
 			id: "7DB74266994654BB"
@@ -230,32 +72,6 @@
 		}
 		{
 			x: 9.5d
-			y: 2.0d
-			description: [""]
-			id: "47C3812B2944C18C"
-			tasks: [{
-				id: "04D8A47038A41DFF"
-				type: "item"
-				item: "immersiveengineering:jerrycan"
-			}]
-		}
-		{
-			x: 11.5d
-			y: 2.0d
-			description: [
-				""
-				""
-				""
-			]
-			id: "3A53D5F1E7426C55"
-			tasks: [{
-				id: "5670EB889425CF2B"
-				type: "item"
-				item: "industrialforegoing:fluid_transporter_type"
-			}]
-		}
-		{
-			x: 13.5d
 			y: 2.0d
 			description: [""]
 			id: "6CF2A3AD1FE8A99D"

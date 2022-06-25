@@ -1,7 +1,7 @@
 {
 	id: "39AE34428D014BEC"
-	group: ""
-	order_index: 5
+	group: "4E6EF07DB8929436"
+	order_index: 3
 	filename: "moving_items"
 	title: "Items transportation"
 	icon: "enderstorage:ender_chest"
@@ -9,142 +9,6 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: -1.5d
-			y: 0.0d
-			description: [
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-			]
-			id: "771FE160AB82E93D"
-			tasks: [{
-				id: "0BD379BA344489C2"
-				type: "item"
-				item: "mekanism:basic_logistical_transporter"
-			}]
-		}
-		{
-			x: -1.0d
-			y: 1.5d
-			description: [""]
-			dependencies: ["771FE160AB82E93D"]
-			id: "77164C9BAEC48316"
-			tasks: [{
-				id: "238C05BA44C21445"
-				type: "item"
-				item: "mekanism:advanced_logistical_transporter"
-			}]
-		}
-		{
-			x: -1.0d
-			y: 3.0d
-			description: [""]
-			dependencies: ["77164C9BAEC48316"]
-			id: "6ABF0D13FB892268"
-			tasks: [{
-				id: "699E6DFA9FF05587"
-				type: "item"
-				item: "mekanism:elite_logistical_transporter"
-			}]
-		}
-		{
-			x: -1.0d
-			y: 4.5d
-			description: [""]
-			dependencies: ["6ABF0D13FB892268"]
-			id: "11E0226EAE21EE6D"
-			tasks: [{
-				id: "534FD3B0C49A281D"
-				type: "item"
-				item: "mekanism:ultimate_logistical_transporter"
-			}]
-		}
-		{
-			x: -0.5d
-			y: 0.0d
-			description: [
-				""
-				""
-				""
-				""
-				""
-			]
-			id: "5B40CF0C26FA4D48"
-			tasks: [{
-				id: "4FDB062B18603C9B"
-				type: "item"
-				item: "mekanism:logistical_sorter"
-			}]
-		}
-		{
-			x: -3.5d
-			y: 0.0d
-			description: [
-				""
-				""
-				""
-				""
-				""
-			]
-			id: "4023C40F3002AC45"
-			tasks: [{
-				id: "3CF13788C2B39FE3"
-				type: "item"
-				item: "immersiveengineering:conveyor_basic"
-			}]
-		}
-		{
-			x: -3.5d
-			y: 1.5d
-			description: [""]
-			id: "515712C92361FDD4"
-			tasks: [{
-				id: "6E2230C6B4BA4AFB"
-				type: "item"
-				item: "immersiveengineering:conveyor_vertical"
-			}]
-		}
-		{
-			x: -3.5d
-			y: 3.0d
-			description: [""]
-			id: "2CEE014FDACFB2AA"
-			tasks: [{
-				id: "2C6D31312B3B0C81"
-				type: "item"
-				item: "immersiveengineering:conveyor_dropper"
-			}]
-		}
-		{
-			x: -3.5d
-			y: 4.5d
-			description: [""]
-			id: "78E1C171E5D7755D"
-			tasks: [{
-				id: "717E71775F7F1BFD"
-				type: "item"
-				item: "immersiveengineering:conveyor_extract"
-			}]
-		}
-		{
-			x: -3.5d
-			y: 6.0d
-			description: [""]
-			id: "511603C278061999"
-			tasks: [{
-				id: "03176BD4E21F9638"
-				type: "item"
-				item: "immersiveengineering:conveyor_splitter"
-			}]
-		}
-		{
-			title: ""
 			x: -6.0d
 			y: 0.0d
 			description: [
@@ -267,7 +131,7 @@
 			}]
 		}
 		{
-			x: 1.5d
+			x: -3.5d
 			y: 0.0d
 			description: [
 				""
@@ -284,7 +148,7 @@
 			}]
 		}
 		{
-			x: 1.5d
+			x: -3.5d
 			y: 1.5d
 			description: [
 				""
@@ -296,64 +160,6 @@
 				id: "7B383462518155B9"
 				type: "item"
 				item: "enderstorage:ender_pouch"
-			}]
-		}
-		{
-			title: ""
-			x: 3.5d
-			y: 0.0d
-			description: [
-				""
-				""
-				""
-				""
-				""
-			]
-			id: "2C69BA63A47A0E40"
-			tasks: [
-				{
-					id: "5ED38A1C95DD9D5C"
-					type: "item"
-					title: ""
-					icon: "xnet:netcable_blue"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "xnet:cables"
-						}
-					}
-				}
-				{
-					id: "363C1254FAE20EE1"
-					type: "item"
-					title: ""
-					icon: "xnet:connector_blue"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "xnet:connectors"
-						}
-					}
-				}
-			]
-		}
-		{
-			title: ""
-			x: 0.0d
-			y: -2.3d
-			shape: "gear"
-			description: [
-				""
-				""
-				""
-			]
-			size: 1.5d
-			id: "44D7204AAA23552C"
-			tasks: [{
-				id: "5BDF007D5D3390F7"
-				type: "checkmark"
 			}]
 		}
 		{
@@ -374,22 +180,7 @@
 			}]
 		}
 		{
-			x: 5.5d
-			y: 0.0d
-			description: [
-				""
-				""
-				""
-			]
-			id: "4CD2F74DF812083B"
-			tasks: [{
-				id: "569631D59D8BFA8B"
-				type: "item"
-				item: "industrialforegoing:item_transporter_type"
-			}]
-		}
-		{
-			x: 7.5d
+			x: -1.5d
 			y: 0.0d
 			description: [""]
 			id: "47C0486BA8120EB0"
