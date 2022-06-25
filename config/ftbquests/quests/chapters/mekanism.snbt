@@ -1,7 +1,7 @@
 {
 	id: "6362652E582C4885"
 	group: "4E6EF07DB8929436"
-	order_index: 4
+	order_index: 5
 	filename: "mekanism"
 	title: "Fluid Storage"
 	icon: "create:fluid_tank"

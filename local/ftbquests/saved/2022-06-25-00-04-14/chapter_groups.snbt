@@ -1,8 +1,0 @@
-{
-	chapter_groups: [
-		{ id: "7565C0146D052946", title: "Create" }
-		{ id: "587F4B20EE744A23", title: "Automation" }
-		{ id: "4E6EF07DB8929436", title: "Other" }
-		{ id: "2C4C4477F47B5FBB", title: "EndGame" }
-	]
-}

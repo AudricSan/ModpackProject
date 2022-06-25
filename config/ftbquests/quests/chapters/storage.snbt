@@ -59,7 +59,7 @@
 			}]
 		}
 		{
-			x: 0.0d
+			x: 2.5d
 			y: -5.0d
 			dependencies: ["39DA73870FD34FF9"]
 			id: "3C84E1CAE3173B5A"
@@ -75,7 +75,7 @@
 			}]
 		}
 		{
-			x: -1.0d
+			x: 1.5d
 			y: -5.0d
 			dependencies: ["39DA73870FD34FF9"]
 			id: "686C0A879F87415E"
@@ -92,7 +92,7 @@
 			}]
 		}
 		{
-			x: -2.0d
+			x: 0.5d
 			y: -5.0d
 			dependencies: ["39DA73870FD34FF9"]
 			id: "7656F5914C9E7F23"
@@ -109,7 +109,7 @@
 			}]
 		}
 		{
-			x: -3.0d
+			x: -0.5d
 			y: -5.0d
 			dependencies: ["39DA73870FD34FF9"]
 			id: "680883A5EA743C5C"
@@ -126,7 +126,7 @@
 			}]
 		}
 		{
-			x: -4.0d
+			x: -1.5d
 			y: -5.0d
 			dependencies: ["39DA73870FD34FF9"]
 			id: "0DDC87E62DC9438F"
@@ -193,7 +193,7 @@
 			}]
 		}
 		{
-			x: 3.0d
+			x: 3.5d
 			y: -5.0d
 			dependencies: ["39DA73870FD34FF9"]
 			id: "1E1C86F4309C6F13"
@@ -260,7 +260,7 @@
 			}]
 		}
 		{
-			x: 4.0d
+			x: 4.5d
 			y: -5.0d
 			dependencies: ["39DA73870FD34FF9"]
 			id: "286F69B4E3415CE0"
@@ -290,25 +290,6 @@
 				type: "item"
 				item: "create:andesite_alloy"
 				count: 2
-			}]
-		}
-		{
-			x: 1.5d
-			y: -5.5d
-			shape: "octagon"
-			dependencies: ["39DA73870FD34FF9"]
-			size: 1.25d
-			id: "136C9E89E2BA90B3"
-			tasks: [{
-				id: "252341C4A773F6D2"
-				type: "item"
-				item: "storagedrawers:creative_storage_upgrade"
-			}]
-			rewards: [{
-				id: "749EDE4EF1143631"
-				type: "item"
-				item: "create:andesite_alloy"
-				count: 25
 			}]
 		}
 		{
