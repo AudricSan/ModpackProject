@@ -2,7 +2,7 @@
 	id: "1AD3422B4CCBF499"
 	group: "4E6EF07DB8929436"
 	order_index: 6
-	filename: "item_transportation"
+	filename: "item_storage"
 	title: "Item Storage"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false

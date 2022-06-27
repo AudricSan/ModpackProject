@@ -2,7 +2,7 @@
 	id: "51C1ED90B61B9D15"
 	group: "587F4B20EE744A23"
 	order_index: 2
-	filename: "real_energy"
+	filename: "energy"
 	title: "Electricity"
 	icon: "createaddition:tesla_coil"
 	default_quest_shape: ""

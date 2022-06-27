@@ -2,8 +2,8 @@
 	id: "16D377F0D36CA2DE"
 	group: "587F4B20EE744A23"
 	order_index: 3
-	filename: "digital_refined_storage"
-	title: "Extra storage"
+	filename: "refined_storage"
+	title: "Refined Storage"
 	icon: "refinedstorage:advanced_processor"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false

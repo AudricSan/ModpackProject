@@ -2,7 +2,7 @@
 	id: "1DBA299686FEBFC2"
 	group: "7565C0146D052946"
 	order_index: 1
-	filename: "energy_production"
+	filename: "kinetic_energy"
 	title: "Kinetic Energy"
 	icon: "create:hand_crank"
 	default_quest_shape: ""

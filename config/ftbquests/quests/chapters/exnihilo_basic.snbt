@@ -2,7 +2,7 @@
 	id: "09FE676C0CEB86EC"
 	group: "587F4B20EE744A23"
 	order_index: 0
-	filename: "getting_going"
+	filename: "exnihilo_basic"
 	title: "Basic Exnihilo"
 	icon: "exnihilosequentia:sieve"
 	default_quest_shape: ""
@@ -14,17 +14,6 @@
 			x: -23.5d
 			y: -11.0d
 			shape: "gear"
-			description: [
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-			]
 			id: "3851A991AC7B9CC6"
 			tasks: [{
 				id: "47050DD512C2B47B"
@@ -38,11 +27,6 @@
 			x: -23.5d
 			y: -9.5d
 			shape: "gear"
-			description: [
-				""
-				""
-				""
-			]
 			dependencies: ["3851A991AC7B9CC6"]
 			id: "1438CB442450350F"
 			tasks: [{
@@ -61,11 +45,6 @@
 			x: -22.0d
 			y: -6.5d
 			shape: "gear"
-			description: [
-				""
-				""
-				""
-			]
 			id: "0810233938445D12"
 			tasks: [{
 				id: "6F5350EA63C58A2F"
@@ -77,13 +56,6 @@
 		{
 			x: -23.5d
 			y: -6.5d
-			description: [
-				""
-				""
-				""
-				""
-				""
-			]
 			dependencies: ["0810233938445D12"]
 			id: "3D7F38B0BB1A15AE"
 			tasks: [{
@@ -96,11 +68,6 @@
 			x: -22.0d
 			y: -8.0d
 			shape: "gear"
-			description: [
-				""
-				""
-				""
-			]
 			dependencies: ["0810233938445D12"]
 			id: "3513BE459009658F"
 			tasks: [{
@@ -114,11 +81,6 @@
 			x: -20.5d
 			y: -11.0d
 			shape: "gear"
-			description: [
-				""
-				""
-				""
-			]
 			dependencies: [
 				"3513BE459009658F"
 				"428FD7AF1B49A51D"
@@ -139,11 +101,6 @@
 		{
 			x: -22.0d
 			y: -11.0d
-			description: [
-				""
-				""
-				""
-			]
 			dependencies: ["3851A991AC7B9CC6"]
 			id: "428FD7AF1B49A51D"
 			tasks: [
@@ -175,17 +132,6 @@
 			x: -22.0d
 			y: -12.5d
 			shape: "gear"
-			description: [
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-			]
 			dependencies: ["3851A991AC7B9CC6"]
 			id: "37652379CE1B798B"
 			tasks: [{
@@ -204,7 +150,6 @@
 			x: -20.5d
 			y: -12.5d
 			shape: "gear"
-			description: [""]
 			dependencies: ["37652379CE1B798B"]
 			id: "546A3E1E5069E3D6"
 			tasks: [{
@@ -216,11 +161,6 @@
 		{
 			x: -19.0d
 			y: -11.0d
-			description: [
-				""
-				""
-				""
-			]
 			dependencies: [
 				"6AF8FD5317351B8A"
 				"546A3E1E5069E3D6"
@@ -237,11 +177,6 @@
 			x: -23.5d
 			y: -12.5d
 			shape: "gear"
-			description: [
-				""
-				""
-				""
-			]
 			dependencies: ["3851A991AC7B9CC6"]
 			id: "53F89DDA31E8A134"
 			tasks: [{
@@ -254,7 +189,6 @@
 			x: -22.0d
 			y: -14.0d
 			shape: "gear"
-			description: [""]
 			dependencies: [
 				"546A3E1E5069E3D6"
 				"53F89DDA31E8A134"
@@ -269,7 +203,6 @@
 		{
 			x: -17.5d
 			y: -11.0d
-			description: [""]
 			dependencies: ["473BE4B46491DEEA"]
 			id: "639FAD5D76D7C78A"
 			tasks: [{
@@ -289,11 +222,6 @@
 			x: -22.0d
 			y: -9.5d
 			shape: "gear"
-			description: [
-				""
-				""
-				""
-			]
 			dependencies: ["6AF8FD5317351B8A"]
 			id: "622A14D949B6F090"
 			tasks: [
@@ -333,17 +261,6 @@
 			x: -23.5d
 			y: -8.0d
 			shape: "gear"
-			description: [
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-			]
 			dependencies: ["1438CB442450350F"]
 			id: "4FE0F1F1907DE0D3"
 			tasks: [{
@@ -357,11 +274,6 @@
 			x: -19.0d
 			y: -9.5d
 			shape: "gear"
-			description: [
-				""
-				""
-				""
-			]
 			dependencies: ["6AF8FD5317351B8A"]
 			id: "6151DF88A40CD55B"
 			tasks: [
@@ -396,13 +308,6 @@
 			x: -19.0d
 			y: -8.0d
 			shape: "gear"
-			description: [
-				""
-				""
-				""
-				""
-				""
-			]
 			dependencies: ["6151DF88A40CD55B"]
 			id: "09E583ACB8521C0D"
 			tasks: [
@@ -442,7 +347,6 @@
 			x: -17.5d
 			y: -8.0d
 			shape: "gear"
-			description: [""]
 			dependencies: ["09E583ACB8521C0D"]
 			id: "5D41AFE88B363373"
 			tasks: [{
@@ -461,11 +365,6 @@
 			x: -19.0d
 			y: -6.5d
 			shape: "gear"
-			description: [
-				""
-				""
-				""
-			]
 			dependencies: ["09E583ACB8521C0D"]
 			id: "55B899DC63CFA8E3"
 			tasks: [{
@@ -478,15 +377,6 @@
 		{
 			x: -20.5d
 			y: -9.5d
-			description: [
-				""
-				""
-				""
-				""
-				""
-				""
-				""
-			]
 			dependencies: ["6AF8FD5317351B8A"]
 			id: "7D0687B0C3527D41"
 			tasks: [{
@@ -498,13 +388,6 @@
 		{
 			x: -20.5d
 			y: -8.0d
-			description: [
-				""
-				""
-				""
-				""
-				""
-			]
 			dependencies: ["3513BE459009658F"]
 			id: "35F547ACB0E2CFD8"
 			tasks: [{
@@ -539,7 +422,6 @@
 		{
 			x: -17.5d
 			y: -6.5d
-			description: [""]
 			optional: true
 			id: "16F4815BB74482D3"
 			tasks: [{

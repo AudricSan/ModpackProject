@@ -2,7 +2,7 @@
 	id: "71F713EB878AFD8E"
 	group: "7565C0146D052946"
 	order_index: 3
-	filename: "creative_items"
+	filename: "items"
 	title: "Items"
 	icon: "create:schematic_table"
 	default_quest_shape: "gear"
