@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2022-06-27 08:52:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-06-15 15:17:18 +0200"
@@ -335,6 +341,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_ingot_from_nuggets": {
+    "criteria": {
+      "has_item": "2022-06-27 08:51:08 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/blasting/lead_ingot_compat_silents_mechanisms": {
     "criteria": {
       "has_item": "2022-06-21 14:37:43 +0200"
@@ -476,6 +488,12 @@
   "create:recipes/create.base/crafting/materials/copper_block_from_compacting": {
     "criteria": {
       "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_boots": {
+    "criteria": {
+      "has_item": "2022-06-27 08:52:17 +0200"
     },
     "done": true
   },
@@ -695,6 +713,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_block_from_ingots": {
+    "criteria": {
+      "has_item": "2022-06-27 08:51:08 +0200"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/copper_bars": {
     "criteria": {
       "has_item": "2022-06-15 19:52:34 +0200"
@@ -722,6 +746,12 @@
   "rftoolsutility:recipes/rftoolsutility/button_module": {
     "criteria": {
       "ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/tinkers_bronze_block_from_ingots": {
+    "criteria": {
+      "has_item": "2022-06-27 08:52:05 +0200"
     },
     "done": true
   },
@@ -858,6 +888,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_block_from_ingots": {
+    "criteria": {
+      "has_item": "2022-06-27 08:52:17 +0200"
+    },
+    "done": true
+  },
   "creategears:recipes/creategears/large_gear_from_cogwheel": {
     "criteria": {
       "has_cogwheel": "2022-06-24 10:19:46 +0200"
@@ -867,6 +903,12 @@
   "connectedglass:recipes/connectedglass/borderless_glass_gray2": {
     "criteria": {
       "glass": "2022-06-16 03:28:26 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_catwalk": {
+    "criteria": {
+      "has_item": "2022-06-27 08:51:50 +0200"
     },
     "done": true
   },
@@ -1071,6 +1113,12 @@
   "creategears:recipes/creategears/gear_from_cogwheel": {
     "criteria": {
       "has_cogwheel": "2022-06-15 14:35:36 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2022-06-27 08:52:17 +0200"
     },
     "done": true
   },
@@ -1297,6 +1345,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/zinc_catwalk": {
+    "criteria": {
+      "has_item": "2022-06-27 08:52:12 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_chestplate": {
+    "criteria": {
+      "has_item": "2022-06-27 08:52:17 +0200"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/cherry_cogwheel": {
     "criteria": {
       "has_item": "2022-06-24 23:13:30 +0200"
@@ -1402,6 +1462,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2022-06-15 19:53:35 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_mesh_fence": {
+    "criteria": {
+      "has_item": "2022-06-27 08:51:50 +0200"
     },
     "done": true
   },
@@ -1627,6 +1693,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2022-06-27 08:51:50 +0200"
+    },
+    "done": true
+  },
   "creategears:recipes/creategears/gear": {
     "criteria": {
       "has_cogwheels": "2022-06-15 14:35:36 +0200"
@@ -1717,6 +1789,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2022-06-27 08:51:50 +0200"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/borderless_glass_pink2": {
     "criteria": {
       "glass": "2022-06-16 03:28:26 +0200"
@@ -1726,6 +1804,12 @@
   "create:recipes/create.base/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2022-06-24 23:13:30 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/tinkers_bronze_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2022-06-27 08:52:05 +0200"
     },
     "done": true
   },
@@ -1810,6 +1894,12 @@
   "creategearaddon:recipes/large_dead_cogwheel": {
     "criteria": {
       "has_item": "2022-06-24 23:13:30 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_helmet": {
+    "criteria": {
+      "has_item": "2022-06-27 08:52:17 +0200"
     },
     "done": true
   },
@@ -2095,6 +2185,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2022-06-27 08:51:50 +0200"
+    },
+    "done": true
+  },
   "create:deployer": {
     "criteria": {
       "0": "2022-06-24 00:41:29 +0200"
@@ -2146,6 +2242,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2022-06-21 14:39:14 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2022-06-27 08:52:17 +0200"
     },
     "done": true
   },
@@ -2257,6 +2359,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2022-06-27 08:51:50 +0200"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/large_half_shaft_dead_cogwheel": {
     "criteria": {
       "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
@@ -2300,6 +2408,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_leggings": {
+    "criteria": {
+      "has_item": "2022-06-27 08:52:17 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
     "criteria": {
       "has_item": "2022-06-15 19:52:34 +0200"
@@ -2321,6 +2435,12 @@
   "create:recipes/create.base/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2022-06-24 23:13:30 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/zinc_mesh_fence": {
+    "criteria": {
+      "has_item": "2022-06-27 08:52:12 +0200"
     },
     "done": true
   },
@@ -2357,6 +2477,12 @@
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/tools/building/flint_and_bronze": {
+    "criteria": {
+      "has_bronze": "2022-06-27 08:52:05 +0200"
     },
     "done": true
   },
@@ -2441,6 +2567,12 @@
   "alloyed:recipes/main_group/smithing/steel_axe": {
     "criteria": {
       "has_ingredient": "2022-06-15 16:42:37 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2022-06-27 08:51:08 +0200"
     },
     "done": true
   },
