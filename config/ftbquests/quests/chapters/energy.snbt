@@ -9,8 +9,8 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: -1.0d
-			y: -0.5d
+			x: 1.0d
+			y: 1.0d
 			subtitle: "create electricity"
 			dependencies: ["71B164CE2086EBB0"]
 			id: "3F02A6EB74C47752"
@@ -27,8 +27,8 @@
 			}]
 		}
 		{
-			x: 3.0d
-			y: -0.5d
+			x: 1.0d
+			y: -2.0d
 			subtitle: "generating rotational force"
 			dependencies: ["71B164CE2086EBB0"]
 			id: "78EE2AD247E2123F"
@@ -69,8 +69,8 @@
 			}]
 		}
 		{
-			x: 3.0d
-			y: -1.5d
+			x: 0.0d
+			y: -2.0d
 			subtitle: "heat furnace"
 			dependencies: ["71B164CE2086EBB0"]
 			id: "2FBD10312E6DC440"
@@ -87,8 +87,8 @@
 			}]
 		}
 		{
-			x: 3.0d
-			y: 0.5d
+			x: 2.0d
+			y: -2.0d
 			subtitle: "charge items"
 			dependencies: ["71B164CE2086EBB0"]
 			id: "288BAAECAEC8C241"
