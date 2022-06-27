@@ -7,5 +7,306 @@
 	icon: "create:handheld_worldshaper"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [
+		{
+			x: -3.5d
+			y: 0.0d
+			id: "01CC3918B732968D"
+			tasks: [{
+				id: "40636DC139648378"
+				type: "item"
+				item: "createaddition:creative_energy"
+			}]
+		}
+		{
+			x: -5.5d
+			y: 1.0d
+			id: "048D4B7AED59BB24"
+			tasks: [{
+				id: "7C114BA3C616DAE4"
+				type: "item"
+				item: "botanypotstiers:creative_botany_pot"
+			}]
+		}
+		{
+			x: -5.5d
+			y: 2.0d
+			id: "7803BE2B6DDC145F"
+			tasks: [{
+				id: "5C2E5442F48C85BC"
+				type: "item"
+				item: {
+					id: "tconstruct:creative_slot"
+					Count: 1b
+					tag: {
+						slot: "upgrades"
+					}
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 0.0d
+			id: "15F9D6D11C720D63"
+			tasks: [{
+				id: "4A7F9979DFFEC973"
+				type: "item"
+				item: "create:creative_motor"
+			}]
+		}
+		{
+			x: -5.5d
+			y: 0.0d
+			id: "04332A918E32DC83"
+			tasks: [{
+				id: "0E686A379775783F"
+				type: "item"
+				item: "create:handheld_worldshaper"
+			}]
+		}
+		{
+			x: -4.5d
+			y: 2.0d
+			id: "5748870F1BB0FEAA"
+			tasks: [{
+				id: "3B763620F9A50284"
+				type: "item"
+				item: "create:creative_fluid_tank"
+			}]
+		}
+		{
+			x: -4.5d
+			y: 1.0d
+			id: "198970823FE3DBAE"
+			tasks: [{
+				id: "14F18EE5E9B4B302"
+				type: "item"
+				item: "storagedrawers:creative_vending_upgrade"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 1.0d
+			id: "3A9E13A805B83497"
+			tasks: [{
+				id: "79D0635F2C4D01BF"
+				type: "item"
+				item: {
+					id: "tconstruct:creative_slot"
+					Count: 1b
+					tag: {
+						slot: "abilities"
+					}
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: 1.0d
+			id: "6D1F1B4213E5DC9D"
+			tasks: [{
+				id: "1CE65C6E27DE12CB"
+				type: "item"
+				item: "storagedrawers:creative_storage_upgrade"
+			}]
+		}
+		{
+			x: -2.5d
+			y: 0.0d
+			id: "55748F5B08717B29"
+			tasks: [{
+				id: "398A94B4793FCAD8"
+				type: "item"
+				item: "createsupercharged:creative_mechanism"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 0.0d
+			id: "5400D83C63E55B3D"
+			tasks: [{
+				id: "1042B13619A0F6E4"
+				type: "item"
+				item: "create:creative_crate"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 1.0d
+			id: "5D799F367BC36877"
+			tasks: [{
+				id: "464AB9DDBD898CE6"
+				type: "item"
+				item: "create:creative_blaze_cake"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 2.0d
+			id: "5A7DA3CC20BD5E80"
+			tasks: [{
+				id: "202DE663965E6E38"
+				type: "item"
+				item: "refinedstorageaddons:creative_wireless_crafting_grid"
+			}]
+		}
+		{
+			x: -2.5d
+			y: 2.0d
+			id: "348D990D6DD4CB60"
+			tasks: [{
+				id: "61BC93D74076F09E"
+				type: "item"
+				item: "refinedstorage:creative_wireless_crafting_monitor"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 2.0d
+			id: "0681BB827302B280"
+			tasks: [{
+				id: "7D91144F4FCB8186"
+				type: "item"
+				item: "refinedstorage:creative_wireless_fluid_grid"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 2.0d
+			id: "64148921AEA34C65"
+			tasks: [{
+				id: "598A9DCA65B701AC"
+				type: "item"
+				item: "refinedstorage:creative_wireless_grid"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 1.0d
+			id: "35C4D7443F48A722"
+			tasks: [{
+				id: "4B6ACAC71962AF90"
+				type: "item"
+				item: "refinedstorage:creative_controller"
+			}]
+		}
+		{
+			x: -0.5d
+			y: 0.0d
+			id: "776CAB8D7C66A9F3"
+			tasks: [{
+				id: "0F2AF75C0E813367"
+				type: "item"
+				item: "refinedstorage:creative_fluid_storage_block"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 0.0d
+			id: "2A7FFFCD14BBF3B5"
+			tasks: [{
+				id: "0D090FB85660E906"
+				type: "item"
+				item: "refinedstorage:creative_storage_block"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 1.0d
+			id: "5725A98005929EED"
+			tasks: [{
+				id: "1DA7412FA4C38299"
+				type: "item"
+				item: {
+					id: "refinedstorage:creative_portable_grid"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: 2.0d
+			id: "4273C372F24A0702"
+			tasks: [{
+				id: "7FA079563E0E9DFF"
+				type: "item"
+				item: {
+					id: "refinedstorage:creative_fluid_storage_disk"
+					Count: 1b
+					tag: {
+						Id: [I;
+							286311386
+							-214938419
+							-1321426871
+							-552878500
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			id: "7B242DCE88FA06E4"
+			tasks: [{
+				id: "34A6F06CB31E1CF4"
+				type: "item"
+				item: {
+					id: "refinedstorage:creative_storage_disk"
+					Count: 1b
+					tag: {
+						Id: [I;
+							1990866835
+							-1329314728
+							-1381369337
+							2028207756
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 1.0d
+			id: "4A62FB3BC80E74B7"
+			tasks: [{
+				id: "7B2B08403B721389"
+				type: "item"
+				item: "rftoolspower:dimensionalcell_creative"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 2.0d
+			id: "7D9198690815E424"
+			tasks: [{
+				id: "492426CE823954FE"
+				type: "item"
+				item: {
+					id: "tconstruct:creative_slot"
+					Count: 1b
+					tag: {
+						slot: "souls"
+					}
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 0.0d
+			id: "60D842AD4D8658F6"
+			tasks: [{
+				id: "12DF564520C912F2"
+				type: "item"
+				item: {
+					id: "tconstruct:creative_slot"
+					Count: 1b
+					tag: {
+						slot: "defense"
+					}
+				}
+			}]
+		}
+	]
 }
