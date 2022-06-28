@@ -4,6 +4,7 @@
 #956B44 byg:aspen_leaves
 #A0E289 excompressum:auto_hammer
 #189B99 minecraft:barrel
+#490837 minecraft:beacon
 #840F59 minecraft:bedrock
 #7C938F create:belt
 #FC2DEC tconstruct:black_clear_stained_glass
@@ -31,11 +32,16 @@
 #73CA69 create:creative_motor
 #B2A2E1 minecraft:dandelion
 #5E5E58 create:deployer
+#5A35D5 minecraft:diamond_block
+#A68B91 rftoolsbase:dimensionalshard_end
 #BED665 minecraft:diorite
 #80497A minecraft:dirt
+#136FCC minecraft:dragon_egg
 #3B3ABB tconstruct:earth_congealed_slime
 #AECE2C botanypotstiers:elite_hopper_botany_pot
 #548B83 create:encased_fan
+#889C43 minecraft:end_portal
+#A8CFF4 minecraft:end_stone
 #B539F9 pipez:energy_pipe
 #DC0D87 create:fluid_pipe
 #A86BF7 pipez:fluid_pipe
@@ -111,3 +117,4 @@
 #9D5016 pipez:universal_pipe
 #7E8A7B compactmachines:wall
 #E2C9D0 create:weighted_ejector
+#B7775E minecraft:white_bed
