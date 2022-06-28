@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "refinedstorage:wireless_items": {
+    "criteria": {
+      "wireless_grid_in_inventory": "2022-06-28 13:54:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2022-06-15 19:53:35 +0200"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/refined_radiance_casing": {
+    "criteria": {
+      "has_item": "2022-06-28 13:15:16 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/basin": {
     "criteria": {
       "has_item": "2022-06-24 23:13:30 +0200"
@@ -380,6 +392,12 @@
   "create:recipes/building_blocks/blasting/ingot_aluminum_compat_immersiveengineering": {
     "criteria": {
       "has_item": "2022-06-21 14:40:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
     },
     "done": true
   },
@@ -527,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-06-15 14:03:20 +0200"
@@ -611,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2022-06-24 23:13:30 +0200"
@@ -658,6 +688,12 @@
       "has_item": "2022-06-15 16:45:09 +0200"
     },
     "done": true
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "sword": "2022-06-28 13:21:00 +0200"
+    },
+    "done": false
   },
   "alloyed:recipes/main_group/smithing/steel_pickaxe": {
     "criteria": {
@@ -719,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-06-28 13:17:40 +0200"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/copper_bars": {
     "criteria": {
       "has_item": "2022-06-15 19:52:34 +0200"
@@ -764,6 +806,12 @@
   "createdeco:recipes/createdeco.metals/andesite_catwalk": {
     "criteria": {
       "has_item": "2022-06-24 23:13:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2022-06-28 13:14:09 +0200"
     },
     "done": true
   },
@@ -984,6 +1032,12 @@
     },
     "done": true
   },
+  "create:chromatic_compound": {
+    "criteria": {
+      "0": "2022-06-28 13:12:43 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2022-06-15 19:53:35 +0200"
@@ -1044,6 +1098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2022-06-24 00:19:07 +0200"
@@ -1095,6 +1155,12 @@
   "creategearaddon:recipes/large_cherry_cogwheel": {
     "criteria": {
       "has_item": "2022-06-24 23:13:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
     },
     "done": true
   },
@@ -1207,9 +1273,27 @@
     },
     "done": true
   },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2022-06-28 13:13:05 +0200"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/jungle_cogwheel": {
     "criteria": {
       "has_item": "2022-06-24 23:13:30 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/wand_of_symmetry": {
+    "criteria": {
+      "has_item": "2022-06-28 13:15:16 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2022-06-28 13:21:00 +0200"
     },
     "done": true
   },
@@ -1297,6 +1381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-06-28 13:13:05 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2022-06-15 16:46:11 +0200"
@@ -1312,6 +1402,12 @@
   "creategearaddon:recipes/large_warped_cogwheel": {
     "criteria": {
       "has_item": "2022-06-24 23:13:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
     },
     "done": true
   },
@@ -1486,6 +1582,18 @@
   "create:recipes/create.base/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2022-06-15 19:52:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-06-28 13:23:12 +0200"
     },
     "done": true
   },
@@ -1669,6 +1777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2022-06-24 00:37:56 +0200"
@@ -1750,6 +1864,12 @@
   "creategearaddon:recipes/large_half_shaft_hellbark_cogwheel": {
     "criteria": {
       "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
     },
     "done": true
   },
@@ -1921,9 +2041,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
+    },
+    "done": true
+  },
   "alloyed:recipes/main_group/smithing/steel_shovel": {
     "criteria": {
       "has_ingredient": "2022-06-15 16:42:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
     },
     "done": true
   },
@@ -1993,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/blasting/aluminum_ingot_compat_silents_mechanisms": {
     "criteria": {
       "has_item": "2022-06-21 14:40:17 +0200"
@@ -2032,6 +2170,18 @@
   "create:recipes/building_blocks/smelting/ingot_uranium_compat_mekanism": {
     "criteria": {
       "has_item": "2022-06-21 14:40:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/shadow_steel_casing": {
+    "criteria": {
+      "has_item": "2022-06-28 13:18:12 +0200"
+    },
+    "done": true
+  },
+  "create:refined_radiance": {
+    "criteria": {
+      "0": "2022-06-28 13:15:16 +0200"
     },
     "done": true
   },
@@ -2155,6 +2305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2022-06-24 12:32:47 +0200"
@@ -2263,6 +2419,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-06-28 13:23:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-06-28 13:23:12 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/silver_ingot_compat_thermal": {
     "criteria": {
       "has_item": "2022-06-21 14:37:30 +0200"
@@ -2368,6 +2536,12 @@
   "creategearaddon:recipes/large_half_shaft_dead_cogwheel": {
     "criteria": {
       "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/item_trash_can": {
+    "criteria": {
+      "chest": "2022-06-28 12:48:42 +0200"
     },
     "done": true
   },
@@ -2576,6 +2750,12 @@
     },
     "done": true
   },
+  "create:shadow_steel": {
+    "criteria": {
+      "0": "2022-06-28 13:18:12 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/silver_ingot_compat_silents_mechanisms": {
     "criteria": {
       "has_item": "2022-06-21 14:37:30 +0200"
@@ -2642,6 +2822,12 @@
     },
     "done": true
   },
+  "extradisks:recipes/extradisks/advanced_storage_housing": {
+    "criteria": {
+      "has_processor": "2022-06-28 13:50:28 +0200"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_def": {
     "criteria": {
       "iron_ingot": "2022-06-15 19:53:35 +0200"
@@ -2690,6 +2876,12 @@
     },
     "done": true
   },
+  "extradisks:recipes/extradisks/advanced_machine_casing": {
+    "criteria": {
+      "has_processor": "2022-06-28 13:50:28 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/diamond": {
     "criteria": {
       "has_item": "2022-06-21 14:39:14 +0200"
@@ -2705,6 +2897,12 @@
   "connectedglass:recipes/connectedglass/clear_glass1": {
     "criteria": {
       "glass": "2022-06-16 03:28:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2022-06-28 13:23:12 +0200"
     },
     "done": true
   },
@@ -2738,6 +2936,24 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-06-28 13:17:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-06-28 13:23:12 +0200"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/large_half_shaft_jacaranda_cogwheel": {
     "criteria": {
       "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
@@ -2747,6 +2963,12 @@
   "connectedglass:recipes/connectedglass/borderless_glass_black2": {
     "criteria": {
       "glass": "2022-06-16 03:28:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2022-06-28 12:46:08 +0200"
     },
     "done": true
   },
@@ -2843,6 +3065,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-28 13:22:46 +0200"
     },
     "done": true
   },
