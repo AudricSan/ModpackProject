@@ -56,4 +56,5 @@ onEvent('recipes', e => {
         A: 'minecraft:obsidian',
         B: 'storagedrawers:emerald_storage_upgrade',
     })
+    
 })
