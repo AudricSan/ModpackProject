@@ -1,5 +1,25 @@
 Beta 0.x
     - New craft
+        - dimensionalcell_creative
+        - creative_wireless_crafting_monitor
+        - creative_energy
+        - creative_botany_pot
+        - creative_motor
+        - creative_fluid_tank
+        - createsupercharged:creative_mechanism
+        - creative_crate
+        - creative_blaze_cake
+        - creative_wireless_crafting_grid
+        - creative_wireless_crafting_monitor
+        - creative_wireless_fluid_grid
+        - creative_wireless_grid
+        - creative_controller
+        - creative_fluid_storage_block
+        - creative_storage_block
+        - creative_portable_grid
+        - creative_fluid_storage_disk
+        - creative_storage_disk
+        - dimensionalcell_creative
 
     - New items
 
@@ -8,6 +28,7 @@ Beta 0.x
 
         - Update
             - patchouli
+            - mcjty lib
 
         - New
 
