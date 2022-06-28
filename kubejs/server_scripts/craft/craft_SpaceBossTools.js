@@ -1,4 +1,3 @@
-// REMOVE
 onEvent('recipes', e => {
     // @collapse
 
@@ -16,4 +15,7 @@ onEvent('recipes', e => {
         B: 'minecraft:blast_furnace',
         C: '#forge:dusts/redstone'
     })
+
+    e.replaceInput({id: 'boss_tools:water_pump'}      , 'minecraft:hopper', 'create:chute')
+
 })

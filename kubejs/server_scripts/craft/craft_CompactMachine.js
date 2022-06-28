@@ -1,4 +1,3 @@
-// REMOVE
 onEvent("recipes", e => {
     // @collapse
     e.remove({ id: "compactmachines:wall"})
