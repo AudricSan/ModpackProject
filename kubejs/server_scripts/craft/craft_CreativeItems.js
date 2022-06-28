@@ -20,7 +20,7 @@ onEvent('recipes', e => {
         Y: 'create:adjustable_crate',
         P: 'createsupercharged:shadow_shell'
     })
-    
+
     e.recipes.createMechanicalCrafting('create:creative_fluid_tank', [
         'XAYAX',
         'AAPAA',
@@ -35,8 +35,8 @@ onEvent('recipes', e => {
         Y: 'create:fluid_tank',
         P: 'createsupercharged:shadow_shell'
     })
-        
-    e.recipes.createMechanicalCrafting('refinedstorage:creative_storage_disk',[
+
+    e.recipes.createMechanicalCrafting('refinedstorage:creative_storage_disk', [
         'ABA',
         'BCB',
         'DED',
@@ -47,8 +47,8 @@ onEvent('recipes', e => {
         D: 'refinedstorage:improved_processor',
         E: 'createsupercharged:creative_mechanism',
     })
-    
-    e.recipes.createMechanicalCrafting('refinedstorage:creative_fluid_storage_disk',[
+
+    e.recipes.createMechanicalCrafting('refinedstorage:creative_fluid_storage_disk', [
         'ABA',
         'BCB',
         'DED',
@@ -59,8 +59,8 @@ onEvent('recipes', e => {
         D: 'refinedstorage:improved_processor',
         E: 'createsupercharged:creative_mechanism',
     })
-    
-    e.recipes.createMechanicalCrafting('refinedstorage:creative_storage_block',[
+
+    e.recipes.createMechanicalCrafting('refinedstorage:creative_storage_block', [
         'ABA',
         'BCB',
         'DED',
@@ -71,8 +71,8 @@ onEvent('recipes', e => {
         D: 'refinedstorage:improved_processor',
         E: 'createsupercharged:creative_mechanism',
     })
-    
-    e.recipes.createMechanicalCrafting('refinedstorage:creative_fluid_storage_block',[
+
+    e.recipes.createMechanicalCrafting('refinedstorage:creative_fluid_storage_block', [
         'ABA',
         'BCB',
         'DED',
@@ -83,8 +83,8 @@ onEvent('recipes', e => {
         D: 'refinedstorage:improved_processor',
         E: 'createsupercharged:creative_mechanism',
     })
-    
-    e.recipes.createMechanicalCrafting('refinedstorage:creative_portable_grid',[
+
+    e.recipes.createMechanicalCrafting('refinedstorage:creative_portable_grid', [
         'ABA',
         'ACA',
         'ADA',
@@ -93,9 +93,9 @@ onEvent('recipes', e => {
         B: '#refinedstorage:grid',
         C: 'refinedstorage:creative_controller',
         D: 'refinedstorage:fluid_grid',
-    }) 
-    
-    e.recipes.createMechanicalCrafting('refinedstorage:creative_wireless_grid',[
+    })
+
+    e.recipes.createMechanicalCrafting('refinedstorage:creative_wireless_grid', [
         'ABA',
         'ACA',
         'ADA',
@@ -105,8 +105,8 @@ onEvent('recipes', e => {
         C: '#refinedstorage:grid',
         D: 'createsupercharged:creative_mechanism',
     })
-    
-    e.recipes.createMechanicalCrafting('refinedstorage:creative_wireless_fluid_grid',[
+
+    e.recipes.createMechanicalCrafting('refinedstorage:creative_wireless_fluid_grid', [
         'ABA',
         'ACA',
         'ADA',
@@ -116,8 +116,8 @@ onEvent('recipes', e => {
         C: '#refinedstorage:fluid_grid',
         D: 'createsupercharged:creative_mechanism',
     })
-    
-    e.recipes.createMechanicalCrafting('refinedstorageaddons:creative_wireless_crafting_grid',[
+
+    e.recipes.createMechanicalCrafting('refinedstorageaddons:creative_wireless_crafting_grid', [
         'ABA',
         'ACA',
         'ADA',
@@ -127,8 +127,8 @@ onEvent('recipes', e => {
         C: '#refinedstorage:crafting_grid',
         D: 'createsupercharged:creative_mechanism',
     })
-    
-    e.recipes.createMechanicalCrafting('refinedstorage:creative_wireless_crafting_monitor',[
+
+    e.recipes.createMechanicalCrafting('refinedstorage:creative_wireless_crafting_monitor', [
         'ABA',
         'ACA',
         'ADA',
@@ -138,8 +138,8 @@ onEvent('recipes', e => {
         C: '#refinedstorage:crafting_monitor',
         D: 'createsupercharged:creative_mechanism',
     })
-    
-    e.recipes.createMechanicalCrafting('refinedstorage:creative_controller',[
+
+    e.recipes.createMechanicalCrafting('refinedstorage:creative_controller', [
         'EPE',
         'SMS',
         'ESE'
@@ -149,8 +149,8 @@ onEvent('recipes', e => {
         S: '#refinedstorage:silicon',
         M: 'extradisks:advanced_machine_casing'
     })
-    
-    e.recipes.createMechanicalCrafting('rftoolspower:dimensionalcell_creative',[
+
+    e.recipes.createMechanicalCrafting('rftoolspower:dimensionalcell_creative', [
         'ABA',
         'BCB',
         'ABA'
@@ -169,5 +169,41 @@ onEvent('recipes', e => {
         B: 'rftoolsbase:infused_diamond',
         C: 'rftoolspower:dimensionalcell_simple',
     })
+
+    e.recipes.createMechanicalCrafting('storagedrawers:creative_vending_upgrade', [
+        'AAA',
+        'BCB',
+        'AAA'
+    ], {
+        A: 'createsupercharged:shadow_shell',
+        B: 'createsupercharged:creative_mechanism',
+        C: 'storagedrawers:emerald_storage_upgrade',
+    })
+
+    e.recipes.createMechanicalCrafting('storagedrawers:creative_storage_upgrade', [
+        'AAA',
+        'BCB',
+        'AAA'
+    ], {
+        A: 'createsupercharged:shadow_shell',
+        B: 'createsupercharged:creative_mechanism',
+        C: 'storagedrawers:void_upgrade',
+    })
+
+    e.recipes.createMechanicalCrafting('create:handheld_worldshaper', [
+        "XAYAX",
+        "ASPSA",
+        "IPSPI",
+        "ASPSA",
+        "XAYAX"
+    ], {
+        A: "minecraft:netherite_ingot",
+        S: "createsupercharged:creative_mechanism",
+        X: "minecraft:popped_chorus_fruit",
+        I: "create:creative_fluid_tank",
+        Y: "create:creative_crate",
+        P: "createsupercharged:shadow_shell"
+    })
+
     
 })
