@@ -22,3 +22,54 @@
 [28Jun2022 12:18:26.476] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
 [28Jun2022 12:18:26.931] [main/INFO] [net.minecraft.client.Minecraft/]: Setting user: AudricSan
 [28Jun2022 12:18:27.194] [main/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 build 10
+[28Jun2022 12:18:28.333] [main/INFO] [KubeJS/]: Loaded client.properties
+[28Jun2022 12:18:28.600] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LootTableManager#apply
+[28Jun2022 12:18:29.457] [modloading-worker-10/INFO] [com.builtbroken.cardboardboxes.Cardboardboxes/]: ModHandler#buildHandlerData() -> Loading data and data handlers
+[28Jun2022 12:18:29.471] [modloading-worker-10/INFO] [com.builtbroken.cardboardboxes.Cardboardboxes/]: Finished building the config -> net.minecraftforge.common.ForgeConfigSpec@4afcd1e4
+[28Jun2022 12:18:29.542] [modloading-worker-12/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ModelBakery#<init>
+[28Jun2022 12:18:29.757] [modloading-worker-9/INFO] [botanypotstiers/]: Loading config: C:\Users\audri\curseforge\minecraft\Instances\1.16.5\config\botanypotstiers-common.toml
+[28Jun2022 12:18:29.757] [modloading-worker-9/INFO] [botanypotstiers/]: Built config: C:\Users\audri\curseforge\minecraft\Instances\1.16.5\config\botanypotstiers-common.toml
+[28Jun2022 12:18:29.761] [modloading-worker-15/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[28Jun2022 12:18:29.764] [modloading-worker-9/INFO] [botanypotstiers/]: Loaded config: C:\Users\audri\curseforge\minecraft\Instances\1.16.5\config\botanypotstiers-common.toml
+[28Jun2022 12:18:30.070] [modloading-worker-13/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[28Jun2022 12:18:30.338] [Phosphophyllite Registry Worker/INFO] [Phosphophyllite/Registry/]: Thread started
+[28Jun2022 12:18:30.529] [modloading-worker-8/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.9...
+[28Jun2022 12:18:31.624] [modloading-worker-0/INFO] [de.melanx.extradisks.ExtraDisks/]: 14 blocks registered.
+[28Jun2022 12:18:31.643] [modloading-worker-0/INFO] [de.melanx.extradisks.ExtraDisks/]: 29 items registered.
+[28Jun2022 12:18:31.644] [modloading-worker-4/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.35, for MC 1.16.5 with MCP 20210115.111550
+[28Jun2022 12:18:31.644] [modloading-worker-4/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.35 Initialized
+[28Jun2022 12:18:31.644] [modloading-worker-0/INFO] [de.melanx.extradisks.ExtraDisks/]: 13 tiles registered.
+[28Jun2022 12:18:31.645] [modloading-worker-0/INFO] [de.melanx.extradisks.ExtraDisks/]: 13 containers registered.
+[28Jun2022 12:18:31.647] [modloading-worker-1/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[28Jun2022 12:18:31.672] [modloading-worker-1/INFO] [KubeJS/]: Found kubejs plugin
+[28Jun2022 12:18:31.721] [modloading-worker-11/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Main.initialize()
+[28Jun2022 12:18:31.750] [modloading-worker-1/INFO] [KubeJS/]: Found ftbchunks plugin
+[28Jun2022 12:18:31.775] [modloading-worker-11/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Reflecting GuiContainer...
+[28Jun2022 12:18:31.781] [modloading-worker-11/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Detected obfuscation: FORGE.
+[28Jun2022 12:18:31.782] [modloading-worker-11/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Success.
+[28Jun2022 12:18:31.782] [modloading-worker-11/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Initialized.
+[28Jun2022 12:18:31.785] [modloading-worker-1/INFO] [KubeJS/]: Found kubejs_create plugin
+[28Jun2022 12:18:31.793] [modloading-worker-1/INFO] [KubeJS/]: Done in 0 s
+[28Jun2022 12:18:31.857] [modloading-worker-15/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 1 RS API injection point
+[28Jun2022 12:18:31.857] [modloading-worker-15/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Injected RS API in com.refinedmods.refinedstorageaddons.RSAddons RSAPI
+[28Jun2022 12:18:31.866] [modloading-worker-4/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[28Jun2022 12:18:31.896] [modloading-worker-11/INFO] [com.jozufozu.flywheel.backend.Backend/]: Optifine not detected.
+[28Jun2022 12:18:31.968] [modloading-worker-12/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[28Jun2022 12:18:31.968] [modloading-worker-6/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[28Jun2022 12:18:31.989] [modloading-worker-1/INFO] [KubeJS/]: Loaded common.properties
+[28Jun2022 12:18:31.991] [modloading-worker-14/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[28Jun2022 12:18:31.996] [modloading-worker-15/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[28Jun2022 12:18:32.023] [modloading-worker-12/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[28Jun2022 12:18:32.035] [modloading-worker-14/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[28Jun2022 12:18:32.215] [modloading-worker-8/INFO] [io.github.drmanganese.topaddons.TopAddons/]: Registered addon Forge
+[28Jun2022 12:18:32.360] [modloading-worker-8/INFO] [io.github.drmanganese.topaddons.TopAddons/]: Registered addon Vanilla
+[28Jun2022 12:18:32.371] [modloading-worker-8/INFO] [io.github.drmanganese.topaddons.TopAddons/]: Registered addon Storage Drawers
+[28Jun2022 12:18:32.440] [modloading-worker-7/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[28Jun2022 12:18:33.310] [modloading-worker-1/INFO] [KubeJS Startup/]: Loaded script startup_scripts:block.js in 0.14 s
+[28Jun2022 12:18:33.311] [modloading-worker-1/INFO] [KubeJS Startup/]: Loaded script startup_scripts:fluid.js in 0.001 s
+[28Jun2022 12:18:33.314] [modloading-worker-1/INFO] [KubeJS Startup/]: Loaded script startup_scripts:generation.js in 0.003 s
+[28Jun2022 12:18:33.343] [modloading-worker-1/INFO] [KubeJS Startup/]: Loaded script startup_scripts:items.js in 0.029 s
+[28Jun2022 12:18:33.361] [modloading-worker-1/INFO] [KubeJS Startup/]: Loaded script startup_scripts:oresCrops.js in 0.018 s
+[28Jun2022 12:18:33.362] [modloading-worker-1/INFO] [KubeJS Startup/]: Loaded 5/5 KubeJS startup scripts in 0.652 s
+[28Jun2022 12:18:33.555] [modloading-worker-1/INFO] [KubeJS Client/]: Loaded script client_scripts:jei.js in 0.004 s
+[28Jun2022 12:18:33.556] [modloading-worker-1/INFO] [KubeJS Client/]: Loaded 1/1 KubeJS client scripts in 0.026 s
