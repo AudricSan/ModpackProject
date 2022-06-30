@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "boss_tools:workbench_advancement": {
+    "criteria": {
+      "workbench_advancement": "2022-06-30 11:48:31 +0200"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/gold_ingot_from_crushed": {
     "criteria": {
       "has_item": "2022-06-21 14:39:36 +0200"
@@ -2494,6 +2500,12 @@
   "create:recipes/create.base/large_cogwheel": {
     "criteria": {
       "has_item": "2022-06-24 23:13:30 +0200"
+    },
+    "done": true
+  },
+  "refinedstorage:monitoring": {
+    "criteria": {
+      "crafting_monitor_in_inventory": "2022-06-30 11:47:45 +0200"
     },
     "done": true
   },

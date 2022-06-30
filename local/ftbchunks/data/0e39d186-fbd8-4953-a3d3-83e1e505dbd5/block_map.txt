@@ -88,6 +88,10 @@
 #C6AE54 byg:packed_black_ice
 #AB1C58 minecraft:peony
 #AFAC0D minecraft:poppy
+#85A865 biggerreactors:reactor_casing
+#A4FA83 biggerreactors:reactor_computer_port
+#017403 biggerreactors:reactor_control_rod
+#8F80F6 biggerreactors:reactor_fuel_rod
 #805C7B bigreactors:reprocessorcasing
 #1322E9 boss_tools:rocket_launch_pad
 #EC112A byg:rocky_stone
