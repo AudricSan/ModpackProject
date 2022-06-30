@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/pocket_computer_advanced": {
+    "criteria": {
+      "has_computer": "2022-06-30 14:24:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2022-06-24 12:33:16 +0200"
@@ -224,6 +230,12 @@
   "creategears:recipes/creategears/large_gear": {
     "criteria": {
       "has_large_cogwheels": "2022-06-24 10:19:46 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_drive": {
+    "criteria": {
+      "has_computer": "2022-06-30 14:24:59 +0200"
     },
     "done": true
   },
@@ -563,6 +575,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/wired_modem": {
+    "criteria": {
+      "has_computer": "2022-06-30 14:24:59 +0200"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/tinted_glass": {
     "criteria": {
       "glass": "2022-06-15 20:23:03 +0200"
@@ -620,6 +638,12 @@
   "create:recipes/building_blocks/blasting/silver_ingot_compat_silents_mechanisms": {
     "criteria": {
       "has_item": "2022-06-21 14:37:30 +0200"
+    },
+    "done": true
+  },
+  "boss_tools:rocket_advancement": {
+    "criteria": {
+      "rocket_advancement": "2022-06-30 16:32:41 +0200"
     },
     "done": true
   },
@@ -740,6 +764,12 @@
   "create:recipes/create.base/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2022-06-24 23:13:30 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/monitor_advanced": {
+    "criteria": {
+      "has_computer": "2022-06-30 14:24:59 +0200"
     },
     "done": true
   },
@@ -906,6 +936,12 @@
     },
     "done": true
   },
+  "boss_tools:rocket_tier_2_advancement": {
+    "criteria": {
+      "rocket_tier_2_advancement": "2022-06-30 16:32:45 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/smelting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2022-06-21 14:37:56 +0200"
@@ -1041,6 +1077,12 @@
   "create:chromatic_compound": {
     "criteria": {
       "0": "2022-06-28 13:12:43 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/monitor_normal": {
+    "criteria": {
+      "has_computer": "2022-06-30 14:24:59 +0200"
     },
     "done": true
   },
@@ -1336,6 +1378,12 @@
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2022-06-24 23:13:30 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/wireless_modem_advanced": {
+    "criteria": {
+      "has_computer": "2022-06-30 14:24:59 +0200"
     },
     "done": true
   },
@@ -1813,6 +1861,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/speaker": {
+    "criteria": {
+      "has_computer": "2022-06-30 14:24:59 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2022-06-27 08:51:50 +0200"
@@ -2131,6 +2185,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/wireless_modem_normal": {
+    "criteria": {
+      "has_computer": "2022-06-30 14:24:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-06-28 13:22:46 +0200"
@@ -2329,6 +2389,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/printer": {
+    "criteria": {
+      "has_computer": "2022-06-30 14:24:59 +0200"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
     "criteria": {
       "redstone": "2022-06-24 00:37:56 +0200"
@@ -2434,6 +2500,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2022-06-28 13:23:12 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/pocket_computer_normal": {
+    "criteria": {
+      "has_computer": "2022-06-30 14:24:59 +0200"
     },
     "done": true
   },
@@ -2578,6 +2650,12 @@
   "create:recipes/building_blocks/smelting/ingot_tin_compat_mekanism": {
     "criteria": {
       "has_item": "2022-06-21 14:38:53 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/turtle_normal": {
+    "criteria": {
+      "has_normal": "2022-06-30 14:25:03 +0200"
     },
     "done": true
   },
@@ -2747,6 +2825,12 @@
   "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2022-06-15 20:23:03 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/cable": {
+    "criteria": {
+      "has_computer": "2022-06-30 14:24:59 +0200"
     },
     "done": true
   },
@@ -2996,6 +3080,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/turtle_advanced": {
+    "criteria": {
+      "has_advanced": "2022-06-30 14:25:01 +0200"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/iron_ingot_from_crushed": {
     "criteria": {
       "has_item": "2022-06-21 14:36:45 +0200"
@@ -3101,6 +3191,12 @@
   "cobblefordays:recipes/misc/tier_2": {
     "criteria": {
       "has_water": "2022-06-15 14:36:03 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/decorations/skull_dan200": {
+    "criteria": {
+      "has_computer": "2022-06-30 14:25:01 +0200"
     },
     "done": true
   },

@@ -25,6 +25,9 @@
 #DE242D minecraft:coal_ore
 #058353 minecraft:cobblestone
 #B76D44 create:cogwheel
+#DB4981 computercraft:computer_advanced
+#621AE2 computercraft:computer_command
+#AA7746 computercraft:computer_normal
 #333E7D botanypotstiers:creative_botany_pot
 #95EC20 createaddition:creative_energy
 #BF5353 create:creative_fluid_tank

@@ -1,2 +1,2 @@
-[11:34:01] [INFO ] Loaded script client_scripts:jei.js in 0.003 s
-[11:34:01] [INFO ] Loaded 1/1 KubeJS client scripts in 0.036 s
+[14:22:24] [INFO ] Loaded script client_scripts:jei.js in 0.002 s
+[14:22:24] [INFO ] Loaded 1/1 KubeJS client scripts in 0.01 s
