@@ -43,7 +43,6 @@ onEvent('recipes', e => {
     createMixingItem(['kubejs:steel_dust', 'kubejs:steel_dust'], 'alloyed:steel_ingot', [3, 3], 'superheated')
 
     createCutting('boss_tools:compressed_steel', 'kubejs:steel_gear', 5, 20, 'kubejs:steel_dust')
-    createPress('kubejs:steel_gear', '2x kubejs:steel_fan')
     createCutting('alloyed:steel_sheet', 'kubejs:steel_stick', 6, 20, 'kubejs:steel_dust')
     createCutting('alloyed:steel_ingot', 'kubejs:steel_stick', 2, 20, 'kubejs:steel_dust')
 

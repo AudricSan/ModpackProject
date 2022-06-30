@@ -1,0 +1,42 @@
+{
+  "group": "boss_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alloyed:steel_sheet"
+    },
+    "1": {
+      "item": "alloyed:steel_ingot"
+    },
+    "2": {
+      "item": "alloyed:steel_sheet"
+    },
+    "3": {
+      "item": "alloyed:steel_ingot"
+    },
+    "4": {
+      "item": "create:furnace_engine"
+    },
+    "5": {
+      "item": "alloyed:steel_ingot"
+    },
+    "6": {
+      "item": "alloyed:steel_sheet"
+    },
+    "7": {
+      "item": "create:redstone_contact"
+    },
+    "8": {
+      "item": "alloyed:steel_sheet"
+    }
+  },
+  "result": {
+    "item": "boss_tools:coal_generator",
+    "count": 1
+  }
+}

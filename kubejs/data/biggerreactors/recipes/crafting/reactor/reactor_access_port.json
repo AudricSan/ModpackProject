@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CVC",
+    "CPC"
+  ],
+  "key": {
+    "C": {
+      "item": "biggerreactors:reactor_casing"
+    },
+    "V": {
+      "item": "refinedstorage:64k_storage_block"
+    },
+    "P": {
+      "item": "create:mechanical_piston"
+    }
+  },
+  "result": {
+    "item": "biggerreactors:reactor_access_port"
+  }
+}

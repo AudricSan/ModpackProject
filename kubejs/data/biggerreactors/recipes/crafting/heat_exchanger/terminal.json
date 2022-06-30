@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CDC",
+    "LLL",
+    "CAC"
+  ],
+  "key": {
+    "C": {
+      "item": "biggerreactors:heat_exchanger_casing"
+    },
+    "L": {
+      "tag": "forge:ingots/ludicrite"
+    },
+    "D": {
+      "item": "create:redstone_contact"
+    },
+    "A": {
+      "item": "computercraft:computer_normal"
+    }
+  },
+  "result": {
+    "item": "biggerreactors:heat_exchanger_terminal"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "modid": "computercraft",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "pattern": [
+    "CDC",
+    "GRG",
+    "CDC"
+  ],
+  "key": {
+    "C": {
+      "item": "biggerreactors:turbine_casing"
+    },
+    "R": {
+      "item": "biggerreactors:reactor_redstone_port"
+    },
+    "D": {
+      "item": "create:redstone_contact"
+    },
+    "G": {
+      "item": "computercraft:computer_normal"
+    }
+  },
+  "result": {
+    "item": "biggerreactors:turbine_computer_port"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "IYI",
+    "IGI"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "G": {
+      "tag": "forge:ingots/graphite"
+    },
+    "Y": {
+      "tag": "forge:ingots/uranium"
+    }
+  },
+  "result": {
+    "item": "biggerreactors:reactor_fuel_rod"
+  }
+}

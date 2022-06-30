@@ -1,0 +1,39 @@
+{
+  "group": "boss_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "refinedstorage:64k_storage_block"
+    },
+    "3": {
+      "tag": "forge:plates/iron"
+    },
+    "4": {
+      "item": "create:furnace_engine"
+    },
+    "5": {
+      "item": "refinedstorage:64k_fluid_storage_block"
+    },
+    "6": {
+      "item": "boss_tools:wheel"
+    },
+    "7": {
+      "tag": "forge:ingots/steel"
+    },
+    "8": {
+      "item": "boss_tools:wheel"
+    }
+  },
+  "result": {
+    "item": "boss_tools:rover",
+    "count": 1
+  }
+}

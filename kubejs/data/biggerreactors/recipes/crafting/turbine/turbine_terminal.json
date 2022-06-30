@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "BDB",
+    "CAC"
+  ],
+  "key": {
+    "C" : {
+      "item": "biggerreactors:turbine_casing"
+    },
+    "B": {
+      "item": "biggerreactors:blutonium_ingot"
+    },
+    "D": {
+      "item": "create:redstone_contact"
+    },
+    "A": {
+      "item": "computercraft:computer_normal"
+    }
+  },
+  "result": {
+    "item": "biggerreactors:turbine_terminal"
+  }
+}

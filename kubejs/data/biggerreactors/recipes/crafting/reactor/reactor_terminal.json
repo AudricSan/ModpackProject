@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "YDY",
+    "CAC"
+  ],
+  "key": {
+    "C": {
+      "item": "biggerreactors:reactor_casing"
+    },
+    "Y": {
+      "tag": "forge:ingots/uranium"
+    },
+    "D": {
+      "item": "create:redstone_contact"
+    },
+    "A": {
+      "item": "computercraft:computer_normal"
+    }
+  },
+  "result": {
+    "item": "biggerreactors:reactor_terminal"
+  }
+}

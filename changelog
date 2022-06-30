@@ -20,7 +20,48 @@ Beta 0.x
         - creative_fluid_storage_disk
         - creative_storage_disk
         - dimensionalcell_creative
-
+        - solar_panel
+        - nasa_workbench
+        - fuel_loader
+        - electric_blast_furnace
+        - advanced_compressor
+        - gravity_normalizer
+        - oxygen_can
+        - rover
+        - oxygen_loader
+        - fuel_refinery
+        - oxygen_bubble_distributor
+        - compressor
+        - coal_generator
+        - heat_exchanger_evaporator_channel
+        - heat_exchanger_computer_port
+        - heat_exchanger_glass
+        - heat_exchanger_terminal
+        - heat_exchanger_coolant_port
+        - heat_exchanger_casing
+        - turbine_casing
+        - turbine_rotor_bearing
+        - cyanite_reprocessor
+        - reactor_access_port
+        - reactor_redstone_port
+        - reactor_terminal
+        - reactor_computer_port
+        - reactor_glass
+        - reactor_manifold
+        - reactor_coolant_port
+        - reactor_power_tap
+        - reactor_casing
+        - reactor_control_rod
+        - reactor_fuel_rod
+        - turbine_terminal
+        - turbine_computer_port
+        - turbine_rotor_shaft
+        - turbine_rotor_blade
+        - turbine_glass
+        - turbine_coolant_port
+        - turbine_power_tap
+        - heat_exchanger_condenser_channel
+        
     - New items
 
     - Mod
@@ -31,6 +72,8 @@ Beta 0.x
             - mcjty lib
 
         - New
+            - Storage4Computer
+            - CC tweaker
 
     - Textures
         - New
@@ -49,6 +92,8 @@ Beta 0.x
 
     - NEXT UP
         # - Quest Book
+
+//@collapse
 
 Beta 0.5.1        
     - Modpack info
