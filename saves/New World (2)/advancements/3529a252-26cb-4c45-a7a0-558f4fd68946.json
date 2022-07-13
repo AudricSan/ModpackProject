@@ -1616,6 +1616,12 @@
     },
     "done": true
   },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2022-07-13 20:18:20 +0200"
+    },
+    "done": true
+  },
   "creategearaddon:recipes/dead_cogwheel": {
     "criteria": {
       "has_item": "2022-06-17 09:36:26 +0200"

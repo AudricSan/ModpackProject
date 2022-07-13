@@ -29,22 +29,6 @@
 			}]
 		}
 		{
-			x: -5.5d
-			y: 2.0d
-			id: "7803BE2B6DDC145F"
-			tasks: [{
-				id: "5C2E5442F48C85BC"
-				type: "item"
-				item: {
-					id: "tconstruct:creative_slot"
-					Count: 1b
-					tag: {
-						slot: "upgrades"
-					}
-				}
-			}]
-		}
-		{
 			x: -4.5d
 			y: 0.0d
 			id: "15F9D6D11C720D63"
@@ -65,8 +49,8 @@
 			}]
 		}
 		{
-			x: -4.5d
-			y: 2.0d
+			x: -0.5d
+			y: 0.0d
 			id: "5748870F1BB0FEAA"
 			tasks: [{
 				id: "3B763620F9A50284"
@@ -86,22 +70,6 @@
 		}
 		{
 			x: -3.5d
-			y: 1.0d
-			id: "3A9E13A805B83497"
-			tasks: [{
-				id: "79D0635F2C4D01BF"
-				type: "item"
-				item: {
-					id: "tconstruct:creative_slot"
-					Count: 1b
-					tag: {
-						slot: "abilities"
-					}
-				}
-			}]
-		}
-		{
-			x: -2.5d
 			y: 1.0d
 			id: "6D1F1B4213E5DC9D"
 			tasks: [{
@@ -131,8 +99,8 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: 1.0d
+			x: 0.5d
+			y: 0.0d
 			id: "5D799F367BC36877"
 			tasks: [{
 				id: "464AB9DDBD898CE6"
@@ -191,8 +159,8 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: 0.0d
+			x: -5.5d
+			y: 2.0d
 			id: "776CAB8D7C66A9F3"
 			tasks: [{
 				id: "0F2AF75C0E813367"
@@ -201,8 +169,8 @@
 			}]
 		}
 		{
-			x: 0.5d
-			y: 0.0d
+			x: -4.5d
+			y: 2.0d
 			id: "2A7FFFCD14BBF3B5"
 			tasks: [{
 				id: "0D090FB85660E906"
@@ -211,7 +179,7 @@
 			}]
 		}
 		{
-			x: 0.5d
+			x: -1.5d
 			y: 1.0d
 			id: "5725A98005929EED"
 			tasks: [{
@@ -246,8 +214,8 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: 0.0d
+			x: 0.5d
+			y: 1.0d
 			id: "7B242DCE88FA06E4"
 			tasks: [{
 				id: "34A6F06CB31E1CF4"
@@ -267,45 +235,13 @@
 			}]
 		}
 		{
-			x: 1.5d
+			x: -2.5d
 			y: 1.0d
 			id: "4A62FB3BC80E74B7"
 			tasks: [{
 				id: "7B2B08403B721389"
 				type: "item"
 				item: "rftoolspower:dimensionalcell_creative"
-			}]
-		}
-		{
-			x: 1.5d
-			y: 2.0d
-			id: "7D9198690815E424"
-			tasks: [{
-				id: "492426CE823954FE"
-				type: "item"
-				item: {
-					id: "tconstruct:creative_slot"
-					Count: 1b
-					tag: {
-						slot: "souls"
-					}
-				}
-			}]
-		}
-		{
-			x: 2.5d
-			y: 0.0d
-			id: "60D842AD4D8658F6"
-			tasks: [{
-				id: "12DF564520C912F2"
-				type: "item"
-				item: {
-					id: "tconstruct:creative_slot"
-					Count: 1b
-					tag: {
-						slot: "defense"
-					}
-				}
 			}]
 		}
 	]
